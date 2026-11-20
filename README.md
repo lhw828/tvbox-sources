@@ -20,7 +20,7 @@
 
 <!-- STATUS:START -->
 > 最近一次检测：2026-11-20 12:41:40 CST（直连(模拟电视,无代理)）
-> 汇总：收录 **95** 个源 ｜ 电视可用 **60** 个 ｜ 主订阅 **57** 个 ｜ 改写救活 **23** 个 ｜ 失效隔离 **35** 个
+> 汇总：收录 **95** 个源 ｜ 电视可用 **60** 个 ｜ 主订阅 **60** 个 ｜ 改写救活 **23** 个 ｜ 失效隔离 **35** 个
 <!-- STATUS:END -->
 
 ## 如何使用（电视端）
@@ -34,7 +34,7 @@
 | **主订阅（推荐）** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/tvbox.json` | 全部已验证可用的源，按响应速度排序 |
 | **精选快速源** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/tvbox_fast.json` | 延迟 < 1.5s 的源，条数少、加载快 |
 | **纯链接 TXT** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/tvbox.txt` | 部分"影视"类软件支持逐行批量导入 |
-| **按来源分组** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/by_source.json` | 想按上游分别启用时用 |
+| **按来源分组** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/by_source.json` | 按上游分组；含「大象」分组 |
 
 > 以上为纯文本地址，方便直接复制进电视。CDN 可能有最多几分钟缓存，刚更新后若未生效可稍等或在地址末尾加 `?t=时间戳` 强制刷新。
 > 想用更短的地址，也可把 `@refs/heads/main` 换成 `@main`（两者等价，均已验证可用）。
@@ -51,7 +51,7 @@ tvbox-sources/
 ├── sources/                # 分类隔离
 │   ├── dead.json           # 失效源（含失败原因）
 │   ├── rewritten.json      # 被改写的源（记录 原始 → 电视友好地址）
-│   └── adult.json          # 成人源（默认不纳入主订阅）
+│   └── adult.json          # 大象分组（已纳入主订阅，此处单独列出便于查看）
 ├── data/
 │   ├── all_sources.json    # 收集去重后的全量源
 │   ├── extra_seeds.json    # 额外种子（网上搜集的公开仓库，可自行增删）

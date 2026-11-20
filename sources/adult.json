@@ -1,18 +1,21 @@
 {
-  "warning": "成人内容源,未纳入主订阅,按需手动添加",
+  "note": "大象分组: 已纳入主订阅 tvbox.json, 此处单独列出便于查看",
   "count": 3,
   "urls": [
     {
       "name": "bizhangjieðŸˆ²1",
-      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+      "group": "大象"
     },
     {
       "name": "bizhangjieðŸˆ²2",
-      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+      "group": "大象"
     },
     {
       "name": "supermeguo18ðŸˆ²",
-      "url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json"
+      "url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json",
+      "group": "大象"
     }
   ]
 }

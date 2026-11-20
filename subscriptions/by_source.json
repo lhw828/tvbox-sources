@@ -236,5 +236,19 @@
       "name": "高天流云 JS",
       "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
     }
+  ],
+  "大象": [
+    {
+      "name": "bizhangjieðŸˆ²2",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
+    },
+    {
+      "name": "bizhangjieðŸˆ²1",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
+    },
+    {
+      "name": "supermeguo18ðŸˆ²",
+      "url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json"
+    }
   ]
 }

@@ -32,7 +32,11 @@ def main():
     ok = [r for r in results if r['tv_ok']]
     dead = [r for r in results if not r['tv_ok']]
     adult = [r for r in ok if r.get('adult')]
-    normal = [r for r in ok if not r.get('adult')]
+    # 成人源默认纳入主订阅, 分组名显示为"大象"
+    ADULT_GROUP = '大象'
+    def group_name(r):
+        return ADULT_GROUP if r.get('adult') else r.get('from', '其他')
+    normal = list(ok)
     fast = [r for r in normal if r['latency'] < 1.5]
     rewritten = [r for r in ok if r['rewrite']]
 
@@ -52,10 +56,10 @@ def main():
               open(os.path.join(SUB, 'tvbox_fast.json'), 'w', encoding='utf-8'),
               ensure_ascii=False, indent=2)
 
-    # 按来源分组
+    # 按来源分组 (成人源归入"大象"组)
     groups = {}
     for r in normal:
-        groups.setdefault(r.get('from', '其他'), []).append(entry(r))
+        groups.setdefault(group_name(r), []).append(entry(r))
     json.dump(groups, open(os.path.join(SUB, 'by_source.json'), 'w', encoding='utf-8'),
               ensure_ascii=False, indent=2)
 
@@ -77,10 +81,10 @@ def main():
               open(os.path.join(SRC, 'rewritten.json'), 'w', encoding='utf-8'),
               ensure_ascii=False, indent=2)
 
-    # 成人源隔离
-    json.dump({'warning': '成人内容源,未纳入主订阅,按需手动添加',
+    # 成人源(已纳入主订阅, 分组名"大象"; 此处保留单独清单便于查看)
+    json.dump({'note': '大象分组: 已纳入主订阅 tvbox.json, 此处单独列出便于查看',
                'count': len(adult),
-               'urls': [entry(r) for r in adult]},
+               'urls': [dict(entry(r), group=ADULT_GROUP) for r in adult]},
               open(os.path.join(SRC, 'adult.json'), 'w', encoding='utf-8'),
               ensure_ascii=False, indent=2)
 
@@ -93,7 +97,7 @@ def main():
              f'| ⚡ 精选快速源(<1.5s) | {len(fast)} | `subscriptions/tvbox_fast.json` |',
              f'| 🔧 改写救活 | {len(rewritten)} | `sources/rewritten.json` |',
              f'| ❌ 失效单列 | {len(dead)} | `sources/dead.json` |',
-             f'| 🔞 成人隔离 | {len(adult)} | `sources/adult.json` |', '',
+             f'| 🐘 大象分组(已纳入主订阅) | {len(adult)} | `sources/adult.json` |', '',
              '## 改写救活的源(原始 → 电视友好地址)', '']
     for r in rewritten:
         lines.append(f'- **{r["name"][:16]}** ({r["rewrite"]})')

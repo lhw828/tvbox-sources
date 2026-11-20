@@ -1,15 +1,15 @@
 # 源资产清单
 
-- 生成时间: 2026-11-20 12:42:58 CST
+- 生成时间: 2026-11-20 13:10:24 CST
 - 数据来源: 2026-11-20 12:41:40 CST (直连(模拟电视,无代理))
 
 | 分类 | 数量 | 文件 |
 |---|---|---|
-| ✅ 可用(主订阅) | 57 | `subscriptions/tvbox.json` |
-| ⚡ 精选快速源(<1.5s) | 45 | `subscriptions/tvbox_fast.json` |
+| ✅ 可用(主订阅) | 60 | `subscriptions/tvbox.json` |
+| ⚡ 精选快速源(<1.5s) | 47 | `subscriptions/tvbox_fast.json` |
 | 🔧 改写救活 | 23 | `sources/rewritten.json` |
 | ❌ 失效单列 | 35 | `sources/dead.json` |
-| 🔞 成人隔离 | 3 | `sources/adult.json` |
+| 🐘 大象分组(已纳入主订阅) | 3 | `sources/adult.json` |
 
 ## 改写救活的源(原始 → 电视友好地址)
 
