@@ -27,15 +27,17 @@
 
 在影视仓 / TVBox / 影视 的「设置 → 订阅 / 配置地址 / 仓库」中填入下面任一地址（Raw 链接）：
 
-| 用途 | 文件 | 说明 |
-|---|---|---|
-| **主订阅（推荐）** | [`subscriptions/tvbox.json`](subscriptions/tvbox.json) | 全部已验证可用的源，按响应速度排序 |
-| **精选快速源** | [`subscriptions/tvbox_fast.json`](subscriptions/tvbox_fast.json) | 延迟 < 1.5s 的源，条数少、加载快 |
-| **纯链接 TXT** | [`subscriptions/tvbox.txt`](subscriptions/tvbox.txt) | 部分"影视"类软件支持逐行批量导入 |
-| **按来源分组** | [`subscriptions/by_source.json`](subscriptions/by_source.json) | 想按上游分别启用时用 |
+下面地址已套用 jsdelivr CDN 代理（`cdn.jsdelivr.net`），**电视无需代理即可直连**，复制整条粘贴到电视即可。
 
-> 直接复制对应文件的 **Raw** 按钮地址粘贴进电视即可。
-> GitHub Raw 地址在国内电视可能较慢，推荐把链接里的 `github.com` / `raw.githubusercontent.com` 换成 `cdn.jsdelivr.net/gh/{用户}/{仓库}@{分支}/{路径}`。
+| 用途 | 订阅地址（CDN 直链） | 说明 |
+|---|---|---|
+| **主订阅（推荐）** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/tvbox.json` | 全部已验证可用的源，按响应速度排序 |
+| **精选快速源** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/tvbox_fast.json` | 延迟 < 1.5s 的源，条数少、加载快 |
+| **纯链接 TXT** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/tvbox.txt` | 部分"影视"类软件支持逐行批量导入 |
+| **按来源分组** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@refs/heads/main/subscriptions/by_source.json` | 想按上游分别启用时用 |
+
+> 以上为纯文本地址，方便直接复制进电视。CDN 可能有最多几分钟缓存，刚更新后若未生效可稍等或在地址末尾加 `?t=时间戳` 强制刷新。
+> 想用更短的地址，也可把 `@refs/heads/main` 换成 `@main`（两者等价，均已验证可用）。
 
 ## 目录结构
 
