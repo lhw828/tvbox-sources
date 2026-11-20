@@ -1,0 +1,3809 @@
+[
+  {
+    "channel": "CGTN英语",
+    "src": "Kimentanm",
+    "name": "CGTN英语",
+    "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
+    "ok": true,
+    "latency": 0.15,
+    "code": 200
+  },
+  {
+    "channel": "CGTN纪录",
+    "src": "Kimentanm",
+    "name": "CGTN纪录",
+    "url": "https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8",
+    "ok": true,
+    "latency": 0.14,
+    "code": 200
+  },
+  {
+    "channel": "春晚2023",
+    "src": "Kimentanm",
+    "name": "春晚2023",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8",
+    "ok": false,
+    "latency": 0.1,
+    "code": 404
+  },
+  {
+    "channel": "春晚1998",
+    "src": "Kimentanm",
+    "name": "春晚1998",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8",
+    "ok": false,
+    "latency": 0.09,
+    "code": 404
+  },
+  {
+    "channel": "春晚1997",
+    "src": "Kimentanm",
+    "name": "春晚1997",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8",
+    "ok": false,
+    "latency": 0.09,
+    "code": 404
+  },
+  {
+    "channel": "春晚1992",
+    "src": "Kimentanm",
+    "name": "春晚1992",
+    "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8",
+    "ok": false,
+    "latency": 0.16,
+    "code": 404
+  },
+  {
+    "channel": "春晚2025",
+    "src": "Kimentanm",
+    "name": "春晚2025",
+    "url": "https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8",
+    "ok": true,
+    "latency": 0.13,
+    "code": 200
+  },
+  {
+    "channel": "春晚2024",
+    "src": "Kimentanm",
+    "name": "春晚2024",
+    "url": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8",
+    "ok": true,
+    "latency": 0.17,
+    "code": 200
+  },
+  {
+    "channel": "CCTV2",
+    "src": "范明明IPV6",
+    "name": "CCTV-2 财经",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV1",
+    "src": "范明明IPV6",
+    "name": "CCTV-1 综合",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.1,
+    "code": 404
+  },
+  {
+    "channel": "河北4K",
+    "src": "Kimentanm",
+    "name": "河北4K",
+    "url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
+    "ok": true,
+    "latency": 0.2,
+    "code": 200
+  },
+  {
+    "channel": "苏州4K",
+    "src": "Kimentanm",
+    "name": "苏州4K",
+    "url": "https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8",
+    "ok": true,
+    "latency": 0.18,
+    "code": 200
+  },
+  {
+    "channel": "CCTV1",
+    "src": "范明明IPV6",
+    "name": "CCTV-1 综合",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.11,
+    "code": 403
+  },
+  {
+    "channel": "CCTV3",
+    "src": "范明明IPV6",
+    "name": "CCTV-3 综艺",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=5c5d27dfa6b308e64237c7af856d43276f42c5fa0da49c14c8f267c3f853f277_1720507841_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "CCTV3",
+    "src": "范明明IPV6",
+    "name": "CCTV-3 综艺",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTZfkz7RIpdfIwJsxT6gQaB4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV2",
+    "src": "范明明IPV6",
+    "name": "CCTV-2 财经",
+    "url": "http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8",
+    "ok": false,
+    "latency": 0.12,
+    "code": 0
+  },
+  {
+    "channel": "CCTV4",
+    "src": "范明明IPV6",
+    "name": "CCTV-4 中文国际",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe5MfrWrjPe5q06p5LAS8TUtN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV4",
+    "src": "范明明IPV6",
+    "name": "CCTV-4 中文国际",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=a2076a91d4ab3e3a8d96df561854b17563ddc027aec6e893eac3be4e11830fb7_1720507863_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CCTV5",
+    "src": "范明明IPV6",
+    "name": "CCTV-5+ 体育赛事",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYdR%2FXUke9cnQAha7YFSVSdY6KJ0YlTSaKwh%2FkUorJB0&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV5",
+    "src": "范明明IPV6",
+    "name": "CCTV-5 体育",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfjI6wzwX5YlP5VGDtCFYEotN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV5",
+    "src": "范明明IPV6",
+    "name": "CCTV-5 体育",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.06,
+    "code": 403
+  },
+  {
+    "channel": "春晚2016",
+    "src": "Kimentanm",
+    "name": "春晚2016",
+    "url": "https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8",
+    "ok": false,
+    "latency": 0.66,
+    "code": 404
+  },
+  {
+    "channel": "CCTV6",
+    "src": "范明明IPV6",
+    "name": "CCTV-6 电影",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHaquAvgVGCBNc5yICXxWYNYtN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV6",
+    "src": "范明明IPV6",
+    "name": "CCTV-6 电影",
+    "url": "http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8",
+    "ok": false,
+    "latency": 0.06,
+    "code": 403
+  },
+  {
+    "channel": "春晚1990",
+    "src": "Kimentanm",
+    "name": "春晚1990",
+    "url": "https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8",
+    "ok": false,
+    "latency": 0.64,
+    "code": 404
+  },
+  {
+    "channel": "春晚2012",
+    "src": "Kimentanm",
+    "name": "春晚2012",
+    "url": "https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8",
+    "ok": false,
+    "latency": 0.59,
+    "code": 404
+  },
+  {
+    "channel": "CCTV7",
+    "src": "范明明IPV6",
+    "name": "CCTV-7 国防军事",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWhwnULjlEBfSKy1l8wbijAtN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV8",
+    "src": "范明明IPV6",
+    "name": "CCTV-8 电视剧",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHW6PrfWRPRPmGe%2BdNGyl5jItN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV9",
+    "src": "范明明IPV6",
+    "name": "CCTV-9 纪录",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHXltvbyel90%2BujQX9sEOc7AtN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV8",
+    "src": "范明明IPV6",
+    "name": "CCTV-8 电视剧",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=a262d6f91c91f1b3b9970ca0005377026a37645dbb4150a3131badc4e3a5ad2f_1720508010_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "CCTV9",
+    "src": "范明明IPV6",
+    "name": "CCTV-9 纪录",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=827790a3c97b2ec4d8db29f865f4a76f6ee666e7dd6f7d8d79c95ff19569c406_1720508034_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CCTV10",
+    "src": "范明明IPV6",
+    "name": "CCTV-10 科教",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHUsd9mij0JyOcibqYTdmWtKVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV10",
+    "src": "范明明IPV6",
+    "name": "CCTV-10 科教",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=3372eeac7f52075d36d0edd66eab703b95c8eb3ddf8502186f235a1d890717d9_1720508080_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CCTV11",
+    "src": "范明明IPV6",
+    "name": "CCTV-11 戏曲",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQtjk7PDi4fkN2nvO2gK27uVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV11",
+    "src": "范明明IPV6",
+    "name": "CCTV-11 戏曲",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=b7b4308467a66538e5a370fdfe90b3be8c54fa72c5cb958e5f43f4f56e036d2e_1720508128_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "CCTV12",
+    "src": "范明明IPV6",
+    "name": "CCTV-12 社会与法",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRtFGgShYCQQqFHAFhzmleqVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CCTV12",
+    "src": "范明明IPV6",
+    "name": "CCTV-12 社会与法",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=580c20b986086596a03afb85524d28a7b1255fd045cc29e549830abd92eab828_1720508158_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CCTV13",
+    "src": "范明明IPV6",
+    "name": "CCTV-13 新闻",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHeUi4Thb7vkXG9wotcNmK%2FSVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.08,
+    "code": 404
+  },
+  {
+    "channel": "CCTV13",
+    "src": "范明明IPV6",
+    "name": "CCTV-13 新闻",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=f4be577234c226bfecf00f96b626bcca106a9d4eaeeaae331b860678bd3f60e7_1720508191_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CGTN阿语",
+    "src": "Kimentanm",
+    "name": "CGTN阿语",
+    "url": "https://0472.org/hls/cgtna.m3u8",
+    "ok": true,
+    "latency": 2.25,
+    "code": 200
+  },
+  {
+    "channel": "CGTN俄语",
+    "src": "Kimentanm",
+    "name": "CGTN俄语",
+    "url": "https://0472.org/hls/cgtne.m3u8",
+    "ok": true,
+    "latency": 2.4,
+    "code": 200
+  },
+  {
+    "channel": "CCTV14",
+    "src": "范明明IPV6",
+    "name": "CCTV-14 少儿",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=c1f72c79ee7857898e80e822b3768418b14d710294fb16dc503997f9bce0adda_1720508238_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.48,
+    "code": 403
+  },
+  {
+    "channel": "CCTV14",
+    "src": "范明明IPV6",
+    "name": "CCTV-14 少儿",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHc44kHEGXWPeTdip0KbSgbeVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.55,
+    "code": 404
+  },
+  {
+    "channel": "CCTV15",
+    "src": "范明明IPV6",
+    "name": "CCTV-15 音乐",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYyPYgkCWBSIT3aCcBdsAjuVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CGTN法语",
+    "src": "Kimentanm",
+    "name": "CGTN法语",
+    "url": "https://0472.org/hls/cgtnf.m3u8",
+    "ok": true,
+    "latency": 3.2,
+    "code": 200
+  },
+  {
+    "channel": "CCTV15",
+    "src": "范明明IPV6",
+    "name": "CCTV-15 音乐",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CCTV16",
+    "src": "范明明IPV6",
+    "name": "CCTV-16 奥林匹克",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVSIaGkZ%2BPhCYgvTlbbof9eVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CGTN纪录",
+    "src": "老刘备SAO0",
+    "name": "CGTN纪录",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "CCTV17",
+    "src": "范明明IPV6",
+    "name": "CCTV-17 农业农村",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHflsNSUvoRXJq9Dxabd45ukMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "CGTN西语",
+    "src": "Kimentanm",
+    "name": "CGTN西语",
+    "url": "https://0472.org/hls/cgtnx.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "春晚2026",
+    "src": "Kimentanm",
+    "name": "春晚2026",
+    "url": "https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "北京卫视",
+    "src": "范明明IPV6",
+    "name": "北京卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHX6pFJlsKFX2elUkY7G9WuYMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV1",
+    "src": "老刘备SAO0",
+    "name": "CCTV1",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "CCTV1",
+    "src": "老刘备SAO0",
+    "name": "CCTV1",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV2",
+    "src": "老刘备SAO0",
+    "name": "CCTV2",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "北京卫视",
+    "src": "范明明IPV6",
+    "name": "北京卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=43dbb4a601652fcaea2ddbd73cd2f2f488aff86faee350276951eadd10dfb441_1720508364_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "CCTV3",
+    "src": "老刘备SAO0",
+    "name": "CCTV3",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "东方卫视",
+    "src": "范明明IPV6",
+    "name": "东方卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=4cb7770cf7195c2891acab71a8b5139c0f4abf80546956b07e6b8dd94b49e4e8_1720508420_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "东方卫视",
+    "src": "范明明IPV6",
+    "name": "东方卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfFI8ayEeoekFD8P08%2F7EXF4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.08,
+    "code": 404
+  },
+  {
+    "channel": "CCTV4",
+    "src": "范明明IPV6",
+    "name": "CCTV-4K 超高清",
+    "url": "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV4",
+    "src": "老刘备SAO0",
+    "name": "CCTV-4K",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV4",
+    "src": "老刘备SAO0",
+    "name": "CCTV4",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南卫视",
+    "src": "范明明IPV6",
+    "name": "湖南卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "湖南卫视",
+    "src": "范明明IPV6",
+    "name": "湖南卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=d70b57aaeb691e28be8f737e9f9efa413979b27dfc97da8bc6b321c828e47010_1720508965_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.06,
+    "code": 403
+  },
+  {
+    "channel": "江苏卫视",
+    "src": "范明明IPV6",
+    "name": "江苏卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe%2BuH8HDFS0PtokY11nWnf4MgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV5",
+    "src": "老刘备SAO0",
+    "name": "CCTV5+ 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV5",
+    "src": "老刘备SAO0",
+    "name": "CCTV5",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV5",
+    "src": "老刘备SAO0",
+    "name": "CCTV5+",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "江苏卫视",
+    "src": "范明明IPV6",
+    "name": "江苏卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=aca1430fdaf3c8056ece793a65c2fefdc1f59e648c06bf6e63572e4994caa97c_1720509054_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "浙江卫视",
+    "src": "范明明IPV6",
+    "name": "浙江卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "浙江卫视",
+    "src": "范明明IPV6",
+    "name": "浙江卫视",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "ok": true,
+    "latency": 0.06,
+    "code": 200
+  },
+  {
+    "channel": "浙江卫视",
+    "src": "范明明IPV6",
+    "name": "浙江卫视",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "ok": true,
+    "latency": 0.05,
+    "code": 200
+  },
+  {
+    "channel": "CCTV6",
+    "src": "老刘备SAO0",
+    "name": "CCTV6",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "浙江卫视",
+    "src": "老刘备SAO0",
+    "name": "浙江卫视",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "ok": true,
+    "latency": 0.05,
+    "code": 200
+  },
+  {
+    "channel": "CCTV7",
+    "src": "老刘备SAO0",
+    "name": "CCTV7",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "黑龙江卫视",
+    "src": "范明明IPV6",
+    "name": "黑龙江卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYGO4sBlEXR27vS0rpENy%2BBCfQjfKrVAhZ7nyqv5N0cI&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "吉林卫视",
+    "src": "范明明IPV6",
+    "name": "吉林卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_JILIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSKeM%2FnJizcqZgRu5kTtQyRSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "CCTV8",
+    "src": "老刘备SAO0",
+    "name": "CCTV8",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "黑龙江卫视",
+    "src": "范明明IPV6",
+    "name": "黑龙江卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=64cde00fa51eb520daec6aa6c1e3e90225906560d67b2607381a34d4431ebcc6_1720508553_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "吉林卫视",
+    "src": "范明明IPV6",
+    "name": "吉林卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=aef69bf8c1b273132c0131c77a30e70de412ec16260723968deb9a2b8a769e5a_1720508592_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "辽宁卫视",
+    "src": "范明明IPV6",
+    "name": "辽宁卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&livodToken=33bd64ae442debde91e9f2e25fd1087a9924ad3708258c548faf04b8a757b0d4_1720508620_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.06,
+    "code": 403
+  },
+  {
+    "channel": "CCTV9",
+    "src": "老刘备SAO0",
+    "name": "CCTV9",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV10",
+    "src": "老刘备SAO0",
+    "name": "CCTV10",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "辽宁卫视",
+    "src": "范明明IPV6",
+    "name": "辽宁卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHURqeVO49Tnq6K%2BWCd0TWOt4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.24,
+    "code": 404
+  },
+  {
+    "channel": "CCTV11",
+    "src": "老刘备SAO0",
+    "name": "CCTV11",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "河北卫视",
+    "src": "范明明IPV6",
+    "name": "河北卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=e80bcd155eabf8e0dbe4c1fa52d05d048c86c1398334b5085f6c985eb88548ca_1720508762_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.38,
+    "code": 403
+  },
+  {
+    "channel": "天津卫视",
+    "src": "范明明IPV6",
+    "name": "天津卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHaessbbY33u5MnZnHCFZZTIMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.35,
+    "code": 404
+  },
+  {
+    "channel": "山东卫视",
+    "src": "范明明IPV6",
+    "name": "山东卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHY%2BfIJoJ9xhIZtB7lTaNNRJ4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.3,
+    "code": 404
+  },
+  {
+    "channel": "安徽卫视",
+    "src": "范明明IPV6",
+    "name": "安徽卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfKoKW8pLH0L%2FBk2FrKutcNTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.27,
+    "code": 404
+  },
+  {
+    "channel": "河北卫视",
+    "src": "范明明IPV6",
+    "name": "河北卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_HEBEI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQcq7ejyAAXuDG88sZCpS0RSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.38,
+    "code": 404
+  },
+  {
+    "channel": "天津卫视",
+    "src": "范明明IPV6",
+    "name": "天津卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=4d4c86675dc5e31f25de3766d077588bdbab6a5c7b52057ab88712a1cac4df7b_1720508477_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.32,
+    "code": 403
+  },
+  {
+    "channel": "CCTV12",
+    "src": "老刘备SAO0",
+    "name": "CCTV12",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV13",
+    "src": "老刘备SAO0",
+    "name": "CCTV13",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "河南卫视",
+    "src": "范明明IPV6",
+    "name": "河南卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=c7713f989c35d7b798afec34071e72743fa784617458f4679369d1842cd422ac_1720508889_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.41,
+    "code": 403
+  },
+  {
+    "channel": "安徽卫视",
+    "src": "范明明IPV6",
+    "name": "安徽卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=02a806c27a6d5b383b7e327402a6c5d9be864ee6bda1277c84b8bc14c914a579_1720508862_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.54,
+    "code": 403
+  },
+  {
+    "channel": "河南卫视",
+    "src": "范明明IPV6",
+    "name": "河南卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_HENAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWZ%2Fm7n7CVTCrcobp4nZ6sZSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.49,
+    "code": 404
+  },
+  {
+    "channel": "东南卫视",
+    "src": "范明明IPV6",
+    "name": "东南卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=5fc20660dbcb940d20412d743ece597d91c8b06af193d6a9b81ad2781b1b8a54_1720509176_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.34,
+    "code": 403
+  },
+  {
+    "channel": "湖北卫视",
+    "src": "范明明IPV6",
+    "name": "湖北卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=b8f876f4b394029039b5d1733070c8731bc880530b0fb975397a5eeb37ca0cec_1720508906_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.38,
+    "code": 403
+  },
+  {
+    "channel": "江西卫视",
+    "src": "范明明IPV6",
+    "name": "江西卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=84e38030fc4f1248603777a24ade5ab82ef30103522330bb3444634a1b66307f_1720509019_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.33,
+    "code": 403
+  },
+  {
+    "channel": "江西卫视",
+    "src": "范明明IPV6",
+    "name": "江西卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSFtNLUdun4aiq6hb34UOKeRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.4,
+    "code": 404
+  },
+  {
+    "channel": "东南卫视",
+    "src": "范明明IPV6",
+    "name": "东南卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_DONGNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQ3sVbVN1ZTQKUpnK8xcf7yRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.37,
+    "code": 404
+  },
+  {
+    "channel": "湖北卫视",
+    "src": "范明明IPV6",
+    "name": "湖北卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHc%2FzOJ%2F44TR7mqGS1%2Bw8V7hSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.46,
+    "code": 404
+  },
+  {
+    "channel": "广东卫视",
+    "src": "范明明IPV6",
+    "name": "广东卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=59fd71bc9ab8ccb098e20dba7502351a73b4a120648316b836686754ebd7dbd2_1720509211_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.11,
+    "code": 403
+  },
+  {
+    "channel": "广东卫视",
+    "src": "范明明IPV6",
+    "name": "广东卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.13,
+    "code": 404
+  },
+  {
+    "channel": "深圳卫视",
+    "src": "范明明IPV6",
+    "name": "深圳卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdBPUZJQRNJB5bOiIhhUc3d4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.12,
+    "code": 404
+  },
+  {
+    "channel": "深圳卫视",
+    "src": "范明明IPV6",
+    "name": "深圳卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=6b52c18155b74d913b2a3060db6d74f2a29dd8a824d70f648a9882dca63fd962_1720509238_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.47,
+    "code": 403
+  },
+  {
+    "channel": "广西卫视",
+    "src": "范明明IPV6",
+    "name": "广西卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.43,
+    "code": 403
+  },
+  {
+    "channel": "四川卫视",
+    "src": "范明明IPV6",
+    "name": "四川卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=539d7323a2cbb4240388051e285321f2684e79db2a7c484168b386d99dc393b3_1720509350_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.38,
+    "code": 403
+  },
+  {
+    "channel": "海南卫视",
+    "src": "范明明IPV6",
+    "name": "海南卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.42,
+    "code": 403
+  },
+  {
+    "channel": "海南卫视",
+    "src": "范明明IPV6",
+    "name": "海南卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTh7JGAu1YMGJ6XT%2FnqLPsRZEJK%2BpW4Fs700noHhVlGc&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.44,
+    "code": 404
+  },
+  {
+    "channel": "四川卫视",
+    "src": "范明明IPV6",
+    "name": "四川卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHShysHnFVsdNiy%2FnVMuA%2F2ui53pLIt5xLZYRaSNohMBM&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.41,
+    "code": 404
+  },
+  {
+    "channel": "广西卫视",
+    "src": "范明明IPV6",
+    "name": "广西卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_GUANGXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHUIecLjXoLUiOhb4XqRrxOuRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.47,
+    "code": 404
+  },
+  {
+    "channel": "重庆卫视",
+    "src": "范明明IPV6",
+    "name": "重庆卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1hsd3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.07,
+    "code": 404
+  },
+  {
+    "channel": "贵州卫视",
+    "src": "范明明IPV6",
+    "name": "贵州卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWs5lc8HFQLTI9VPV%2F62TTuRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.06,
+    "code": 404
+  },
+  {
+    "channel": "贵州卫视",
+    "src": "范明明IPV6",
+    "name": "贵州卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=c2389ebe3248f5e8bb2be6ba564202250815c1ffce8bf911a01e5e09705f6576_1720509315_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.2,
+    "code": 403
+  },
+  {
+    "channel": "云南卫视",
+    "src": "范明明IPV6",
+    "name": "云南卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHcpOXbCYIiVElKHA3dFAzTD1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.18,
+    "code": 404
+  },
+  {
+    "channel": "陕西卫视",
+    "src": "范明明IPV6",
+    "name": "陕西卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.19,
+    "code": 403
+  },
+  {
+    "channel": "云南卫视",
+    "src": "范明明IPV6",
+    "name": "云南卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=bd74183e409c86a54debf6f2452fcadd940a4b90a2e1f981832970d2f916a945_1720509300_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.25,
+    "code": 403
+  },
+  {
+    "channel": "陕西卫视",
+    "src": "范明明IPV6",
+    "name": "陕西卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.23,
+    "code": 404
+  },
+  {
+    "channel": "甘肃卫视",
+    "src": "范明明IPV6",
+    "name": "甘肃卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=171a8342304b3c81ad3c96545782987d838c6b9fb512cc6905270159a52113c2_1720508692_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "甘肃卫视",
+    "src": "范明明IPV6",
+    "name": "甘肃卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_GANSU-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQqvE61CmV4kFMWXpFeskG1SM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.16,
+    "code": 404
+  },
+  {
+    "channel": "三沙卫视",
+    "src": "范明明IPV6",
+    "name": "三沙卫视",
+    "url": "http://58.248.112.205:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVaHhm7EfB24tSDTA%2B4ZUJz1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
+    "ok": false,
+    "latency": 0.1,
+    "code": 404
+  },
+  {
+    "channel": "内蒙古卫视",
+    "src": "范明明IPV6",
+    "name": "内蒙古卫视",
+    "url": "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880",
+    "ok": false,
+    "latency": 0.08,
+    "code": 403
+  },
+  {
+    "channel": "内蒙古卫视",
+    "src": "范明明IPV6",
+    "name": "内蒙古卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/NMGWS/index.m3u8?gMac=unknown&livodToken=a09588cc53538af6402a57be79ed9490f6cdcdaef12f38888e5a3365a7a4d7c1_1720508643_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.09,
+    "code": 403
+  },
+  {
+    "channel": "青海卫视",
+    "src": "范明明IPV6",
+    "name": "青海卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/QHWS/index.m3u8?gMac=unknown&livodToken=495e44fa15aa6f066ed03ad059c8141856fd0591fd05036b71f202d50d2ee91f_1720508709_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.07,
+    "code": 403
+  },
+  {
+    "channel": "山东卫视",
+    "src": "范明明IPV6",
+    "name": "山东卫视",
+    "url": "http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8",
+    "ok": false,
+    "latency": 2.14,
+    "code": 0
+  },
+  {
+    "channel": "CCTV14",
+    "src": "老刘备SAO0",
+    "name": "CCTV14",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "宁夏卫视",
+    "src": "范明明IPV6",
+    "name": "宁夏卫视",
+    "url": "https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8",
+    "ok": false,
+    "latency": 0.15,
+    "code": 403
+  },
+  {
+    "channel": "CCTV15",
+    "src": "老刘备SAO0",
+    "name": "CCTV15",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "新疆卫视",
+    "src": "范明明IPV6",
+    "name": "新疆卫视",
+    "url": "http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=3b0868c32bc314dfdd41bf46f20a8179d1494db60d9ce810bb8e7be0ca092c84_1720509373_604800&fromCDN=ws",
+    "ok": false,
+    "latency": 0.09,
+    "code": 403
+  },
+  {
+    "channel": "CCTV16",
+    "src": "老刘备SAO0",
+    "name": "CCTV16-4K",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "兵团卫视",
+    "src": "范明明IPV6",
+    "name": "兵团卫视",
+    "url": "https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8",
+    "ok": false,
+    "latency": 0.16,
+    "code": 403
+  },
+  {
+    "channel": "青海卫视",
+    "src": "范明明IPV6",
+    "name": "青海卫视",
+    "url": "http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030",
+    "ok": false,
+    "latency": 2.14,
+    "code": 0
+  },
+  {
+    "channel": "CCTV17",
+    "src": "老刘备SAO0",
+    "name": "CCTV17",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "北京卫视",
+    "src": "老刘备SAO0",
+    "name": "北京卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "东方卫视",
+    "src": "老刘备SAO0",
+    "name": "东方卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南卫视",
+    "src": "老刘备SAO0",
+    "name": "湖南卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "江苏卫视",
+    "src": "老刘备SAO0",
+    "name": "江苏卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "浙江卫视",
+    "src": "老刘备SAO0",
+    "name": "浙江卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "辽宁卫视",
+    "src": "老刘备SAO0",
+    "name": "辽宁卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "河北卫视",
+    "src": "老刘备SAO0",
+    "name": "河北卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "天津卫视",
+    "src": "老刘备SAO0",
+    "name": "天津卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖北卫视",
+    "src": "老刘备SAO0",
+    "name": "湖北卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "东南卫视",
+    "src": "老刘备SAO0",
+    "name": "东南卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "深圳卫视",
+    "src": "老刘备SAO0",
+    "name": "深圳卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "海南卫视",
+    "src": "老刘备SAO0",
+    "name": "海南卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "重庆卫视",
+    "src": "老刘备SAO0",
+    "name": "重庆卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "贵州卫视",
+    "src": "老刘备SAO0",
+    "name": "贵州卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "陕西卫视",
+    "src": "老刘备SAO0",
+    "name": "陕西卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "甘肃卫视",
+    "src": "老刘备SAO0",
+    "name": "甘肃卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "内蒙古卫视",
+    "src": "老刘备SAO0",
+    "name": "内蒙古卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "青海卫视",
+    "src": "老刘备SAO0",
+    "name": "青海卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "延边卫视",
+    "src": "范明明IPV6",
+    "name": "延边卫视",
+    "url": "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "宁夏卫视",
+    "src": "老刘备SAO0",
+    "name": "宁夏卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225579/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "新疆卫视",
+    "src": "老刘备SAO0",
+    "name": "新疆卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "欢笑剧场4K",
+    "src": "老刘备SAO0",
+    "name": "欢笑剧场4k",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV18",
+    "src": "老刘备SAO0",
+    "name": "CCTV1 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV28",
+    "src": "老刘备SAO0",
+    "name": "CCTV2 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV38",
+    "src": "老刘备SAO0",
+    "name": "CCTV3 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV48",
+    "src": "老刘备SAO0",
+    "name": "CCTV4 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV58",
+    "src": "老刘备SAO0",
+    "name": "CCTV5 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV68",
+    "src": "老刘备SAO0",
+    "name": "CCTV6 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "CCTV78",
+    "src": "老刘备SAO0",
+    "name": "CCTV7 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV88",
+    "src": "老刘备SAO0",
+    "name": "CCTV8 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV98",
+    "src": "老刘备SAO0",
+    "name": "CCTV9 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV108",
+    "src": "老刘备SAO0",
+    "name": "CCTV10 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV118",
+    "src": "老刘备SAO0",
+    "name": "CCTV11 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV128",
+    "src": "老刘备SAO0",
+    "name": "CCTV12 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "CCTV138",
+    "src": "老刘备SAO0",
+    "name": "CCTV13 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV148",
+    "src": "老刘备SAO0",
+    "name": "CCTV14 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV158",
+    "src": "老刘备SAO0",
+    "name": "CCTV15 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV168",
+    "src": "老刘备SAO0",
+    "name": "CCTV16 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CCTV178",
+    "src": "老刘备SAO0",
+    "name": "CCTV17 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "江苏卫视8M",
+    "src": "老刘备SAO0",
+    "name": "江苏卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "广西卫视8M",
+    "src": "老刘备SAO0",
+    "name": "广西卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gxwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "四川卫视8M",
+    "src": "老刘备SAO0",
+    "name": "四川卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/scwshd/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南卫视8M",
+    "src": "老刘备SAO0",
+    "name": "湖南卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hunanwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "浙江卫视8M",
+    "src": "老刘备SAO0",
+    "name": "浙江卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "东方卫视8M",
+    "src": "老刘备SAO0",
+    "name": "东方卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "北京卫视8M",
+    "src": "老刘备SAO0",
+    "name": "北京卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bjwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "天津卫视8M",
+    "src": "老刘备SAO0",
+    "name": "天津卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/tjwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "辽宁卫视8M",
+    "src": "老刘备SAO0",
+    "name": "辽宁卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/lnwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "安徽卫视8M",
+    "src": "老刘备SAO0",
+    "name": "安徽卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ahwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "黑龙江卫视8M",
+    "src": "老刘备SAO0",
+    "name": "黑龙江卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hljwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "广东卫视8M",
+    "src": "老刘备SAO0",
+    "name": "广东卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gdwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "深圳卫视8M",
+    "src": "老刘备SAO0",
+    "name": "深圳卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/szwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖北卫视8M",
+    "src": "老刘备SAO0",
+    "name": "湖北卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hubeiws8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "吉林卫视8M",
+    "src": "老刘备SAO0",
+    "name": "吉林卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jlwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "山东卫视8M",
+    "src": "老刘备SAO0",
+    "name": "山东卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/sdws8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "江西卫视8M",
+    "src": "老刘备SAO0",
+    "name": "江西卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jxws8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "河南卫视8M",
+    "src": "老刘备SAO0",
+    "name": "河南卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hnwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "河北卫视8M",
+    "src": "老刘备SAO0",
+    "name": "河北卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hbwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "甘肃卫视8M",
+    "src": "老刘备SAO0",
+    "name": "甘肃卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gswshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "重庆卫视8M",
+    "src": "老刘备SAO0",
+    "name": "重庆卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cqws8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "东南卫视8M",
+    "src": "老刘备SAO0",
+    "name": "东南卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dnwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "云南卫视8M",
+    "src": "老刘备SAO0",
+    "name": "云南卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ynwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "贵州卫视8M",
+    "src": "老刘备SAO0",
+    "name": "贵州卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "海南卫视8M",
+    "src": "老刘备SAO0",
+    "name": "海南卫视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "欢笑剧场8M",
+    "src": "老刘备SAO0",
+    "name": "欢笑剧场 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "劲爆体育8M",
+    "src": "老刘备SAO0",
+    "name": "劲爆体育 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jbtyhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "快乐垂钓8M",
+    "src": "老刘备SAO0",
+    "name": "快乐垂钓 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "金鹰纪实8M",
+    "src": "老刘备SAO0",
+    "name": "金鹰纪实 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "戏曲精选8M",
+    "src": "老刘备SAO0",
+    "name": "戏曲精选 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "上海第一财经8M",
+    "src": "老刘备SAO0",
+    "name": "上海第一财经 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dycjhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "上视新闻8M",
+    "src": "老刘备SAO0",
+    "name": "上视新闻 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xwzhhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "上海都市8M",
+    "src": "老刘备SAO0",
+    "name": "上海都市 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "东方影视8M",
+    "src": "老刘备SAO0",
+    "name": "东方影视 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfyshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "五星体育8M",
+    "src": "老刘备SAO0",
+    "name": "五星体育 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/wxtyhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "上视外语8M",
+    "src": "老刘备SAO0",
+    "name": "上视外语 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/icshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "七彩戏剧8M",
+    "src": "老刘备SAO0",
+    "name": "七彩戏剧 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcxjhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "上海教育8M",
+    "src": "老刘备SAO0",
+    "name": "上海教育 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "全纪实8M",
+    "src": "老刘备SAO0",
+    "name": "全纪实 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qjshd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "生活时尚8M",
+    "src": "老刘备SAO0",
+    "name": "生活时尚 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/shss8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "新视觉8M",
+    "src": "老刘备SAO0",
+    "name": "新视觉 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "游戏风云8M",
+    "src": "老刘备SAO0",
+    "name": "游戏风云 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yxfy8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "热门综艺8M",
+    "src": "老刘备SAO0",
+    "name": "热门综艺 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "超级体育8M",
+    "src": "老刘备SAO0",
+    "name": "超级体育 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcsj8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "健康养生8M",
+    "src": "老刘备SAO0",
+    "name": "健康养生 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jkys8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "百变课堂8M",
+    "src": "老刘备SAO0",
+    "name": "百变课堂 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbkt8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "看天下精选8M",
+    "src": "老刘备SAO0",
+    "name": "看天下精选 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "浙江钱江都市",
+    "src": "老刘备SAO0",
+    "name": "浙江钱江都市",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "华语影院8M",
+    "src": "老刘备SAO0",
+    "name": "华语影院 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "浙江钱江都市",
+    "src": "老刘备SAO0",
+    "name": "浙江钱江都市",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "ok": true,
+    "latency": 0.1,
+    "code": 200
+  },
+  {
+    "channel": "义乌新闻综合",
+    "src": "老刘备SAO0",
+    "name": "义乌新闻综合",
+    "url": "https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine",
+    "ok": false,
+    "latency": 0.25,
+    "code": 403
+  },
+  {
+    "channel": "电竞天堂8M",
+    "src": "老刘备SAO0",
+    "name": "电竞天堂 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "浙江经济生活",
+    "src": "老刘备SAO0",
+    "name": "浙江经济生活",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "浙江经济生活",
+    "src": "老刘备SAO0",
+    "name": "浙江经济生活",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "ok": true,
+    "latency": 0.07,
+    "code": 200
+  },
+  {
+    "channel": "浙江教科影院",
+    "src": "老刘备SAO0",
+    "name": "浙江教科影院",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "ok": true,
+    "latency": 0.12,
+    "code": 200
+  },
+  {
+    "channel": "浙江新闻",
+    "src": "老刘备SAO0",
+    "name": "浙江新闻",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "ok": true,
+    "latency": 0.05,
+    "code": 200
+  },
+  {
+    "channel": "浙江民生休闲",
+    "src": "老刘备SAO0",
+    "name": "浙江民生休闲",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "浙江民生休闲",
+    "src": "老刘备SAO0",
+    "name": "浙江民生休闲",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "ok": true,
+    "latency": 0.07,
+    "code": 200
+  },
+  {
+    "channel": "青春动漫8M",
+    "src": "老刘备SAO0",
+    "name": "青春动漫 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcdm8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "浙江少儿",
+    "src": "老刘备SAO0",
+    "name": "浙江少儿",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "ok": true,
+    "latency": 0.1,
+    "code": 200
+  },
+  {
+    "channel": "浙江少儿",
+    "src": "老刘备SAO0",
+    "name": "浙江少儿",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "ok": true,
+    "latency": 0.08,
+    "code": 200
+  },
+  {
+    "channel": "中国蓝新闻",
+    "src": "老刘备SAO0",
+    "name": "中国蓝新闻",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "浙江国际",
+    "src": "老刘备SAO0",
+    "name": "浙江国际",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "浙江国际",
+    "src": "老刘备SAO0",
+    "name": "浙江国际",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "ok": true,
+    "latency": 0.11,
+    "code": 200
+  },
+  {
+    "channel": "数码时代",
+    "src": "老刘备SAO0",
+    "name": "数码时代",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "ok": true,
+    "latency": 0.1,
+    "code": 200
+  },
+  {
+    "channel": "宝宝动画8M",
+    "src": "老刘备SAO0",
+    "name": "宝宝动画 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbdh8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "武义新闻综合",
+    "src": "老刘备SAO0",
+    "name": "武义新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.11,
+    "code": 200
+  },
+  {
+    "channel": "星光影院8M",
+    "src": "老刘备SAO0",
+    "name": "星光影院 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "平湖新闻综合",
+    "src": "老刘备SAO0",
+    "name": "平湖新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.12,
+    "code": 200
+  },
+  {
+    "channel": "平湖民生休闲",
+    "src": "老刘备SAO0",
+    "name": "平湖民生休闲",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.2,
+    "code": 200
+  },
+  {
+    "channel": "萧山生活频道",
+    "src": "老刘备SAO0",
+    "name": "萧山生活频道",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.14,
+    "code": 200
+  },
+  {
+    "channel": "萧山新闻综合",
+    "src": "老刘备SAO0",
+    "name": "萧山新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.17,
+    "code": 200
+  },
+  {
+    "channel": "淳安电视台",
+    "src": "老刘备SAO0",
+    "name": "淳安电视台",
+    "url": "https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed",
+    "ok": false,
+    "latency": 0.15,
+    "code": 0
+  },
+  {
+    "channel": "谍战剧场8M",
+    "src": "老刘备SAO0",
+    "name": "谍战剧场 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "余杭综合频道",
+    "src": "老刘备SAO0",
+    "name": "余杭综合频道",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.14,
+    "code": 200
+  },
+  {
+    "channel": "余杭未来E频道",
+    "src": "老刘备SAO0",
+    "name": "余杭未来E频道",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.19,
+    "code": 200
+  },
+  {
+    "channel": "余姚姚江文化",
+    "src": "老刘备SAO0",
+    "name": "余姚姚江文化",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.1,
+    "code": 200
+  },
+  {
+    "channel": "嵊州新闻综合",
+    "src": "老刘备SAO0",
+    "name": "嵊州新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.08,
+    "code": 200
+  },
+  {
+    "channel": "余姚新闻综合",
+    "src": "老刘备SAO0",
+    "name": "余姚新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.12,
+    "code": 200
+  },
+  {
+    "channel": "全球大片8M",
+    "src": "老刘备SAO0",
+    "name": "全球大片 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "诸暨新闻综合",
+    "src": "老刘备SAO0",
+    "name": "诸暨新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "上虞新闻综合",
+    "src": "老刘备SAO0",
+    "name": "上虞新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "上虞新商都",
+    "src": "老刘备SAO0",
+    "name": "上虞新商都",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.1,
+    "code": 200
+  },
+  {
+    "channel": "上虞文化影院",
+    "src": "老刘备SAO0",
+    "name": "上虞文化影院",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.14,
+    "code": 200
+  },
+  {
+    "channel": "兰溪新闻综合",
+    "src": "老刘备SAO0",
+    "name": "兰溪新闻综合",
+    "url": "http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed",
+    "ok": true,
+    "latency": 0.09,
+    "code": 200
+  },
+  {
+    "channel": "海宁新闻综合",
+    "src": "老刘备SAO0",
+    "name": "海宁新闻综合",
+    "url": "http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed",
+    "ok": false,
+    "latency": 0.14,
+    "code": 0
+  },
+  {
+    "channel": "海宁生活服务",
+    "src": "老刘备SAO0",
+    "name": "海宁生活服务",
+    "url": "http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed",
+    "ok": false,
+    "latency": 0.12,
+    "code": 0
+  },
+  {
+    "channel": "热门剧场8M",
+    "src": "老刘备SAO0",
+    "name": "热门剧场 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "陶瓷高清8M",
+    "src": "老刘备SAO0",
+    "name": "陶瓷高清 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/taocihd/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "淳安电视台",
+    "src": "老刘备SAO0",
+    "name": "淳安电视台",
+    "url": "https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed",
+    "ok": false,
+    "latency": 2.29,
+    "code": 0
+  },
+  {
+    "channel": "嵊州新闻综合",
+    "src": "老刘备SAO0",
+    "name": "嵊州新闻综合",
+    "url": "https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed",
+    "ok": false,
+    "latency": 2.11,
+    "code": 0
+  },
+  {
+    "channel": "中国教育-18M",
+    "src": "老刘备SAO0",
+    "name": "中国教育-1 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy1t8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "中国教育-48M",
+    "src": "老刘备SAO0",
+    "name": "中国教育-4 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy4hd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "卡酷少儿8M",
+    "src": "老刘备SAO0",
+    "name": "卡酷少儿 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/kkse8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "纪实科教8M",
+    "src": "老刘备SAO0",
+    "name": "纪实科教 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dajs8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "茶频道8M",
+    "src": "老刘备SAO0",
+    "name": "茶频道 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cpdhdavs8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "足球高清8M",
+    "src": "老刘备SAO0",
+    "name": "足球高清 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zqpd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "炫动卡通8M",
+    "src": "老刘备SAO0",
+    "name": "炫动卡通 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hhxd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "东方财经8M",
+    "src": "老刘备SAO0",
+    "name": "东方财经 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfcjhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "都市剧场8M",
+    "src": "老刘备SAO0",
+    "name": "都市剧场 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "动漫秀场8M",
+    "src": "老刘备SAO0",
+    "name": "动漫秀场 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dmxc8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "法治天地8M",
+    "src": "老刘备SAO0",
+    "name": "法治天地 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/fztd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "金色学堂8M",
+    "src": "老刘备SAO0",
+    "name": "金色学堂 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jingsepd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "魅力足球8M",
+    "src": "老刘备SAO0",
+    "name": "魅力足球 8M",
+    "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/mlyyhd8m/8000000/mnf.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "北京冬奥纪实",
+    "src": "老刘备SAO0",
+    "name": "北京冬奥纪实",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "北京卡酷少儿",
+    "src": "老刘备SAO0",
+    "name": "北京卡酷少儿",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "大庆公共",
+    "src": "老刘备SAO0",
+    "name": "大庆公共",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225734/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "大庆新闻综合",
+    "src": "老刘备SAO0",
+    "name": "大庆新闻综合",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225736/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "哈尔滨生活",
+    "src": "老刘备SAO0",
+    "name": "哈尔滨生活",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225698/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "哈尔滨影视",
+    "src": "老刘备SAO0",
+    "name": "哈尔滨影视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225700/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "哈尔滨新闻综合",
+    "src": "老刘备SAO0",
+    "name": "哈尔滨新闻综合",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225684/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "哈尔滨娱乐",
+    "src": "老刘备SAO0",
+    "name": "哈尔滨娱乐",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225699/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "哈尔滨资讯",
+    "src": "老刘备SAO0",
+    "name": "哈尔滨资讯",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225697/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "鹤岗公共",
+    "src": "老刘备SAO0",
+    "name": "鹤岗公共",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225787/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "鹤岗新闻综合",
+    "src": "老刘备SAO0",
+    "name": "鹤岗新闻综合",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225785/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "黑莓电竞",
+    "src": "老刘备SAO0",
+    "name": "黑莓电竞",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "黑莓电影",
+    "src": "老刘备SAO0",
+    "name": "黑莓电影",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "黑莓动画",
+    "src": "老刘备SAO0",
+    "name": "黑莓动画",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南金鹰卡通",
+    "src": "老刘备SAO0",
+    "name": "湖南金鹰卡通",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "江苏好享购物",
+    "src": "老刘备SAO0",
+    "name": "江苏好享购物",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225695/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "江苏优漫卡通",
+    "src": "老刘备SAO0",
+    "name": "江苏优漫卡通",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频1",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频1",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频2",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频2",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频3",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频3",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频4",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频4",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频5",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频5",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频6",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频6",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频7",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频7",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频9",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频9",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频10",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频10",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频11",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频11",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频12",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频12",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频13",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频13",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频14",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频14",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频15",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频15",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频16",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频16",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M1",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M1",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M2",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M2",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M3",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M3",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M4",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M4",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225764/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M5",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M5",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M6",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M6",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225766/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M7",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M7",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M8",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M8",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M9",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M9",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M10",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M10",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M11",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M11",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M12",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M12",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频8M13",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频8M13",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕视频30M2160HDR",
+    "src": "老刘备SAO0",
+    "name": "咪咕视频 30M2160HDR",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "咪咕直播",
+    "src": "老刘备SAO0",
+    "name": "咪咕直播",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225782/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "七台河公共",
+    "src": "老刘备SAO0",
+    "name": "七台河公共",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225800/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "青海安多卫视",
+    "src": "老刘备SAO0",
+    "name": "青海安多卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "求索动物8M",
+    "src": "老刘备SAO0",
+    "name": "求索动物8M",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "求索纪录8M",
+    "src": "老刘备SAO0",
+    "name": "求索纪录8M",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "求索科学8M",
+    "src": "老刘备SAO0",
+    "name": "求索科学8M",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "山东教育卫视",
+    "src": "老刘备SAO0",
+    "name": "山东教育卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "求索生活8M",
+    "src": "老刘备SAO0",
+    "name": "求索生活8M",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "山西卫视",
+    "src": "老刘备SAO0",
+    "name": "山西卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "上海哈哈炫动",
+    "src": "老刘备SAO0",
+    "name": "上海哈哈炫动",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225534/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "上海纪实人文",
+    "src": "老刘备SAO0",
+    "name": "上海纪实人文",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "四川康巴卫视",
+    "src": "老刘备SAO0",
+    "name": "四川康巴卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "西藏卫视",
+    "src": "老刘备SAO0",
+    "name": "西藏卫视",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225570/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "中国教育1",
+    "src": "老刘备SAO0",
+    "name": "中国教育1",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CGTN",
+    "src": "老刘备SAO0",
+    "name": "CGTN",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV爱情喜剧",
+    "src": "老刘备SAO0",
+    "name": "NewTV爱情喜剧",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV超级电视剧",
+    "src": "老刘备SAO0",
+    "name": "NewTV超级电视剧",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV超级电影",
+    "src": "老刘备SAO0",
+    "name": "NewTV超级电影",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV超级体育",
+    "src": "老刘备SAO0",
+    "name": "NewTV超级体育",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV超级综艺",
+    "src": "老刘备SAO0",
+    "name": "NewTV超级综艺",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV潮妈辣婆",
+    "src": "老刘备SAO0",
+    "name": "NewTV潮妈辣婆",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NHKWORLD",
+    "src": "老刘备SAO0",
+    "name": "NHK World",
+    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",
+    "ok": false,
+    "latency": 0.5,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV东北热剧",
+    "src": "老刘备SAO0",
+    "name": "NewTV东北热剧",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "CNA",
+    "src": "老刘备SAO0",
+    "name": "CNA",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "ok": true,
+    "latency": 0.86,
+    "code": 200
+  },
+  {
+    "channel": "NEWTV动作电影",
+    "src": "老刘备SAO0",
+    "name": "NewTV动作电影",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV古装剧场",
+    "src": "老刘备SAO0",
+    "name": "NewTV古装剧场",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV家庭剧场",
+    "src": "老刘备SAO0",
+    "name": "NewTV家庭剧场",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "RTDOCUMENTARY",
+    "src": "老刘备SAO0",
+    "name": "RT Documentary",
+    "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8",
+    "ok": true,
+    "latency": 1.05,
+    "code": 200
+  },
+  {
+    "channel": "ALJAZEERA",
+    "src": "老刘备SAO0",
+    "name": "AlJazeera",
+    "url": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "ok": false,
+    "latency": 2.14,
+    "code": 0
+  },
+  {
+    "channel": "RTNEWS",
+    "src": "老刘备SAO0",
+    "name": "RT News",
+    "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
+    "ok": true,
+    "latency": 2.15,
+    "code": 200
+  },
+  {
+    "channel": "浙江科教影视",
+    "src": "老刘备SAO0",
+    "name": "浙江科教影视",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "ok": true,
+    "latency": 0.46,
+    "code": 200
+  },
+  {
+    "channel": "浙江公共新闻",
+    "src": "老刘备SAO0",
+    "name": "浙江公共新闻",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "ok": true,
+    "latency": 0.21,
+    "code": 200
+  },
+  {
+    "channel": "NEWTV家庭剧场",
+    "src": "老刘备SAO0",
+    "name": "NewTV家庭剧场",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV金牌综艺",
+    "src": "老刘备SAO0",
+    "name": "NewTV金牌综艺",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV惊悚悬疑",
+    "src": "老刘备SAO0",
+    "name": "NewTV惊悚悬疑",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV精品大剧",
+    "src": "老刘备SAO0",
+    "name": "NewTV精品大剧",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV精品纪录",
+    "src": "老刘备SAO0",
+    "name": "NewTV精品纪录",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV军旅剧场",
+    "src": "老刘备SAO0",
+    "name": "NewTV军旅剧场",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV精品体育",
+    "src": "老刘备SAO0",
+    "name": "NewTV精品体育",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV军事评论",
+    "src": "老刘备SAO0",
+    "name": "NewTV军事评论",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "睛彩广场舞「移动」",
+    "src": "YanG",
+    "name": "睛彩广场舞「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.53,
+    "code": 403
+  },
+  {
+    "channel": "睛彩青少「移动」",
+    "src": "YanG",
+    "name": "睛彩青少「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.53,
+    "code": 403
+  },
+  {
+    "channel": "睛彩竞技「移动」",
+    "src": "YanG",
+    "name": "睛彩竞技「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.51,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.48,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟜𝕂-𝟚「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟜𝕂-𝟚「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.49,
+    "code": 403
+  },
+  {
+    "channel": "睛彩篮球「移动」",
+    "src": "YanG",
+    "name": "睛彩篮球「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.68,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.46,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟜「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟜「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.46,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.59,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟝「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟝「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.48,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟞「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟞「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.61,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟟「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟟「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.52,
+    "code": 403
+  },
+  {
+    "channel": "NEWTV明星大片",
+    "src": "老刘备SAO0",
+    "name": "NewTV明星大片",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕直播𝟡「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟡「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.47,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟘「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟘「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.52,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟠「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟠「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.62,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟙「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟙「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.59,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟜𝕂-𝟙「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟜𝕂-𝟙「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 1.67,
+    "code": 403
+  },
+  {
+    "channel": "NEWTV农业致富",
+    "src": "老刘备SAO0",
+    "name": "NewTV农业致富",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV武搏世界",
+    "src": "老刘备SAO0",
+    "name": "NewTV武搏世界",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "咪咕直播𝟙𝟛「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟛「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.53,
+    "code": 403
+  },
+  {
+    "channel": "山西经济科技",
+    "src": "老刘备SAO0",
+    "name": "山西经济科技",
+    "url": "http://15536746789.x3322.net:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 2.13,
+    "code": 0
+  },
+  {
+    "channel": "山西影视",
+    "src": "老刘备SAO0",
+    "name": "山西影视",
+    "url": "http://15536746789.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 2.13,
+    "code": 0
+  },
+  {
+    "channel": "咪咕直播𝟙𝟚「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟚「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.63,
+    "code": 403
+  },
+  {
+    "channel": "山西公共",
+    "src": "老刘备SAO0",
+    "name": "山西公共",
+    "url": "http://15536746789.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 2.13,
+    "code": 0
+  },
+  {
+    "channel": "咪咕直播𝟙𝟜「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟜「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.64,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟝「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟝「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.5,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟘「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟘「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.47,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟙「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟙「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.54,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟞「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟞「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.75,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟠「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟠「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.63,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟡「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟡「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.66,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟙𝟟「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟙𝟟「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.75,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟛「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟛「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.53,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟚「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟚「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.62,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟜「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟜「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.59,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟞「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟞「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.54,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟝「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟝「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.62,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟟「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟟「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.57,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟠「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟠「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.62,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟚𝟡「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟚𝟡「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.48,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟙「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟙「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.47,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟛「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟛「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.53,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟝「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟝「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.49,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟘「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟘「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.65,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟜「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟜「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.57,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟚「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟚「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.63,
+    "code": 403
+  },
+  {
+    "channel": "咪咕直播𝟛𝟞「移动」",
+    "src": "YanG",
+    "name": "咪咕直播 𝟛𝟞「移动」",
+    "url": "http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989",
+    "ok": false,
+    "latency": 0.57,
+    "code": 403
+  },
+  {
+    "channel": "NEWTV炫舞未来",
+    "src": "老刘备SAO0",
+    "name": "NewTV炫舞未来",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV怡伴健康",
+    "src": "老刘备SAO0",
+    "name": "NewTV怡伴健康",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "NEWTV中国功夫",
+    "src": "老刘备SAO0",
+    "name": "NewTV中国功夫",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "ARIRANGTV",
+    "src": "老刘备SAO0",
+    "name": "Arirang TV",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南经视",
+    "src": "老刘备SAO0",
+    "name": "湖南经视",
+    "url": "http://175.0.51.26:8899/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.0,
+    "code": 0
+  },
+  {
+    "channel": "湖南都市",
+    "src": "老刘备SAO0",
+    "name": "湖南都市",
+    "url": "http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南爱晚",
+    "src": "老刘备SAO0",
+    "name": "湖南爱晚",
+    "url": "http://175.0.51.26:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南国际",
+    "src": "老刘备SAO0",
+    "name": "湖南国际",
+    "url": "http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南娱乐",
+    "src": "老刘备SAO0",
+    "name": "湖南娱乐",
+    "url": "http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.02,
+    "code": 0
+  },
+  {
+    "channel": "湖南电影",
+    "src": "老刘备SAO0",
+    "name": "湖南电影",
+    "url": "http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  },
+  {
+    "channel": "湖南电视剧",
+    "src": "老刘备SAO0",
+    "name": "湖南电视剧",
+    "url": "http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "ok": false,
+    "latency": 8.01,
+    "code": 0
+  }
+]

@@ -39,6 +39,20 @@
 > 以上为纯文本地址，方便直接复制进电视。CDN 可能有最多几分钟缓存，刚更新后若未生效可稍等或在地址末尾加 `?t=时间戳` 强制刷新。
 > 想用更短的地址，也可把 `@refs/heads/main` 换成 `@main`（两者等价，均已验证可用）。
 
+### 📺 直播源（独立，与点播互不影响）
+
+把多个公开来源的直播频道整合、重新分组、按实测可用性排序，形成**自建直播源**。电视端在「直播 / 列表订阅」中填入：
+
+| 用途 | 订阅地址（CDN 直链） | 说明 |
+|---|---|---|
+| **自建直播（推荐）** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_own.json` | 802 频道 / 1104 线路，分 10 组（央视/卫视/4K/国际/地方等） |
+| **实测可播精选** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_verified.m3u` | 39 个实测连通的频道，通用 m3u 格式 |
+| **自建 m3u** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_own.m3u` | 全量频道，每频道取最优线路 |
+
+- 每条频道保留多条线路并按可用性排序：**实测可播优先 → 电视专用协议(mitv/rtmp) → 运营商直连 → 普通 m3u8 → 带鉴权参数的排最后**，播放器会逐个尝试。
+- `mitv://` 为小米电视专用协议、`rtmp://` 需专用内核，自动探测工具测不出来但在电视上可播，已保留。
+- 详细分组与统计见 [`reports/live_own_report.md`](reports/live_own_report.md)。
+
 ## 目录结构
 
 ```
@@ -47,7 +61,11 @@ tvbox-sources/
 │   ├── tvbox.json          # 主订阅：全部可用源，按速度排序
 │   ├── tvbox_fast.json     # 精选：快速源
 │   ├── tvbox.txt           # 纯链接，逐行导入用
-│   └── by_source.json      # 按上游来源分组
+│   ├── by_source.json      # 按上游来源分组
+│   ├── iptv_own.json       # 自建直播源（分组订阅，独立于点播）
+│   ├── iptv_own.m3u        # 自建直播 m3u（全量）
+│   ├── iptv_verified.m3u   # 实测可播精选 m3u
+│   └── live_*.txt          # 直播分组明细（cctv/satellite/... 供 iptv_own.json 引用）
 ├── sources/                # 分类隔离
 │   ├── dead.json           # 失效源（含失败原因）
 │   ├── rewritten.json      # 被改写的源（记录 原始 → 电视友好地址）
@@ -63,8 +81,12 @@ tvbox-sources/
 ├── scripts/
 │   ├── manager.py          # 收集 / 测活 / 构建
 │   ├── tv_rewriter.py      # 电视网络复测 + GitHub→jsdelivr 改写
-│   ├── build_final.py      # 生成最终订阅文件
-│   └── update_all.sh       # 一键更新
+│   ├── build_final.py      # 生成最终订阅文件（点播）
+│   ├── update_all.sh       # 一键更新（点播）
+│   ├── live_manager.py     # 直播源聚合测活
+│   ├── live_probe_all.py   # 频道级全量探测
+│   ├── build_own_live.py   # 构建自建直播源
+│   └── update_live.sh      # 一键更新（直播）
 └── .github/workflows/
     └── daily_test.yml      # 每日自动检测并更新
 ```
@@ -83,6 +105,14 @@ bash scripts/update_all.sh
 3. `build_final.py` — 按可用性排序，生成所有交付文件。
 
 > 如果你的电脑直连外网不通，可在第 1 步设置 `TVBOX_PROXY=http://127.0.0.1:2080`（仅用于抓取上游列表；第 2 步的电视可用性检测始终走直连，以保证结果贴近电视真实环境）。
+
+更新**直播源**（需在国内网络环境本地运行，因为频道连通探测依赖国内网络）：
+
+```bash
+bash scripts/update_live.sh
+```
+
+四步：抓取聚合源 → 聚合地址测活 → 频道级全量探测 → 构建自建直播源。直播源不在 GitHub Actions 上运行（海外服务器会把国内可播源误判为失效）。想新增直播来源，编辑 `scripts/live_manager.py` 的 `load_seeds()` 和 `scripts/build_own_live.py` 的 `SOURCE_FILES`。
 
 ## 改写规则
 

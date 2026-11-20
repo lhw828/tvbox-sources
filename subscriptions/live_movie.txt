@@ -1,0 +1,49 @@
+影视轮播,#genre#
+CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
+CHC家庭影院「Kimentanm」,http://101.35.240.114:88/live.php?id=CHC家庭影院
+CHC家庭影院「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+七龙珠「动漫」,https://cdn.ttvb.eu.org/huya/11601966
+七龙珠「解说」,https://cdn.ttvb.eu.org/huya/25650806
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+中华小当家「动漫」,https://cdn.ttvb.eu.org/huya/11342413
+互扇巴掌大赛「其他」,https://cdn.ttvb.eu.org/huya/20072873
+动漫•1「解说」,https://cdn.ttvb.eu.org/huya/19757963
+华语影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
+哆啦A梦「动漫」,https://cdn.ttvb.eu.org/huya/11601963
+怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+怀旧剧场「老刘备」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+恐怖电影「解说」,https://cdn.ttvb.eu.org/huya/23419131
+挨饿德•1「其他」,https://cdn.ttvb.eu.org/huya/20985858
+挨饿德•2「其他」,https://cdn.ttvb.eu.org/huya/17693860
+星光影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
+欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
+欢笑剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8
+止戈电影「解说」,https://cdn.ttvb.eu.org/huya/19863777
+治愈•放松「音乐」,https://cdn.ttvb.eu.org/huya/21241811
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+漫威「解说」,https://cdn.ttvb.eu.org/huya/17089779
+热门剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
+猫和老鼠「动漫」,https://cdn.ttvb.eu.org/huya/11352879
+电影•1「解说」,https://cdn.ttvb.eu.org/huya/20289754
+电影•2「解说」,https://cdn.ttvb.eu.org/huya/24983280
+电影•3「解说」,https://cdn.ttvb.eu.org/huya/24396428
+电视剧•1「解说」,https://cdn.ttvb.eu.org/huya/21277391
+电视剧•2「解说」,https://cdn.ttvb.eu.org/huya/25018873
+私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+第一.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+美剧「解说」,https://cdn.ttvb.eu.org/huya/20488841
+航海王「动漫」,https://cdn.ttvb.eu.org/huya/16913382
+茶啊二中「动画」,https://cdn.ttvb.eu.org/huya/11213191
+荒野求生「其他」,https://cdn.ttvb.eu.org/huya/593667
+谍战剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
+跳舞「其他」,https://cdn.ttvb.eu.org/huya/24634408
+都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+都市剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8
+野行者「其他」,https://cdn.ttvb.eu.org/huya/20072663
+阅读•学习「音乐」,https://cdn.ttvb.eu.org/huya/21241813
+音乐石榴「音乐」,https://cdn.ttvb.eu.org/huya/17091681
+音乐速递「音乐」,https://cdn.ttvb.eu.org/huya/19439762
+风云.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8

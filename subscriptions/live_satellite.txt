@@ -1,0 +1,230 @@
+卫视,#genre#
+三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
+三沙卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVaHhm7EfB24tSDTA%2B4ZUJz1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+东南卫视,mitv://generationnexxxt.com:19806/00aae4669ca24ddabf43997323ceef8e
+东南卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+东南卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=东南卫视
+东南卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228428/index.m3u8
+东南卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
+东南卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_DONGNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQ3sVbVN1ZTQKUpnK8xcf7yRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+东南卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=5fc20660dbcb940d20412d743ece597d91c8b06af193d6a9b81ad2781b1b8a54_1720509176_604800&fromCDN=ws
+东南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dnwshd8m/8000000/mnf.m3u8
+东方卫视,mitv://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
+东方卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=东方卫视
+东方卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+东方卫视「老刘备」,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfFI8ayEeoekFD8P08%2F7EXF4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+东方卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=4cb7770cf7195c2891acab71a8b5139c0f4abf80546956b07e6b8dd94b49e4e8_1720508420_604800&fromCDN=ws
+东方卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfwshd8m/8000000/mnf.m3u8
+云南卫视,mitv://generationnexxxt.com:19806/9203ba029385410793e3f2b7bffb3335
+云南卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
+云南卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHcpOXbCYIiVElKHA3dFAzTD1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+云南卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=bd74183e409c86a54debf6f2452fcadd940a4b90a2e1f981832970d2f916a945_1720509300_604800&fromCDN=ws
+云南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ynwshd8m/8000000/mnf.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
+内蒙古卫视,http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
+内蒙古卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=内蒙古卫视
+内蒙古卫视「范明明」,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+内蒙古卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
+内蒙古卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/NMGWS/index.m3u8?gMac=unknown&livodToken=a09588cc53538af6402a57be79ed9490f6cdcdaef12f38888e5a3365a7a4d7c1_1720508643_604800&fromCDN=ws
+农林卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
+北京卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+北京卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=北京卫视
+北京卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
+北京卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHX6pFJlsKFX2elUkY7G9WuYMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+北京卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=43dbb4a601652fcaea2ddbd73cd2f2f488aff86faee350276951eadd10dfb441_1720508364_604800&fromCDN=ws
+北京卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bjwshd8m/8000000/mnf.m3u8
+卫视中文台,mitv://generationnexxxt.com:19806/7f7bdcb1fb94430daa8ba120dcbfde4e
+卫视电影台,mitv://generationnexxxt.com:19806/f5f1de75dbbf48e2a21a498977ffb8e4
+厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+吉林卫视,http://101.35.240.114:88/live.php?id=吉林卫视
+吉林卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
+吉林卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226013/index.m3u8
+吉林卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_JILIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSKeM%2FnJizcqZgRu5kTtQyRSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+吉林卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=aef69bf8c1b273132c0131c77a30e70de412ec16260723968deb9a2b8a769e5a_1720508592_604800&fromCDN=ws
+吉林卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jlwshd8m/8000000/mnf.m3u8
+四川卫视,http://101.35.240.114:88/live.php?id=四川卫视
+四川卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8
+四川卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
+四川卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHShysHnFVsdNiy%2FnVMuA%2F2ui53pLIt5xLZYRaSNohMBM&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+四川卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=539d7323a2cbb4240388051e285321f2684e79db2a7c484168b386d99dc393b3_1720509350_604800&fromCDN=ws
+四川卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/scwshd/8000000/mnf.m3u8
+四川康巴卫视,http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
+国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
+大湾区卫视,mitv://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
+大湾区卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=大湾区卫视
+大湾区卫视「老刘备」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
+天津卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+天津卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=天津卫视
+天津卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+天津卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
+天津卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHaessbbY33u5MnZnHCFZZTIMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+天津卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=4d4c86675dc5e31f25de3766d077588bdbab6a5c7b52057ab88712a1cac4df7b_1720508477_604800&fromCDN=ws
+天津卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/tjwshd8m/8000000/mnf.m3u8
+宁夏卫视,http://39.134.66.66/PLTV/88888888/224/3221225579/index.m3u8
+宁夏卫视「范明明」,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+宁夏卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
+安多卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
+安徽卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视「老刘备」,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfKoKW8pLH0L%2FBk2FrKutcNTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+安徽卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=02a806c27a6d5b383b7e327402a6c5d9be864ee6bda1277c84b8bc14c914a579_1720508862_604800&fromCDN=ws
+安徽卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ahwshd8m/8000000/mnf.m3u8
+山东卫视,mitv://generationnexxxt.com:19806/be77ccef4df042ab909e0a2586844431
+山东卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=山东卫视
+山东卫视「范明明」,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+山东卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227517/index.m3u8
+山东卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
+山东卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHY%2BfIJoJ9xhIZtB7lTaNNRJ4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+山东卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/sdws8m/8000000/mnf.m3u8
+山东教育卫视,http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8
+山西卫视,http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
+山西卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=山西卫视
+山西卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山西卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
+广东卫视,mitv://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
+广东卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=广东卫视
+广东卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
+广东卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+广东卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=59fd71bc9ab8ccb098e20dba7502351a73b4a120648316b836686754ebd7dbd2_1720509211_604800&fromCDN=ws
+广东卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gdwshd8m/8000000/mnf.m3u8
+广西卫视,rtmp://live.gxrb.com.cn/hls/a23
+广西卫视「老刘备」,mitv://generationnexxxt.com:19806/eb435193f43d4c8ca09c9ce477d4d7b9
+广西卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
+广西卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_GUANGXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHUIecLjXoLUiOhb4XqRrxOuRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+广西卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws
+广西卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gxwshd8m/8000000/mnf.m3u8
+康巴卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视「老刘备」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+新疆卫视,http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+新疆卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=新疆卫视
+新疆卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+新疆卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=3b0868c32bc314dfdd41bf46f20a8179d1494db60d9ce810bb8e7be0ca092c84_1720509373_604800&fromCDN=ws
+星空卫视,mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
+江苏卫视,mitv://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
+江苏卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+江苏卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=江苏卫视
+江苏卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8
+江苏卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe%2BuH8HDFS0PtokY11nWnf4MgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+江苏卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=aca1430fdaf3c8056ece793a65c2fefdc1f59e648c06bf6e63572e4994caa97c_1720509054_604800&fromCDN=ws
+江苏卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8
+江西卫视,mitv://generationnexxxt.com:19806/d3548b106a7d45b4972427c3a75135ab
+江西卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=江西卫视
+江西卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
+江西卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
+江西卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSFtNLUdun4aiq6hb34UOKeRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+江西卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=84e38030fc4f1248603777a24ade5ab82ef30103522330bb3444634a1b66307f_1720509019_604800&fromCDN=ws
+江西卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jxws8m/8000000/mnf.m3u8
+河北卫视,mitv://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17
+河北卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+河北卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=河北卫视
+河北卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
+河北卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_HEBEI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQcq7ejyAAXuDG88sZCpS0RSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+河北卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=e80bcd155eabf8e0dbe4c1fa52d05d048c86c1398334b5085f6c985eb88548ca_1720508762_604800&fromCDN=ws
+河北卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hbwshd8m/8000000/mnf.m3u8
+河南卫视,http://101.35.240.114:88/live.php?id=河南卫视
+河南卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
+河南卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
+河南卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_HENAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWZ%2Fm7n7CVTCrcobp4nZ6sZSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+河南卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=c7713f989c35d7b798afec34071e72743fa784617458f4679369d1842cd422ac_1720508889_604800&fromCDN=ws
+河南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hnwshd8m/8000000/mnf.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视「范明明」,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视「范明明」,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视「老刘备」,mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+浙江卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=浙江卫视
+浙江卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+浙江卫视「老刘备」,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+浙江卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8
+海南卫视,http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
+海南卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=海南卫视
+海南卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
+海南卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
+海南卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTh7JGAu1YMGJ6XT%2FnqLPsRZEJK%2BpW4Fs700noHhVlGc&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+海南卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws
+海南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+深圳卫视,mitv://generationnexxxt.com:19806/b8c8ef10f65649c9a43388d771203f61
+深圳卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+深圳卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=深圳卫视
+深圳卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8
+深圳卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdBPUZJQRNJB5bOiIhhUc3d4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+深圳卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=6b52c18155b74d913b2a3060db6d74f2a29dd8a824d70f648a9882dca63fd962_1720509238_604800&fromCDN=ws
+深圳卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/szwshd8m/8000000/mnf.m3u8
+湖北卫视,mitv://generationnexxxt.com:19806/7553b94400ac4d85b752579acb37c0ce
+湖北卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+湖北卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=湖北卫视
+湖北卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖北卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
+湖北卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHc%2FzOJ%2F44TR7mqGS1%2Bw8V7hSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+湖北卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=b8f876f4b394029039b5d1733070c8731bc880530b0fb975397a5eeb37ca0cec_1720508906_604800&fromCDN=ws
+湖北卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hubeiws8m/8000000/mnf.m3u8
+湖南卫视,mitv://generationnexxxt.com:19806/45dc7947c5574ebfb0e68e5d0a537ed0
+湖南卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=湖南卫视
+湖南卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
+湖南卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+湖南卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=d70b57aaeb691e28be8f737e9f9efa413979b27dfc97da8bc6b321c828e47010_1720508965_604800&fromCDN=ws
+湖南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+甘肃卫视,http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
+甘肃卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=甘肃卫视
+甘肃卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
+甘肃卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_GANSU-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQqvE61CmV4kFMWXpFeskG1SM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+甘肃卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=171a8342304b3c81ad3c96545782987d838c6b9fb512cc6905270159a52113c2_1720508692_604800&fromCDN=ws
+甘肃卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gswshd8m/8000000/mnf.m3u8
+西藏卫视,http://39.134.66.66/PLTV/88888888/224/3221225570/index.m3u8
+西藏卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=西藏卫视
+西藏卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
+贵州卫视,http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
+贵州卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=贵州卫视
+贵州卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
+贵州卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8
+贵州卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWs5lc8HFQLTI9VPV%2F62TTuRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+贵州卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=c2389ebe3248f5e8bb2be6ba564202250815c1ffce8bf911a01e5e09705f6576_1720509315_604800&fromCDN=ws
+贵州卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
+辽宁卫视,mitv://generationnexxxt.com:19806/4b1903b35f804f1180a4b346efbabfc9
+辽宁卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
+辽宁卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=辽宁卫视
+辽宁卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHURqeVO49Tnq6K%2BWCd0TWOt4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+辽宁卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&livodToken=33bd64ae442debde91e9f2e25fd1087a9924ad3708258c548faf04b8a757b0d4_1720508620_604800&fromCDN=ws
+辽宁卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/lnwshd8m/8000000/mnf.m3u8
+重庆卫视,mitv://generationnexxxt.com:19806/c173700eaecc412695b37ac062b6abac
+重庆卫视「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+重庆卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=重庆卫视
+重庆卫视「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
+重庆卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
+重庆卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1hsd3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+重庆卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cqws8m/8000000/mnf.m3u8
+重温经典,http://101.35.240.114:88/live.php?id=重温经典
+陕西卫视,http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
+陕西卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=陕西卫视
+陕西卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
+陕西卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
+陕西卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+陕西卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws
+青海卫视,http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
+青海卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=青海卫视
+青海卫视「范明明」,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+青海卫视「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
+青海卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/QHWS/index.m3u8?gMac=unknown&livodToken=495e44fa15aa6f066ed03ad059c8141856fd0591fd05036b71f202d50d2ee91f_1720508709_604800&fromCDN=ws
+青海安多卫视,http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
+黑龙江卫视,mitv://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
+黑龙江卫视「Kimentanm」,http://101.35.240.114:88/live.php?id=黑龙江卫视
+黑龙江卫视「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑龙江卫视「老刘备」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
+黑龙江卫视「范明明」,http://58.248.112.205:8006/GD_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYGO4sBlEXR27vS0rpENy%2BBCfQjfKrVAhZ7nyqv5N0cI&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+黑龙江卫视「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=64cde00fa51eb520daec6aa6c1e3e90225906560d67b2607381a34d4431ebcc6_1720508553_604800&fromCDN=ws
+黑龙江卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hljwshd8m/8000000/mnf.m3u8

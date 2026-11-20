@@ -1,0 +1,94 @@
+{
+  "lives": [
+    {
+      "name": "自建-央视",
+      "type": 0,
+      "group": "央视",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_cctv.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-卫视",
+      "type": 0,
+      "group": "卫视",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_satellite.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-4K8K",
+      "type": 0,
+      "group": "4K8K",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_4k8k.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-国际频道",
+      "type": 0,
+      "group": "国际频道",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_international.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-地方",
+      "type": 0,
+      "group": "地方",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_local.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-咪咕",
+      "type": 0,
+      "group": "咪咕",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_migu.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-影视轮播",
+      "type": 0,
+      "group": "影视轮播",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_movie.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-游戏赛事",
+      "type": 0,
+      "group": "游戏赛事",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_game.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-春晚轮播",
+      "type": 0,
+      "group": "春晚轮播",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_gala.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "自建-其他",
+      "type": 0,
+      "group": "其他",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_other.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    }
+  ]
+}
