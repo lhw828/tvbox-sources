@@ -1,0 +1,43 @@
+name: 每日源可用性检测与自动更新
+
+on:
+  schedule:
+    # 每天北京时间 08:00 (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  test-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 收集 + 直连复测 + 构建
+        run: bash scripts/update_all.sh
+
+      - name: 生成更新时间与统计到 README
+        run: |
+          python scripts/build_final.py
+          echo "LAST_UPDATE=$(date '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+
+      - name: 提交变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 自动更新源可用性 $(date '+%Y-%m-%d')"
+            git push
+          else
+            echo "无变更"
+          fi
