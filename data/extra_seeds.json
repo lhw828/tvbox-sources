@@ -1,0 +1,7 @@
+[
+  {"id": "xiaolong69",  "name": "小龙多仓",     "url": "https://xiaolong69.github.io/tv/duo.json",                        "kind": "list"},
+  {"id": "liucn_dm",    "name": "老刘备多仓dm", "url": "https://raw.liucn.cc/box/dm.txt",                                "kind": "list"},
+  {"id": "tushen6",     "name": "谪仙多仓",      "url": "https://cdn.jsdelivr.net/gh/tushen6/Tomorrow@master/lmw.json",     "kind": "list"},
+  {"id": "agit_ys",     "name": "Yoursmile",    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",       "kind": "single"},
+  {"id": "iyouhun",     "name": "爱游魂单仓",    "url": "https://www.iyouhun.com/tv/dc",                                   "kind": "single"}
+]

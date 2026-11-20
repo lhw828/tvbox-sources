@@ -1,0 +1,893 @@
+{
+  "collected_at": "2026-11-20 12:39:27 CST",
+  "total": 95,
+  "seeds": [
+    {
+      "id": "duocang",
+      "name": "多仓(小羊)",
+      "url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/多仓.json",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:38:17 CST"
+    },
+    {
+      "id": "gao0707",
+      "name": "高天流云0707",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0707.json",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:38:17 CST"
+    },
+    {
+      "id": "feimao",
+      "name": "肥猫",
+      "url": "https://肥猫.com",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": false,
+      "fetch_status": "SSLError: HTTPSConnectionPool(host='ww38",
+      "fetched_at": "2026-11-20 12:38:19 CST"
+    },
+    {
+      "id": "ok321",
+      "name": "ok321",
+      "url": "http://ok321.top/ok",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": false,
+      "fetch_status": "ReadTimeout: HTTPConnectionPool(host='12",
+      "fetched_at": "2026-11-20 12:39:19 CST"
+    },
+    {
+      "id": "jundie",
+      "name": "俊佬top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:20 CST"
+    },
+    {
+      "id": "liucn",
+      "name": "老刘备m",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:21 CST"
+    },
+    {
+      "id": "duocang18",
+      "name": "多仓adult",
+      "url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/多仓adult.json",
+      "kind": "list",
+      "adult": true,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:21 CST"
+    },
+    {
+      "id": "xiaolong69",
+      "name": "小龙多仓",
+      "url": "https://xiaolong69.github.io/tv/duo.json",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:21 CST"
+    },
+    {
+      "id": "liucn_dm",
+      "name": "老刘备多仓dm",
+      "url": "https://raw.liucn.cc/box/dm.txt",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:23 CST"
+    },
+    {
+      "id": "tushen6",
+      "name": "谪仙多仓",
+      "url": "https://cdn.jsdelivr.net/gh/tushen6/Tomorrow@master/lmw.json",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:23 CST"
+    },
+    {
+      "id": "agit_ys",
+      "name": "Yoursmile",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:26 CST"
+    },
+    {
+      "id": "iyouhun",
+      "name": "爱游魂单仓",
+      "url": "https://www.iyouhun.com/tv/dc",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-20 12:39:27 CST"
+    }
+  ],
+  "sources": [
+    {
+      "id": "7f0806e100",
+      "name": "蜂蜜",
+      "url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "2976a0f473",
+      "name": "王二小",
+      "url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "1d1c809e70",
+      "name": "嗷呜",
+      "url": "http://itv666.cc/aowu/config.webp",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "3055bebde8",
+      "name": "我的云盘-自用",
+      "url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "66ac5c26f4",
+      "name": "我的py(可下载本地使用)",
+      "url": "https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/PyramidStore/plugin/app/example.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "661eca530f",
+      "name": "老刘备m",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "9f6c73836a",
+      "name": "俊佬top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "43b7bcf667",
+      "name": "科技长青",
+      "url": "https://13413.kstore.space/tv/changqing.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "80fab9adef",
+      "name": "青龙",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "565d65e5e7",
+      "name": "醉卧东风短剧",
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "ac1e327883",
+      "name": "玩盒助手",
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "a08b3a206f",
+      "name": "🔮巧记🔮",
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "d098596c2c",
+      "name": "TV",
+      "url": "http://tv.nxog.top/m",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "1e07741a22",
+      "name": "挺好分享",
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "bfd481bd46",
+      "name": "XS",
+      "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "52ce49b54b",
+      "name": "驸马",
+      "url": "http://fmys.top/fmys.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "1c74000af0",
+      "name": "小米",
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "cd94e516fa",
+      "name": "🐹摸鱼线路",
+      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "4b61623ea3",
+      "name": "🚀饭太硬线路",
+      "url": "http://www.xn--sss604efuw.net/tv",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "17d2304045",
+      "name": "聚玩盒子",
+      "url": "http://xhztv.top/4k.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c109b72d81",
+      "name": "小盒子",
+      "url": "http://xhztv.top/xhz",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6cb1fe31c5",
+      "name": "潇洒",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "21cac8a52f",
+      "name": "橘子柚影视",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "b06f546a1e",
+      "name": "💎菜妮丝线路",
+      "url": "https://tv.xn--yhqu5zs87a.top",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "fae22dcfe0",
+      "name": "蓝天",
+      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "61bda72954",
+      "name": "刺刺音乐",
+      "url": "https://d.kstore.dev/download/4684/hgrc.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "621055d21b",
+      "name": "巧技",
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6bb0f19df8",
+      "name": "盐枭",
+      "url": "https://9xi4o.tk/tvbox.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "57cf9ba36b",
+      "name": "蜗牛科技",
+      "url": "https://tv.xn--11x555b.top/svip",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "b6ea913ec0",
+      "name": "采集",
+      "url": "http://zhangqun1818.serv00.net/zq/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "0ac0b3b61f",
+      "name": "欧歌",
+      "url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "8d19e20561",
+      "name": "东曦视界",
+      "url": "https://box.iqinu.com/",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "e7e86b1e3b",
+      "name": "动漫城",
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "5f58ff4a6d",
+      "name": "天微",
+      "url": "https://play.iptv365.org/天微/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "16fbdfdfc1",
+      "name": "开心软件",
+      "url": "https://play.iptv365.org/天天开心/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "8dbcb281b4",
+      "name": "香雅情",
+      "url": "https://play.iptv365.org/香雅情/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "8edf2fa168",
+      "name": "南风",
+      "url": "https://play.iptv365.org/南风/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "289a73c462",
+      "name": "白嫖",
+      "url": "https://play.iptv365.org/白嫖/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6769f0d4f7",
+      "name": "未知",
+      "url": "https://play.iptv365.org/戏曲音乐/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "03199dc291",
+      "name": "短剧仓库",
+      "url": "https://play.iptv365.org/短剧频道/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "318dfcaeb5",
+      "name": "雷蒙",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "a998258cbc",
+      "name": "分享者",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "7712710b21",
+      "name": "胜寒",
+      "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "49909fd75d",
+      "name": "环宇轩",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "4c5b481efa",
+      "name": "小脑斧",
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "55900c628b",
+      "name": "少儿专区",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "e342d64899",
+      "name": "PizazzGY",
+      "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "b272e86c96",
+      "name": "乐哥短剧",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "48231768a1",
+      "name": "恋影",
+      "url": "https://www.lianyingtv.com/fast/fast",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "38f8df4c16",
+      "name": "花生",
+      "url": "https://o.nxog.top/apitv.php?id=9",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "2b3b82f44d",
+      "name": "多多",
+      "url": "https://o.nxog.top/apitv.php?id=12",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "8cef4fb838",
+      "name": "傻逼线路（验证码777）",
+      "url": "https://fmbox.cc",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c766e8739b",
+      "name": "无名之辈",
+      "url": "https://4708.kstore.space/svip/svip.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c5f14c2026",
+      "name": "🍎南风🍎",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "3e6ce89c61",
+      "name": "🌱真心🌱",
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "42c33628b1",
+      "name": "光哥",
+      "url": "https://o.nxog.top/apitv.php?id=100&b=o",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c7f894a46a",
+      "name": "潇洒",
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "b0eed540c7",
+      "name": "残月",
+      "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
+      "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "7faa39812c",
+      "name": "高天流云 No.1",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "75e0967f88",
+      "name": "高天流云 PG",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f5c2622c54",
+      "name": "高天流云 FTY",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "cd9a927b88",
+      "name": "高天流云 FM",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6a82546b90",
+      "name": "高天流云 JS",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f73d8b4913",
+      "name": "高天流云 XYQ",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "a814d0d414",
+      "name": "supermeguo18ðŸˆ²",
+      "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+      "from": "多仓adult",
+      "adult": true,
+      "note": ""
+    },
+    {
+      "id": "049debd476",
+      "name": "bizhangjieðŸˆ²1",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+      "from": "多仓adult",
+      "adult": true,
+      "note": ""
+    },
+    {
+      "id": "6c2cd64a60",
+      "name": "bizhangjieðŸˆ²2",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+      "from": "多仓adult",
+      "adult": true,
+      "note": ""
+    },
+    {
+      "id": "cca89d6f31",
+      "name": "自用版本",
+      "url": "https://xiaolong69.github.io/tv/1.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "70aedf0f88",
+      "name": "自用版本备用",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f34ba2bc67",
+      "name": "🚀One线路",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "1f77e1e88c",
+      "name": "🚀香雅情线路",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "eaf3c533d2",
+      "name": "🚀王二小线路",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "91fcf30501",
+      "name": "🚀老虎线路",
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "5b409dce62",
+      "name": "🚀老刘备线路",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "579062c103",
+      "name": "🐹月光线路",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "27dec30a44",
+      "name": "🐹欧歌线路",
+      "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "2ebaf94a9a",
+      "name": "🐹青龙线路",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "df03996b76",
+      "name": "💎胜寒线路",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c73a54e735",
+      "name": "💎小马线路",
+      "url": "http://szyyds.cn/tv/x.json",
+      "from": "小龙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "62e71f9087",
+      "name": "老刘备多仓dm",
+      "url": "https://raw.liucn.cc/box/dm.txt",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "e01bfdda2d",
+      "name": "🤓网络🤓",
+      "url": "https://8815.kstore.vip/tvbox/wmz",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "893ede3ad6",
+      "name": "👽饭太硬👿",
+      "url": "https://www.xn--sss604efuw.cc/tv",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "d2370b62c6",
+      "name": "🐼肥猫🐼",
+      "url": "http://xn--z7x900a.net/tv",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "fa45fd001d",
+      "name": "🐂王二小🐮",
+      "url": "https://9280.kstore.vip/aiwex.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "04f1ac744c",
+      "name": "🐿️嗷呜🐿️",
+      "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "a98702457f",
+      "name": "💫潇洒💫",
+      "url": "https://9877.kstore.space/one.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "a53dde64ac",
+      "name": "🐟摸鱼🐟",
+      "url": "http://www.xn--ihq545aq7p.com",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c6cba30cd9",
+      "name": "🤓东篱🤓",
+      "url": "https://16151.kstore.space",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "5cd500c26c",
+      "name": "👿小米👿",
+      "url": "https://www.tangsan.fun/tv",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "17a882a43f",
+      "name": "🐯虎斑🐯",
+      "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "3403c51213",
+      "name": "🌈欧歌🌈",
+      "url": "https://xn--dkw0c.v.nxog.top/m/",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "324c84d56c",
+      "name": "⚪PG⚪",
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "e5922d31f3",
+      "name": "📚道长📚",
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "from": "谪仙多仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "d8fc64d0b7",
+      "name": "Yoursmile",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "5fce68bc6a",
+      "name": "爱游魂单仓",
+      "url": "https://www.iyouhun.com/tv/dc",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "warning": "成人内容源,未纳入主订阅,按需手动添加",
+  "count": 3,
+  "urls": [
+    {
+      "name": "bizhangjieðŸˆ²1",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
+    },
+    {
+      "name": "bizhangjieðŸˆ²2",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
+    },
+    {
+      "name": "supermeguo18ðŸˆ²",
+      "url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json"
+    }
+  ]
+}
