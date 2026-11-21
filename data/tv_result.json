@@ -1,296 +1,10 @@
 {
-  "tested_at": "2026-11-20 12:41:40 CST",
+  "tested_at": "2026-11-21 14:21:14 CST",
   "network": "直连(模拟电视,无代理)",
-  "total": 95,
-  "tv_ok": 60,
-  "rewritten_alive": 23,
+  "total": 89,
+  "tv_ok": 54,
+  "rewritten_alive": 20,
   "results": [
-    {
-      "id": "ac1e327883",
-      "name": "玩盒助手",
-      "orig_url": "https://chuanshuo.77blog.cn/tv.json",
-      "tv_url": "https://chuanshuo.77blog.cn/tv.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.27,
-        "size": 0,
-        "final": "https://chuanshuo.77blog.cn/tv.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.27,
-        "size": 0,
-        "final": "https://chuanshuo.77blog.cn/tv.json"
-      },
-      "tv_ok": false,
-      "latency": 0.27,
-      "size": 0
-    },
-    {
-      "id": "9f6c73836a",
-      "name": "俊佬top98",
-      "orig_url": "http://home.jundie.top:81/top98.json",
-      "tv_url": "http://home.jundie.top:81/top98.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "用户提供",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.29,
-        "size": 16543,
-        "final": "http://home.jundie.top:81/top98.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.29,
-        "size": 16543,
-        "final": "http://home.jundie.top:81/top98.json"
-      },
-      "tv_ok": true,
-      "latency": 0.29,
-      "size": 16543
-    },
-    {
-      "id": "43b7bcf667",
-      "name": "科技长青",
-      "orig_url": "https://13413.kstore.space/tv/changqing.json",
-      "tv_url": "https://13413.kstore.space/tv/changqing.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.37,
-        "size": 24728,
-        "final": "https://13413.kstore.space/tv/changqing.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.37,
-        "size": 24728,
-        "final": "https://13413.kstore.space/tv/changqing.json"
-      },
-      "tv_ok": true,
-      "latency": 0.37,
-      "size": 24728
-    },
-    {
-      "id": "80fab9adef",
-      "name": "青龙",
-      "orig_url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
-      "tv_url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 423,
-        "latency": 0.26,
-        "size": 100,
-        "final": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 423,
-        "latency": 0.15,
-        "size": 100,
-        "final": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
-      },
-      "tv_ok": false,
-      "latency": 0.15,
-      "size": 100
-    },
-    {
-      "id": "d098596c2c",
-      "name": "TV",
-      "orig_url": "http://tv.nxog.top/m",
-      "tv_url": "http://tv.nxog.top/m",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.17,
-        "size": 0,
-        "final": "http://tv.nxog.top/m"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.17,
-        "size": 0,
-        "final": "http://tv.nxog.top/m"
-      },
-      "tv_ok": false,
-      "latency": 0.17,
-      "size": 0
-    },
-    {
-      "id": "1e07741a22",
-      "name": "挺好分享",
-      "orig_url": "https://ztha.top/TVBox/thdjk.json",
-      "tv_url": "https://ztha.top/TVBox/thdjk.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.28,
-        "size": 16530,
-        "final": "https://ztha.top/TVBox/thdjk.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.28,
-        "size": 16530,
-        "final": "https://ztha.top/TVBox/thdjk.json"
-      },
-      "tv_ok": true,
-      "latency": 0.28,
-      "size": 16530
-    },
-    {
-      "id": "3055bebde8",
-      "name": "我的云盘-自用",
-      "orig_url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.66,
-        "size": 455,
-        "final": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.66,
-        "size": 455,
-        "final": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json"
-      },
-      "tv_ok": true,
-      "latency": 0.66,
-      "size": 455
-    },
-    {
-      "id": "7f0806e100",
-      "name": "蜂蜜",
-      "orig_url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.82,
-        "size": 72,
-        "final": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.82,
-        "size": 72,
-        "final": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json"
-      },
-      "tv_ok": false,
-      "latency": 0.82,
-      "size": 72
-    },
-    {
-      "id": "1d1c809e70",
-      "name": "嗷呜",
-      "orig_url": "http://itv666.cc/aowu/config.webp",
-      "tv_url": "http://itv666.cc/aowu/config.webp",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 418,
-        "latency": 0.86,
-        "size": 0,
-        "final": "http://xn--nsr30bl8nb2kyt7a8vs.top/tv"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 418,
-        "latency": 0.86,
-        "size": 0,
-        "final": "http://xn--nsr30bl8nb2kyt7a8vs.top/tv"
-      },
-      "tv_ok": false,
-      "latency": 0.86,
-      "size": 0
-    },
-    {
-      "id": "bfd481bd46",
-      "name": "XS",
-      "orig_url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
-      "tv_url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.53,
-        "size": 26230,
-        "final": "https://git.acwing.com/users/sign_in"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.53,
-        "size": 26230,
-        "final": "https://git.acwing.com/users/sign_in"
-      },
-      "tv_ok": true,
-      "latency": 0.53,
-      "size": 26230
-    },
-    {
-      "id": "52ce49b54b",
-      "name": "驸马",
-      "orig_url": "http://fmys.top/fmys.json",
-      "tv_url": "http://fmys.top/fmys.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.56,
-        "size": 479,
-        "final": "http://fmys.top/fmys.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.56,
-        "size": 479,
-        "final": "http://fmys.top/fmys.json"
-      },
-      "tv_ok": false,
-      "latency": 0.56,
-      "size": 479
-    },
     {
       "id": "661eca530f",
       "name": "老刘备m",
@@ -302,202 +16,20 @@
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.97,
+        "latency": 0.12,
         "size": 57874,
         "final": "https://raw.liucn.cc/box/m.json"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.97,
+        "latency": 0.12,
         "size": 57874,
         "final": "https://raw.liucn.cc/box/m.json"
       },
       "tv_ok": true,
-      "latency": 0.97,
+      "latency": 0.12,
       "size": 57874
-    },
-    {
-      "id": "66ac5c26f4",
-      "name": "我的py(可下载本地使用)",
-      "orig_url": "https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/PyramidStore/plugin/app/example.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/PyramidStore/plugin/app/example.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.51,
-        "size": 366,
-        "final": "https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/PyramidStore/plugin/app/example.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.58,
-        "size": 366,
-        "final": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/PyramidStore/plugin/app/example.json"
-      },
-      "tv_ok": true,
-      "latency": 0.58,
-      "size": 366
-    },
-    {
-      "id": "cd94e516fa",
-      "name": "🐹摸鱼线路",
-      "orig_url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com",
-      "tv_url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.5,
-        "size": 6990,
-        "final": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.5,
-        "size": 6990,
-        "final": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/"
-      },
-      "tv_ok": true,
-      "latency": 0.5,
-      "size": 6990
-    },
-    {
-      "id": "4b61623ea3",
-      "name": "🚀饭太硬线路",
-      "orig_url": "http://www.xn--sss604efuw.net/tv",
-      "tv_url": "http://www.xn--sss604efuw.net/tv",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.65,
-        "size": 18715,
-        "final": "http://www.xn--sss604efuw.net/tv"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.65,
-        "size": 18715,
-        "final": "http://www.xn--sss604efuw.net/tv"
-      },
-      "tv_ok": true,
-      "latency": 0.65,
-      "size": 18715
-    },
-    {
-      "id": "1c74000af0",
-      "name": "小米",
-      "orig_url": "http://www.mpanso.com/小米/DEMO.json",
-      "tv_url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.46,
-        "size": 236,
-        "final": "http://www.mpanso.com/小米/DEMO.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.41,
-        "size": 236,
-        "final": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
-      },
-      "tv_ok": false,
-      "latency": 0.41,
-      "size": 236
-    },
-    {
-      "id": "fae22dcfe0",
-      "name": "蓝天",
-      "orig_url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
-      "tv_url": "https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 423,
-        "latency": 0.19,
-        "size": 97,
-        "final": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 423,
-        "latency": 0.25,
-        "size": 97,
-        "final": "https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json"
-      },
-      "tv_ok": false,
-      "latency": 0.25,
-      "size": 97
-    },
-    {
-      "id": "6cb1fe31c5",
-      "name": "潇洒",
-      "orig_url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/qist/tvbox@refs/heads/master/xiaosa/api.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.03,
-        "size": 0,
-        "final": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.8,
-        "size": 28081,
-        "final": "https://cdn.jsdelivr.net/gh/qist/tvbox@refs/heads/master/xiaosa/api.json"
-      },
-      "tv_ok": true,
-      "latency": 0.8,
-      "size": 28081
-    },
-    {
-      "id": "17d2304045",
-      "name": "聚玩盒子",
-      "orig_url": "http://xhztv.top/4k.json",
-      "tv_url": "http://xhztv.top/4k.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.12,
-        "size": 30612,
-        "final": "http://xhztv.top/4k.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.12,
-        "size": 30612,
-        "final": "http://xhztv.top/4k.json"
-      },
-      "tv_ok": true,
-      "latency": 1.12,
-      "size": 30612
     },
     {
       "id": "a08b3a206f",
@@ -510,72 +42,332 @@
       "orig_check": {
         "ok": false,
         "code": 0,
-        "latency": 2.13,
+        "latency": 0.26,
         "size": 0,
         "final": "http://cdn.qiaoji8.com/tvbox.json"
       },
       "tv_check": {
         "ok": false,
         "code": 0,
-        "latency": 2.13,
+        "latency": 0.26,
         "size": 0,
         "final": "http://cdn.qiaoji8.com/tvbox.json"
       },
       "tv_ok": false,
-      "latency": 2.13,
+      "latency": 0.26,
       "size": 0
     },
     {
-      "id": "0ac0b3b61f",
-      "name": "欧歌",
-      "orig_url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
-      "tv_url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+      "id": "3055bebde8",
+      "name": "我的云盘-自用",
+      "orig_url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.43,
+        "size": 455,
+        "final": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.43,
+        "size": 455,
+        "final": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/alist/cust_littleyang.json"
+      },
+      "tv_ok": true,
+      "latency": 0.43,
+      "size": 455
+    },
+    {
+      "id": "43b7bcf667",
+      "name": "科技长青",
+      "orig_url": "https://13413.kstore.space/tv/changqing.json",
+      "tv_url": "https://13413.kstore.space/tv/changqing.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.49,
+        "size": 24728,
+        "final": "https://13413.kstore.space/tv/changqing.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.49,
+        "size": 24728,
+        "final": "https://13413.kstore.space/tv/changqing.json"
+      },
+      "tv_ok": true,
+      "latency": 0.49,
+      "size": 24728
+    },
+    {
+      "id": "7f0806e100",
+      "name": "蜂蜜",
+      "orig_url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
       "rewrite": "",
       "adult": false,
       "from": "多仓(小羊)",
       "orig_check": {
         "ok": false,
-        "code": 0,
-        "latency": 0.15,
-        "size": 0,
-        "final": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3"
+        "code": 404,
+        "latency": 0.51,
+        "size": 72,
+        "final": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json"
       },
       "tv_check": {
         "ok": false,
-        "code": 0,
-        "latency": 0.15,
-        "size": 0,
-        "final": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3"
+        "code": 404,
+        "latency": 0.51,
+        "size": 72,
+        "final": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json"
       },
       "tv_ok": false,
-      "latency": 0.15,
-      "size": 0
+      "latency": 0.51,
+      "size": 72
     },
     {
-      "id": "21cac8a52f",
-      "name": "橘子柚影视",
-      "orig_url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
-      "tv_url": "https://cdn.jsdelivr.net/gh/hackyjso/box@main/jzy.txt",
+      "id": "66ac5c26f4",
+      "name": "我的py(可下载本地使用)",
+      "orig_url": "https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/PyramidStore/plugin/app/example.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/PyramidStore/plugin/app/example.json",
       "rewrite": "github(代理/raw)→jsdelivr",
       "adult": false,
       "from": "多仓(小羊)",
       "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.02,
-        "size": 0,
-        "final": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt"
+        "ok": true,
+        "code": 200,
+        "latency": 0.13,
+        "size": 366,
+        "final": "https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/PyramidStore/plugin/app/example.json"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 1.07,
-        "size": 56672,
-        "final": "https://cdn.jsdelivr.net/gh/hackyjso/box@main/jzy.txt"
+        "latency": 0.56,
+        "size": 366,
+        "final": "https://cdn.jsdelivr.net/gh/yangxiaoge/tvbox_cust@master/tvbox/PyramidStore/plugin/app/example.json"
       },
       "tv_ok": true,
-      "latency": 1.07,
-      "size": 56672
+      "latency": 0.56,
+      "size": 366
+    },
+    {
+      "id": "2976a0f473",
+      "name": "王二小",
+      "orig_url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
+      "tv_url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.77,
+        "size": 936,
+        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.77,
+        "size": 936,
+        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+      },
+      "tv_ok": true,
+      "latency": 0.77,
+      "size": 936
+    },
+    {
+      "id": "1c74000af0",
+      "name": "小米",
+      "orig_url": "http://www.mpanso.com/小米/DEMO.json",
+      "tv_url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.22,
+        "size": 236,
+        "final": "http://www.mpanso.com/小米/DEMO.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.26,
+        "size": 236,
+        "final": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
+      },
+      "tv_ok": false,
+      "latency": 0.26,
+      "size": 236
+    },
+    {
+      "id": "d098596c2c",
+      "name": "TV",
+      "orig_url": "http://tv.nxog.top/m",
+      "tv_url": "http://tv.nxog.top/m",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 0.91,
+        "size": 146,
+        "final": "http://tv.nxog.top/m/"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 0.91,
+        "size": 146,
+        "final": "http://tv.nxog.top/m/"
+      },
+      "tv_ok": false,
+      "latency": 0.91,
+      "size": 146
+    },
+    {
+      "id": "bfd481bd46",
+      "name": "XS",
+      "orig_url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+      "tv_url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 0.7,
+        "size": 146,
+        "final": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 0.7,
+        "size": 146,
+        "final": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json"
+      },
+      "tv_ok": false,
+      "latency": 0.7,
+      "size": 146
+    },
+    {
+      "id": "cd94e516fa",
+      "name": "🐹摸鱼线路",
+      "orig_url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com",
+      "tv_url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com",
+      "rewrite": "",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.53,
+        "size": 6990,
+        "final": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.53,
+        "size": 6990,
+        "final": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/"
+      },
+      "tv_ok": true,
+      "latency": 0.53,
+      "size": 6990
+    },
+    {
+      "id": "9f6c73836a",
+      "name": "俊佬top98",
+      "orig_url": "http://home.jundie.top:81/top98.json",
+      "tv_url": "http://home.jundie.top:81/top98.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "用户提供",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.24,
+        "size": 16543,
+        "final": "http://home.jundie.top:81/top98.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.24,
+        "size": 16543,
+        "final": "http://home.jundie.top:81/top98.json"
+      },
+      "tv_ok": true,
+      "latency": 1.24,
+      "size": 16543
+    },
+    {
+      "id": "52ce49b54b",
+      "name": "驸马",
+      "orig_url": "http://fmys.top/fmys.json",
+      "tv_url": "http://fmys.top/fmys.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.85,
+        "size": 479,
+        "final": "http://fmys.top/fmys.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.85,
+        "size": 479,
+        "final": "http://fmys.top/fmys.json"
+      },
+      "tv_ok": false,
+      "latency": 0.85,
+      "size": 479
+    },
+    {
+      "id": "17d2304045",
+      "name": "聚玩盒子",
+      "orig_url": "http://xhztv.top/4k.json",
+      "tv_url": "http://xhztv.top/4k.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.45,
+        "size": 30612,
+        "final": "http://xhztv.top/4k.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.45,
+        "size": 30612,
+        "final": "http://xhztv.top/4k.json"
+      },
+      "tv_ok": true,
+      "latency": 0.45,
+      "size": 30612
     },
     {
       "id": "c109b72d81",
@@ -588,124 +380,124 @@
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 1.34,
+        "latency": 0.51,
         "size": 19728,
         "final": "http://xhztv.top/xhz/"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 1.34,
+        "latency": 0.51,
         "size": 19728,
         "final": "http://xhztv.top/xhz/"
       },
       "tv_ok": true,
-      "latency": 1.34,
+      "latency": 0.51,
       "size": 19728
     },
     {
-      "id": "e7e86b1e3b",
-      "name": "动漫城",
-      "orig_url": "https://www.yingm.cc/dm/dm.json",
-      "tv_url": "https://www.yingm.cc/dm/dm.json",
+      "id": "1e07741a22",
+      "name": "挺好分享",
+      "orig_url": "https://ztha.top/TVBox/thdjk.json",
+      "tv_url": "https://ztha.top/TVBox/thdjk.json",
       "rewrite": "",
       "adult": false,
       "from": "多仓(小羊)",
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.13,
-        "size": 8737,
-        "final": "https://www.yingm.cc/dm/dm.json"
+        "latency": 1.26,
+        "size": 16530,
+        "final": "https://ztha.top/TVBox/thdjk.json"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.13,
-        "size": 8737,
-        "final": "https://www.yingm.cc/dm/dm.json"
+        "latency": 1.26,
+        "size": 16530,
+        "final": "https://ztha.top/TVBox/thdjk.json"
       },
       "tv_ok": true,
-      "latency": 0.13,
-      "size": 8737
+      "latency": 1.26,
+      "size": 16530
     },
     {
-      "id": "b6ea913ec0",
-      "name": "采集",
-      "orig_url": "http://zhangqun1818.serv00.net/zq/api.json",
-      "tv_url": "http://zhangqun1818.serv00.net/zq/api.json",
-      "rewrite": "",
+      "id": "21cac8a52f",
+      "name": "橘子柚影视",
+      "orig_url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+      "tv_url": "https://cdn.jsdelivr.net/gh/hackyjso/box@main/jzy.txt",
+      "rewrite": "github(代理/raw)→jsdelivr",
       "adult": false,
       "from": "多仓(小羊)",
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.73,
-        "size": 12834,
-        "final": "http://zhangqun1818.serv00.net/zq/api.json"
+        "latency": 0.24,
+        "size": 56672,
+        "final": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.73,
-        "size": 12834,
-        "final": "http://zhangqun1818.serv00.net/zq/api.json"
+        "latency": 0.15,
+        "size": 56672,
+        "final": "https://cdn.jsdelivr.net/gh/hackyjso/box@main/jzy.txt"
       },
       "tv_ok": true,
-      "latency": 0.73,
-      "size": 12834
+      "latency": 0.15,
+      "size": 56672
     },
     {
-      "id": "8d19e20561",
-      "name": "东曦视界",
-      "orig_url": "https://box.iqinu.com/",
-      "tv_url": "https://box.iqinu.com/",
+      "id": "4b61623ea3",
+      "name": "🚀饭太硬线路",
+      "orig_url": "http://www.xn--sss604efuw.net/tv",
+      "tv_url": "http://www.xn--sss604efuw.net/tv",
       "rewrite": "",
       "adult": false,
-      "from": "多仓(小羊)",
+      "from": "小龙多仓",
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 1.07,
-        "size": 623,
-        "final": "https://box.iqinu.com/"
+        "latency": 0.9,
+        "size": 13012,
+        "final": "http://www.xn--sss604efuw.net/"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 1.07,
-        "size": 623,
-        "final": "https://box.iqinu.com/"
+        "latency": 0.9,
+        "size": 13012,
+        "final": "http://www.xn--sss604efuw.net/"
       },
       "tv_ok": true,
-      "latency": 1.07,
-      "size": 623
+      "latency": 0.9,
+      "size": 13012
     },
     {
-      "id": "6bb0f19df8",
-      "name": "盐枭",
-      "orig_url": "https://9xi4o.tk/tvbox.json",
-      "tv_url": "https://9xi4o.tk/tvbox.json",
+      "id": "61bda72954",
+      "name": "刺刺音乐",
+      "orig_url": "https://d.kstore.dev/download/4684/hgrc.json",
+      "tv_url": "https://d.kstore.dev/download/4684/hgrc.json",
       "rewrite": "",
       "adult": false,
       "from": "多仓(小羊)",
       "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 2.13,
-        "size": 0,
-        "final": "https://9xi4o.tk/tvbox.json"
+        "ok": true,
+        "code": 200,
+        "latency": 0.26,
+        "size": 10173,
+        "final": "https://d.kstore.dev/download/4684/hgrc.json"
       },
       "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 2.13,
-        "size": 0,
-        "final": "https://9xi4o.tk/tvbox.json"
+        "ok": true,
+        "code": 200,
+        "latency": 0.26,
+        "size": 10173,
+        "final": "https://d.kstore.dev/download/4684/hgrc.json"
       },
-      "tv_ok": false,
-      "latency": 2.13,
-      "size": 0
+      "tv_ok": true,
+      "latency": 0.26,
+      "size": 10173
     },
     {
       "id": "b06f546a1e",
@@ -718,20 +510,254 @@
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 2.96,
+        "latency": 0.51,
         "size": 13622,
         "final": "https://tv.xn--yhqu5zs87a.top/"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 2.96,
+        "latency": 0.51,
         "size": 13622,
         "final": "https://tv.xn--yhqu5zs87a.top/"
       },
       "tv_ok": true,
-      "latency": 2.96,
+      "latency": 0.51,
       "size": 13622
+    },
+    {
+      "id": "6cb1fe31c5",
+      "name": "潇洒",
+      "orig_url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/qist/tvbox@refs/heads/master/xiaosa/api.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.21,
+        "size": 29063,
+        "final": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.5,
+        "size": 29063,
+        "final": "https://cdn.jsdelivr.net/gh/qist/tvbox@refs/heads/master/xiaosa/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.5,
+      "size": 29063
+    },
+    {
+      "id": "57cf9ba36b",
+      "name": "蜗牛科技",
+      "orig_url": "https://tv.xn--11x555b.top/svip",
+      "tv_url": "https://tv.xn--11x555b.top/svip",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.35,
+        "size": 117040,
+        "final": "https://tv.xn--11x555b.top/svip"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.35,
+        "size": 117040,
+        "final": "https://tv.xn--11x555b.top/svip"
+      },
+      "tv_ok": true,
+      "latency": 0.35,
+      "size": 117040
+    },
+    {
+      "id": "6bb0f19df8",
+      "name": "盐枭",
+      "orig_url": "https://9xi4o.tk/tvbox.json",
+      "tv_url": "https://9xi4o.tk/tvbox.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "https://9xi4o.tk/tvbox.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "https://9xi4o.tk/tvbox.json"
+      },
+      "tv_ok": false,
+      "latency": 0.26,
+      "size": 0
+    },
+    {
+      "id": "b6ea913ec0",
+      "name": "采集",
+      "orig_url": "http://zhangqun1818.serv00.net/zq/api.json",
+      "tv_url": "http://zhangqun1818.serv00.net/zq/api.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.51,
+        "size": 12834,
+        "final": "http://zhangqun1818.serv00.net/zq/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.51,
+        "size": 12834,
+        "final": "http://zhangqun1818.serv00.net/zq/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.51,
+      "size": 12834
+    },
+    {
+      "id": "ac1e327883",
+      "name": "玩盒助手",
+      "orig_url": "https://chuanshuo.77blog.cn/tv.json",
+      "tv_url": "https://chuanshuo.77blog.cn/tv.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 2.2,
+        "size": 0,
+        "final": "https://chuanshuo.77blog.cn/tv.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 2.2,
+        "size": 0,
+        "final": "https://chuanshuo.77blog.cn/tv.json"
+      },
+      "tv_ok": false,
+      "latency": 2.2,
+      "size": 0
+    },
+    {
+      "id": "8d19e20561",
+      "name": "东曦视界",
+      "orig_url": "https://box.iqinu.com/",
+      "tv_url": "https://box.iqinu.com/",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.51,
+        "size": 623,
+        "final": "https://box.iqinu.com/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.51,
+        "size": 623,
+        "final": "https://box.iqinu.com/"
+      },
+      "tv_ok": true,
+      "latency": 0.51,
+      "size": 623
+    },
+    {
+      "id": "5f58ff4a6d",
+      "name": "天微",
+      "orig_url": "https://play.iptv365.org/天微/api.json",
+      "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%BE%AE/api.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.22,
+        "size": 51249,
+        "final": "https://play.iptv365.org/天微/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.09,
+        "size": 51249,
+        "final": "https://play.iptv365.org/%E5%A4%A9%E5%BE%AE/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.09,
+      "size": 51249
+    },
+    {
+      "id": "16fbdfdfc1",
+      "name": "开心软件",
+      "orig_url": "https://play.iptv365.org/天天开心/api.json",
+      "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.14,
+        "size": 65316,
+        "final": "https://play.iptv365.org/天天开心/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.09,
+        "size": 65316,
+        "final": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.09,
+      "size": 65316
+    },
+    {
+      "id": "8edf2fa168",
+      "name": "南风",
+      "orig_url": "https://play.iptv365.org/南风/api.json",
+      "tv_url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.1,
+        "size": 47733,
+        "final": "https://play.iptv365.org/南风/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.09,
+        "size": 47733,
+        "final": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.09,
+      "size": 47733
     },
     {
       "id": "289a73c462",
@@ -744,20 +770,202 @@
       "orig_check": {
         "ok": true,
         "code": 200,
-        "latency": 2.61,
+        "latency": 0.06,
         "size": 4633,
         "final": "https://play.iptv365.org/白嫖/api.json"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.74,
+        "latency": 0.06,
         "size": 4633,
         "final": "https://play.iptv365.org/%E7%99%BD%E5%AB%96/api.json"
       },
       "tv_ok": true,
-      "latency": 0.74,
+      "latency": 0.06,
       "size": 4633
+    },
+    {
+      "id": "8dbcb281b4",
+      "name": "香雅情",
+      "orig_url": "https://play.iptv365.org/香雅情/api.json",
+      "tv_url": "https://play.iptv365.org/%E9%A6%99%E9%9B%85%E6%83%85/api.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.16,
+        "size": 33882,
+        "final": "https://play.iptv365.org/香雅情/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.06,
+        "size": 33882,
+        "final": "https://play.iptv365.org/%E9%A6%99%E9%9B%85%E6%83%85/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.06,
+      "size": 33882
+    },
+    {
+      "id": "0ac0b3b61f",
+      "name": "欧歌",
+      "orig_url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+      "tv_url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.77,
+        "size": 0,
+        "final": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.77,
+        "size": 0,
+        "final": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3"
+      },
+      "tv_ok": false,
+      "latency": 0.77,
+      "size": 0
+    },
+    {
+      "id": "03199dc291",
+      "name": "短剧仓库",
+      "orig_url": "https://play.iptv365.org/短剧频道/api.json",
+      "tv_url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.07,
+        "size": 26754,
+        "final": "https://play.iptv365.org/短剧频道/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.08,
+        "size": 26754,
+        "final": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.08,
+      "size": 26754
+    },
+    {
+      "id": "6769f0d4f7",
+      "name": "未知",
+      "orig_url": "https://play.iptv365.org/戏曲音乐/api.json",
+      "tv_url": "https://play.iptv365.org/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.07,
+        "size": 13739,
+        "final": "https://play.iptv365.org/戏曲音乐/api.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.11,
+        "size": 13739,
+        "final": "https://play.iptv365.org/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json"
+      },
+      "tv_ok": true,
+      "latency": 0.11,
+      "size": 13739
+    },
+    {
+      "id": "e7e86b1e3b",
+      "name": "动漫城",
+      "orig_url": "https://www.yingm.cc/dm/dm.json",
+      "tv_url": "https://www.yingm.cc/dm/dm.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.2,
+        "size": 8737,
+        "final": "https://www.yingm.cc/dm/dm.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.2,
+        "size": 8737,
+        "final": "https://www.yingm.cc/dm/dm.json"
+      },
+      "tv_ok": true,
+      "latency": 1.2,
+      "size": 8737
+    },
+    {
+      "id": "4c5b481efa",
+      "name": "小脑斧",
+      "orig_url": "https://6492.kstore.space/xnf/xnf.json",
+      "tv_url": "https://6492.kstore.space/xnf/xnf.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 401,
+        "latency": 0.57,
+        "size": 22,
+        "final": "https://6492.kstore.space/xnf/xnf.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 401,
+        "latency": 0.57,
+        "size": 22,
+        "final": "https://6492.kstore.space/xnf/xnf.json"
+      },
+      "tv_ok": false,
+      "latency": 0.57,
+      "size": 22
+    },
+    {
+      "id": "1d1c809e70",
+      "name": "嗷呜",
+      "orig_url": "http://itv666.cc/aowu/config.webp",
+      "tv_url": "http://itv666.cc/aowu/config.webp",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 3.11,
+        "size": 4004,
+        "final": "http://www.xn--nsr30b.cc/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 3.11,
+        "size": 4004,
+        "final": "http://www.xn--nsr30b.cc/"
+      },
+      "tv_ok": true,
+      "latency": 3.11,
+      "size": 4004
     },
     {
       "id": "318dfcaeb5",
@@ -768,22 +976,1244 @@
       "adult": false,
       "from": "多仓(小羊)",
       "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.04,
-        "size": 0,
+        "ok": true,
+        "code": 200,
+        "latency": 0.19,
+        "size": 65592,
         "final": "https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json"
       },
       "tv_check": {
         "ok": true,
         "code": 200,
-        "latency": 0.89,
+        "latency": 0.51,
         "size": 65592,
         "final": "https://cdn.jsdelivr.net/gh/n3rddd/N3RD@master/JN/lempg.json"
       },
       "tv_ok": true,
-      "latency": 0.89,
+      "latency": 0.51,
       "size": 65592
+    },
+    {
+      "id": "55900c628b",
+      "name": "少儿专区",
+      "orig_url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "tv_url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.64,
+        "size": 57932,
+        "final": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.64,
+        "size": 57932,
+        "final": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+      },
+      "tv_ok": true,
+      "latency": 0.64,
+      "size": 57932
+    },
+    {
+      "id": "80fab9adef",
+      "name": "青龙",
+      "orig_url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+      "tv_url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 423,
+        "latency": 1.6,
+        "size": 100,
+        "final": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 423,
+        "latency": 1.63,
+        "size": 100,
+        "final": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
+      },
+      "tv_ok": false,
+      "latency": 1.63,
+      "size": 100
+    },
+    {
+      "id": "8cef4fb838",
+      "name": "傻逼线路（验证码777）",
+      "orig_url": "https://fmbox.cc",
+      "tv_url": "https://fmbox.cc",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 0.05,
+        "size": 4542,
+        "final": "https://fmbox.cc/"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 0.05,
+        "size": 4542,
+        "final": "https://fmbox.cc/"
+      },
+      "tv_ok": false,
+      "latency": 0.05,
+      "size": 4542
+    },
+    {
+      "id": "48231768a1",
+      "name": "恋影",
+      "orig_url": "https://www.lianyingtv.com/fast/fast",
+      "tv_url": "https://www.lianyingtv.com/fast/fast",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.44,
+        "size": 0,
+        "final": "https://www.lianyingtv.com/fast/fast"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.44,
+        "size": 0,
+        "final": "https://www.lianyingtv.com/fast/fast"
+      },
+      "tv_ok": false,
+      "latency": 0.44,
+      "size": 0
+    },
+    {
+      "id": "c766e8739b",
+      "name": "无名之辈",
+      "orig_url": "https://4708.kstore.space/svip/svip.json",
+      "tv_url": "https://4708.kstore.space/svip/svip.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 401,
+        "latency": 0.58,
+        "size": 22,
+        "final": "https://4708.kstore.space/svip/svip.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 401,
+        "latency": 0.58,
+        "size": 22,
+        "final": "https://4708.kstore.space/svip/svip.json"
+      },
+      "tv_ok": false,
+      "latency": 0.58,
+      "size": 22
+    },
+    {
+      "id": "e342d64899",
+      "name": "PizazzGY",
+      "orig_url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@blob/main/api.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.37,
+        "size": 66,
+        "final": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@blob/main/api.json"
+      },
+      "tv_ok": false,
+      "latency": 0.37,
+      "size": 66
+    },
+    {
+      "id": "c5f14c2026",
+      "name": "🍎南风🍎",
+      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.15,
+        "size": 68233,
+        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.23,
+        "size": 68233,
+        "final": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"
+      },
+      "tv_ok": true,
+      "latency": 0.23,
+      "size": 68233
+    },
+    {
+      "id": "2b3b82f44d",
+      "name": "多多",
+      "orig_url": "https://o.nxog.top/apitv.php?id=12",
+      "tv_url": "https://o.nxog.top/apitv.php?id=12",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.02,
+        "size": 4788,
+        "final": "https://o.nxog.top/apitv.php?id=12"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.02,
+        "size": 4788,
+        "final": "https://o.nxog.top/apitv.php?id=12"
+      },
+      "tv_ok": false,
+      "latency": 1.02,
+      "size": 4788
+    },
+    {
+      "id": "38f8df4c16",
+      "name": "花生",
+      "orig_url": "https://o.nxog.top/apitv.php?id=9",
+      "tv_url": "https://o.nxog.top/apitv.php?id=9",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.07,
+        "size": 4788,
+        "final": "https://o.nxog.top/apitv.php?id=9"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.07,
+        "size": 4788,
+        "final": "https://o.nxog.top/apitv.php?id=9"
+      },
+      "tv_ok": false,
+      "latency": 1.07,
+      "size": 4788
+    },
+    {
+      "id": "fae22dcfe0",
+      "name": "蓝天",
+      "orig_url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
+      "tv_url": "https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 423,
+        "latency": 1.0,
+        "size": 97,
+        "final": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 423,
+        "latency": 1.97,
+        "size": 97,
+        "final": "https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json"
+      },
+      "tv_ok": false,
+      "latency": 1.97,
+      "size": 97
+    },
+    {
+      "id": "c7f894a46a",
+      "name": "潇洒",
+      "orig_url": "https://9877.kstore.space/AnotherD/api.json",
+      "tv_url": "https://9877.kstore.space/AnotherD/api.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 502,
+        "latency": 0.41,
+        "size": 150,
+        "final": "https://9877.kstore.space/AnotherD/api.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 502,
+        "latency": 0.41,
+        "size": 150,
+        "final": "https://9877.kstore.space/AnotherD/api.json"
+      },
+      "tv_ok": false,
+      "latency": 0.41,
+      "size": 150
+    },
+    {
+      "id": "b0eed540c7",
+      "name": "残月",
+      "orig_url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
+      "tv_url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.22,
+        "size": 167,
+        "final": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.22,
+        "size": 167,
+        "final": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"
+      },
+      "tv_ok": true,
+      "latency": 0.22,
+      "size": 167
+    },
+    {
+      "id": "cca89d6f31",
+      "name": "自用版本",
+      "orig_url": "https://xiaolong69.github.io/tv/1.json",
+      "tv_url": "https://xiaolong69.github.io/tv/1.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.12,
+        "size": 16529,
+        "final": "https://xiaolong69.github.io/tv/1.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.12,
+        "size": 16529,
+        "final": "https://xiaolong69.github.io/tv/1.json"
+      },
+      "tv_ok": true,
+      "latency": 0.12,
+      "size": 16529
+    },
+    {
+      "id": "3e6ce89c61",
+      "name": "🌱真心🌱",
+      "orig_url": "https://www.252035.xyz/z/FongMi.json",
+      "tv_url": "https://www.252035.xyz/z/FongMi.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.67,
+        "size": 18346,
+        "final": "https://www.252035.xyz/z/FongMi.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.67,
+        "size": 18346,
+        "final": "https://www.252035.xyz/z/FongMi.json"
+      },
+      "tv_ok": true,
+      "latency": 0.67,
+      "size": 18346
+    },
+    {
+      "id": "a998258cbc",
+      "name": "分享者",
+      "orig_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/maoystv/6@main/001.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 1.71,
+        "size": 113,
+        "final": "https://cdn.jsdelivr.net/gh/maoystv/6@main/001.json"
+      },
+      "tv_ok": false,
+      "latency": 1.71,
+      "size": 113
+    },
+    {
+      "id": "a814d0d414",
+      "name": "supermeguo18ðŸˆ²",
+      "orig_url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": true,
+      "from": "多仓adult",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.13,
+        "size": 29360,
+        "final": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.57,
+        "size": 29360,
+        "final": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json"
+      },
+      "tv_ok": true,
+      "latency": 0.57,
+      "size": 29360
+    },
+    {
+      "id": "42c33628b1",
+      "name": "光哥",
+      "orig_url": "https://o.nxog.top/apitv.php?id=100&b=o",
+      "tv_url": "https://o.nxog.top/apitv.php?id=100&b=o",
+      "rewrite": "",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.02,
+        "size": 4788,
+        "final": "https://o.nxog.top/apitv.php?id=100&b=o"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.02,
+        "size": 4788,
+        "final": "https://o.nxog.top/apitv.php?id=100&b=o"
+      },
+      "tv_ok": false,
+      "latency": 1.02,
+      "size": 4788
+    },
+    {
+      "id": "1f77e1e88c",
+      "name": "🚀香雅情线路",
+      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.14,
+        "size": 24822,
+        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.24,
+        "size": 24822,
+        "final": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json"
+      },
+      "tv_ok": true,
+      "latency": 0.24,
+      "size": 24822
+    },
+    {
+      "id": "6c2cd64a60",
+      "name": "bizhangjieðŸˆ²2",
+      "orig_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+      "rewrite": "",
+      "adult": true,
+      "from": "多仓adult",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.65,
+        "size": 37820,
+        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.65,
+        "size": 37820,
+        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
+      },
+      "tv_ok": true,
+      "latency": 0.65,
+      "size": 37820
+    },
+    {
+      "id": "049debd476",
+      "name": "bizhangjieðŸˆ²1",
+      "orig_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+      "rewrite": "",
+      "adult": true,
+      "from": "多仓adult",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.79,
+        "size": 48091,
+        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.79,
+        "size": 48091,
+        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
+      },
+      "tv_ok": true,
+      "latency": 0.79,
+      "size": 48091
+    },
+    {
+      "id": "91fcf30501",
+      "name": "🚀老虎线路",
+      "orig_url": "http://tv.laohu.cool/tvbox.json",
+      "tv_url": "http://tv.laohu.cool/tvbox.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "http://tv.laohu.cool/tvbox.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "http://tv.laohu.cool/tvbox.json"
+      },
+      "tv_ok": false,
+      "latency": 0.26,
+      "size": 0
+    },
+    {
+      "id": "7712710b21",
+      "name": "胜寒",
+      "orig_url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
+      "rewrite": "bgithub镜像→jsdelivr",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.64,
+        "size": 23457,
+        "final": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 2.29,
+        "size": 23457,
+        "final": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json"
+      },
+      "tv_ok": true,
+      "latency": 2.29,
+      "size": 23457
+    },
+    {
+      "id": "5b409dce62",
+      "name": "🚀老刘备线路",
+      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.37,
+        "size": 57874,
+        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.06,
+        "size": 57874,
+        "final": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
+      },
+      "tv_ok": true,
+      "latency": 0.06,
+      "size": 57874
+    },
+    {
+      "id": "49909fd75d",
+      "name": "环宇轩",
+      "orig_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/xnftv/xnf@main/hyxuan.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 2.6,
+        "size": 19907,
+        "final": "https://cdn.jsdelivr.net/gh/xnftv/xnf@main/hyxuan.json"
+      },
+      "tv_ok": true,
+      "latency": 2.6,
+      "size": 19907
+    },
+    {
+      "id": "62e71f9087",
+      "name": "老刘备多仓dm",
+      "orig_url": "https://raw.liucn.cc/box/dm.txt",
+      "tv_url": "https://raw.liucn.cc/box/dm.txt",
+      "rewrite": "",
+      "adult": false,
+      "from": "用户提供",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.08,
+        "size": 1331,
+        "final": "https://raw.liucn.cc/box/dm.txt"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.08,
+        "size": 1331,
+        "final": "https://raw.liucn.cc/box/dm.txt"
+      },
+      "tv_ok": true,
+      "latency": 0.08,
+      "size": 1331
+    },
+    {
+      "id": "b272e86c96",
+      "name": "乐哥短剧",
+      "orig_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "多仓(小羊)",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.26,
+        "size": 0,
+        "final": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 2.08,
+        "size": 48,
+        "final": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json"
+      },
+      "tv_ok": false,
+      "latency": 2.08,
+      "size": 48
+    },
+    {
+      "id": "df03996b76",
+      "name": "💎胜寒线路",
+      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.19,
+        "size": 23457,
+        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.29,
+        "size": 23457,
+        "final": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json"
+      },
+      "tv_ok": true,
+      "latency": 0.29,
+      "size": 23457
+    },
+    {
+      "id": "f34ba2bc67",
+      "name": "🚀One线路",
+      "orig_url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/leevi0709/one@main/jsm.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.06,
+        "size": 6990,
+        "final": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.42,
+        "size": 60,
+        "final": "https://cdn.jsdelivr.net/gh/leevi0709/one@main/jsm.json"
+      },
+      "tv_ok": false,
+      "latency": 0.42,
+      "size": 60
+    },
+    {
+      "id": "e01bfdda2d",
+      "name": "🤓网络🤓",
+      "orig_url": "https://8815.kstore.vip/tvbox/wmz",
+      "tv_url": "https://8815.kstore.vip/tvbox/wmz",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.49,
+        "size": 29571,
+        "final": "https://8815.kstore.vip/tvbox/wmz"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.49,
+        "size": 29571,
+        "final": "https://8815.kstore.vip/tvbox/wmz"
+      },
+      "tv_ok": true,
+      "latency": 0.49,
+      "size": 29571
+    },
+    {
+      "id": "893ede3ad6",
+      "name": "👽饭太硬👿",
+      "orig_url": "https://www.xn--sss604efuw.cc/tv",
+      "tv_url": "https://www.xn--sss604efuw.cc/tv",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.62,
+        "size": 13012,
+        "final": "https://www.xn--sss604efuw.cc/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.62,
+        "size": 13012,
+        "final": "https://www.xn--sss604efuw.cc/"
+      },
+      "tv_ok": true,
+      "latency": 0.62,
+      "size": 13012
+    },
+    {
+      "id": "70aedf0f88",
+      "name": "自用版本备用",
+      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/xiaolong69/tv@main/1.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.24,
+        "size": 16529,
+        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 403,
+        "latency": 1.55,
+        "size": 115,
+        "final": "https://cdn.jsdelivr.net/gh/xiaolong69/tv@main/1.json"
+      },
+      "tv_ok": false,
+      "latency": 1.55,
+      "size": 115
+    },
+    {
+      "id": "eaf3c533d2",
+      "name": "🚀王二小线路",
+      "orig_url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "tv_url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "rewrite": "",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.44,
+        "size": 936,
+        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.44,
+        "size": 936,
+        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+      },
+      "tv_ok": true,
+      "latency": 1.44,
+      "size": 936
+    },
+    {
+      "id": "579062c103",
+      "name": "🐹月光线路",
+      "orig_url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+      "tv_url": "https://cdn.jsdelivr.net/gh/guot55/yg@main/ygbox.json",
+      "rewrite": "github(代理/raw)→jsdelivr",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.59,
+        "size": 6990,
+        "final": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.74,
+        "size": 142179,
+        "final": "https://cdn.jsdelivr.net/gh/guot55/yg@main/ygbox.json"
+      },
+      "tv_ok": true,
+      "latency": 0.74,
+      "size": 142179
+    },
+    {
+      "id": "a53dde64ac",
+      "name": "🐟摸鱼🐟",
+      "orig_url": "http://www.xn--ihq545aq7p.com",
+      "tv_url": "http://www.xn--ihq545aq7p.com",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.03,
+        "size": 0,
+        "final": "http://www.xn--ihq545aq7p.com/"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.03,
+        "size": 0,
+        "final": "http://www.xn--ihq545aq7p.com/"
+      },
+      "tv_ok": false,
+      "latency": 0.03,
+      "size": 0
+    },
+    {
+      "id": "fa45fd001d",
+      "name": "🐂王二小🐮",
+      "orig_url": "https://9280.kstore.vip/aiwex.json",
+      "tv_url": "https://9280.kstore.vip/aiwex.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.46,
+        "size": 34815,
+        "final": "https://9280.kstore.vip/aiwex.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.46,
+        "size": 34815,
+        "final": "https://9280.kstore.vip/aiwex.json"
+      },
+      "tv_ok": true,
+      "latency": 0.46,
+      "size": 34815
+    },
+    {
+      "id": "27dec30a44",
+      "name": "🐹欧歌线路",
+      "orig_url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "tv_url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8Ctkh",
+      "rewrite": "中文路径编码",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.61,
+        "size": 0,
+        "final": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 1.03,
+        "size": 0,
+        "final": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8Ctkh"
+      },
+      "tv_ok": false,
+      "latency": 1.03,
+      "size": 0
+    },
+    {
+      "id": "a98702457f",
+      "name": "💫潇洒💫",
+      "orig_url": "https://9877.kstore.space/one.json",
+      "tv_url": "https://9877.kstore.space/one.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 502,
+        "latency": 0.61,
+        "size": 150,
+        "final": "https://9877.kstore.space/one.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 502,
+        "latency": 0.61,
+        "size": 150,
+        "final": "https://9877.kstore.space/one.json"
+      },
+      "tv_ok": false,
+      "latency": 0.61,
+      "size": 150
+    },
+    {
+      "id": "c6cba30cd9",
+      "name": "🤓东篱🤓",
+      "orig_url": "https://16151.kstore.space",
+      "tv_url": "https://16151.kstore.space",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.53,
+        "size": 60026,
+        "final": "https://16151.kstore.space/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.53,
+        "size": 60026,
+        "final": "https://16151.kstore.space/"
+      },
+      "tv_ok": true,
+      "latency": 0.53,
+      "size": 60026
+    },
+    {
+      "id": "d2370b62c6",
+      "name": "🐼肥猫🐼",
+      "orig_url": "http://xn--z7x900a.net/tv",
+      "tv_url": "http://xn--z7x900a.net/tv",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.15,
+        "size": 1269,
+        "final": "http://xn--z7x900a.net/tv"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 1.15,
+        "size": 1269,
+        "final": "http://xn--z7x900a.net/tv"
+      },
+      "tv_ok": false,
+      "latency": 1.15,
+      "size": 1269
+    },
+    {
+      "id": "d8fc64d0b7",
+      "name": "Yoursmile",
+      "orig_url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "tv_url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "用户提供",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.16,
+        "size": 114,
+        "final": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.16,
+        "size": 114,
+        "final": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+      },
+      "tv_ok": true,
+      "latency": 0.16,
+      "size": 114
+    },
+    {
+      "id": "e5922d31f3",
+      "name": "📚道长📚",
+      "orig_url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "tv_url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.27,
+        "size": 2699,
+        "final": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 404,
+        "latency": 0.27,
+        "size": 2699,
+        "final": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
+      },
+      "tv_ok": false,
+      "latency": 0.27,
+      "size": 2699
+    },
+    {
+      "id": "2ebaf94a9a",
+      "name": "🐹青龙线路",
+      "orig_url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+      "tv_url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 423,
+        "latency": 1.95,
+        "size": 100,
+        "final": "https://gitee.com/yiwu369/6758/raw/master/1.json"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 423,
+        "latency": 1.95,
+        "size": 100,
+        "final": "https://gitee.com/yiwu369/6758/raw/master/1.json"
+      },
+      "tv_ok": false,
+      "latency": 1.95,
+      "size": 100
+    },
+    {
+      "id": "04f1ac744c",
+      "name": "🐿️嗷呜🐿️",
+      "orig_url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
+      "tv_url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.12,
+        "size": 4004,
+        "final": "http://www.xn--nsr30b.cc/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.12,
+        "size": 4004,
+        "final": "http://www.xn--nsr30b.cc/"
+      },
+      "tv_ok": true,
+      "latency": 1.12,
+      "size": 4004
+    },
+    {
+      "id": "3403c51213",
+      "name": "🌈欧歌🌈",
+      "orig_url": "https://xn--dkw0c.v.nxog.top/m/",
+      "tv_url": "https://xn--dkw0c.v.nxog.top/m/",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.83,
+        "size": 0,
+        "final": "https://xn--dkw0c.v.nxog.top/m/"
+      },
+      "tv_check": {
+        "ok": false,
+        "code": 0,
+        "latency": 0.83,
+        "size": 0,
+        "final": "https://xn--dkw0c.v.nxog.top/m/"
+      },
+      "tv_ok": false,
+      "latency": 0.83,
+      "size": 0
+    },
+    {
+      "id": "324c84d56c",
+      "name": "⚪PG⚪",
+      "orig_url": "https://www.252035.xyz/p/jsm.json",
+      "tv_url": "https://www.252035.xyz/p/jsm.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "谪仙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.72,
+        "size": 34366,
+        "final": "https://www.252035.xyz/p/jsm.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 0.72,
+        "size": 34366,
+        "final": "https://www.252035.xyz/p/jsm.json"
+      },
+      "tv_ok": true,
+      "latency": 0.72,
+      "size": 34366
+    },
+    {
+      "id": "c73a54e735",
+      "name": "💎小马线路",
+      "orig_url": "http://szyyds.cn/tv/x.json",
+      "tv_url": "http://szyyds.cn/tv/x.json",
+      "rewrite": "",
+      "adult": false,
+      "from": "小龙多仓",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 2.71,
+        "size": 30571,
+        "final": "https://szyyds.cn/tv/x.json"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 2.71,
+        "size": 30571,
+        "final": "https://szyyds.cn/tv/x.json"
+      },
+      "tv_ok": true,
+      "latency": 2.71,
+      "size": 30571
+    },
+    {
+      "id": "5fce68bc6a",
+      "name": "爱游魂单仓",
+      "orig_url": "https://www.iyouhun.com/tv/dc",
+      "tv_url": "https://www.iyouhun.com/tv/dc",
+      "rewrite": "",
+      "adult": false,
+      "from": "用户提供",
+      "orig_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.74,
+        "size": 18774,
+        "final": "https://www.xn--s6wu47g.com/"
+      },
+      "tv_check": {
+        "ok": true,
+        "code": 200,
+        "latency": 1.74,
+        "size": 18774,
+        "final": "https://www.xn--s6wu47g.com/"
+      },
+      "tv_ok": true,
+      "latency": 1.74,
+      "size": 18774
     },
     {
       "id": "565d65e5e7",
@@ -796,72 +2226,46 @@
       "orig_check": {
         "ok": false,
         "code": 0,
-        "latency": 12.01,
+        "latency": 12.0,
         "size": 0,
         "final": "http://74.120.175.78/JK/XYQTVBox/dj.json"
       },
       "tv_check": {
         "ok": false,
         "code": 0,
-        "latency": 12.01,
+        "latency": 12.0,
         "size": 0,
         "final": "http://74.120.175.78/JK/XYQTVBox/dj.json"
       },
       "tv_ok": false,
-      "latency": 12.01,
+      "latency": 12.0,
       "size": 0
     },
     {
-      "id": "2976a0f473",
-      "name": "王二小",
-      "orig_url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
-      "tv_url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
-      "rewrite": "",
+      "id": "17a882a43f",
+      "name": "🐯虎斑🐯",
+      "orig_url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
+      "tv_url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95",
+      "rewrite": "中文路径编码",
       "adult": false,
-      "from": "多仓(小羊)",
+      "from": "谪仙多仓",
       "orig_check": {
-        "ok": false,
-        "code": 302,
-        "latency": 12.63,
-        "size": 0,
-        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+        "ok": true,
+        "code": 200,
+        "latency": 5.46,
+        "size": 4606,
+        "final": "https://link3.cc/huban"
       },
       "tv_check": {
-        "ok": false,
-        "code": 302,
-        "latency": 12.63,
-        "size": 0,
-        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
+        "ok": true,
+        "code": 200,
+        "latency": 1.57,
+        "size": 4606,
+        "final": "https://link3.cc/huban"
       },
-      "tv_ok": false,
-      "latency": 12.63,
-      "size": 0
-    },
-    {
-      "id": "61bda72954",
-      "name": "刺刺音乐",
-      "orig_url": "https://d.kstore.dev/download/4684/hgrc.json",
-      "tv_url": "https://d.kstore.dev/download/4684/hgrc.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.02,
-        "size": 0,
-        "final": "https://d.kstore.dev/download/4684/hgrc.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.02,
-        "size": 0,
-        "final": "https://d.kstore.dev/download/4684/hgrc.json"
-      },
-      "tv_ok": false,
-      "latency": 12.02,
-      "size": 0
+      "tv_ok": true,
+      "latency": 1.57,
+      "size": 4606
     },
     {
       "id": "621055d21b",
@@ -890,1566 +2294,6 @@
       "size": 0
     },
     {
-      "id": "4c5b481efa",
-      "name": "小脑斧",
-      "orig_url": "https://6492.kstore.space/xnf/xnf.json",
-      "tv_url": "https://6492.kstore.space/xnf/xnf.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 401,
-        "latency": 0.23,
-        "size": 22,
-        "final": "https://6492.kstore.space/xnf/xnf.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 401,
-        "latency": 0.23,
-        "size": 22,
-        "final": "https://6492.kstore.space/xnf/xnf.json"
-      },
-      "tv_ok": false,
-      "latency": 0.23,
-      "size": 22
-    },
-    {
-      "id": "57cf9ba36b",
-      "name": "蜗牛科技",
-      "orig_url": "https://tv.xn--11x555b.top/svip",
-      "tv_url": "https://tv.xn--11x555b.top/svip",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 29202,
-        "final": "https://tv.xn--11x555b.top/svip"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 29202,
-        "final": "https://tv.xn--11x555b.top/svip"
-      },
-      "tv_ok": true,
-      "latency": 12.01,
-      "size": 29202
-    },
-    {
-      "id": "55900c628b",
-      "name": "少儿专区",
-      "orig_url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "tv_url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.39,
-        "size": 57932,
-        "final": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.39,
-        "size": 57932,
-        "final": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
-      },
-      "tv_ok": true,
-      "latency": 0.39,
-      "size": 57932
-    },
-    {
-      "id": "48231768a1",
-      "name": "恋影",
-      "orig_url": "https://www.lianyingtv.com/fast/fast",
-      "tv_url": "https://www.lianyingtv.com/fast/fast",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.36,
-        "size": 0,
-        "final": "https://www.lianyingtv.com/fast/fast"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.36,
-        "size": 0,
-        "final": "https://www.lianyingtv.com/fast/fast"
-      },
-      "tv_ok": false,
-      "latency": 0.36,
-      "size": 0
-    },
-    {
-      "id": "38f8df4c16",
-      "name": "花生",
-      "orig_url": "https://o.nxog.top/apitv.php?id=9",
-      "tv_url": "https://o.nxog.top/apitv.php?id=9",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.25,
-        "size": 4788,
-        "final": "https://o.nxog.top/apitv.php?id=9"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.25,
-        "size": 4788,
-        "final": "https://o.nxog.top/apitv.php?id=9"
-      },
-      "tv_ok": false,
-      "latency": 0.25,
-      "size": 4788
-    },
-    {
-      "id": "2b3b82f44d",
-      "name": "多多",
-      "orig_url": "https://o.nxog.top/apitv.php?id=12",
-      "tv_url": "https://o.nxog.top/apitv.php?id=12",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.24,
-        "size": 4788,
-        "final": "https://o.nxog.top/apitv.php?id=12"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.24,
-        "size": 4788,
-        "final": "https://o.nxog.top/apitv.php?id=12"
-      },
-      "tv_ok": false,
-      "latency": 0.24,
-      "size": 4788
-    },
-    {
-      "id": "5f58ff4a6d",
-      "name": "天微",
-      "orig_url": "https://play.iptv365.org/天微/api.json",
-      "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%BE%AE/api.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.82,
-        "size": 51249,
-        "final": "https://play.iptv365.org/天微/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 10164,
-        "final": "https://play.iptv365.org/%E5%A4%A9%E5%BE%AE/api.json"
-      },
-      "tv_ok": true,
-      "latency": 12.01,
-      "size": 10164
-    },
-    {
-      "id": "c766e8739b",
-      "name": "无名之辈",
-      "orig_url": "https://4708.kstore.space/svip/svip.json",
-      "tv_url": "https://4708.kstore.space/svip/svip.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 401,
-        "latency": 0.19,
-        "size": 22,
-        "final": "https://4708.kstore.space/svip/svip.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 401,
-        "latency": 0.19,
-        "size": 22,
-        "final": "https://4708.kstore.space/svip/svip.json"
-      },
-      "tv_ok": false,
-      "latency": 0.19,
-      "size": 22
-    },
-    {
-      "id": "8dbcb281b4",
-      "name": "香雅情",
-      "orig_url": "https://play.iptv365.org/香雅情/api.json",
-      "tv_url": "https://play.iptv365.org/%E9%A6%99%E9%9B%85%E6%83%85/api.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 7.07,
-        "size": 33882,
-        "final": "https://play.iptv365.org/香雅情/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 6.21,
-        "size": 33882,
-        "final": "https://play.iptv365.org/%E9%A6%99%E9%9B%85%E6%83%85/api.json"
-      },
-      "tv_ok": true,
-      "latency": 6.21,
-      "size": 33882
-    },
-    {
-      "id": "8cef4fb838",
-      "name": "傻逼线路（验证码777）",
-      "orig_url": "https://fmbox.cc",
-      "tv_url": "https://fmbox.cc",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 302,
-        "latency": 1.06,
-        "size": 0,
-        "final": "http://wckgkract.pepenero.cn/hhD&isnf=ftvjamrb3951608244&ext=9158"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 302,
-        "latency": 1.06,
-        "size": 0,
-        "final": "http://wckgkract.pepenero.cn/hhD&isnf=ftvjamrb3951608244&ext=9158"
-      },
-      "tv_ok": false,
-      "latency": 1.06,
-      "size": 0
-    },
-    {
-      "id": "3e6ce89c61",
-      "name": "🌱真心🌱",
-      "orig_url": "https://www.252035.xyz/z/FongMi.json",
-      "tv_url": "https://www.252035.xyz/z/FongMi.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.33,
-        "size": 18346,
-        "final": "https://www.252035.xyz/z/FongMi.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.33,
-        "size": 18346,
-        "final": "https://www.252035.xyz/z/FongMi.json"
-      },
-      "tv_ok": true,
-      "latency": 0.33,
-      "size": 18346
-    },
-    {
-      "id": "42c33628b1",
-      "name": "光哥",
-      "orig_url": "https://o.nxog.top/apitv.php?id=100&b=o",
-      "tv_url": "https://o.nxog.top/apitv.php?id=100&b=o",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.22,
-        "size": 4788,
-        "final": "https://o.nxog.top/apitv.php?id=100&b=o"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.22,
-        "size": 4788,
-        "final": "https://o.nxog.top/apitv.php?id=100&b=o"
-      },
-      "tv_ok": false,
-      "latency": 0.22,
-      "size": 4788
-    },
-    {
-      "id": "c7f894a46a",
-      "name": "潇洒",
-      "orig_url": "https://9877.kstore.space/AnotherD/api.json",
-      "tv_url": "https://9877.kstore.space/AnotherD/api.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.13,
-        "size": 0,
-        "final": "https://9877.kstore.space/AnotherD/api.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.13,
-        "size": 0,
-        "final": "https://9877.kstore.space/AnotherD/api.json"
-      },
-      "tv_ok": false,
-      "latency": 0.13,
-      "size": 0
-    },
-    {
-      "id": "c5f14c2026",
-      "name": "🍎南风🍎",
-      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.01,
-        "size": 0,
-        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.87,
-        "size": 68201,
-        "final": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"
-      },
-      "tv_ok": true,
-      "latency": 0.87,
-      "size": 68201
-    },
-    {
-      "id": "8edf2fa168",
-      "name": "南风",
-      "orig_url": "https://play.iptv365.org/南风/api.json",
-      "tv_url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 32447,
-        "final": "https://play.iptv365.org/南风/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.83,
-        "size": 47733,
-        "final": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json"
-      },
-      "tv_ok": true,
-      "latency": 1.83,
-      "size": 47733
-    },
-    {
-      "id": "75e0967f88",
-      "name": "高天流云 PG",
-      "orig_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "高天流云0707",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.51,
-        "size": 27518,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.51,
-        "size": 27518,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json"
-      },
-      "tv_ok": true,
-      "latency": 0.51,
-      "size": 27518
-    },
-    {
-      "id": "7faa39812c",
-      "name": "高天流云 No.1",
-      "orig_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "高天流云0707",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.55,
-        "size": 22974,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.55,
-        "size": 22974,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
-      },
-      "tv_ok": true,
-      "latency": 0.55,
-      "size": 22974
-    },
-    {
-      "id": "b0eed540c7",
-      "name": "残月",
-      "orig_url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
-      "tv_url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.63,
-        "size": 167,
-        "final": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.63,
-        "size": 167,
-        "final": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"
-      },
-      "tv_ok": true,
-      "latency": 0.63,
-      "size": 167
-    },
-    {
-      "id": "f73d8b4913",
-      "name": "高天流云 XYQ",
-      "orig_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "高天流云0707",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.85,
-        "size": 19203,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.85,
-        "size": 19203,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"
-      },
-      "tv_ok": true,
-      "latency": 0.85,
-      "size": 19203
-    },
-    {
-      "id": "cd9a927b88",
-      "name": "高天流云 FM",
-      "orig_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "高天流云0707",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.89,
-        "size": 9973,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.89,
-        "size": 9973,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"
-      },
-      "tv_ok": true,
-      "latency": 0.89,
-      "size": 9973
-    },
-    {
-      "id": "6769f0d4f7",
-      "name": "未知",
-      "orig_url": "https://play.iptv365.org/戏曲音乐/api.json",
-      "tv_url": "https://play.iptv365.org/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 9.88,
-        "size": 13739,
-        "final": "https://play.iptv365.org/戏曲音乐/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 4.35,
-        "size": 13739,
-        "final": "https://play.iptv365.org/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json"
-      },
-      "tv_ok": true,
-      "latency": 4.35,
-      "size": 13739
-    },
-    {
-      "id": "f5c2622c54",
-      "name": "高天流云 FTY",
-      "orig_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "高天流云0707",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.6,
-        "size": 10559,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.6,
-        "size": 10559,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json"
-      },
-      "tv_ok": true,
-      "latency": 1.6,
-      "size": 10559
-    },
-    {
-      "id": "049debd476",
-      "name": "bizhangjieðŸˆ²1",
-      "orig_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
-      "rewrite": "",
-      "adult": true,
-      "from": "多仓adult",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.1,
-        "size": 48091,
-        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.1,
-        "size": 48091,
-        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"
-      },
-      "tv_ok": true,
-      "latency": 1.1,
-      "size": 48091
-    },
-    {
-      "id": "6c2cd64a60",
-      "name": "bizhangjieðŸˆ²2",
-      "orig_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
-      "rewrite": "",
-      "adult": true,
-      "from": "多仓adult",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.94,
-        "size": 37820,
-        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.94,
-        "size": 37820,
-        "final": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json"
-      },
-      "tv_ok": true,
-      "latency": 0.94,
-      "size": 37820
-    },
-    {
-      "id": "cca89d6f31",
-      "name": "自用版本",
-      "orig_url": "https://xiaolong69.github.io/tv/1.json",
-      "tv_url": "https://xiaolong69.github.io/tv/1.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.89,
-        "size": 16529,
-        "final": "https://xiaolong69.github.io/tv/1.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.89,
-        "size": 16529,
-        "final": "https://xiaolong69.github.io/tv/1.json"
-      },
-      "tv_ok": true,
-      "latency": 0.89,
-      "size": 16529
-    },
-    {
-      "id": "70aedf0f88",
-      "name": "自用版本备用",
-      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/xiaolong69/tv@main/1.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.03,
-        "size": 0,
-        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.81,
-        "size": 16529,
-        "final": "https://cdn.jsdelivr.net/gh/xiaolong69/tv@main/1.json"
-      },
-      "tv_ok": true,
-      "latency": 0.81,
-      "size": 16529
-    },
-    {
-      "id": "f34ba2bc67",
-      "name": "🚀One线路",
-      "orig_url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/leevi0709/one@main/jsm.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.02,
-        "size": 0,
-        "final": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.78,
-        "size": 60,
-        "final": "https://cdn.jsdelivr.net/gh/leevi0709/one@main/jsm.json"
-      },
-      "tv_ok": false,
-      "latency": 0.78,
-      "size": 60
-    },
-    {
-      "id": "1f77e1e88c",
-      "name": "🚀香雅情线路",
-      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.02,
-        "size": 0,
-        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.94,
-        "size": 24822,
-        "final": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json"
-      },
-      "tv_ok": true,
-      "latency": 0.94,
-      "size": 24822
-    },
-    {
-      "id": "a814d0d414",
-      "name": "supermeguo18ðŸˆ²",
-      "orig_url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": true,
-      "from": "多仓adult",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.14,
-        "size": 29360,
-        "final": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.57,
-        "size": 29360,
-        "final": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json"
-      },
-      "tv_ok": true,
-      "latency": 1.57,
-      "size": 29360
-    },
-    {
-      "id": "a998258cbc",
-      "name": "分享者",
-      "orig_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/maoystv/6@main/001.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.01,
-        "size": 0,
-        "final": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.29,
-        "size": 83634,
-        "final": "https://cdn.jsdelivr.net/gh/maoystv/6@main/001.json"
-      },
-      "tv_ok": true,
-      "latency": 1.29,
-      "size": 83634
-    },
-    {
-      "id": "27dec30a44",
-      "name": "🐹欧歌线路",
-      "orig_url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "tv_url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8Ctkh",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.16,
-        "size": 0,
-        "final": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.15,
-        "size": 0,
-        "final": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8Ctkh"
-      },
-      "tv_ok": false,
-      "latency": 0.15,
-      "size": 0
-    },
-    {
-      "id": "5b409dce62",
-      "name": "🚀老刘备线路",
-      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.03,
-        "size": 0,
-        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.22,
-        "size": 57874,
-        "final": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
-      },
-      "tv_ok": true,
-      "latency": 1.22,
-      "size": 57874
-    },
-    {
-      "id": "2ebaf94a9a",
-      "name": "🐹青龙线路",
-      "orig_url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-      "tv_url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 423,
-        "latency": 0.15,
-        "size": 100,
-        "final": "https://gitee.com/yiwu369/6758/raw/master/1.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 423,
-        "latency": 0.15,
-        "size": 100,
-        "final": "https://gitee.com/yiwu369/6758/raw/master/1.json"
-      },
-      "tv_ok": false,
-      "latency": 0.15,
-      "size": 100
-    },
-    {
-      "id": "91fcf30501",
-      "name": "🚀老虎线路",
-      "orig_url": "http://tv.laohu.cool/tvbox.json",
-      "tv_url": "http://tv.laohu.cool/tvbox.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 2.13,
-        "size": 0,
-        "final": "http://tv.laohu.cool/tvbox.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 2.13,
-        "size": 0,
-        "final": "http://tv.laohu.cool/tvbox.json"
-      },
-      "tv_ok": false,
-      "latency": 2.13,
-      "size": 0
-    },
-    {
-      "id": "df03996b76",
-      "name": "💎胜寒线路",
-      "orig_url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.03,
-        "size": 0,
-        "final": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.8,
-        "size": 23457,
-        "final": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json"
-      },
-      "tv_ok": true,
-      "latency": 0.8,
-      "size": 23457
-    },
-    {
-      "id": "62e71f9087",
-      "name": "老刘备多仓dm",
-      "orig_url": "https://raw.liucn.cc/box/dm.txt",
-      "tv_url": "https://raw.liucn.cc/box/dm.txt",
-      "rewrite": "",
-      "adult": false,
-      "from": "用户提供",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.57,
-        "size": 1331,
-        "final": "https://raw.liucn.cc/box/dm.txt"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.57,
-        "size": 1331,
-        "final": "https://raw.liucn.cc/box/dm.txt"
-      },
-      "tv_ok": true,
-      "latency": 0.57,
-      "size": 1331
-    },
-    {
-      "id": "c73a54e735",
-      "name": "💎小马线路",
-      "orig_url": "http://szyyds.cn/tv/x.json",
-      "tv_url": "http://szyyds.cn/tv/x.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.97,
-        "size": 30571,
-        "final": "https://szyyds.cn/tv/x.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.97,
-        "size": 30571,
-        "final": "https://szyyds.cn/tv/x.json"
-      },
-      "tv_ok": true,
-      "latency": 0.97,
-      "size": 30571
-    },
-    {
-      "id": "e01bfdda2d",
-      "name": "🤓网络🤓",
-      "orig_url": "https://8815.kstore.vip/tvbox/wmz",
-      "tv_url": "https://8815.kstore.vip/tvbox/wmz",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.27,
-        "size": 29707,
-        "final": "https://8815.kstore.vip/tvbox/wmz"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.27,
-        "size": 29707,
-        "final": "https://8815.kstore.vip/tvbox/wmz"
-      },
-      "tv_ok": true,
-      "latency": 0.27,
-      "size": 29707
-    },
-    {
-      "id": "fa45fd001d",
-      "name": "🐂王二小🐮",
-      "orig_url": "https://9280.kstore.vip/aiwex.json",
-      "tv_url": "https://9280.kstore.vip/aiwex.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.15,
-        "size": 34815,
-        "final": "https://9280.kstore.vip/aiwex.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.15,
-        "size": 34815,
-        "final": "https://9280.kstore.vip/aiwex.json"
-      },
-      "tv_ok": true,
-      "latency": 0.15,
-      "size": 34815
-    },
-    {
-      "id": "d2370b62c6",
-      "name": "🐼肥猫🐼",
-      "orig_url": "http://xn--z7x900a.net/tv",
-      "tv_url": "http://xn--z7x900a.net/tv",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.92,
-        "size": 1269,
-        "final": "http://xn--z7x900a.net/tv"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.92,
-        "size": 1269,
-        "final": "http://xn--z7x900a.net/tv"
-      },
-      "tv_ok": false,
-      "latency": 0.92,
-      "size": 1269
-    },
-    {
-      "id": "a98702457f",
-      "name": "💫潇洒💫",
-      "orig_url": "https://9877.kstore.space/one.json",
-      "tv_url": "https://9877.kstore.space/one.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.11,
-        "size": 0,
-        "final": "https://9877.kstore.space/one.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.11,
-        "size": 0,
-        "final": "https://9877.kstore.space/one.json"
-      },
-      "tv_ok": false,
-      "latency": 0.11,
-      "size": 0
-    },
-    {
-      "id": "893ede3ad6",
-      "name": "👽饭太硬👿",
-      "orig_url": "https://www.xn--sss604efuw.cc/tv",
-      "tv_url": "https://www.xn--sss604efuw.cc/tv",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.22,
-        "size": 12486,
-        "final": "https://www.xn--sss604efuw.cc/"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.22,
-        "size": 12486,
-        "final": "https://www.xn--sss604efuw.cc/"
-      },
-      "tv_ok": true,
-      "latency": 1.22,
-      "size": 12486
-    },
-    {
-      "id": "c6cba30cd9",
-      "name": "🤓东篱🤓",
-      "orig_url": "https://16151.kstore.space",
-      "tv_url": "https://16151.kstore.space",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.27,
-        "size": 60026,
-        "final": "https://16151.kstore.space/"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.27,
-        "size": 60026,
-        "final": "https://16151.kstore.space/"
-      },
-      "tv_ok": true,
-      "latency": 0.27,
-      "size": 60026
-    },
-    {
-      "id": "7712710b21",
-      "name": "胜寒",
-      "orig_url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
-      "rewrite": "bgithub镜像→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.01,
-        "size": 0,
-        "final": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.64,
-        "size": 23457,
-        "final": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json"
-      },
-      "tv_ok": true,
-      "latency": 0.64,
-      "size": 23457
-    },
-    {
-      "id": "04f1ac744c",
-      "name": "🐿️嗷呜🐿️",
-      "orig_url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
-      "tv_url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 418,
-        "latency": 2.18,
-        "size": 0,
-        "final": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 418,
-        "latency": 2.18,
-        "size": 0,
-        "final": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"
-      },
-      "tv_ok": false,
-      "latency": 2.18,
-      "size": 0
-    },
-    {
-      "id": "3403c51213",
-      "name": "🌈欧歌🌈",
-      "orig_url": "https://xn--dkw0c.v.nxog.top/m/",
-      "tv_url": "https://xn--dkw0c.v.nxog.top/m/",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.15,
-        "size": 0,
-        "final": "https://xn--dkw0c.v.nxog.top/m/"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.15,
-        "size": 0,
-        "final": "https://xn--dkw0c.v.nxog.top/m/"
-      },
-      "tv_ok": false,
-      "latency": 0.15,
-      "size": 0
-    },
-    {
-      "id": "49909fd75d",
-      "name": "环宇轩",
-      "orig_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/xnftv/xnf@main/hyxuan.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.01,
-        "size": 0,
-        "final": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.71,
-        "size": 19907,
-        "final": "https://cdn.jsdelivr.net/gh/xnftv/xnf@main/hyxuan.json"
-      },
-      "tv_ok": true,
-      "latency": 0.71,
-      "size": 19907
-    },
-    {
-      "id": "324c84d56c",
-      "name": "⚪PG⚪",
-      "orig_url": "https://www.252035.xyz/p/jsm.json",
-      "tv_url": "https://www.252035.xyz/p/jsm.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.38,
-        "size": 34366,
-        "final": "https://www.252035.xyz/p/jsm.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.38,
-        "size": 34366,
-        "final": "https://www.252035.xyz/p/jsm.json"
-      },
-      "tv_ok": true,
-      "latency": 0.38,
-      "size": 34366
-    },
-    {
-      "id": "a53dde64ac",
-      "name": "🐟摸鱼🐟",
-      "orig_url": "http://www.xn--ihq545aq7p.com",
-      "tv_url": "http://www.xn--ihq545aq7p.com",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 2.1,
-        "size": 0,
-        "final": "http://www.xn--ihq545aq7p.com/"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 2.1,
-        "size": 0,
-        "final": "http://www.xn--ihq545aq7p.com/"
-      },
-      "tv_ok": false,
-      "latency": 2.1,
-      "size": 0
-    },
-    {
-      "id": "d8fc64d0b7",
-      "name": "Yoursmile",
-      "orig_url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "tv_url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "用户提供",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.43,
-        "size": 114,
-        "final": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.43,
-        "size": 114,
-        "final": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-      },
-      "tv_ok": true,
-      "latency": 0.43,
-      "size": 114
-    },
-    {
-      "id": "e5922d31f3",
-      "name": "📚道长📚",
-      "orig_url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-      "tv_url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.82,
-        "size": 2699,
-        "final": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.82,
-        "size": 2699,
-        "final": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-      },
-      "tv_ok": false,
-      "latency": 0.82,
-      "size": 2699
-    },
-    {
-      "id": "16fbdfdfc1",
-      "name": "开心软件",
-      "orig_url": "https://play.iptv365.org/天天开心/api.json",
-      "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 52607,
-        "final": "https://play.iptv365.org/天天开心/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.02,
-        "size": 18380,
-        "final": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json"
-      },
-      "tv_ok": true,
-      "latency": 12.02,
-      "size": 18380
-    },
-    {
-      "id": "17a882a43f",
-      "name": "🐯虎斑🐯",
-      "orig_url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
-      "tv_url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "谪仙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.39,
-        "size": 4606,
-        "final": "https://link3.cc/huban"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.32,
-        "size": 4606,
-        "final": "https://link3.cc/huban"
-      },
-      "tv_ok": true,
-      "latency": 0.32,
-      "size": 4606
-    },
-    {
-      "id": "e342d64899",
-      "name": "PizazzGY",
-      "orig_url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@blob/main/api.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.01,
-        "size": 0,
-        "final": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json"
-      },
-      "tv_check": {
-        "ok": false,
-        "code": 404,
-        "latency": 0.94,
-        "size": 66,
-        "final": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@blob/main/api.json"
-      },
-      "tv_ok": false,
-      "latency": 0.94,
-      "size": 66
-    },
-    {
-      "id": "b272e86c96",
-      "name": "乐哥短剧",
-      "orig_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 12.01,
-        "size": 0,
-        "final": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 0.76,
-        "size": 40179,
-        "final": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json"
-      },
-      "tv_ok": true,
-      "latency": 0.76,
-      "size": 40179
-    },
-    {
-      "id": "5fce68bc6a",
-      "name": "爱游魂单仓",
-      "orig_url": "https://www.iyouhun.com/tv/dc",
-      "tv_url": "https://www.iyouhun.com/tv/dc",
-      "rewrite": "",
-      "adult": false,
-      "from": "用户提供",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.1,
-        "size": 18774,
-        "final": "https://www.xn--s6wu47g.com/"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 1.1,
-        "size": 18774,
-        "final": "https://www.xn--s6wu47g.com/"
-      },
-      "tv_ok": true,
-      "latency": 1.1,
-      "size": 18774
-    },
-    {
-      "id": "6a82546b90",
-      "name": "高天流云 JS",
-      "orig_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-      "rewrite": "",
-      "adult": false,
-      "from": "高天流云0707",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 10.56,
-        "size": 51621,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 10.56,
-        "size": 51621,
-        "final": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
-      },
-      "tv_ok": true,
-      "latency": 10.56,
-      "size": 51621
-    },
-    {
-      "id": "03199dc291",
-      "name": "短剧仓库",
-      "orig_url": "https://play.iptv365.org/短剧频道/api.json",
-      "tv_url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
-      "rewrite": "中文路径编码",
-      "adult": false,
-      "from": "多仓(小羊)",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 14283,
-        "final": "https://play.iptv365.org/短剧频道/api.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 17011,
-        "final": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
-      },
-      "tv_ok": true,
-      "latency": 12.01,
-      "size": 17011
-    },
-    {
-      "id": "eaf3c533d2",
-      "name": "🚀王二小线路",
-      "orig_url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-      "tv_url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-      "rewrite": "",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 686,
-        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 686,
-        "final": "https://www.xn--4kq62z5rby2qupq9ub.top/"
-      },
-      "tv_ok": true,
-      "latency": 12.01,
-      "size": 686
-    },
-    {
-      "id": "579062c103",
-      "name": "🐹月光线路",
-      "orig_url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
-      "tv_url": "https://cdn.jsdelivr.net/gh/guot55/yg@main/ygbox.json",
-      "rewrite": "github(代理/raw)→jsdelivr",
-      "adult": false,
-      "from": "小龙多仓",
-      "orig_check": {
-        "ok": false,
-        "code": 0,
-        "latency": 0.03,
-        "size": 0,
-        "final": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json"
-      },
-      "tv_check": {
-        "ok": true,
-        "code": 200,
-        "latency": 12.01,
-        "size": 81920,
-        "final": "https://cdn.jsdelivr.net/gh/guot55/yg@main/ygbox.json"
-      },
-      "tv_ok": true,
-      "latency": 12.01,
-      "size": 81920
-    },
-    {
       "id": "5cd500c26c",
       "name": "👿小米👿",
       "orig_url": "https://www.tangsan.fun/tv",
@@ -2460,19 +2304,19 @@
       "orig_check": {
         "ok": false,
         "code": 0,
-        "latency": 12.01,
+        "latency": 12.0,
         "size": 0,
         "final": "https://www.tangsan.fun/tv"
       },
       "tv_check": {
         "ok": false,
         "code": 0,
-        "latency": 12.01,
+        "latency": 12.0,
         "size": 0,
         "final": "https://www.tangsan.fun/tv"
       },
       "tv_ok": false,
-      "latency": 12.01,
+      "latency": 12.0,
       "size": 0
     }
   ]

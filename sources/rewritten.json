@@ -6,27 +6,15 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "潇洒",
-    "original": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/qist/tvbox@refs/heads/master/xiaosa/api.json",
-    "rule": "github(代理/raw)→jsdelivr"
-  },
-  {
     "name": "橘子柚影视",
     "original": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
     "tv_url": "https://cdn.jsdelivr.net/gh/hackyjso/box@main/jzy.txt",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "白嫖",
-    "original": "https://play.iptv365.org/白嫖/api.json",
-    "tv_url": "https://play.iptv365.org/%E7%99%BD%E5%AB%96/api.json",
-    "rule": "中文路径编码"
-  },
-  {
-    "name": "雷蒙",
-    "original": "https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/n3rddd/N3RD@master/JN/lempg.json",
+    "name": "潇洒",
+    "original": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/qist/tvbox@refs/heads/master/xiaosa/api.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
@@ -36,21 +24,33 @@
     "rule": "中文路径编码"
   },
   {
+    "name": "开心软件",
+    "original": "https://play.iptv365.org/天天开心/api.json",
+    "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
+    "rule": "中文路径编码"
+  },
+  {
+    "name": "南风",
+    "original": "https://play.iptv365.org/南风/api.json",
+    "tv_url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
+    "rule": "中文路径编码"
+  },
+  {
+    "name": "白嫖",
+    "original": "https://play.iptv365.org/白嫖/api.json",
+    "tv_url": "https://play.iptv365.org/%E7%99%BD%E5%AB%96/api.json",
+    "rule": "中文路径编码"
+  },
+  {
     "name": "香雅情",
     "original": "https://play.iptv365.org/香雅情/api.json",
     "tv_url": "https://play.iptv365.org/%E9%A6%99%E9%9B%85%E6%83%85/api.json",
     "rule": "中文路径编码"
   },
   {
-    "name": "🍎南风🍎",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
-    "rule": "github(代理/raw)→jsdelivr"
-  },
-  {
-    "name": "南风",
-    "original": "https://play.iptv365.org/南风/api.json",
-    "tv_url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
+    "name": "短剧仓库",
+    "original": "https://play.iptv365.org/短剧频道/api.json",
+    "tv_url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
     "rule": "中文路径编码"
   },
   {
@@ -60,15 +60,15 @@
     "rule": "中文路径编码"
   },
   {
-    "name": "自用版本备用",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/xiaolong69/tv@main/1.json",
+    "name": "雷蒙",
+    "original": "https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/n3rddd/N3RD@master/JN/lempg.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "🚀香雅情线路",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+    "name": "🍎南风🍎",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
@@ -78,21 +78,9 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "分享者",
-    "original": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/maoystv/6@main/001.json",
-    "rule": "github(代理/raw)→jsdelivr"
-  },
-  {
-    "name": "🚀老刘备线路",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
-    "rule": "github(代理/raw)→jsdelivr"
-  },
-  {
-    "name": "💎胜寒线路",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
+    "name": "🚀香雅情线路",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
@@ -102,39 +90,33 @@
     "rule": "bgithub镜像→jsdelivr"
   },
   {
+    "name": "🚀老刘备线路",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+    "rule": "github(代理/raw)→jsdelivr"
+  },
+  {
     "name": "环宇轩",
     "original": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
     "tv_url": "https://cdn.jsdelivr.net/gh/xnftv/xnf@main/hyxuan.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "开心软件",
-    "original": "https://play.iptv365.org/天天开心/api.json",
-    "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
-    "rule": "中文路径编码"
-  },
-  {
-    "name": "🐯虎斑🐯",
-    "original": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
-    "tv_url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95",
-    "rule": "中文路径编码"
-  },
-  {
-    "name": "乐哥短剧",
-    "original": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json",
+    "name": "💎胜寒线路",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
     "rule": "github(代理/raw)→jsdelivr"
-  },
-  {
-    "name": "短剧仓库",
-    "original": "https://play.iptv365.org/短剧频道/api.json",
-    "tv_url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
-    "rule": "中文路径编码"
   },
   {
     "name": "🐹月光线路",
     "original": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
     "tv_url": "https://cdn.jsdelivr.net/gh/guot55/yg@main/ygbox.json",
     "rule": "github(代理/raw)→jsdelivr"
+  },
+  {
+    "name": "🐯虎斑🐯",
+    "original": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
+    "tv_url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95",
+    "rule": "中文路径编码"
   }
 ]
