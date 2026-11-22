@@ -1,6 +1,6 @@
 {
-  "collected_at": "2026-11-21 14:20:56 CST",
-  "total": 89,
+  "collected_at": "2026-11-22 13:52:11 CST",
+  "total": 95,
   "seeds": [
     {
       "id": "duocang",
@@ -10,7 +10,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:28 CST"
+      "fetched_at": "2026-11-22 13:51:44 CST"
     },
     {
       "id": "gao0707",
@@ -18,9 +18,9 @@
       "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0707.json",
       "kind": "list",
       "adult": false,
-      "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='cd",
-      "fetched_at": "2026-11-21 14:20:28 CST"
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-22 13:51:44 CST"
     },
     {
       "id": "feimao",
@@ -30,7 +30,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-21 14:20:30 CST"
+      "fetched_at": "2026-11-22 13:51:45 CST"
     },
     {
       "id": "ok321",
@@ -40,7 +40,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-21 14:20:50 CST"
+      "fetched_at": "2026-11-22 13:52:05 CST"
     },
     {
       "id": "jundie",
@@ -50,7 +50,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:51 CST"
+      "fetched_at": "2026-11-22 13:52:06 CST"
     },
     {
       "id": "liucn",
@@ -60,7 +60,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:52 CST"
+      "fetched_at": "2026-11-22 13:52:06 CST"
     },
     {
       "id": "duocang18",
@@ -70,7 +70,7 @@
       "adult": true,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:52 CST"
+      "fetched_at": "2026-11-22 13:52:07 CST"
     },
     {
       "id": "xiaolong69",
@@ -80,7 +80,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:53 CST"
+      "fetched_at": "2026-11-22 13:52:08 CST"
     },
     {
       "id": "liucn_dm",
@@ -90,7 +90,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:53 CST"
+      "fetched_at": "2026-11-22 13:52:08 CST"
     },
     {
       "id": "tushen6",
@@ -100,7 +100,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:53 CST"
+      "fetched_at": "2026-11-22 13:52:08 CST"
     },
     {
       "id": "agit_ys",
@@ -110,7 +110,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:54 CST"
+      "fetched_at": "2026-11-22 13:52:09 CST"
     },
     {
       "id": "iyouhun",
@@ -120,7 +120,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-21 14:20:54 CST"
+      "fetched_at": "2026-11-22 13:52:09 CST"
     }
   ],
   "sources": [
@@ -587,6 +587,54 @@
       "name": "残月",
       "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
       "from": "多仓(小羊)",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "7faa39812c",
+      "name": "高天流云 No.1",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "75e0967f88",
+      "name": "高天流云 PG",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f5c2622c54",
+      "name": "高天流云 FTY",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "cd9a927b88",
+      "name": "高天流云 FM",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6a82546b90",
+      "name": "高天流云 JS",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+      "from": "高天流云0707",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f73d8b4913",
+      "name": "高天流云 XYQ",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
+      "from": "高天流云0707",
       "adult": false,
       "note": ""
     },
