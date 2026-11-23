@@ -55,6 +55,7 @@ jobs:
           PY
 
       - name: 提交变更
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -62,6 +63,13 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "chore: 自动更新点播+直播源 $(date '+%Y-%m-%d')"
             git push
+            echo "pushed=true" >> $GITHUB_OUTPUT
           else
             echo "无变更"
+            echo "pushed=false" >> $GITHUB_OUTPUT
           fi
+
+      - name: "[CDN] 推送后刷新 jsDelivr 缓存(订阅立即生效)"
+        if: steps.commit.outputs.pushed == 'true'
+        continue-on-error: true
+        run: python3 scripts/purge_jsdelivr.py
