@@ -3,5 +3,18 @@
   {"id": "liucn_dm",    "name": "老刘备多仓dm", "url": "https://raw.liucn.cc/box/dm.txt",                                "kind": "list"},
   {"id": "tushen6",     "name": "谪仙多仓",      "url": "https://cdn.jsdelivr.net/gh/tushen6/Tomorrow@master/lmw.json",     "kind": "list"},
   {"id": "agit_ys",     "name": "Yoursmile",    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",       "kind": "single"},
-  {"id": "iyouhun",     "name": "爱游魂单仓",    "url": "https://www.iyouhun.com/tv/dc",                                   "kind": "single"}
+  {"id": "iyouhun",     "name": "爱游魂单仓",    "url": "https://www.iyouhun.com/tv/dc",                                   "kind": "single"},
+
+  {"id": "tang_aiwex_vip",   "name": "唐门-aiwex(vip)",    "url": "https://9280.kstore.vip/aiwex.json",                     "kind": "single"},
+  {"id": "tang_aiwex_space", "name": "唐门-aiwex(space)",  "url": "https://9280.kstore.space/aiwex.json",                   "kind": "single"},
+  {"id": "tang_ai_puny",     "name": "唐门-ai(王二小)",     "url": "http://ai.xn--4kq62z5rby2qupq9ub.top",                   "kind": "single"},
+  {"id": "tang_new_wang",    "name": "唐门-new(王二小)",    "url": "http://new.王二小放牛娃.top",                             "kind": "single"},
+  {"id": "tang_new_123",     "name": "唐门-new(123)",       "url": "http://new.999888123.xyz",                              "kind": "single"},
+  {"id": "tang_new_987",     "name": "唐门-new(987)",       "url": "http://new.999888987.xyz",                              "kind": "single"},
+  {"id": "tang_newwex_vip",  "name": "唐门-newwex(vip)",    "url": "https://9280.kstore.vip/newwex.json",                   "kind": "single"},
+  {"id": "tang_tvbox_wang",  "name": "唐门-tvbox(王二小)",  "url": "http://tvbox.王二小放牛娃.top",                          "kind": "single"},
+  {"id": "tang_tvbox_puny",  "name": "唐门-tvbox(puny)",    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",               "kind": "single"},
+  {"id": "tang_tv_987",      "name": "唐门-tv(987)",        "url": "http://tv.999888987.xyz",                              "kind": "single"},
+  {"id": "tang_tv_123",      "name": "唐门-tv(123)",        "url": "http://tv.999888123.xyz",                              "kind": "single"},
+  {"id": "tang_wex_vip",     "name": "唐门-wex(vip)",       "url": "https://9280.kstore.vip/wex.json",                      "kind": "single"}
 ]
