@@ -1,4 +1,4 @@
-name: 每日源可用性检测与自动更新
+name: 每日源可用性检测与自动更新（点播 + 直播）
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  test-and-update:
+  update-sources:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,13 +22,37 @@ jobs:
       - name: 安装依赖
         run: pip install requests
 
-      - name: 收集 + 直连复测 + 构建
+      - name: [点播] 抓取聚合站链接 + 收集 + 直连复测 + 构建
+        id: vod
+        continue-on-error: true
         run: bash scripts/update_all.sh
 
-      - name: 生成更新时间与统计到 README
+      - name: [直播] 下载直播源 + 测活 + 频道探测 + 构建
+        id: live
+        continue-on-error: true
+        run: bash scripts/update_live.sh
+
+      - name: 检查订阅文件非空（双保险）
         run: |
-          python scripts/build_final.py
-          echo "LAST_UPDATE=$(date '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+          python3 - <<'PY'
+          import os, sys
+          required = [
+            'subscriptions/tvbox.json',        # 点播主订阅
+            'subscriptions/tvbox_fast.json',
+            'subscriptions/by_source.json',
+            'subscriptions/iptv_own.json',     # 直播自建订阅
+            'subscriptions/iptv_own.m3u',
+          ]
+          bad = []
+          for f in required:
+            if not os.path.exists(f) or os.path.getsize(f) < 40:
+              bad.append(f)
+          if bad:
+            print('以下订阅文件缺失或为空:', bad)
+            print('（脚本内置 last_good 回退应已处理；若仍为空请检查日志）')
+          else:
+            print('所有订阅文件存在且非空 ✓')
+          PY
 
       - name: 提交变更
         run: |
@@ -36,7 +60,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if ! git diff --cached --quiet; then
-            git commit -m "chore: 自动更新源可用性 $(date '+%Y-%m-%d')"
+            git commit -m "chore: 自动更新点播+直播源 $(date '+%Y-%m-%d')"
             git push
           else
             echo "无变更"
