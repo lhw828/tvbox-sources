@@ -35,24 +35,24 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
 三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 三明公共频道「[聚盒] 小马影视」,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
-三明新闻综合「[聚盒] 天微M3U」,http://ls.qingting.fm/live/4885.m3u8
-三明新闻综合「[聚盒] 小盒子在线源」,https://ls.qingting.fm/live/5022100/64k.m3u8
+三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 三明新闻综合「[聚盒] 天微M3U」,https://ls.qingting.fm/live/5022100/64k.m3u8
+三明新闻综合「[聚盒] 小盒子在线源」,http://ls.qingting.fm/live/4885.m3u8
+三明新闻综合「[聚盒] 天微M3U」,http://ls.qingting.fm/live/4885.m3u8
 三明新闻综合「[聚盒] 小马影视」,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud#http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
-三明新闻综合「[聚盒] 小马影视」,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
-三明新闻综合「[聚盒] 小马影视」,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
 三明新闻综合「[聚盒] 小马影视」,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
 三明新闻综合「[聚盒] 小马影视」,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
+三明新闻综合「[聚盒] 小马影视」,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+三明新闻综合「[聚盒] 小马影视」,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
 上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 上海外语「[聚盒] 天微M3U」,http://t.061899.xyz/tl/tl.php?id=shics
 上海外语「[聚盒] 小马影视」,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 上海教育「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 上海教育「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202510240800572be58ced346548aab92c7ebfbc90d088&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251024080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20251024080057&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=05479a300e9aa0cbfb7bbc5ca9733a84&ddCalcu=4085ea423713907a93a0c05ec9baba70bcfb
-上海新闻综合「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251025080100b35a6c3882a949ae802da68a5f06fef8&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251025080100&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.90&SecurityKey=20251025080100&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6f8be77ecb1155de0e5d3baaed9f8e01&ddCalcu=160fee828b1fe097d7eeacabb131d555ed0e
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251025080100b35a6c3882a949ae802da68a5f06fef8&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251025080100&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.90&SecurityKey=20251025080100&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6f8be77ecb1155de0e5d3baaed9f8e01&ddCalcu=160fee828b1fe097d7eeacabb131d555ed0e
 上海新闻综合「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251023080141ea171d5993054ddd94612bf653be3cfa&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4757c0d2f0cd0feb69bcfc7ea14ddd49&ddCalcu=9447ed52d71dc0401da2ef70ccfdc0bf9e6b
+上海新闻综合「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202510240800572be58ced346548aab92c7ebfbc90d088&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251024080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20251024080057&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=05479a300e9aa0cbfb7bbc5ca9733a84&ddCalcu=4085ea423713907a93a0c05ec9baba70bcfb
 上海新闻综合「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20250919080134d0a4f61e680b4d1b8d2460b858ff1fec&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c6e37e6787e81aeb250c874ff8533137&ddCalcu=7c36e1e13313705e86f7f8477e88c10a5e2b
 上海新闻综合「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻综合「[聚盒] 熊猫直播源」,http://bobohome.ignorelist.com:20247/migu?id=651632657
@@ -80,8 +80,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 上虞新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
-世界地理「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+世界地理「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 世界地理「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=177&Cf.m3u8
 世界地理「老刘备」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 世界地理「老刘备」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
@@ -173,11 +173,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 云南都市「[聚盒] 天微M3U」,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 云和新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-云和新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 云和新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-云和新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 云和新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 云和新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+云和新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+云和新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 云和新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 亳州涡阳新闻综合,http://8.138.7.223/so/tool/live/20261108073036_00003.m3u8
 什邡新闻频道,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
@@ -187,12 +187,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 伊春公共频道,http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?%74ype=flv2hls_m3u8
 伊春综合频道,http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?%74ype=flv2hls_m3u8
 伊春综合频道「[聚盒] 小马影视」,http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv
-伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
-伊犁经济法制「[聚盒] 小马影视」,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-伊犁经济法制「[聚盒] 小盒子在线源」,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 伊犁经济法制「[聚盒] 小盒子在线源」,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-伊犁经济法制「[聚盒] ZBDSIPV4」,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁经济法制「[聚盒] ZBDSIPV4」,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+伊犁经济法制「[聚盒] 小马影视」,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁经济法制「[聚盒] 小盒子在线源」,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁经济法制「[聚盒] ZBDSIPV4」,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁经济法制「[聚盒] 天微M3U」,http://110.153.180.106:55555/out_4/index.m3u8
 会东综合频道,http://112.45.133.129:90/live/xwzh.m3u8
 会东综合频道「[聚盒] 小马影视」,http://live.schdxww.com:90/live/xwzh.m3u8
@@ -203,18 +203,18 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 余姚姚江文化「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 余姚姚江文化「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 余姚姚江文化「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+余姚姚江文化「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 余姚姚江文化「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚姚江文化「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚姚江文化「[聚盒] 天微M3U」,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-余姚姚江文化「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚新闻综合「老刘备」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-余姚新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-余姚新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余姚新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余姚新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
+余姚新闻综合「老刘备」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭综合频道「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭综合频道「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
@@ -253,8 +253,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 六安公共「[聚盒] 小马影视」,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
 六安公共「[聚盒] 小盒子在线源」,http://ls.qingting.fm/live/1794199.m3u8
 六安公共「[聚盒] 天微M3U」,http://ls.qingting.fm/live/1794199.m3u8
-六安新闻综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
-六安新闻综合「[聚盒] 小马影视」,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+六安新闻综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+六安新闻综合「[聚盒] 小马影视」,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
 六安新闻综合「[聚盒] 小盒子在线源」,http://ls.qingting.fm/live/267.m3u8
 六安新闻综合「[聚盒] 天微M3U」,http://ls.qingting.fm/live/267.m3u8
 兰州新闻综合,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226242/1.m3u8
@@ -277,9 +277,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 兰考新闻频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 兴隆综合频道「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
-兵器科技「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+兵器科技「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 兵器科技「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
 兵器科技「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 兵器科技「[聚盒] 天微M3U」,http://207.56.13.146:81/cdnlive/gfjs.m3u8
@@ -316,8 +316,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 内蒙古蒙语文化「[聚盒] 天微M3U」,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
 内蒙经济「[聚盒] 天微M3U」,https://ls.qingting.fm/live/1885/64k.m3u8
-内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
-内黄综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+内黄综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
 冷水江新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_8NbUnK.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
 凉山新闻综合「[聚盒] 小马影视」,http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel114103/playlist.m3u8#http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel114103/playlist.m3u8?zsicd#rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd#rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
@@ -410,8 +410,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 南乐综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 南京少儿「[聚盒] 天微M3U」,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-南京少儿「[聚盒] 小马影视」,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿「[聚盒] 小马影视」,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+南京少儿「[聚盒] 小马影视」,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京少儿「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 南京新闻综合「[聚盒] ZBDSIPV4」,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
@@ -428,19 +428,19 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 南充公共,http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv
 南充科教,http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
 南城综合频道,http://pili-live-hls.jxxw.com.cn/nctv1/nctv1.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
-南宁公共「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 南宁公共「[聚盒] 小盒子在线源」,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
-南宁公共「[聚盒] 小盒子在线源」,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁公共「[聚盒] 小盒子在线源」,https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁公共「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁公共「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-gong-gong-1.m3u8
 南宁公共「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-gong-gong-5.m3u8
 南宁公共「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
 南宁公共「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-gong-gong-6.m3u8
 南宁公共「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-gong-gong-7.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁新闻综合「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁新闻综合「[聚盒] 小盒子在线源」,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
+南宁新闻综合「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合「[聚盒] 小盒子在线源」,https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-xin-wen-zong-he-3.m3u8
 南宁新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/nan-zhu-xin-wen-zong-he-1.m3u8
@@ -479,10 +479,10 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 卢氏综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
 卢氏综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
 卢氏综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/11224-1.m3u8
-卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
 卫辉综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 卫辉综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
-卫辉综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
+卫辉综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 卫辉综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
 原阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
 原阳新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
@@ -510,16 +510,16 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 台前新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10927-1.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 台球「[聚盒] 小马影视」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
-吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
+吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 吉县新闻综合「[聚盒] 小马影视」,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
-吉县新闻综合「[聚盒] 小马影视」,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+吉县新闻综合「[聚盒] 小马影视」,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
 吉州新闻综合,http://218.204.153.158/10.m3u8
 吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
-吉林公共新闻,http://stream1.jlntv.cn/ggpd/playlist.m3u8
-吉林公共新闻「[聚盒] 小马影视」,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-吉林公共新闻「[聚盒] 小马影视」,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
+吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
 吉林公共新闻「[聚盒] 小马影视」,http://stream1.jlntv.cn/dspd/sd/live.m3u8
 吉林公共新闻「[聚盒] 小马影视」,http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
+吉林公共新闻「[聚盒] 小马影视」,http://stream1.jlntv.cn/ggpd/playlist.m3u8
+吉林公共新闻「[聚盒] 小马影视」,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 吉林新闻综合,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
 吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
 吉林生活「[聚盒] 小马影视」,http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
@@ -531,8 +531,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 吴忠公共「[聚盒] 小盒子在线源」,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 周口新闻综合,https://stream1.freetv.fun/zhou-kou-xin-wen-zong-he-1.m3u8
 周口新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/zhou-kou-xin-wen-zong-he-2.m3u8
-哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
-哈哈炫动「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+哈哈炫动「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 哈哈炫动「[聚盒] 小马影视」,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227599/1.m3u8?HlsProfileId=
 哈哈炫动「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 哈哈炫动「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
@@ -588,12 +588,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 太谷新闻综合「[聚盒] ZBDSIPV4」,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&%74ype=0
 太谷新闻综合「[聚盒] 天微M3U」,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&%74ype=0
 太谷新闻综合「[聚盒] 小盒子在线源」,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
+太谷新闻综合「[聚盒] 小盒子在线源」,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;%74ype=0
 太谷新闻综合「[聚盒] 小盒子在线源」,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;%74ype=0
 太谷新闻综合「[聚盒] ZBDSIPV4」,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;%74ype=0
-太谷新闻综合「[聚盒] 小盒子在线源」,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;%74ype=0
 央视台球,http://107.150.60.122/live/ystq.m3u8
-央视台球「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 央视台球「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+央视台球「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 央视台球「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708855.m3u8
 央视台球「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
@@ -617,8 +617,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 夹江新闻综合「[聚盒] 小盒子在线源」,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 夹江新闻综合「[聚盒] ZBDSIPV4」,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 女性.时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-女性时尚「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+女性时尚「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 女性时尚「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=176&Cf.m3u8
 女性时尚「[聚盒] 天微M3U」,http://207.56.13.146:81/cdnlive/nxss.m3u8
 女性时尚「老刘备」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
@@ -628,8 +628,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 女性时尚「[聚盒] 小马影视」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女性时尚「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 女性时尚「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000176
-威远新闻综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
-威远新闻综合「[聚盒] 小马影视」,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8#http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8?zsicd#rtmp://dxplay.scwy.cn:1935/live/weiyuanzonghepingdao?zsicd
+威远新闻综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8#http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8?zsicd#rtmp://dxplay.scwy.cn:1935/live/weiyuanzonghepingdao?zsicd
+威远新闻综合「[聚盒] 小马影视」,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
 娄底综合频道,http://119.39.242.52:1935/live/zonghe/playlist.m3u8
 孝感公共频道,http://live.yingxi.tv/channel1/sd/live.m3u8
 孟津新闻频道,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
@@ -640,9 +640,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 孟津生活频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10322-1.m3u8
 宁南新闻综合,http://live.sctvcloud.com/live/ningnantv1/playlist.m3u8
 宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
-宁夏经济「[聚盒] 小盒子在线源」,https://ls.qingting.fm/live/1841/64k.m3u8
+宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 宁夏经济「[聚盒] 天微M3U」,https://ls.qingting.fm/live/1841/64k.m3u8
+宁夏经济「[聚盒] 小马影视」,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
 安州新闻频道,http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
 安平新闻综合,http://shou.city1000.cn/live/apxw.m3u8
 安庆新闻综合,http://8.138.7.223/so/tool/live/20261108082739_00002.m3u8
@@ -666,15 +666,15 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 定州新闻综合,https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
 定州新闻综合「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
 定州新闻综合「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
-定州生活频道,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+定州生活频道,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
 定州生活频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
-定州生活频道「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
+定州生活频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
 定西公共频道,https://play.kankanlive.com/live/1645680054929933.m3u8
 定西综合频道,https://play.kankanlive.com/live/1645679947087932.m3u8
 宜昌旅游生活,http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
 宜章新闻综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
-宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-宜阳综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
+宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
+宜阳综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
 宜阳综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
 宜阳综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
@@ -686,12 +686,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 宝应生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
 宝鸡新闻综合,http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=855832649489747@6346@61F67E9317723A9A2760B896A213349B;{User-Agent@0151?zhend}
 宣汉新闻综合,https://livepgc.chinamcache.com/pgc/61c37851b08f3f0c0475ceb0c958ff54.m3u8?auth_key=1636720162-0-0-9b69908ac29f39b200b5c8e068723967
-宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州公共「[聚盒] 小马影视」,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
-宿州公共「[聚盒] 天微M3U」,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿州公共「[聚盒] 小马影视」,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 宿州新闻综合,http://8.138.7.223/so/tool/live/20261108082739_00004.m3u8
-宿州新闻综合「[聚盒] 天微M3U」,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州新闻综合「[聚盒] 小马影视」,http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
+宿州新闻综合「[聚盒] 天微M3U」,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-1.m3u8
 宿州新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
 宿州新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-3.m3u8
@@ -713,8 +713,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 山东少儿「[聚盒] 小马影视」,http://112.235.200.120:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 山东生活,http://58.57.40.22:9901/tsfile/live/1018_1.m3u8
 山东生活「[聚盒] 小盒子在线源」,http://ls.qingting.fm/live/60260.m3u8
-山东生活「[聚盒] 天微M3U」,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东生活「[聚盒] 小马影视」,http://112.235.200.120:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+山东生活「[聚盒] 天微M3U」,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山西公共,http://15536746789.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山西影视,http://15536746789.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山西影视「[聚盒] 小马影视」,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
@@ -730,6 +730,7 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 崆峒综合频道,http://125.74.200.110:10080/hls/001/001_live.m3u8
 崇左综合频道,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 嵊州新闻综合,http://8.138.7.223/so/tool/live/20261107125831_00004.m3u8
+嵊州新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊州新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊州新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊州新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -738,19 +739,18 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 嵊州新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 嵊州新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 嵊州新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-嵊州新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊州新闻综合「老刘备」,https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed
 嵊州新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8
 巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 巩义新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 巩义新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 巩义新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+巩义新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
+巩义新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
 巩义新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 巩义新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
 巩义新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
-巩义新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
 巩义新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
-巩义新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
 巩义新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
 巴南综合频道,http://8.138.7.223/so/tool/live/20261108081654_00014.m3u8
 巴彦淖尔新闻综合,https://pili-live-hls-bynr.tianma3600.com/bynr/xwzh.m3u8
@@ -818,16 +818,16 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 广东少儿「[聚盒] 小马影视」,http://www.namewee.xyz/gudou.php?id=1457
 广东少儿「[聚盒] 小马影视」,http://8.217.90.28:9999/触电.php?id=gdse
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd#https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+广东文化「[聚盒] 小马影视」,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd#https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东民生「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/18/index.m3u8
 广东民生「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
@@ -854,12 +854,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 广安公共「[聚盒] 小盒子在线源」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广安公共「[聚盒] ZBDSIPV4」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广安公共「[聚盒] 天微M3U」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-广安公共「[聚盒] 小盒子在线源」,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安公共「[聚盒] ZBDSIPV4」,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安公共「[聚盒] 天微M3U」,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安公共「[聚盒] 小盒子在线源」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安公共「[聚盒] ZBDSIPV4」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安公共「[聚盒] 天微M3U」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+广安公共「[聚盒] 小盒子在线源」,http://live1.gatv.com.cn:85/live/GGPD.m3u8
+广安公共「[聚盒] ZBDSIPV4」,http://live1.gatv.com.cn:85/live/GGPD.m3u8
+广安公共「[聚盒] 天微M3U」,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安公共频道「[聚盒] 小马影视」,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
@@ -955,16 +955,16 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 怀仁综合频道,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 怒江新闻综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
 息县综合频道,http://120.194.173.75:6060/0.ts
-扶沟综合频道,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+扶沟综合频道,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
 扶沟综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 扶沟综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-扶沟综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+扶沟综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 扶沟综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 承德公共生活,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
 承德公共生活「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
 承德公共生活「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
-承德新闻综合「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/cdslywh/1500k/tzwj_video.m3u8
+承德新闻综合,https://jwcdnqx.hebyun.com.cn/live/cdslywh/1500k/tzwj_video.m3u8
+承德新闻综合「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
 承德新闻综合「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
 承德新闻综合「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
 揭阳生活,http://www.namewee.xyz/gudou.php?id=jieyanggonggongHD
@@ -984,16 +984,16 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 文化精品「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 文化精品「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 文化精品「[聚盒] 天微M3U」,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山州公共「[聚盒] 小马影视」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
-文山州公共「[聚盒] 小盒子在线源」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
-文山州公共「[聚盒] ZBDSIPV4」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
-文山州公共「[聚盒] 天微M3U」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州公共「[聚盒] 小马影视」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-文山州公共「[聚盒] 小马影视」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山州公共「[聚盒] 小马影视」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州公共「[聚盒] 小盒子在线源」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山州公共「[聚盒] 小盒子在线源」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州公共「[聚盒] ZBDSIPV4」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山州公共「[聚盒] ZBDSIPV4」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州公共「[聚盒] 天微M3U」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山州公共「[聚盒] 天微M3U」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山州新闻综合「[聚盒] 小马影视」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 文山州新闻综合「[聚盒] 小马影视」,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
@@ -1055,46 +1055,46 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 新闻综合「[聚盒] ZBDSIPV4」,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合「[聚盒] 天微M3U」,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合「[聚盒] 小盒子在线源」,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
+无锡新闻综合「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
+无锡新闻综合「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡新闻综合「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡新闻综合「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
 无锡新闻综合「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
-无锡新闻综合「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
-无锡新闻综合「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
 无锡新闻综合「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 无锡江阴新闻综合,http://8.138.7.223/so/tool/live/20261103221222_00001.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
-无锡生活「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
-无锡生活「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡生活「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡生活「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡生活「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv4/sd/live.m3u8
+无锡生活「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
+无锡生活「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活「[聚盒] 小盒子在线源」,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活「[聚盒] 天微M3U」,https://stream.thmz.com/wxtv4/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
-无锡经济「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
-无锡经济「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv5/playlist.m3u8
-无锡经济「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
-无锡经济「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡经济「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
+无锡经济「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡经济「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 无锡经济「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+无锡经济「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
+无锡经济「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
 无锡经济「[聚盒] 小盒子在线源」,https://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济「[聚盒] 天微M3U」,https://stream.thmz.com/wxtv5/playlist.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡都市资讯「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
-无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡都市资讯「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
+无锡都市资讯「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv3/sd/live.m3u8
+无锡都市资讯「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/sd/live.m3u8
+无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 无锡都市资讯「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
-无锡都市资讯「[聚盒] 小盒子在线源」,http://stream.thmz.com/wxtv3/playlist.m3u8
-无锡都市资讯「[聚盒] 天微M3U」,http://stream.thmz.com/wxtv3/playlist.m3u8
 日照公共频道,http://live.rzw.com.cn/kzpd/sd/live.m3u8
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
 日照科教频道,http://live.rzw.com.cn/ggpd/sd/live.m3u8
@@ -1112,10 +1112,10 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 昆明经济生活,http://wshls.live.migucloud.com/live/JT9JEQ54_C0_2/playlist.m3u8
 昆明经济生活「[聚盒] 小马影视」,http://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
 昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd#https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
-昌黎综合频道「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合频道「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-昌黎综合频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+昌黎综合频道「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+昌黎综合频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 昭化综合频道,http://live.sctvcloud.com/live/zhtv1/playlist.m3u8
 昭化综合频道「[聚盒] 小马影视」,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 昭觉综合频道,http://live.sctvcloud.com/live/zhaojue/playlist.m3u8
@@ -1126,21 +1126,21 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 晋中新闻频道,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中新闻频道「[聚盒] 小马影视」,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中新闻频道「[聚盒] 小马影视」,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
-晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
-晋城公共「[聚盒] 小马影视」,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
+晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
+晋城公共「[聚盒] 小马影视」,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
 普洱公共频道,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel27/playlist.m3u8?zyund
 普洱公共频道「[聚盒] 小马影视」,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel27/playlist.m3u8
 普洱新闻综合,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
 普洱新闻综合「[聚盒] 小马影视」,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel12/playlist.m3u8?zyund
-普洱科教频道,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8
-普洱科教频道「[聚盒] 小马影视」,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8?zyund
+普洱科教频道,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8?zyund
+普洱科教频道「[聚盒] 小马影视」,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 普陀新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 普陀新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-望都综合频道,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 望都综合频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
-望都综合频道「[聚盒] 小马影视」,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+望都综合频道「[聚盒] 小马影视」,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
 朝天新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
 朝阳新闻综合「[聚盒] 天微M3U」,http://120.76.248.139/live/bfgd/4200000282.m3u8
@@ -1154,14 +1154,14 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-1.ctv
 杭州生活「[聚盒] 天微M3U」,https://stream1.freetv.fun/hang-zhou-sheng-huo-2.ctv
 杭州生活「[聚盒] 天微M3U」,https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8#http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
-松潘新闻综合「[聚盒] 小盒子在线源」,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 松潘新闻综合「[聚盒] ZBDSIPV4」,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 松潘新闻综合「[聚盒] 天微M3U」,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 松潘新闻综合「[聚盒] 小马影视」,http://live.spccmc.com:90/live/spxwzh.m3u8
 松潘新闻综合「[聚盒] 小盒子在线源」,http://live.spccmc.com:90/live/spxwzh.m3u8
 松潘新闻综合「[聚盒] ZBDSIPV4」,http://live.spccmc.com:90/live/spxwzh.m3u8
 松潘新闻综合「[聚盒] 天微M3U」,http://live.spccmc.com:90/live/spxwzh.m3u8
+松潘新闻综合「[聚盒] 小马影视」,http://live.spccmc.com:90/live/spxwzh.m3u8#http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 松潘新闻综合「[聚盒] 天微M3U」,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 松阳综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
 松阳综合频道「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
@@ -1176,11 +1176,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 栾川新闻频道「[聚盒] 小马影视」,http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
 栾川新闻频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 栾川新闻频道「[聚盒] 小马影视」,http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
-桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
+桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?zhend
 桐柏新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 桐柏新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 桐柏新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-桐柏新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?zhend
+桐柏新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 桐柏新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 桐柏新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
 梅州客家生活,http://8.138.7.223/so/tool/live/20261104220500_00005.m3u8
@@ -1200,12 +1200,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 武义新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 武义新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 武义新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
-武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
+武乡新闻综合「[聚盒] 天微M3U」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
+武乡新闻综合「[聚盒] 小马影视」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd#http://60.220.198.84:81/0.m3u8
+武乡新闻综合「[聚盒] 小马影视」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 武乡新闻综合「[聚盒] 小马影视」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 武乡新闻综合「[聚盒] 小马影视」,http://60.220.198.84:81/0.m3u8
-武乡新闻综合「[聚盒] 小马影视」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd#http://60.220.198.84:81/0.m3u8
-武乡新闻综合「[聚盒] 小盒子在线源」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
-武乡新闻综合「[聚盒] 天微M3U」,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 武夷山综合频道,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 武汉一台新闻综合「[聚盒] 天微M3U」,https://ls.qingting.fm/live/20198/64k.m3u8
@@ -1229,11 +1229,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 永兴新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
 永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
-永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-永嘉新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-永嘉新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 永嘉新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 永嘉新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+永嘉新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+永嘉新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 永嘉新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-4.m3u8
 永嘉新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 永嘉新闻综合「[聚盒] 天微M3U」,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he-1.m3u8
@@ -1287,14 +1287,14 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 汝州科教频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10482-2.m3u8
 汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 汝阳综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
-江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
-江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
-江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
-江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
-江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 江夏新闻综合「[聚盒] 小盒子在线源」,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 江夏新闻综合「[聚盒] ZBDSIPV4」,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏新闻综合「[聚盒] 小马影视」,http://59.175.226.142:280/gb28181/xwzh.m3u8
 江油新闻综合,http://live.sctvcloud.com/live/jiangyou/playlist.m3u8
 江津文化旅游,http://222.179.155.21:1935/ch2.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
@@ -1311,25 +1311,25 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 池州公共「[聚盒] 小马影视」,http://cm.wshls.homecdn.com/live/4abdf.flv?zanhd
 池州新闻综合,http://8.138.7.223/so/tool/live/20261108082739_00008.m3u8
 池州新闻综合「[聚盒] 小马影视」,http://cm.wshls.homecdn.com/live/4abdd.flv?zanhd#http://cm.wshls.homecdn.com/live/829f.flv?zanhd
-汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-汶川新闻综合「[聚盒] ZBDSIPV4」,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-汶川新闻综合「[聚盒] 天微M3U」,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-汶川新闻综合「[聚盒] 小马影视」,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合「[聚盒] 小马影视」,http://live.iwcmt.cn:90/live/zhxw.m3u8#http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合「[聚盒] 小盒子在线源」,http://live.iwcmt.cn:90/live/zhxw.m3u8
-汶川新闻综合「[聚盒] ZBDSIPV4」,http://live.iwcmt.cn:90/live/zhxw.m3u8
-汶川新闻综合「[聚盒] 天微M3U」,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合「[聚盒] 小盒子在线源」,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合「[聚盒] ZBDSIPV4」,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+汶川新闻综合「[聚盒] ZBDSIPV4」,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合「[聚盒] 天微M3U」,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-汶川新闻综合「[聚盒] 小马影视」,http://live.iwcmt.cn:90/live/zhxw.m3u8#http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+汶川新闻综合「[聚盒] 天微M3U」,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合「[聚盒] 小盒子在线源」,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+汶川新闻综合「[聚盒] ZBDSIPV4」,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+汶川新闻综合「[聚盒] 天微M3U」,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 汶川新闻综合「[聚盒] 天微M3U」,rtmp://live.iwcmt.cn:1936/live/zhxw
 沁阳文化旅游,http://live.qinyangtv.com:82/channel2/sd/live.m3u8
-沁阳新闻综合,http://live.qinyangtv.com:82/channel1/sd/live.m3u8
-沁阳新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 沁阳新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 沁阳新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 沁阳新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 沁阳新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+沁阳新闻综合「[聚盒] 小马影视」,http://live.qinyangtv.com:82/channel1/sd/live.m3u8
 沁阳新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 沁阳新闻综合「[聚盒] 小盒子在线源」,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 沁阳新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/qin-yang-xin-wen-zong-he-1.m3u8
@@ -1366,9 +1366,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 河北都市「[聚盒] 小马影视」,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
 河北都市「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/19/index.m3u8
 河北都市「[聚盒] 天微M3U」,https://stream1.freetv.fun/he-bei-du-shi-13.ctv
-河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
+河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
 河南民生「[聚盒] 小马影视」,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
-河南民生「[聚盒] 小马影视」,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
+河南民生「[聚盒] 小马影视」,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 河南民生「[聚盒] 小马影视」,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 河南民生「[聚盒] 小马影视」,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 河南民生「[聚盒] 天微M3U」,https://migu.188766.xyz/?migutoken=599bb7fdd4f9cab36d202bb38a0da046&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
@@ -1380,14 +1380,14 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 河南都市「[聚盒] 小马影视」,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南都市「[聚盒] 小马影视」,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 河南都市「[聚盒] 天微M3U」,http://1.94.31.214/php/hntv.php?id=hnds
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8#http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd#http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8#http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd#http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
-河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共「[聚盒] 小盒子在线源」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8#http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd#http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8#http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd#http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+河源公共「[聚盒] 小马影视」,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 河源公共「[聚盒] 小马影视」,http://php.jdshipin.com:8880/chudian.php?id=hygg
 河源公共「[聚盒] 小马影视」,http://8.217.90.28:9999/触电.php?id=hygg
 河源公共「[聚盒] 小马影视」,http://www.namewee.xyz/gudou.php?id=heyuanertao_1500
@@ -1430,8 +1430,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 泸县新闻综合「[聚盒] 天微M3U」,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8?zsicd
 泸州公共频道,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
-泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
-泸州新闻综合「[聚盒] 小马影视」,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+泸州新闻综合「[聚盒] 小马影视」,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
 泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8?zsicd
 泸州科教频道,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泾县新闻综合,http://8.138.7.223/so/tool/live/20261108081654_00006.m3u8
@@ -1471,11 +1471,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 浙江少儿「[聚盒] 小盒子在线源」,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿「[聚盒] 天微M3U」,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 浙江少儿「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 浙江少儿「[聚盒] 天微M3U」,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 浙江少儿「[聚盒] 天微M3U」,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
@@ -1486,25 +1486,25 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江民生「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江民生「[聚盒] 天微M3U」,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-浙江民生「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生「[聚盒] 小盒子在线源」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生「[聚盒] 天微M3U」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生休闲「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261103204729_00005.m3u8
-浙江民生休闲「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江民生「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,http://8.138.7.223/so/tool/live/20261103204729_00005.m3u8
 浙江民生休闲「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+浙江民生休闲「[聚盒] 小盒子在线源」,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江民生休闲「[聚盒] ZBDSIPV4」,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江民生休闲「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江民生休闲「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲「[聚盒] 小盒子在线源」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生休闲「[聚盒] 小盒子在线源」,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
-浙江民生休闲「[聚盒] ZBDSIPV4」,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江民生休闲「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-浙江民生休闲「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生休闲「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲「[聚盒] 天微M3U」,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
 浙江民生休闲「[聚盒] 天微M3U」,https://stream1.freetv.fun/zhe-jiang-min-sheng-2.m3u8
 浙江民生休闲「[聚盒] 天微M3U」,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
@@ -1514,8 +1514,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 浙江海宁生活服务,http://8.138.7.223/so/tool/live/20261104220500_00021.m3u8
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江生活「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-浙江生活「[聚盒] 小盒子在线源」,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江生活「[聚盒] 小盒子在线源」,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江生活「[聚盒] 小盒子在线源」,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江生活「[聚盒] 小盒子在线源」,http://ls.qingting.fm/live/1099.m3u8
 浙江生活「[聚盒] 天微M3U」,http://ls.qingting.fm/live/1099.m3u8
 浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -1526,31 +1526,31 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 浙江经济「[聚盒] 天微M3U」,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江经济「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江经济「[聚盒] 天微M3U」,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经济生活「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江经济生活「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活「[聚盒] 天微M3U」,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江经济生活「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261103204729_00003.m3u8
-浙江经济生活「[聚盒] ZBDSIPV4」,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江经济生活「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江经济生活「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+浙江经济生活「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江经济生活「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活「[聚盒] 天微M3U」,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经济生活「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江经济生活「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
-浙江经济生活「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江经济生活「[聚盒] ZBDSIPV4」,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
 浙江经济生活「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江都市「[聚盒] ZBDSIPV4」,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江都市「[聚盒] 天微M3U」,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江都市「[聚盒] ZBDSIPV4」,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江钱江都市「[聚盒] 天微M3U」,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+浙江钱江都市「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市「[聚盒] 小盒子在线源」,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江都市「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江钱江都市「[聚盒] ZBDSIPV4」,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江钱江都市「[聚盒] 天微M3U」,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江钱江都市「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市「[聚盒] 天微M3U」,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 浙江钱江都市「[聚盒] 天微M3U」,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
@@ -1572,10 +1572,10 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 海南少儿「[聚盒] 天微M3U」,https://migu.188766.xyz/?migutoken=0c9220e89aa5bb92fd25dbc47f73c650&id=hn_sepd&type=sz
 海南少儿「[聚盒] 天微M3U」,https://migu.188766.xyz/?migutoken=7827d9fc7bedc235d7359a1ccc57a032&id=hn_sepd&type=sz
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
-海宁新闻综合「[聚盒] 小盒子在线源」,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 海宁新闻综合「[聚盒] 小盒子在线源」,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合「[聚盒] ZBDSIPV4」,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 海宁新闻综合「[聚盒] 天微M3U」,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+海宁新闻综合「[聚盒] 小盒子在线源」,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 海宁新闻综合「老刘备」,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
 海宁新闻综合「[聚盒] 小马影视」,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
 海宁新闻综合「[聚盒] 小马影视」,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
@@ -1708,8 +1708,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 湖南经视「[聚盒] 稳定github直播」,http://223.159.8.222:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南经视「[聚盒] 小马影视」,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南经视「[聚盒] 天微M3U」,https://stream1.freetv.fun/hu-nan-jing-shi-15.ctv
-湖南都市,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
-湖南都市「[聚盒] 小马影视」,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
+湖南都市,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
+湖南都市「[聚盒] 小马影视」,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
 湖南都市「老刘备」,http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市「[聚盒] 小马影视」,http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4682579636905393407
 湖南都市「[聚盒] 天微M3U」,https://stream1.freetv.fun/hu-nan-du-shi-13.m3u8
@@ -1727,16 +1727,16 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 湖州公共民生「[聚盒] ZBDSIPV4」,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 湖州公共民生「[聚盒] 天微M3U」,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+湖州文化娱乐「[聚盒] 小盒子在线源」,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
+湖州文化娱乐「[聚盒] 小盒子在线源」,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 湖州文化娱乐「[聚盒] ZBDSIPV4」,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 湖州文化娱乐「[聚盒] 天微M3U」,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
-湖州文化娱乐「[聚盒] 小盒子在线源」,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
-湖州文化娱乐「[聚盒] 小盒子在线源」,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
-湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl=
-湖州新闻综合「[聚盒] 小盒子在线源」,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+湖州新闻综合「[聚盒] 小盒子在线源」,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl=
+湖州新闻综合「[聚盒] 小盒子在线源」,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湖州新闻综合「[聚盒] ZBDSIPV4」,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湖州新闻综合「[聚盒] 天微M3U」,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-湖州新闻综合「[聚盒] 小盒子在线源」,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 湘潭公共频道「[聚盒] 小马影视」,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
@@ -1788,18 +1788,18 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 濮阳公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 灌阳新闻综合「[聚盒] 天微M3U」,https://ls.qingting.fm/live/5043/64k.m3u8
-灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-灵宝新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-灵宝新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-灵宝新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
+灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 灵宝新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 灵宝新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
+灵宝新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+灵宝新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+灵宝新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合「[聚盒] 小盒子在线源」,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 灵璧新闻综合,http://8.138.7.223/so/tool/live/20261108081654_00008.m3u8
 灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
-灵石新闻综合「[聚盒] 小马影视」,https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
 灵石新闻综合「[聚盒] 小马影视」,https://live-stream.lsxrmtzx.com/live/video.m3u8
+灵石新闻综合「[聚盒] 小马影视」,https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
 烟台公共「[聚盒] 小盒子在线源」,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
@@ -1875,8 +1875,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 生活时尚 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/shss8m/8000000/mnf.m3u8
 电视.指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 电视.指南「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
-电视指南「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+电视指南「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 电视指南「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=164&Cf.m3u8
 电视指南「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/63/index.m3u8
 电视指南「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -1921,9 +1921,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 石家庄新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-xin-wen-zong-he-7.ctv
 石家庄新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-xin-wen-zong-he-8.ctv
 石家庄新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-xin-wen-zong-he-2.ctv
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 石家庄生活「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-石家庄生活「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+石家庄生活「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 石家庄生活「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 石家庄生活「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 石家庄生活「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-2.ctv
@@ -1932,9 +1932,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 石家庄生活「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-sheng-huo-1.ctv
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 石家庄都市「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-石家庄都市「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-石家庄都市「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 石家庄都市「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+石家庄都市「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+石家庄都市「[聚盒] 小马影视」,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 石家庄都市「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-du-shi-5.ctv
 石家庄都市「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-du-shi-4.ctv
 石家庄都市「[聚盒] 天微M3U」,https://stream1.freetv.fun/shi-jia-zhuang-du-shi-6.ctv
@@ -1942,8 +1942,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 石渠综合频道,http://tv.drs.ganzitv.com:8100/channellive/shiqu.flv
 礼县综合频道,https://play.kankanlive.com/live/1621416463200961.m3u8
-祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
-祁县新闻综合「[聚盒] 小马影视」,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8
+祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8
+祁县新闻综合「[聚盒] 小盒子在线源」,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 神池新闻综合,http://frjw3tzv.live.sxmty.com/live/hls/28d39691d44244e2b6b2afe7c75104ff/4085af81ad5d4dd9a61b627c75161f02.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州少儿「[聚盒] 小盒子在线源」,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -2073,11 +2073,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 自贡综合频道,https://sczghdl.tianma3600.com/sczg/zhpd.m3u8
 自贡综合频道「[聚盒] 小马影视」,http://110.189.153.160:1001/zhpd.flv
 自贡综合频道「[聚盒] 小马影视」,http://110.189.153.160:1001/zhpd.flv
-舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
-舒兰新闻综合「[聚盒] ZBDSIPV4」,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
-舒兰新闻综合「[聚盒] 小马影视」,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 舒兰新闻综合「[聚盒] 小马影视」,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 舒兰新闻综合「[聚盒] 小盒子在线源」,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+舒兰新闻综合「[聚盒] 小盒子在线源」,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
+舒兰新闻综合「[聚盒] ZBDSIPV4」,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
 舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
@@ -2134,12 +2134,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门公共频道,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-荆门新闻综合「[聚盒] 小盒子在线源」,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
-荆门新闻综合「[聚盒] 天微M3U」,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 荆门新闻综合「[聚盒] 小马影视」,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门新闻综合「[聚盒] 小盒子在线源」,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门新闻综合「[聚盒] ZBDSIPV4」,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门新闻综合「[聚盒] 天微M3U」,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合「[聚盒] 小盒子在线源」,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
+荆门新闻综合「[聚盒] 天微M3U」,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 荆门新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-6.m3u8
 荆门新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-2.m3u8
 荆门新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-3.m3u8
@@ -2150,20 +2150,20 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 获嘉综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 获嘉综合频道「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 获嘉综合频道「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽新闻综合「[聚盒] 小马影视」,http://zb.hezegd.com:1935/live/hztv1/1000k/tzwj_video.m3u8
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+菏泽新闻综合,http://zb.hezegd.com:1935/live/hztv1/1000k/tzwj_video.m3u8
+菏泽新闻综合「[聚盒] 小马影视」,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 菏泽经济生活「[聚盒] 小马影视」,http://zb.hezegd.com:1935/live/hztv2/1000k/tzwj_video.m3u8
-菏泽经济生活「[聚盒] 小马影视」,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽经济生活「[聚盒] 小马影视」,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 营口新闻综合,http://cfss.cc/ds/bfgd.php?id=278&Cf.m3u8
 营口新闻综合「[聚盒] 小马影视」,http://137.175.111.185/bfgd/?id=278
 营口新闻综合「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000278
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
+萧山新闻综合「老刘备」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-萧山新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 萧山新闻综合「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山新闻综合「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-6.m3u8
@@ -2174,14 +2174,14 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
 萧山生活「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
 萧山生活「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
+萧山生活「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山生活「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活「[聚盒] 天微M3U」,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山生活「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山生活「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活频道「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活频道「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
@@ -2231,20 +2231,20 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 西双版纳公共「[聚盒] 小马影视」,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
 西双版纳公共「[聚盒] 小马影视」,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 西和综合频道,https://play.kankanlive.com/live/1626051451895935.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁新闻综合「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁新闻综合「[聚盒] 小马影视」,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 西宁新闻综合「[聚盒] 小盒子在线源」,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 西宁新闻综合「[聚盒] ZBDSIPV4」,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 西宁新闻综合「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+西宁新闻综合「[聚盒] 小马影视」,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁新闻综合「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁新闻综合「[聚盒] 天微M3U」,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁新闻综合「[聚盒] 小盒子在线源」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
-西宁新闻综合「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 西宁新闻综合「[聚盒] 小盒子在线源」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁新闻综合「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁新闻综合「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁生活服务「[聚盒] 小马影视」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 西宁生活服务「[聚盒] 天微M3U」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-西宁生活服务「[聚盒] 小马影视」,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁生活服务「[聚盒] 小马影视」,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 西宁生活服务「[聚盒] 天微M3U」,https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-1.m3u8
 西宁生活服务「[聚盒] 天微M3U」,https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-2.m3u8
@@ -2259,16 +2259,16 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 西安都市「[聚盒] ZBDSIPV4」,http://112.46.105.20:8009/hls/29/index.m3u8
 西安都市「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 西昌综合频道,http://103.252.251.199:18085/hls/xichangweishi.m3u8
-西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
-西青新闻综合「[聚盒] 小马影视」,http://221.238.209.44:81/hls/live1.m3u8
+西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
+西青新闻综合「[聚盒] 小马影视」,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 许昌公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226695/index.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
+诸暨新闻综合「老刘备」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-诸暨新闻综合「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
 诸暨新闻综合「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 诸暨新闻综合「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 诸暨新闻综合「[聚盒] 天微M3U」,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
@@ -2292,8 +2292,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 辉县新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
 辉县新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
 辉县新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-辽宁公共高清,http://120.76.248.139/live/bfgd/4200000077.m3u8
-辽宁公共高清「[聚盒] 小盒子在线源」,http://120.76.248.139/live/bfgd/4200000481.m3u8
+辽宁公共高清,http://120.76.248.139/live/bfgd/4200000481.m3u8
+辽宁公共高清「[聚盒] 小盒子在线源」,http://120.76.248.139/live/bfgd/4200000077.m3u8
 辽宁公共高清「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=481&Cf.m3u8
 辽宁公共高清「[聚盒] 小马影视」,http://137.175.111.185/bfgd/?id=481
 辽宁公共高清「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000481
@@ -2303,9 +2303,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 辽宁生活高清「[聚盒] 小马影视」,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
 辽宁生活高清「[聚盒] 小马影视」,http://137.175.111.185/bfgd/?id=073
 辽宁生活高清「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=420000073
-辽宁经济高清,http://120.76.248.139/live/bfgd/4200000480.m3u8
+辽宁经济高清,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁经济高清「[聚盒] 小盒子在线源」,http://120.76.248.139/live/bfgd/4200000480.m3u8
 辽宁经济高清「[聚盒] 天微M3U」,http://120.76.248.139/live/bfgd/4200000480.m3u8
-辽宁经济高清「[聚盒] 小盒子在线源」,http://120.76.248.139/live/bfgd/4200000076.m3u8
 辽宁经济高清「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=480&Cf.m3u8
 辽宁经济高清「[聚盒] 小马影视」,http://137.175.111.185/bfgd/?id=480
 辽宁经济高清「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000480
@@ -2333,9 +2333,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
 运城公共频道「[聚盒] 小马影视」,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城公共频道「[聚盒] 小马影视」,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
-运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 运城新闻综合「[聚盒] 小马影视」,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
-运城新闻综合「[聚盒] 小马影视」,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
+运城新闻综合「[聚盒] 小马影视」,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 连云港公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
 连云港公共「[聚盒] 天微M3U」,http://iptv.666230.xyz/iptv/jsyd.php/jslyggonggongpd
 通江新闻综合,http://live.sctvcloud.com/live/bztongjiang/playlist.m3u8
@@ -2385,12 +2385,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 郧阳新闻综合「[聚盒] 小马影视」,http://58.19.198.159:2021/hls1.m3u8
 郧阳新闻综合「[聚盒] 小马影视」,http://58.19.198.159:2021/hls1.m3u8
 郧阳新闻综合「[聚盒] 小马影视」,http://58.19.198.159:2021/hls1.m3u8?zhubd
-郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
+郸城新闻综合「[聚盒] 小马影视」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
-郸城新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-郸城新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
-郸城新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 郸城新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+郸城新闻综合「[聚盒] 小盒子在线源」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
+郸城新闻综合「[聚盒] 天微M3U」,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 郸城新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合「[聚盒] 小马影视」,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合「[聚盒] 天微M3U」,https://stream1.freetv.fun/dan-cheng-xin-wen-zong-he-1.m3u8
@@ -2418,11 +2418,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
 金川新闻综合「[聚盒] ZBDSIPV4」,http://139.203.180.9:90/live/zhxw.m3u8
 金川新闻综合「[聚盒] 天微M3U」,http://139.203.180.9:90/live/zhxw.m3u8
-金川新闻综合「[聚盒] 小马影视」,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川新闻综合「[聚盒] 小马影视」,http://live.jinchuanrmt.com:90/live/zhxw.m3u8#http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金川新闻综合「[聚盒] 小盒子在线源」,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金川新闻综合「[聚盒] ZBDSIPV4」,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金川新闻综合「[聚盒] 天微M3U」,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+金川新闻综合「[聚盒] 小马影视」,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川综合频道,https://play.kankanlive.com/live/1625041962958919.m3u8
 金昌综合频道,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
@@ -2434,8 +2434,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 金色学堂「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 金鹰卡通,http://125.43.249.76:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通「[聚盒] 小马影视」,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
-金鹰卡通「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 金鹰卡通「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=105&Cf.m3u8
+金鹰卡通「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 金鹰卡通「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 金鹰卡通「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/62/index.m3u8
 金鹰卡通「[聚盒] 小马影视」,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227620/1.m3u8?HlsProfileId=
@@ -2531,22 +2531,22 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 阜南新闻综合,http://8.138.7.223/so/tool/live/20261108081654_00004.m3u8
 阜城经济频道,http://hbfc.chinashadt.com:2036/live/5.stream/playlist.m3u8
 阜城综合频道,http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
+阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 阳江公共「[聚盒] 小马影视」,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 阳江公共「[聚盒] 小马影视」,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
-阳江公共「[聚盒] 小马影视」,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
+阳江公共「[聚盒] 小马影视」,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 阳江公共「[聚盒] 小马影视」,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 阳泉新闻综合HD,https://live.goodiptv.club/api/yqgd.php?id=yqxwzhhd
 阳泉科教HD,https://live.goodiptv.club/api/yqgd.php?id=yqkjhd
 陇西综合频道,http://play.kankanlive.com/live/1641010321462941.m3u8
 陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251023080139c026415ca4654e0cb51f36f8105eb6a1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251023080139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251023080139&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=101f9c0a14d24dc78aa97137482db06c&ddCalcu=c160e012bf6d902c804a71341d7294adac87
-陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251023080139c026415ca4654e0cb51f36f8105eb6a1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251023080139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251023080139&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=101f9c0a14d24dc78aa97137482db06c&ddCalcu=c160e012bf6d902c804a71341d7294adac87
-陕西体育休闲「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44
-陕西体育休闲「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
-陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44
-陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
 陕西体育休闲「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034
+陕西体育休闲「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
+陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251023080139c026415ca4654e0cb51f36f8105eb6a1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251023080139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251023080139&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=101f9c0a14d24dc78aa97137482db06c&ddCalcu=c160e012bf6d902c804a71341d7294adac87
 陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034
+陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
+陕西体育休闲「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44
+陕西体育休闲「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44
 陕西体育休闲「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西体育休闲「[聚盒] 小盒子在线源」,https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
 陕西体育休闲「[聚盒] 天微M3U」,https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
@@ -2554,12 +2554,12 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 陕西公共「[聚盒] 天微M3U」,http://ls.qingting.fm/live/1222.m3u8
 陕西公共「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西影视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9
-陕西新闻资讯「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510230801447f8d4c3a1a3c4ca1bd0de217472d80f2&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ed563603d847927c8983a33d5b70e32&ddCalcu=263eeed2056760b356d0333da834879982c7
-陕西新闻资讯「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9
+陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510230801447f8d4c3a1a3c4ca1bd0de217472d80f2&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ed563603d847927c8983a33d5b70e32&ddCalcu=263eeed2056760b356d0333da834879982c7
 陕西新闻资讯「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510230801447f8d4c3a1a3c4ca1bd0de217472d80f2&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ed563603d847927c8983a33d5b70e32&ddCalcu=263eeed2056760b356d0333da834879982c7
 陕西新闻资讯「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510240800591ee112712ed2473aa0d84b8ea3046959&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5661fd15cfb5726d7c6a1eb652fdb094&ddCalcu=4596e062b16df0fd21556cbfeb15a762c67d
 陕西新闻资讯「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510240800591ee112712ed2473aa0d84b8ea3046959&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5661fd15cfb5726d7c6a1eb652fdb094&ddCalcu=4596e062b16df0fd21556cbfeb15a762c67d
+陕西新闻资讯「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9
+陕西新闻资讯「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9
 陕西新闻资讯「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西新闻资讯「[聚盒] 小盒子在线源」,https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c
 陕西新闻资讯「[聚盒] 天微M3U」,https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c
@@ -2567,19 +2567,19 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 陕西西部电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
 陕西都市青春「[聚盒] ZBDSIPV4」,http://112.46.105.20:8009/hls/19/index.m3u8
-陕西都市青春「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
 陕西都市青春「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab
-陕西都市青春「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
 陕西都市青春「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab
 陕西都市青春「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=20250919080136b45ee433a7cf4d688994f00b794d176d&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9db1317be8c80566b10f130aebe87c29&ddCalcu=992decb1716830e1b7ebae083c18f00516b6
 陕西都市青春「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=20250919080136b45ee433a7cf4d688994f00b794d176d&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9db1317be8c80566b10f130aebe87c29&ddCalcu=992decb1716830e1b7ebae083c18f00516b6
+陕西都市青春「[聚盒] 小盒子在线源」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
+陕西都市青春「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
 陕西都市青春「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西都市青春「[聚盒] 小盒子在线源」,https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b
 陕西都市青春「[聚盒] 天微M3U」,https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b
 隆化综合频道,http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
 隆化综合频道「[聚盒] 小马影视」,http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
-隆安新闻综合,http://hls.nntv.cn/nnlive/LATV_A.m3u8?zguangxd#rtmp://rtmp.nntv.cn/nnlive/LATV_A?zguangxd
-隆安新闻综合「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/LATV_A.m3u8
+隆安新闻综合,http://hls.nntv.cn/nnlive/LATV_A.m3u8
+隆安新闻综合「[聚盒] 小马影视」,http://hls.nntv.cn/nnlive/LATV_A.m3u8?zguangxd#rtmp://rtmp.nntv.cn/nnlive/LATV_A?zguangxd
 隆昌新闻综合,http://live.sctvcloud.com/live/longchang/playlist.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
 雅安新闻综合「[聚盒] ZBDSIPV4」,https://play.yunxya.com/channellive/xinwen.m3u8
@@ -2624,8 +2624,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 风云.足球「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云.音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云.音乐「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-风云足球「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 风云足球「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708859.m3u8
 风云足球「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/68/index.m3u8
 风云足球「[聚盒] 小马影视」,http://218.17.143.73:9901/tsfile/live/1007_1.m3u8?key=txiptv&url=tvzb.com
@@ -2637,9 +2637,9 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 风云足球「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球「[聚盒] 小马影视」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-风云音乐「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+风云音乐「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 风云音乐「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 风云音乐「[聚盒] 小盒子在线源」,http://hmfs.f3322.net:3388/hls/29/index.m3u8
@@ -2773,10 +2773,10 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 龙游新闻综合「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游新闻综合「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游生活娱乐「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游生活娱乐「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐「[聚盒] 天微M3U」,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+龙游生活娱乐「[聚盒] 小盒子在线源」,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+龙游生活娱乐「[聚盒] ZBDSIPV4」,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8

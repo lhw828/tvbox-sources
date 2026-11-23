@@ -14,12 +14,12 @@ CEC国际旅游「[聚盒] 小马影视」,http://play.cec-tv.com.cn/channel/cec
 CEC国际汉语,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN「[聚盒] ZBDSIPV4」,https://0472.org/hls/cgtn.m3u8
-CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00002.m3u8
-CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261107125831_00014.m3u8
-CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00003.m3u8
-CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00001.m3u8
-CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104221027_00001.m3u8
 CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00019.m3u8
+CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104221027_00001.m3u8
+CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00003.m3u8
+CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00002.m3u8
+CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00001.m3u8
+CGTN「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261107125831_00014.m3u8
 CGTN「[聚盒] 小盒子在线源」,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN「[聚盒] ZBDSIPV4」,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
@@ -62,9 +62,9 @@ CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 CGTN拉丁美洲频道,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语「[聚盒] 小盒子在线源」,https://0472.org/hls/cgtnf.m3u8
-CGTN法语「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00010.m3u8
-CGTN法语「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00020.m3u8
 CGTN法语「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00011.m3u8
+CGTN法语「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00020.m3u8
+CGTN法语「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00010.m3u8
 CGTN法语「[聚盒] 小盒子在线源」,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN法语「[聚盒] ZBDSIPV4」,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN法语「[聚盒] 小马影视」,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -76,14 +76,14 @@ CGTN法语「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240
 CGTN法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN纪录「[聚盒] ZBDSIPV4」,https://0472.org/hls/cgtnd.m3u8
-CGTN纪录「[聚盒] 小马影视」,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 CGTN纪录「Kimentanm」,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN纪录「[聚盒] 小马影视」,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
+CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00008.m3u8
+CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00004.m3u8
 CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00024.m3u8
 CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00007.m3u8
 CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00006.m3u8
 CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00005.m3u8
-CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00004.m3u8
-CGTN纪录「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261108072217_00008.m3u8
 CGTN纪录「[聚盒] 小盒子在线源」,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN纪录「[聚盒] ZBDSIPV4」,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN纪录「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
@@ -143,33 +143,33 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 安徽国际「[聚盒] 小盒子在线源」,https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
 安徽国际「[聚盒] 天微M3U」,https://m.italkbbtv.com/live/6a3a3784260d0d240f66a62c
 广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-广西国际「[聚盒] ZBDSIPV4」,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-广西国际「[聚盒] 天微M3U」,http://107.150.60.122/live/gxgj.m3u8
-广西国际「[聚盒] 天微M3U」,http://198.204.228.26/live/gxgj.m3u8
+广西国际,http://198.204.228.26/live/gxgj.m3u8
 广西国际「[聚盒] 天微M3U」,http://192.151.150.154/live/gxgj.m3u8
-广西国际「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj
+广西国际「[聚盒] 天微M3U」,http://107.150.60.122/live/gxgj.m3u8
 广西国际「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
 广西国际「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
+广西国际「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj
+广西国际「[聚盒] 小盒子在线源」,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+广西国际「[聚盒] ZBDSIPV4」,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际「[聚盒] 小盒子在线源」,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际「[聚盒] 小盒子在线源」,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 江苏国际,http://bobohome.ignorelist.com:20247/migu?id=626064674
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江国际「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际「[聚盒] 天微M3U」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+浙江国际「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+浙江国际「[聚盒] 天微M3U」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
+浙江国际「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 浙江国际「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际「[聚盒] 小盒子在线源」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际「[聚盒] 天微M3U」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 浙江国际「[聚盒] ZBDSIPV4」,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
-浙江国际「[聚盒] ZBDSIPV4」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-浙江国际「[聚盒] 小盒子在线源」,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-浙江国际「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际「[聚盒] 小马影视」,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际频道,http://8.138.7.223/so/tool/live/20261103204729_00008.m3u8
 湖南国际,http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0

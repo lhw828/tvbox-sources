@@ -32,12 +32,12 @@ CCTV-风云音乐「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PL
 CCTV-风云音乐「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV1「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV1「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV1「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV1「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-CCTV1「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00008.m3u8
+CCTV1「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV1「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV1「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104220500_00002.m3u8
+CCTV1「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00008.m3u8
 CCTV1「[聚盒] 小盒子在线源」,http://112.46.85.60:8009/hls/501/index.m3u8
 CCTV1「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 CCTV1「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/19/index.m3u8
@@ -113,10 +113,10 @@ CCTV1「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240127_1
 CCTV1「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV10「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV10「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV10「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00008.m3u8
 CCTV10「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00021.m3u8
+CCTV10「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00008.m3u8
 CCTV10「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
+CCTV10「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV10「老刘备」,mitv://generationnexxxt.com:19806/db6e0eae415d4d3c80389e51f8aac382
 CCTV10「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
@@ -126,10 +126,10 @@ CCTV10「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV10
 CCTV10「[聚盒] 天微M3U」,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
 CCTV10「[聚盒] 小盒子在线源」,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV10「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv10.m3u8
+CCTV10「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv10.m3u8
 CCTV10「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1028_1.m3u8
 CCTV10「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/10/index.m3u8
 CCTV10「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=129&Cf.m3u8
-CCTV10「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv10.m3u8
 CCTV10「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$可回放
 CCTV10「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$可回放
@@ -173,14 +173,14 @@ CCTV11「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8
 CCTV11「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 CCTV11「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00009.m3u8
 CCTV11「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00022.m3u8
-CCTV11「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
 CCTV11「[聚盒] 小盒子在线源」,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+CCTV11「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
 CCTV11「老刘备」,mitv://generationnexxxt.com:19806/aed547d30ca64a089f9b9adad8d9ee91
 CCTV11「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
 CCTV11「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV11
 CCTV11「[聚盒] 小盒子在线源」,http://69.30.246.194/live/cctv11.m3u8
-CCTV11「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV11「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv11.m3u8
+CCTV11「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV11「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1029_1.m3u8
 CCTV11「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/11/index.m3u8
 CCTV11「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -225,8 +225,8 @@ CCTV12「[聚盒] 天微M3U」,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV12「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV12「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV12「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-CCTV12「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00023.m3u8
 CCTV12「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00010.m3u8
+CCTV12「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00023.m3u8
 CCTV12「[聚盒] 小盒子在线源」,http://112.46.85.60:8009/hls/507/index.m3u8
 CCTV12「[聚盒] ZBDSIPV4」,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
@@ -278,17 +278,17 @@ CCTV12「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240252_
 CCTV12 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 CCTV13新闻频道,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13新闻频道「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV13新闻频道「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 CCTV13新闻频道「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV13新闻频道「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 CCTV13新闻频道「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00011.m3u8
 CCTV13新闻频道「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00024.m3u8
-CCTV13新闻频道「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104220500_00004.m3u8
 CCTV13新闻频道「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/31/index.m3u8
 CCTV13新闻频道「[聚盒] 天微M3U」,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV13新闻频道「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104220500_00004.m3u8
 CCTV13新闻频道「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
-CCTV13新闻频道「[聚盒] 小盒子在线源」,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13新闻频道「[聚盒] 小盒子在线源」,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13新闻频道「[聚盒] ZBDSIPV4」,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV13新闻频道「[聚盒] 小盒子在线源」,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13新闻频道「老刘备」,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV13新闻频道「老刘备」,mitv://generationnexxxt.com:19806/89e640d10d2646d3b7580c9bd85e9565
 CCTV13新闻频道「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
@@ -299,9 +299,9 @@ CCTV13新闻频道「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chi
 CCTV13新闻频道「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV13
 CCTV13新闻频道「[聚盒] 天微M3U」,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 CCTV13新闻频道「[聚盒] 小马影视」,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
-CCTV13新闻频道「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/13/index.m3u8
 CCTV13新闻频道「[聚盒] 小马影视」,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13新闻频道「[聚盒] 小马影视」,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13新闻频道「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/13/index.m3u8
 CCTV13新闻频道「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=067&Cf.m3u8
 CCTV13新闻频道「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13新闻频道「[聚盒] 小马影视」,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
@@ -338,8 +338,8 @@ CCTV13新闻频道「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:
 CCTV13新闻频道「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV13新闻频道「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV13 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV14「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV14「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV14「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 CCTV14「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV14「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -397,12 +397,12 @@ CCTV14「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playur
 CCTV14「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV14「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
-CCTV15「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv15hd.m3u8
-CCTV15「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV15「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 CCTV15「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV15「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+CCTV15「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv15hd.m3u8
 CCTV15「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV15「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV15「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00013.m3u8
 CCTV15「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00026.m3u8
 CCTV15「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/102/index.m3u8
@@ -418,8 +418,8 @@ CCTV15「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqca/cctv
 CCTV15「[聚盒] 小盒子在线源」,http://23.237.228.134/live3/CCTV15.m3u8
 CCTV15「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/15/index.m3u8
 CCTV15「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=133&Cf.m3u8
 CCTV15「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV15「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=133&Cf.m3u8
 CCTV15「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV15「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$可回放
 CCTV15「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$可回放
@@ -461,14 +461,14 @@ CCTV15「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com
 CCTV15「[聚盒] 天微M3U」,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV15 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV16 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV17「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV17「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV17「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CCTV17「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00016.m3u8
 CCTV17「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00028.m3u8
 CCTV17「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/35/index.m3u8
 CCTV17「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-CCTV17「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV17「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV17「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV17「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV17
 CCTV17「[聚盒] 小盒子在线源」,http://23.237.228.134/live3/CCTV17.m3u8
@@ -514,12 +514,12 @@ CCTV17「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240326_
 CCTV17 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV1 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV2「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV2「[聚盒] 天微M3U」,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV2「[聚盒] 天微M3U」,http://107.150.60.122/live/cctv2hd.m3u8
-CCTV2「[聚盒] 天微M3U」,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV2「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv2hd.m3u8
-CCTV2「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104220500_00003.m3u8
 CCTV2「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00009.m3u8
+CCTV2「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261104220500_00003.m3u8
 CCTV2「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
 CCTV2「老刘备」,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV2「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
@@ -529,8 +529,8 @@ CCTV2「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/
 CCTV2「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV2
-CCTV2「[聚盒] 天微M3U」,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV2「[聚盒] 小盒子在线源」,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV2「[聚盒] 天微M3U」,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV2「[聚盒] 小盒子在线源」,http://112.123.206.32:808/hls/2/index.m3u8
 CCTV2「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1019_1.m3u8
 CCTV2「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -577,12 +577,11 @@ CCTV2 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showt
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV3「[聚盒] 天微M3U」,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV3「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV3「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv3.m3u8
 CCTV3「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV3「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00010.m3u8
 CCTV3「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
-CCTV3「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv3.m3u8
 CCTV3「[聚盒] 小盒子在线源」,http://gmxw.7766.org:808/hls/91/index.m3u8
-CCTV3「[聚盒] ZBDSIPV4」,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3「老刘备」,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
 CCTV3「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3「[聚盒] 小马影视」,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -602,6 +601,7 @@ CCTV3「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/3/index.m3u8
 CCTV3「[聚盒] 小马影视」,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
 CCTV3「[聚盒] 小马影视」,http://116.23.176.91:88/hls/3/index.m3u8
 CCTV3「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV3「[聚盒] ZBDSIPV4」,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3「[聚盒] 稳定github直播」,http://119.129.172.50:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3「[聚盒] 稳定github直播」,http://119.129.172.232:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3「[聚盒] 稳定github直播」,http://36.40.236.110:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -635,14 +635,14 @@ CCTV3「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl
 CCTV3「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV3 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV4「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV4「[聚盒] 天微M3U」,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV4「[聚盒] 天微M3U」,http://173.208.212.130:8181/1080p/cctv4.m3u8
+CCTV4「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV4「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/4/index.m3u8
-CCTV4「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00011.m3u8
 CCTV4「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00001.m3u8
+CCTV4「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00011.m3u8
 CCTV4「[聚盒] 小盒子在线源」,http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 CCTV4「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
 CCTV4「[聚盒] 小盒子在线源」,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
@@ -707,22 +707,22 @@ CCTV4「[聚盒] 小马影视」,http://39.134.24.161/dbiptv.sn.chinamobile.com/
 CCTV4「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV4 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV5「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV5「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV5「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-CCTV5「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV5「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00003.m3u8
 CCTV5「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00002.m3u8
+CCTV5「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00003.m3u8
 CCTV5「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00014.m3u8
-CCTV5「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00015.m3u8
 CCTV5「[聚盒] 小盒子在线源」,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5「[聚盒] 天微M3U」,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV5「[聚盒] 小盒子在线源」,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
-CCTV5「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+CCTV5「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00015.m3u8
 CCTV5「[聚盒] 小盒子在线源」,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
-CCTV5「[聚盒] 小盒子在线源」,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+CCTV5「[聚盒] 小盒子在线源」,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 CCTV5「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-CCTV5「[聚盒] 小盒子在线源」,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
+CCTV5「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+CCTV5「[聚盒] 小盒子在线源」,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5「[聚盒] 天微M3U」,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5「[聚盒] 小盒子在线源」,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 CCTV5「老刘备」,mitv://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
 CCTV5「老刘备」,mitv://generationnexxxt.com:19806/5b390808c064415fa55fa30feb8788ff
 CCTV5「老刘备」,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
@@ -744,21 +744,21 @@ CCTV5「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV5「[聚盒] 天微M3U」,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV5「[聚盒] 小盒子在线源」,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV5「[聚盒] 小盒子在线源」,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV5「[聚盒] 小盒子在线源」,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202601140802389fee40f767634affae86d7ba5c1f2df5&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260114080238&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=218.28.233.106&SecurityKey=20260114080238&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=254345c29fdec82abd6779270edb1d83&sv=10004&ct=android
+CCTV5「[聚盒] 天微M3U」,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV5「[聚盒] 天微M3U」,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1022_1.m3u8
-CCTV5「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1023_1.m3u8
 CCTV5「[聚盒] 稳定github直播」,http://121.19.134.6:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1023_1.m3u8
 CCTV5「[聚盒] 小盒子在线源」,http://120.211.62.180:8000/hls/18/index.m3u8
 CCTV5「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV5「[聚盒] 小盒子在线源」,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202601140802389fee40f767634affae86d7ba5c1f2df5&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260114080238&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=218.28.233.106&SecurityKey=20260114080238&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=254345c29fdec82abd6779270edb1d83&sv=10004&ct=android
 CCTV5「[聚盒] 小盒子在线源」,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
 CCTV5「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=246&Cf.m3u8
-CCTV5「[聚盒] 天微M3U」,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV5「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=064&Cf.m3u8
+CCTV5「[聚盒] 天微M3U」,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV5「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$可回放
@@ -840,21 +840,22 @@ CCTV5 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showt
 CCTV6,http://69.30.245.50/live/cctv6.m3u8
 CCTV6「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV6「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV6「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV6「[聚盒] 天微M3U」,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV6「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV6「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00004.m3u8
 CCTV6「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00016.m3u8
 CCTV6「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 CCTV6「[聚盒] 小盒子在线源」,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8
-CCTV6「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV6「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/94/index.m3u8
-CCTV6「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv6hd.m3u8
+CCTV6「[聚盒] 小盒子在线源」,http://182.150.23.74:808/hls/6/index.m3u8
 CCTV6「老刘备」,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
 CCTV6「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
 CCTV6「[聚盒] 小马影视」,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV6「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV6
 CCTV6「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=065&Cf.m3u8
 CCTV6「范明明」,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV6「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=065&Cf.m3u8
 CCTV6「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$可回放
 CCTV6「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$可回放
@@ -864,7 +865,6 @@ CCTV6「[聚盒] 小马影视」,http://120.196.232.124:8088/000000001001PLTV/65
 CCTV6「[聚盒] 小马影视」,http://116.23.176.91:88/hls/6/index.m3u8
 CCTV6「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV6「[聚盒] 小盒子在线源」,http://27.41.245.32:801/hls/6/index.m3u8
-CCTV6「[聚盒] 小盒子在线源」,http://182.150.23.74:808/hls/6/index.m3u8
 CCTV6「[聚盒] 稳定github直播」,http://119.129.172.105:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6「[聚盒] 稳定github直播」,http://119.129.172.28:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6「[聚盒] 稳定github直播」,http://36.40.236.110:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -891,9 +891,9 @@ CCTV6「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl
 CCTV6「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV6「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 CCTV6 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV7,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV7「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV7「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV7「[聚盒] 天微M3U」,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV7「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV7「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00005.m3u8
 CCTV7「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00017.m3u8
@@ -903,8 +903,8 @@ CCTV7「老刘备」,mitv://generationnexxxt.com:19806/e70ef03e57794075962ec3960
 CCTV7「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
 CCTV7「[聚盒] 小马影视」,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV7「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV7
-CCTV7「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv7.m3u8
 CCTV7「[聚盒] 小盒子在线源」,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV7「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv7.m3u8
 CCTV7「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1025_1.m3u8
 CCTV7「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=127&Cf.m3u8
@@ -943,15 +943,15 @@ CCTV7「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl
 CCTV7「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV7「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV7 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV8,http://69.30.245.50/live/cctv8.m3u8
+CCTV8「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV8「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV8「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV8「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00006.m3u8
 CCTV8「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00018.m3u8
 CCTV8「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/96/index.m3u8
-CCTV8「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
 CCTV8「[聚盒] ZBDSIPV4」,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8「[聚盒] 天微M3U」,http://69.30.245.50/live/cctv8.m3u8
+CCTV8「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+CCTV8「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV8「老刘备」,mitv://generationnexxxt.com:19806/7c422f17b94c47928316bba288c64a25
 CCTV8「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
 CCTV8「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
@@ -964,6 +964,7 @@ CCTV8「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV8
 CCTV8「[聚盒] 天微M3U」,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 CCTV8「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1026_1.m3u8
 CCTV8「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=066&Cf.m3u8
+CCTV8「[聚盒] 小盒子在线源」,http://iptv77.iptv66.eu.org:35455/gaoma/cctv8.m3u8
 CCTV8「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$可回放
 CCTV8「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$可回放
@@ -972,7 +973,6 @@ CCTV8「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/8/index.m3u8
 CCTV8「[聚盒] 小马影视」,http://116.23.176.91:88/hls/8/index.m3u8
 CCTV8「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV8「[聚盒] 小盒子在线源」,http://27.41.245.32:801/hls/8/index.m3u8
-CCTV8「[聚盒] 小盒子在线源」,http://iptv77.iptv66.eu.org:35455/gaoma/cctv8.m3u8
 CCTV8「[聚盒] 天微M3U」,http://207.56.13.146:81/cdnlive/cctv8.m3u8
 CCTV8「[聚盒] 稳定github直播」,http://119.129.172.50:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8「[聚盒] 稳定github直播」,http://119.129.172.232:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1005,14 +1005,14 @@ CCTV8「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240249_1
 CCTV8「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV8 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV9「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV9「[聚盒] 天微M3U」,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV9「[聚盒] 天微M3U」,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV9「[聚盒] 天微M3U」,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 CCTV9「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00007.m3u8
 CCTV9「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00020.m3u8
 CCTV9「[聚盒] 小盒子在线源」,http://112.46.85.60:8009/hls/509/index.m3u8
 CCTV9「[聚盒] 小盒子在线源」,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
+CCTV9「[聚盒] 天微M3U」,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV9「老刘备」,mitv://generationnexxxt.com:19806/1d25488429514e78ab4d100819bece3e
 CCTV9「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
@@ -1020,12 +1020,11 @@ CCTV9「[聚盒] 小马影视」,http://39.134.24.166/dbiptv.sn.chinamobile.com/
 CCTV9「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV9
-CCTV9「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV9「[聚盒] 小盒子在线源」,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV9「[聚盒] 稳定github直播」,http://121.19.134.6:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1027_1.m3u8
-CCTV9「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=128&Cf.m3u8
+CCTV9「[聚盒] 天微M3U」,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV9「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$可回放
 CCTV9「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$可回放
@@ -1040,6 +1039,7 @@ CCTV9「[聚盒] 稳定github直播」,http://119.129.172.50:9999/tsfile/live/00
 CCTV9「[聚盒] 稳定github直播」,http://119.129.172.232:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9「[聚盒] 稳定github直播」,http://36.40.236.110:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9「[聚盒] 稳定github直播」,http://223.159.8.222:8099/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
 CCTV9「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV9「[聚盒] 熊猫直播源」,http://8.134.101.151/cctvnews.php?id=cctv9
@@ -1105,9 +1105,9 @@ CCTV风云足球「[聚盒] 小盒子在线源」,http://27.41.245.32:801/hls/90
 CCTV风云音乐,http://121.19.134.139:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐「[聚盒] 小马影视」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-1「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1「[聚盒] 天微M3U」,http://120.76.248.139/live/bfgd/4200000135.m3u8
-CETV-1「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 CETV-1「[聚盒] 小马影视」,http://cfss.cc/ds/bfgd.php?id=135&Cf.m3u8
 CETV-1「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
@@ -1130,16 +1130,16 @@ CETV-2「[聚盒] 天微M3U」,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamo
 CETV-2「[聚盒] 天微M3U」,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEnc%74ype=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 CETV-2「[聚盒] 天微M3U」,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 CETV-2「[聚盒] 小马影视」,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=4200000492
-CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3「[聚盒] 天微M3U」,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3「[聚盒] 天微M3U」,http://198.204.228.26/live/cetv3.m3u8
 CETV-3「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV-3「[聚盒] 小马影视」,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CETV-3「[聚盒] 天微M3U」,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 CETV-3「[聚盒] 天微M3U」,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CETV-3「[聚盒] 小马影视」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-3「[聚盒] 天微M3U」,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEnc%74ype=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
-CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=b637d3083747642f29b310fc5ba99367&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260827062127&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=47.92.23.141&SecurityKey=20260827062127&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=960f499360818845510385e0e5605573&ddCalcu=3976v50a5fb04a6959e306e0588138081455&sv=10004&ct=android
-CETV-4「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+CETV-4「[聚盒] 天微M3U」,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=b637d3083747642f29b310fc5ba99367&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260827062127&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=47.92.23.141&SecurityKey=20260827062127&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=960f499360818845510385e0e5605573&ddCalcu=3976v50a5fb04a6959e306e0588138081455&sv=10004&ct=android
 CETV-4「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CETV-4「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8

@@ -5,9 +5,9 @@ CHC-家庭影院,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院「[聚盒] 天微M3U」,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院「[聚盒] 天微M3U」,http://198.204.228.26/live/chcjt.m3u8
-CHC家庭影院「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 CHC家庭影院「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC家庭影院「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 CHC家庭影院「老刘备」,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 CHC家庭影院「Kimentanm」,http://101.35.240.114:88/live.php?id=CHC家庭影院
 CHC家庭影院「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -69,8 +69,8 @@ IPTV热播剧场,http://119.129.172.232:9999/tsfile/live/1008_1.m3u8?key=txiptv&
 外国影院,http://cfss.cc/ds/bfgd.php?id=291&Cf.m3u8
 外国影院「[聚盒] 小马影视」,http://137.175.111.185/bfgd/?id=291
 安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
-怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
-怀旧剧场「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+怀旧剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 怀旧剧场「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/66/index.m3u8
 怀旧剧场「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
@@ -100,9 +100,9 @@ IPTV热播剧场,http://119.129.172.232:9999/tsfile/live/1008_1.m3u8?key=txiptv&
 淘剧场「[聚盒] 天微M3U」,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场「[聚盒] 天微M3U」,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEnc%74ype=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场「[聚盒] 天微M3U」,http://iptv.666230.xyz/iptv/bjyd.php/6553
-淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
-淮安影院娱乐「[聚盒] 小盒子在线源」,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐「[聚盒] 天微M3U」,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+淮安影院娱乐「[聚盒] 小盒子在线源」,http://live1.habctv.com/ysylsl/sd/live.m3u8
 淮安影院娱乐「[聚盒] 天微M3U」,http://live1.habctv.com/ysylsl/sd/live.m3u8
 滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 漫威「解说」,https://cdn.ttvb.eu.org/huya/17089779
@@ -119,8 +119,8 @@ IPTV热播剧场,http://119.129.172.232:9999/tsfile/live/1008_1.m3u8?key=txiptv&
 第一.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 第一.剧场「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 第一剧场,http://107.150.60.122/live/dyjc.m3u8
-第一剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 第一剧场「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+第一剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 第一剧场「[聚盒] 小马影视」,http://218.17.143.73:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com广东科教FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.98:3008
 第一剧场「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 第一剧场「老刘备」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -168,9 +168,9 @@ IPTV热播剧场,http://119.129.172.232:9999/tsfile/live/1008_1.m3u8?key=txiptv&
 风云.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云.剧场「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
-风云剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 风云剧场「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+风云剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
 风云剧场「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/65/index.m3u8
