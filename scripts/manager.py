@@ -48,7 +48,10 @@ SEEDS = [
 ]
 
 # 网络配置
-PROXY = os.environ.get('TVBOX_PROXY', 'http://127.0.0.1:2080')
+# 默认直连(不设代理)。GitHub Actions 等环境没有本机代理, 若硬编码 127.0.0.1 代理
+# 会导致每个种子先报 ProxyError 再走直连重试, 产生大量噪音且浪费时间。
+# 仅在本机特殊网络确实需要代理时, 显式设置环境变量 TVBOX_PROXY=http://127.0.0.1:2080
+PROXY = os.environ.get('TVBOX_PROXY', '')
 TIMEOUT = 12
 WORKERS = 16
 HEADERS = {
