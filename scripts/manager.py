@@ -192,8 +192,9 @@ def cmd_collect(args):
 
         data = parse_json_loose(text)
         # 多仓判定: urls 或 storeHouse; 且未到最大深度
+        # 防病态上游: 源可能返回纯数字/数组/字符串等非 dict JSON, 直接 .get 会崩溃
         children = []
-        if data:
+        if isinstance(data, dict):
             if isinstance(data.get('urls'), list):
                 children = data['urls']
             elif isinstance(data.get('storeHouse'), list):
@@ -253,7 +254,7 @@ def test_one(src, use_proxy=False):
     )
     if ok:
         data = parse_json_loose(text)
-        if data:
+        if isinstance(data, dict):
             if isinstance(data.get('urls'), list):
                 result['content'] = 'subscription'
                 result['site_count'] = len(data['urls'])
@@ -263,6 +264,10 @@ def test_one(src, use_proxy=False):
             else:
                 result['content'] = 'json'
                 result['site_count'] = 0
+        elif data:
+            # 合法 JSON 但非对象(纯数字/数组/字符串), 不是有效订阅配置
+            result['content'] = 'json(非对象)'
+            result['site_count'] = 0
         else:
             txt = text.strip()
             if txt.startswith('<'):
