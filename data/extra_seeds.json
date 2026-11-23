@@ -16,5 +16,8 @@
   {"id": "tang_tvbox_puny",  "name": "唐门-tvbox(puny)",    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",               "kind": "single"},
   {"id": "tang_tv_987",      "name": "唐门-tv(987)",        "url": "http://tv.999888987.xyz",                              "kind": "single"},
   {"id": "tang_tv_123",      "name": "唐门-tv(123)",        "url": "http://tv.999888123.xyz",                              "kind": "single"},
-  {"id": "tang_wex_vip",     "name": "唐门-wex(vip)",       "url": "https://9280.kstore.vip/wex.json",                      "kind": "single"}
+  {"id": "tang_wex_vip",     "name": "唐门-wex(vip)",       "url": "https://9280.kstore.vip/wex.json",                      "kind": "single"},
+
+  {"id": "api180189",  "name": "180189单仓(备用)",      "url": "https://5.180189.com/api.php?act=config",                "kind": "single"},
+  {"id": "c124",       "name": "124.71.19.220单仓(备用)", "url": "http://124.71.19.220/c/1",                            "kind": "single"}
 ]

@@ -122,29 +122,42 @@ def _gh_to_cdn(rest, src):
     return f'https://cdn.jsdelivr.net/gh/{user}/{repo}@{branch}{suffix}'
 
 # --- curl 直连探测 ----------------------------------------------------------
+def _curl_fetch(url, tmp_path, timeout, ua):
+    """单次 curl 抓取, 返回 (code, t, size, final, body)"""
+    cmd = [CURL, '-s', '-L', '-m', str(timeout), '-o', tmp_path,
+           '-w', '%{http_code}|%{time_total}|%{size_download}|%{url_effective}',
+           '-A', ua, url]
+    p = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 3)
+    parts = p.stdout.strip().split('|')
+    code = int(parts[0]) if len(parts) >= 3 and parts[0].isdigit() else 0
+    t = float(parts[1]) if len(parts) >= 2 and parts[1].replace('.', '').isdigit() else 99
+    size = int(parts[2]) if len(parts) >= 3 and parts[2].isdigit() else 0
+    final = parts[3] if len(parts) > 3 else url
+    try:
+        body = open(tmp_path, 'rb').read(200000).decode('utf-8', 'ignore')
+    except Exception:
+        body = ''
+    return code, t, size, final, body
+
+
 def curl_check(url, timeout=12):
     # 用真实临时文件承接 body (Windows 下 /dev/null 会导致 curl RC23 / size=0)
     tmp = tempfile.NamedTemporaryFile(delete=False, suffix='.dl')
     tmp.close()
-    cmd = [CURL, '-s', '-L', '-m', str(timeout), '-o', tmp.name,
-           '-w', '%{http_code}|%{time_total}|%{size_download}|%{url_effective}',
-           '-A', 'Mozilla/5.0 (Linux; Android 10)', url]
     try:
-        p = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 3)
-        out = p.stdout.strip()
-        parts = out.split('|')
+        code, t, size, final, body = _curl_fetch(
+            url, tmp.name, timeout, 'Mozilla/5.0 (Linux; Android 10)')
+        # 部分影视仓配置站对浏览器 UA 返回 HTML 落地页, 仅 okhttp(电视内核) UA 返回真 JSON。
+        # 仅在拿到 HTML 落地页时换 UA 重测, 不影响其余正常源。
+        if code == 200 and body.lstrip()[:1] == '<' and '<html' in body[:500].lower():
+            code, t, size, final, body = _curl_fetch(url, tmp.name, timeout, 'okhttp/3.12.0')
         result = {'ok': False, 'code': 0, 'latency': 99, 'size': 0}
-        if len(parts) >= 3:
-            code = int(parts[0]) if parts[0].isdigit() else 0
-            t = float(parts[1]) if parts[1].replace('.','').isdigit() else 99
-            size = int(parts[2]) if parts[2].isdigit() else 0
-            final = parts[3] if len(parts) > 3 else url
+        if code or size:
             # 思路4-深度验活: 200 且非空后, 按内容结构校验(非仅 HTTP 200)
             ok = code == 200 and size > 50
             detail = ''
             if ok:
                 try:
-                    body = open(tmp.name, 'rb').read(200000).decode('utf-8', 'ignore')
                     valid, detail = deep_validate_config(body, expect='config')
                     ok = valid
                 except Exception:

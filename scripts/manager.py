@@ -77,7 +77,15 @@ def fetch(url, use_proxy=False, timeout=TIMEOUT):
         r = s.get(url, timeout=timeout, verify=False, allow_redirects=True,
                   headers={'Accept-Encoding': 'gzip, deflate'})
         r.encoding = r.apparent_encoding or 'utf-8'
-        return (r.status_code == 200, r.text, r.status_code,
+        text = r.text
+        # 部分影视仓配置站对浏览器 UA 返回 HTML 落地页, 仅 okhttp(电视内核) UA 返回真 JSON。
+        # 仅当拿到 HTML 落地页时才换 UA 重试, 不影响其余正常源。
+        if r.status_code == 200 and text.lstrip()[:1] == '<' and '<html' in text[:500].lower():
+            r = s.get(url, timeout=timeout, verify=False, allow_redirects=True,
+                      headers={'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'okhttp/3.12.0'})
+            r.encoding = r.apparent_encoding or 'utf-8'
+            text = r.text
+        return (r.status_code == 200, text, r.status_code,
                 round(time.time() - t0, 2), r.url)
     except Exception as e:
         return (False, '', type(e).__name__ + ': ' + str(e)[:80],
