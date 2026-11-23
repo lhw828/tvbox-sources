@@ -25,6 +25,9 @@ declare -A LIVE_URLS=(
   [kimentanm.m3u]="https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u"
   [fanmingming_index.m3u]="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/index.m3u"
   [yang_gather.m3u]="https://cdn.jsdelivr.net/gh/YanG-1989/m3u@main/Gather.m3u"
+  [akira_iptv.m3u]="https://cdn.jsdelivr.net/gh/akiralereal/iptv@main/IPTV.m3u"
+  [akira_overseas.m3u]="https://cdn.jsdelivr.net/gh/akiralereal/iptv@main/IPTV-overseas.m3u"
+  [akira_web.m3u]="https://cdn.jsdelivr.net/gh/akiralereal/iptv@main/from-the-web/from-the-web.m3u"
 )
 for f in "${!LIVE_URLS[@]}"; do
   # 单源下载失败时保留原缓存文件，避免写空

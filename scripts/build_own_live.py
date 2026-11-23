@@ -39,9 +39,14 @@ SOURCE_FILES = [
     ('Kimentanm', 'kimentanm.m3u'),
     ('范明明', 'fanmingming_index.m3u'),
     ('YanG', 'yang_gather.m3u'),
+    # akiralereal/iptv 项目(静态聚合文件, 频道级实测自动过滤不可用线路)
+    ('akira精选', 'akira_iptv.m3u'),
+    ('akira海外', 'akira_overseas.m3u'),
+    ('akira网络', 'akira_web.m3u'),
 ]
 # 来源可信度(越小越优先)
-SRC_RANK = {'范明明': 1, 'Kimentanm': 2, '老刘备': 3, 'YanG': 4}
+SRC_RANK = {'范明明': 1, 'Kimentanm': 2, '老刘备': 3, 'YanG': 4,
+            'akira精选': 5, 'akira海外': 6, 'akira网络': 7}
 
 
 def load_source_files():

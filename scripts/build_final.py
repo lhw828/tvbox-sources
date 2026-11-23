@@ -37,22 +37,9 @@ def site_count(r):
     return int(m.group(1)) if m else 0
 
 
-# 速度分级: 延迟差在此比例内的视为"同一速度级别", 级别内再按站点数排序。
-# 用户示例: 0.9s / 1.0s / 1.5s 差距不大 -> 归为同级, 站点数多者靠前。
-SPEED_TIERS = [0.3, 0.6, 1.8, 3.0, 5.0, 8.0]  # 级别上界(秒); 0.9/1.0/1.5 均落 0.6~1.8 档
-
-
-def speed_tier(lat):
-    """延迟 -> 速度级别序号(越小越快)。相邻级别差距温和, 便于同级内用站点数再排序。"""
-    for i, bound in enumerate(SPEED_TIERS):
-        if lat < bound:
-            return i
-    return len(SPEED_TIERS)
-
-
 def sort_key(r):
-    """综合排序: 速度级别优先 -> 同级内站点数多者优先 -> 同站点数按延迟 -> 名称。"""
-    return (speed_tier(r['latency']), -site_count(r), r['latency'], r['name'])
+    """纯延迟排序: 延迟小者优先, 同延迟按名称。不再考虑源内站点数。"""
+    return (r['latency'], r['name'])
 
 
 def main():
@@ -89,7 +76,7 @@ def main():
     normal = list(ok)
     rewritten = [r for r in ok if r['rewrite']]
 
-    # 综合排序: 速度级别 -> 同级站点数多者优先 -> 延迟 -> 名称
+    # 纯延迟排序: 从快到慢, 不考虑源内站点数
     normal.sort(key=sort_key)
     fast = [r for r in normal if r['latency'] < 1.5]
 
@@ -156,12 +143,10 @@ def main():
              f'| ❌ 失效单列 | {len(dead)} | `sources/dead.json` |',
              f'| 🐘 大象分组(已纳入主订阅) | {len(adult)} | `sources/adult.json` |', '',
              '## 编号与排序规则', '',
-             '> 主订阅名称前的编号即综合排名（从快到慢）。排序依据：先按**速度级别**分组'
-             '（延迟 0.9s/1.0s/1.5s 视为同级），同级内**站点数多者靠前**，再按延迟、名称。', '',
-             '| 编号 | 源名 | 速度档 | 延迟 | 站点数 |', '|---|---|---|---|---|']
+             '> 主订阅名称前的编号即排名：**单纯按延迟从快到慢**排序，不再参考源内站点数。', '',
+             '| 编号 | 源名 | 延迟 |', '|---|---|---|']
     for r in normal:
-        lines.append(f'| {numbered(r)} | {r["name"]} | {speed_tier(r["latency"])} | '
-                     f'{r["latency"]}s | {site_count(r)} |')
+        lines.append(f'| {numbered(r)} | {r["name"]} | {r["latency"]}s |')
     lines += ['', '## 改写救活的源(原始 → 电视友好地址)', '']
     for r in rewritten:
         lines.append(f'- **{r["name"][:16]}** ({r["rewrite"]})')
