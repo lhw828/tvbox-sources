@@ -22,12 +22,12 @@ jobs:
       - name: 安装依赖
         run: pip install requests
 
-      - name: [点播] 抓取聚合站链接 + 收集 + 直连复测 + 构建
+      - name: "[点播] 抓取聚合站链接 + 收集 + 直连复测 + 构建"
         id: vod
         continue-on-error: true
         run: bash scripts/update_all.sh
 
-      - name: [直播] 下载直播源 + 测活 + 频道探测 + 构建
+      - name: "[直播] 下载直播源 + 测活 + 频道探测 + 构建"
         id: live
         continue-on-error: true
         run: bash scripts/update_live.sh
