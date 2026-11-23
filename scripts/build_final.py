@@ -28,6 +28,33 @@ for d in (SUB, SRC, REP):
 def now_cn():
     return datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S CST')
 
+
+def site_count(r):
+    """从 tv_check.detail 解析源内站点数 (形如 'sites(234)' / 'urls(12)')。"""
+    import re
+    detail = str(r.get('tv_check', {}).get('detail', ''))
+    m = re.search(r'(?:sites|urls)\((\d+)\)', detail, re.I)
+    return int(m.group(1)) if m else 0
+
+
+# 速度分级: 延迟差在此比例内的视为"同一速度级别", 级别内再按站点数排序。
+# 用户示例: 0.9s / 1.0s / 1.5s 差距不大 -> 归为同级, 站点数多者靠前。
+SPEED_TIERS = [0.3, 0.6, 1.8, 3.0, 5.0, 8.0]  # 级别上界(秒); 0.9/1.0/1.5 均落 0.6~1.8 档
+
+
+def speed_tier(lat):
+    """延迟 -> 速度级别序号(越小越快)。相邻级别差距温和, 便于同级内用站点数再排序。"""
+    for i, bound in enumerate(SPEED_TIERS):
+        if lat < bound:
+            return i
+    return len(SPEED_TIERS)
+
+
+def sort_key(r):
+    """综合排序: 速度级别优先 -> 同级内站点数多者优先 -> 同站点数按延迟 -> 名称。"""
+    return (speed_tier(r['latency']), -site_count(r), r['latency'], r['name'])
+
+
 def main():
     d = json.load(open(os.path.join(DATA, 'tv_result.json'), encoding='utf-8'))
     results = d['results']
@@ -60,16 +87,23 @@ def main():
     def group_name(r):
         return ADULT_GROUP if r.get('adult') else r.get('from', '其他')
     normal = list(ok)
-    fast = [r for r in normal if r['latency'] < 1.5]
     rewritten = [r for r in ok if r['rewrite']]
 
-    # 按延迟排序; 同延时按 name
-    normal.sort(key=lambda x: (x['latency'], x['name']))
-    fast.sort(key=lambda x: (x['latency'], x['name']))
+    # 综合排序: 速度级别 -> 同级站点数多者优先 -> 延迟 -> 名称
+    normal.sort(key=sort_key)
+    fast = [r for r in normal if r['latency'] < 1.5]
+
+    # 全局编号(从快到慢 1,2,3...), 名称前加 "01. " 形式。
+    # 固定宽度补零, 使部分客户端按字符串排序时编号也不会乱。
+    width = max(2, len(str(len(normal))))
+    def numbered(r):
+        return f"{r.get('_rank', 0):0{width}d}. {r['name']}"
+
+    for i, r in enumerate(normal, 1):
+        r['_rank'] = i
 
     def entry(r):
-        e = {'name': r['name'], 'url': r['tv_url']}
-        return e
+        return {'name': numbered(r), 'url': r['tv_url']}
 
     # 主订阅(影视仓格式)
     json.dump({'urls': [entry(r) for r in normal]},
@@ -121,7 +155,14 @@ def main():
              f'| 🔧 改写救活 | {len(rewritten)} | `sources/rewritten.json` |',
              f'| ❌ 失效单列 | {len(dead)} | `sources/dead.json` |',
              f'| 🐘 大象分组(已纳入主订阅) | {len(adult)} | `sources/adult.json` |', '',
-             '## 改写救活的源(原始 → 电视友好地址)', '']
+             '## 编号与排序规则', '',
+             '> 主订阅名称前的编号即综合排名（从快到慢）。排序依据：先按**速度级别**分组'
+             '（延迟 0.9s/1.0s/1.5s 视为同级），同级内**站点数多者靠前**，再按延迟、名称。', '',
+             '| 编号 | 源名 | 速度档 | 延迟 | 站点数 |', '|---|---|---|---|---|']
+    for r in normal:
+        lines.append(f'| {numbered(r)} | {r["name"]} | {speed_tier(r["latency"])} | '
+                     f'{r["latency"]}s | {site_count(r)} |')
+    lines += ['', '## 改写救活的源(原始 → 电视友好地址)', '']
     for r in rewritten:
         lines.append(f'- **{r["name"][:16]}** ({r["rewrite"]})')
         lines.append(f'  - 原: `{r["orig_url"]}`')

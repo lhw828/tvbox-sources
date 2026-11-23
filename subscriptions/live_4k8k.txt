@@ -1,113 +1,21 @@
 4K8K,#genre#
-4KUHD,http://123.118.60.109:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-4KUHD「[聚盒] 小马影视」,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
-4KUHD「[聚盒] 小马影视」,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?service%74ype=1&IASHttpSessionId=RR423820220409134714119178
 4K修复 7M,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-4K修复 7M「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-CCTV4K,http://8.138.7.223/so/tool/live/20261113203515_00018.m3u8
-CCTV4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261113203515_00017.m3u8
-CCTV4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00013.m3u8
-CCTV4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00012.m3u8
-CCTV4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00019.m3u8
-CCTV4K「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV4K
-CCTV4K「[聚盒] 小马影视」,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
-CCTV4K「[聚盒] 小马影视」,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-CCTV-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV16-4K,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-CCTV16-4K「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV16-4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261111220552_00027.m3u8
-CCTV16-4K「[聚盒] 小盒子在线源」,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-CCTV16-4K「[聚盒] 小盒子在线源」,http://gmxw.7766.org:808/hls/169/index.m3u8
-CCTV16-4K「[聚盒] 小盒子在线源」,http://183.11.239.36:808/hls/169/index.m3u8
-CCTV16-4K「老刘备」,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV16-4K「[聚盒] 小马影视」,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV4K,http://101.35.240.114:88/live.php?id=CCTV4K
+CCTV16-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV16-4K「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV16
-CCTV16-4K「[聚盒] 小盒子在线源」,http://69.30.246.194/live/cctv16.m3u8
-CCTV16-4K「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV16-4K「[聚盒] 简单TV」,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV16-4K「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/709089.m3u8
-CCTV16-4K「[聚盒] 小盒子在线源」,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-CCTV16-4K「[聚盒] 稳定github直播」,http://121.19.134.139:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16-4K「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$可回放
-CCTV16-4K「[聚盒] 小马影视」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$可回放
-CCTV16-4K「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV16-4K「[聚盒] 天微M3U」,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV16-4K「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 CCTV16-4K「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16-4K「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV16-4K「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16-4K「范明明」,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVSIaGkZ%2BPhCYgvTlbbof9eVHtMQrYKMhXfF9Bgs%2FQgY&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
-CCTV16-4K「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV16-4K「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV16-4K「[聚盒] 小马影视」,http://live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV﻿4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?service%74ype=1&IASHttpSessionId=RR423820220409134714119178
-Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
-华数爱上4K,http://222.86.13.51:9999/rtp/235.254.198.102:7980
-南国都市4K,http://8.138.7.223/so/tool/live/20261104224248_00001.m3u8
-南国都市4K「[聚盒] 小盒子在线源」,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-南国都市4K「[聚盒] ZBDSIPV4」,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-南国都市4K「[聚盒] 小盒子在线源」,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-南国都市4K「[聚盒] ZBDSIPV4」,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-南国都市4K「[聚盒] 小马影视」,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzngds
+CCTV-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播4K-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-广东4K,http://218.13.139.26:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
-广东4K超高清,http://ci.emdoor.tech:8080/touchtv.php?pk=1198
-广东4K超高清「[聚盒] 小马影视」,http://8.217.90.28:9999/触电.php?id=gdzy
-广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
-广东综艺—4K,http://yzfvip.top:9106/udp/239.77.0.245:5146
-欢笑剧场4k,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
-欢笑剧场4k「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
-欢笑剧场4k「老刘备」,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8
-欢笑剧场4k「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
+欢笑剧场4k,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8
 欢笑剧场4k「老刘备」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227145/index.m3u8?service%74ype=1&IASHttpSessionId=RR423820220409134714119178
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227145/index.m3u8?service%74ype=1&IASHttpSessionId=RR423820220409134714119178
-欢笑剧场4k「[聚盒] 小马影视」,http://137.175.111.185/migu/?id=hxjc
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-欢笑剧场4k「[聚盒] 小马影视」,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-欢笑剧场4k「[聚盒] 天微M3U」,http://goo.bkpcp.top/mg/hxjc
-欢笑剧场4k「[聚盒] 天微M3U」,http://z.b.bkpcp.top/m.php?id=hxjc
-欢笑剧场4k「[聚盒] 天微M3U」,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-江苏移动8K测试「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 爱上4K.备用,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-爱上4K.备用「[聚盒] 小马影视」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-百视通4K「[聚盒] 小马影视」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-看东方4K,http://8.138.7.223/so/tool/live/20261106161619_00005.m3u8
-看东方4K「[聚盒] 熊猫直播源」,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-纯享4K「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-纯享4K「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 纯享4K.备用,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-纯享4K.备用「[聚盒] 小马影视」,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-苏州4K,http://8.138.7.223/so/tool/live/20261103220518_00007.m3u8
-苏州4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261103220518_00010.m3u8
-苏州4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261103220518_00009.m3u8
-苏州4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261103220518_00008.m3u8
-苏州4K「[聚盒] 熊猫直播源」,http://8.138.7.223/so/tool/live/20261103220518_00006.m3u8
-苏州4K「[聚盒] 天微M3U」,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州4K「Kimentanm」,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-苏州4K「[聚盒] 小盒子在线源」,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-苏州4K「[聚盒] ZBDSIPV4」,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-苏州4K「[聚盒] 小马影视」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8

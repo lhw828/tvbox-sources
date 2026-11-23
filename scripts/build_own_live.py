@@ -85,6 +85,11 @@ def norm_name(name):
     # 思路1: 共享的频道名规范化（繁简 + 去 HD/4K/1080p 后缀 + 压空白 + CCTV 归一）
     return normalize_channel_name(name)
 
+
+def natural_key(s):
+    """自然数排序键: CCTV1 < CCTV2 < ... < CCTV10 < CCTV13（避免字典序 CCTV1<CCTV10<CCTV2）。"""
+    return [int(t) if t.isdigit() else t.lower() for t in re.split(r'(\d+)', str(s))]
+
 def classify(name, raw_group):
     """统一分组映射"""
     n = name.upper(); g = raw_group.upper()
@@ -215,7 +220,7 @@ def build():
     for g in GROUP_ORDER:
         members = [(k, c) for k, c in channels.items() if c['group'] == g]
         if not members: continue
-        members.sort(key=lambda x: x[0])
+        members.sort(key=lambda x: natural_key(x[0]))
         txt_lines = [f'{g},#genre#']
         for key, c in members:
             # 每个频道取全部线路(按可用性排序),第一行是最优线路
