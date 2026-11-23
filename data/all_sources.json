@@ -1,6 +1,6 @@
 {
-  "collected_at": "2026-11-23 11:39:42 CST",
-  "total": 205,
+  "collected_at": "2026-11-23 13:41:16 CST",
+  "total": 239,
   "seeds": [
     {
       "id": "duocang",
@@ -10,7 +10,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:15 CST",
+      "fetched_at": "2026-11-23 13:38:43 CST",
       "depth": 0
     },
     {
@@ -21,7 +21,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:15 CST",
+      "fetched_at": "2026-11-23 13:38:43 CST",
       "depth": 0
     },
     {
@@ -32,7 +32,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 11:37:15 CST",
+      "fetched_at": "2026-11-23 13:38:45 CST",
       "depth": 0
     },
     {
@@ -43,7 +43,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:37:35 CST",
+      "fetched_at": "2026-11-23 13:39:05 CST",
       "depth": 0
     },
     {
@@ -54,7 +54,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:35 CST",
+      "fetched_at": "2026-11-23 13:39:05 CST",
       "depth": 0
     },
     {
@@ -65,7 +65,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:36 CST",
+      "fetched_at": "2026-11-23 13:39:07 CST",
       "depth": 0
     },
     {
@@ -76,7 +76,7 @@
       "adult": true,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:37 CST",
+      "fetched_at": "2026-11-23 13:39:07 CST",
       "depth": 0
     },
     {
@@ -87,7 +87,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:37 CST",
+      "fetched_at": "2026-11-23 13:39:08 CST",
       "depth": 0
     },
     {
@@ -98,7 +98,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:38 CST",
+      "fetched_at": "2026-11-23 13:39:08 CST",
       "depth": 0
     },
     {
@@ -109,7 +109,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:38 CST",
+      "fetched_at": "2026-11-23 13:39:08 CST",
       "depth": 0
     },
     {
@@ -120,7 +120,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:38 CST",
+      "fetched_at": "2026-11-23 13:39:08 CST",
       "depth": 0
     },
     {
@@ -131,7 +131,161 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:38 CST",
+      "fetched_at": "2026-11-23 13:39:09 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_aiwex_vip",
+      "name": "唐门-aiwex(vip)",
+      "url": "https://9280.kstore.vip/aiwex.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:11 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_aiwex_space",
+      "name": "唐门-aiwex(space)",
+      "url": "https://9280.kstore.space/aiwex.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:12 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_ai_puny",
+      "name": "唐门-ai(王二小)",
+      "url": "http://ai.xn--4kq62z5rby2qupq9ub.top",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:12 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_new_wang",
+      "name": "唐门-new(王二小)",
+      "url": "http://new.王二小放牛娃.top",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:16 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_new_123",
+      "name": "唐门-new(123)",
+      "url": "http://new.999888123.xyz",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:17 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_new_987",
+      "name": "唐门-new(987)",
+      "url": "http://new.999888987.xyz",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:18 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_newwex_vip",
+      "name": "唐门-newwex(vip)",
+      "url": "https://9280.kstore.vip/newwex.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:20 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_tvbox_wang",
+      "name": "唐门-tvbox(王二小)",
+      "url": "http://tvbox.王二小放牛娃.top",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:20 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_tvbox_puny",
+      "name": "唐门-tvbox(puny)",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:21 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_tv_987",
+      "name": "唐门-tv(987)",
+      "url": "http://tv.999888987.xyz",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:22 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_tv_123",
+      "name": "唐门-tv(123)",
+      "url": "http://tv.999888123.xyz",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:23 CST",
+      "depth": 0
+    },
+    {
+      "id": "tang_wex_vip",
+      "name": "唐门-wex(vip)",
+      "url": "https://9280.kstore.vip/wex.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:24 CST",
+      "depth": 0
+    },
+    {
+      "id": "api180189",
+      "name": "180189单仓(备用)",
+      "url": "https://5.180189.com/api.php?act=config",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:25 CST",
+      "depth": 0
+    },
+    {
+      "id": "c124",
+      "name": "124.71.19.220单仓(备用)",
+      "url": "http://124.71.19.220/c/1",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:39:26 CST",
       "depth": 0
     },
     {
@@ -142,7 +296,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:41 CST",
+      "fetched_at": "2026-11-23 13:39:27 CST",
       "depth": 0
     },
     {
@@ -153,7 +307,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:42 CST",
+      "fetched_at": "2026-11-23 13:39:28 CST",
       "depth": 0
     },
     {
@@ -164,7 +318,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:43 CST",
+      "fetched_at": "2026-11-23 13:39:29 CST",
       "depth": 0
     },
     {
@@ -175,7 +329,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:43 CST",
+      "fetched_at": "2026-11-23 13:39:29 CST",
       "depth": 0
     },
     {
@@ -186,7 +340,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:44 CST",
+      "fetched_at": "2026-11-23 13:39:30 CST",
       "depth": 0
     },
     {
@@ -197,7 +351,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:45 CST",
+      "fetched_at": "2026-11-23 13:39:30 CST",
       "depth": 0
     },
     {
@@ -208,7 +362,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:46 CST",
+      "fetched_at": "2026-11-23 13:39:31 CST",
       "depth": 0
     },
     {
@@ -219,7 +373,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:46 CST",
+      "fetched_at": "2026-11-23 13:39:31 CST",
       "depth": 0
     },
     {
@@ -230,7 +384,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:47 CST",
+      "fetched_at": "2026-11-23 13:39:33 CST",
       "depth": 0
     },
     {
@@ -241,18 +395,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:48 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_11",
-      "name": "[聚盒] 王二小（新）",
-      "url": "https://9280.kstore.vip/newwex.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:49 CST",
+      "fetched_at": "2026-11-23 13:39:34 CST",
       "depth": 0
     },
     {
@@ -263,7 +406,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:49 CST",
+      "fetched_at": "2026-11-23 13:39:35 CST",
       "depth": 0
     },
     {
@@ -274,7 +417,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:49 CST",
+      "fetched_at": "2026-11-23 13:39:35 CST",
       "depth": 0
     },
     {
@@ -285,7 +428,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:50 CST",
+      "fetched_at": "2026-11-23 13:39:35 CST",
       "depth": 0
     },
     {
@@ -296,7 +439,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:51 CST",
+      "fetched_at": "2026-11-23 13:39:36 CST",
       "depth": 0
     },
     {
@@ -307,7 +450,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:51 CST",
+      "fetched_at": "2026-11-23 13:39:36 CST",
       "depth": 0
     },
     {
@@ -318,7 +461,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:37:52 CST",
+      "fetched_at": "2026-11-23 13:39:37 CST",
       "depth": 0
     },
     {
@@ -329,7 +472,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:37:52 CST",
+      "fetched_at": "2026-11-23 13:39:37 CST",
       "depth": 0
     },
     {
@@ -340,7 +483,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:00 CST",
+      "fetched_at": "2026-11-23 13:39:45 CST",
       "depth": 0
     },
     {
@@ -351,7 +494,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:00 CST",
+      "fetched_at": "2026-11-23 13:39:45 CST",
       "depth": 0
     },
     {
@@ -362,7 +505,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:00 CST",
+      "fetched_at": "2026-11-23 13:39:45 CST",
       "depth": 0
     },
     {
@@ -373,7 +516,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:01 CST",
+      "fetched_at": "2026-11-23 13:39:45 CST",
       "depth": 0
     },
     {
@@ -384,7 +527,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:38:01 CST",
+      "fetched_at": "2026-11-23 13:39:46 CST",
       "depth": 0
     },
     {
@@ -395,7 +538,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:22 CST",
+      "fetched_at": "2026-11-23 13:40:07 CST",
       "depth": 0
     },
     {
@@ -406,18 +549,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:22 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_26",
-      "name": "[聚盒] 王二小备用",
-      "url": "https://9280.kstore.vip/aiwex.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:22 CST",
+      "fetched_at": "2026-11-23 13:40:07 CST",
       "depth": 0
     },
     {
@@ -428,7 +560,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:23 CST",
+      "fetched_at": "2026-11-23 13:40:07 CST",
       "depth": 0
     },
     {
@@ -439,7 +571,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:23 CST",
+      "fetched_at": "2026-11-23 13:40:07 CST",
       "depth": 0
     },
     {
@@ -450,7 +582,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:23 CST",
+      "fetched_at": "2026-11-23 13:40:07 CST",
       "depth": 0
     },
     {
@@ -461,7 +593,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:23 CST",
+      "fetched_at": "2026-11-23 13:40:08 CST",
       "depth": 0
     },
     {
@@ -472,7 +604,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:24 CST",
+      "fetched_at": "2026-11-23 13:40:08 CST",
       "depth": 0
     },
     {
@@ -483,7 +615,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:24 CST",
+      "fetched_at": "2026-11-23 13:40:08 CST",
       "depth": 0
     },
     {
@@ -494,7 +626,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:24 CST",
+      "fetched_at": "2026-11-23 13:40:08 CST",
       "depth": 0
     },
     {
@@ -505,7 +637,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:24 CST",
+      "fetched_at": "2026-11-23 13:40:08 CST",
       "depth": 0
     },
     {
@@ -516,7 +648,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:25 CST",
+      "fetched_at": "2026-11-23 13:40:09 CST",
       "depth": 0
     },
     {
@@ -527,7 +659,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:25 CST",
+      "fetched_at": "2026-11-23 13:40:09 CST",
       "depth": 0
     },
     {
@@ -538,7 +670,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:26 CST",
+      "fetched_at": "2026-11-23 13:40:11 CST",
       "depth": 0
     },
     {
@@ -549,7 +681,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:26 CST",
+      "fetched_at": "2026-11-23 13:40:11 CST",
       "depth": 0
     },
     {
@@ -560,7 +692,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:27 CST",
+      "fetched_at": "2026-11-23 13:40:12 CST",
       "depth": 0
     },
     {
@@ -571,7 +703,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:27 CST",
+      "fetched_at": "2026-11-23 13:40:12 CST",
       "depth": 0
     },
     {
@@ -582,7 +714,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:29 CST",
+      "fetched_at": "2026-11-23 13:40:14 CST",
       "depth": 0
     },
     {
@@ -593,7 +725,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:30 CST",
+      "fetched_at": "2026-11-23 13:40:16 CST",
       "depth": 0
     },
     {
@@ -604,7 +736,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:30 CST",
+      "fetched_at": "2026-11-23 13:40:17 CST",
       "depth": 0
     },
     {
@@ -615,7 +747,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='ji",
-      "fetched_at": "2026-11-23 11:38:31 CST",
+      "fetched_at": "2026-11-23 13:40:17 CST",
       "depth": 0
     },
     {
@@ -626,7 +758,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:31 CST",
+      "fetched_at": "2026-11-23 13:40:17 CST",
       "depth": 0
     },
     {
@@ -637,7 +769,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:34 CST",
+      "fetched_at": "2026-11-23 13:40:22 CST",
       "depth": 0
     },
     {
@@ -648,7 +780,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:35 CST",
+      "fetched_at": "2026-11-23 13:40:23 CST",
       "depth": 0
     },
     {
@@ -659,7 +791,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:35 CST",
+      "fetched_at": "2026-11-23 13:40:23 CST",
       "depth": 0
     },
     {
@@ -670,7 +802,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:36 CST",
+      "fetched_at": "2026-11-23 13:40:24 CST",
       "depth": 0
     },
     {
@@ -681,7 +813,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:38:38 CST",
+      "fetched_at": "2026-11-23 13:40:27 CST",
       "depth": 0
     },
     {
@@ -690,9 +822,9 @@
       "url": "http://肥猫.net/",
       "kind": "single",
       "adult": false,
-      "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:38:38 CST",
+      "fetch_ok": true,
+      "fetch_status": "直连成功",
+      "fetched_at": "2026-11-23 13:40:27 CST",
       "depth": 0
     },
     {
@@ -703,7 +835,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:09 CST",
+      "fetched_at": "2026-11-23 13:40:38 CST",
       "depth": 0
     },
     {
@@ -714,7 +846,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='id",
-      "fetched_at": "2026-11-23 11:39:10 CST",
+      "fetched_at": "2026-11-23 13:40:41 CST",
       "depth": 0
     },
     {
@@ -725,7 +857,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='gh",
-      "fetched_at": "2026-11-23 11:39:10 CST",
+      "fetched_at": "2026-11-23 13:40:41 CST",
       "depth": 0
     },
     {
@@ -736,7 +868,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='gi",
-      "fetched_at": "2026-11-23 11:39:10 CST",
+      "fetched_at": "2026-11-23 13:40:41 CST",
       "depth": 0
     },
     {
@@ -747,7 +879,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='cn",
-      "fetched_at": "2026-11-23 11:39:10 CST",
+      "fetched_at": "2026-11-23 13:40:41 CST",
       "depth": 0
     },
     {
@@ -758,7 +890,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 11:39:11 CST",
+      "fetched_at": "2026-11-23 13:40:42 CST",
       "depth": 0
     },
     {
@@ -769,7 +901,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:11 CST",
+      "fetched_at": "2026-11-23 13:40:42 CST",
       "depth": 0
     },
     {
@@ -780,7 +912,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:12 CST",
+      "fetched_at": "2026-11-23 13:40:45 CST",
       "depth": 0
     },
     {
@@ -791,7 +923,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:13 CST",
+      "fetched_at": "2026-11-23 13:40:46 CST",
       "depth": 0
     },
     {
@@ -802,7 +934,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 11:39:14 CST",
+      "fetched_at": "2026-11-23 13:40:48 CST",
       "depth": 0
     },
     {
@@ -813,7 +945,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='64",
-      "fetched_at": "2026-11-23 11:39:15 CST",
+      "fetched_at": "2026-11-23 13:40:49 CST",
       "depth": 0
     },
     {
@@ -824,7 +956,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:39:15 CST",
+      "fetched_at": "2026-11-23 13:40:49 CST",
       "depth": 0
     },
     {
@@ -835,7 +967,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='73",
-      "fetched_at": "2026-11-23 11:39:15 CST",
+      "fetched_at": "2026-11-23 13:40:49 CST",
       "depth": 0
     },
     {
@@ -846,7 +978,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:16 CST",
+      "fetched_at": "2026-11-23 13:40:50 CST",
       "depth": 0
     },
     {
@@ -857,18 +989,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='ym",
-      "fetched_at": "2026-11-23 11:39:16 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_67",
-      "name": "[聚盒] 王二小（网盘4K）",
-      "url": "http://tvbox.王二小放牛娃.top",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:16 CST",
+      "fetched_at": "2026-11-23 13:40:50 CST",
       "depth": 0
     },
     {
@@ -879,7 +1000,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 11:39:17 CST",
+      "fetched_at": "2026-11-23 13:40:51 CST",
       "depth": 0
     },
     {
@@ -890,7 +1011,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:39:37 CST",
+      "fetched_at": "2026-11-23 13:41:11 CST",
       "depth": 0
     },
     {
@@ -901,7 +1022,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPSConnectionPool(host='tv",
-      "fetched_at": "2026-11-23 11:39:37 CST",
+      "fetched_at": "2026-11-23 13:41:11 CST",
       "depth": 0
     },
     {
@@ -912,7 +1033,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:39:38 CST",
+      "fetched_at": "2026-11-23 13:41:12 CST",
       "depth": 0
     },
     {
@@ -923,7 +1044,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:39 CST",
+      "fetched_at": "2026-11-23 13:41:12 CST",
       "depth": 0
     },
     {
@@ -934,7 +1055,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:40 CST",
+      "fetched_at": "2026-11-23 13:41:14 CST",
       "depth": 0
     },
     {
@@ -945,7 +1066,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:40 CST",
+      "fetched_at": "2026-11-23 13:41:14 CST",
       "depth": 0
     },
     {
@@ -956,7 +1077,7 @@
       "adult": false,
       "fetch_ok": true,
       "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 11:39:40 CST",
+      "fetched_at": "2026-11-23 13:41:15 CST",
       "depth": 0
     },
     {
@@ -967,7 +1088,7 @@
       "adult": false,
       "fetch_ok": false,
       "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 11:39:41 CST",
+      "fetched_at": "2026-11-23 13:41:15 CST",
       "depth": 0
     }
   ],
@@ -1551,11 +1672,12 @@
     },
     {
       "id": "eaf3c533d2",
-      "name": "🚀王二小线路",
+      "name": "唐门-tvbox(puny)",
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-      "from": "小龙多仓",
+      "from": "用户提供",
       "adult": false,
-      "note": ""
+      "kind": "single",
+      "note": "完整配置(含sites)"
     },
     {
       "id": "91fcf30501",
@@ -1727,7 +1849,7 @@
     },
     {
       "id": "fa45fd001d",
-      "name": "[聚盒] 王二小备用",
+      "name": "唐门-aiwex(vip)",
       "url": "https://9280.kstore.vip/aiwex.json",
       "from": "用户提供",
       "adult": false,
@@ -1816,9 +1938,300 @@
       "note": "完整配置(含sites)"
     },
     {
-      "id": "5fce68bc6a",
-      "name": "爱游魂单仓",
-      "url": "https://www.iyouhun.com/tv/dc",
+      "id": "09c7980761",
+      "name": "🚀游魂┃饭太硬",
+      "url": "https://www.iyouhun.com/tv/fty",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "2b7a3d609e",
+      "name": "🚀游魂┃肥猫",
+      "url": "https://www.iyouhun.com/tv/fm",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "e363ea6ac3",
+      "name": "🚀游魂┃PG",
+      "url": "https://www.iyouhun.com/tv/pg",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "038708dc1b",
+      "name": "🚀游魂┃多多",
+      "url": "https://www.iyouhun.com/tv/duo",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "629da6a7f3",
+      "name": "🚀游魂┃东篱",
+      "url": "https://www.iyouhun.com/tv/dongli",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "cfa112ad60",
+      "name": "🚀游魂┃南风",
+      "url": "https://www.iyouhun.com/tv/nf",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "34b380b541",
+      "name": "🚀游魂┃小米",
+      "url": "https://www.iyouhun.com/tv/xiaomi",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6ed30d29ce",
+      "name": "🚀游魂┃真心",
+      "url": "https://www.iyouhun.com/tv/zx",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "9bc2c6b45f",
+      "name": "🚀游魂┃摸鱼",
+      "url": "https://www.iyouhun.com/tv/my",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "378f9497e6",
+      "name": "🚀游魂┃王二小",
+      "url": "https://www.iyouhun.com/tv/wex",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "3d7c42d8f1",
+      "name": "🚀游魂┃王二小(新)",
+      "url": "https://www.iyouhun.com/tv/newwex",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "d9b8ef5192",
+      "name": "🚀游魂┃哈基米",
+      "url": "https://www.iyouhun.com/tv/hjm",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "62ec654826",
+      "name": "🚀游魂┃小虎斑",
+      "url": "https://www.iyouhun.com/tv/xhb",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "2d73b6f830",
+      "name": "🚀游魂┃菜妮丝",
+      "url": "https://www.iyouhun.com/tv/lns",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "50a33614ba",
+      "name": "🚀游魂┃嗷呜",
+      "url": "https://www.iyouhun.com/tv/aowu",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "98682aefff",
+      "name": "🚀游魂┃驸马",
+      "url": "https://www.iyouhun.com/tv/fuma",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f1a6dfd35e",
+      "name": "🚀游魂┃D佬",
+      "url": "https://www.iyouhun.com/tv/dl",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "3e53188d4d",
+      "name": "😹游魂┃余生",
+      "url": "https://www.iyouhun.com/tv/ys",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "cf1eea4e81",
+      "name": "🚀游魂┃牛播一",
+      "url": "https://www.iyouhun.com/tv/nb",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "c65fe3fdf2",
+      "name": "🎨游魂┃动漫城",
+      "url": "https://www.iyouhun.com/tv/dmc",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "fb9b559136",
+      "name": "🚀游魂┃高天流云",
+      "url": "https://www.iyouhun.com/tv/gtly",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "f1c9058c76",
+      "name": "👼游魂┃儿童专属",
+      "url": "https://www.iyouhun.com/tv/et",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "1049cdee32",
+      "name": "👼游魂┃少儿频道",
+      "url": "https://www.iyouhun.com/tv/sepd",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "dadb907447",
+      "name": "🎥游魂┃短剧",
+      "url": "https://www.iyouhun.com/tv/dj",
+      "from": "爱游魂单仓",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "be041828a7",
+      "name": "唐门-aiwex(space)",
+      "url": "https://9280.kstore.space/aiwex.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "cc060199c4",
+      "name": "唐门-ai(王二小)",
+      "url": "http://ai.xn--4kq62z5rby2qupq9ub.top",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "b7e5a727a4",
+      "name": "唐门-new(王二小)",
+      "url": "http://new.王二小放牛娃.top",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "2350be48fe",
+      "name": "唐门-new(123)",
+      "url": "http://new.999888123.xyz",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "656012f641",
+      "name": "唐门-new(987)",
+      "url": "http://new.999888987.xyz",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "15ad925aca",
+      "name": "唐门-newwex(vip)",
+      "url": "https://9280.kstore.vip/newwex.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "eff74cc50d",
+      "name": "唐门-tvbox(王二小)",
+      "url": "http://tvbox.王二小放牛娃.top",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "b2998a0c10",
+      "name": "唐门-tv(987)",
+      "url": "http://tv.999888987.xyz",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "ae3cdbbae7",
+      "name": "唐门-tv(123)",
+      "url": "http://tv.999888123.xyz",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "5474c22d94",
+      "name": "唐门-wex(vip)",
+      "url": "https://9280.kstore.vip/wex.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "75face4d7f",
+      "name": "180189单仓(备用)",
+      "url": "https://5.180189.com/api.php?act=config",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "276dbee4ae",
+      "name": "124.71.19.220单仓(备用)",
+      "url": "http://124.71.19.220/c/1",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
@@ -1891,15 +2304,6 @@
       "id": "2e273f12b1",
       "name": "[聚盒] 嗷呜备用",
       "url": "https://9763.kstore.vip/aowu.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "15ad925aca",
-      "name": "[聚盒] 王二小（新）",
-      "url": "https://9280.kstore.vip/newwex.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
@@ -2176,6 +2580,15 @@
       "note": "完整配置(含sites)"
     },
     {
+      "id": "82cf10225f",
+      "name": "[聚盒] 肥猫.net",
+      "url": "http://肥猫.net/",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
       "id": "941960c425",
       "name": "[聚盒] 宝盒接口",
       "url": "http://宝盒接口.top",
@@ -2215,15 +2628,6 @@
       "id": "a3222ab7b5",
       "name": "[聚盒] 菜妮丝",
       "url": "https://tv.菜妮丝.top",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "eff74cc50d",
-      "name": "[聚盒] 王二小（网盘4K）",
-      "url": "http://tvbox.王二小放牛娃.top",
       "from": "用户提供",
       "adult": false,
       "kind": "single",

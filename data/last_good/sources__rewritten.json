@@ -12,15 +12,15 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "开心软件",
-    "original": "https://play.iptv365.org/天天开心/api.json",
-    "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
-    "rule": "中文路径编码"
-  },
-  {
     "name": "天微",
     "original": "https://play.iptv365.org/天微/api.json",
     "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%BE%AE/api.json",
+    "rule": "中文路径编码"
+  },
+  {
+    "name": "开心软件",
+    "original": "https://play.iptv365.org/天天开心/api.json",
+    "tv_url": "https://play.iptv365.org/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
     "rule": "中文路径编码"
   },
   {
@@ -36,15 +36,15 @@
     "rule": "中文路径编码"
   },
   {
-    "name": "南风",
-    "original": "https://play.iptv365.org/南风/api.json",
-    "tv_url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
-    "rule": "中文路径编码"
-  },
-  {
     "name": "未知",
     "original": "https://play.iptv365.org/戏曲音乐/api.json",
     "tv_url": "https://play.iptv365.org/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json",
+    "rule": "中文路径编码"
+  },
+  {
+    "name": "南风",
+    "original": "https://play.iptv365.org/南风/api.json",
+    "tv_url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json",
     "rule": "中文路径编码"
   },
   {
@@ -60,16 +60,22 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
+    "name": "胜寒",
+    "original": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
+    "rule": "bgithub镜像→jsdelivr"
+  },
+  {
     "name": "乐哥短剧",
     "original": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
     "tv_url": "https://cdn.jsdelivr.net/gh/lege0001/TVbox@refs/heads/main/TV/dj.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "胜寒",
-    "original": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/hanhan8127/TVBox@main/hanXC.json",
-    "rule": "bgithub镜像→jsdelivr"
+    "name": "supermeguo18ðŸˆ²",
+    "original": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json",
+    "rule": "github(代理/raw)→jsdelivr"
   },
   {
     "name": "[聚盒] 香雅晴线",
@@ -84,9 +90,9 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "supermeguo18ðŸˆ²",
-    "original": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json",
+    "name": "🚀老刘备线路",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
@@ -96,16 +102,10 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "🚀老刘备线路",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
-    "rule": "github(代理/raw)→jsdelivr"
-  },
-  {
-    "name": "[聚盒] 心魔在线",
-    "original": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/yw88075/tvbox@main/yw.json",
-    "rule": "github(代理/raw)→jsdelivr"
+    "name": "唐门-new(王二小)",
+    "original": "http://new.王二小放牛娃.top",
+    "tv_url": "http://new.xn--4kq62z5rby2qupq9ub.top",
+    "rule": "中文路径编码"
   },
   {
     "name": "[聚盒] FongMI线路",
@@ -120,15 +120,27 @@
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
-    "name": "[聚盒] 宝盒备用",
-    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-    "tv_url": "https://cdn.jsdelivr.net/gh/guot55/yg@main/pg/bh.json",
+    "name": "唐门-tvbox(王二小)",
+    "original": "http://tvbox.王二小放牛娃.top",
+    "tv_url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+    "rule": "中文路径编码"
+  },
+  {
+    "name": "[聚盒] 心魔在线",
+    "original": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/yw88075/tvbox@main/yw.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
     "name": "[聚盒] ray",
     "original": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
     "tv_url": "https://cdn.jsdelivr.net/gh/dxawi/0@main/0.json",
+    "rule": "github(代理/raw)→jsdelivr"
+  },
+  {
+    "name": "[聚盒] 宝盒备用",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/guot55/yg@main/pg/bh.json",
     "rule": "github(代理/raw)→jsdelivr"
   },
   {
@@ -150,9 +162,33 @@
     "rule": "中文路径编码"
   },
   {
+    "name": "[聚盒] 菜妮丝",
+    "original": "https://tv.菜妮丝.top",
+    "tv_url": "https://tv.xn--yhqu5zs87a.top",
+    "rule": "中文路径编码"
+  },
+  {
     "name": "🚀老刘线路",
     "original": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
     "tv_url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
     "rule": "github(代理/raw)→jsdelivr"
+  },
+  {
+    "name": "[聚盒] 宝盒接口",
+    "original": "http://宝盒接口.top",
+    "tv_url": "http://xn--6orr3pi6g9uu.top",
+    "rule": "中文路径编码"
+  },
+  {
+    "name": "月光📚在线",
+    "original": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+    "tv_url": "https://cdn.jsdelivr.net/gh/guot55/yg@main/max.json",
+    "rule": "github(代理/raw)→jsdelivr"
+  },
+  {
+    "name": "[聚盒] 肥猫.net",
+    "original": "http://肥猫.net/",
+    "tv_url": "http://xn--z7x900a.net/",
+    "rule": "中文路径编码"
   }
 ]
