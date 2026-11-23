@@ -13,7 +13,7 @@ tv_rewriter.py —— 生成"电视友好地址"并做直连复测
 改写规则: 任意 GitHub 仓库路径 -> https://cdn.jsdelivr.net/gh/{user}/{repo}@{branch}/{path}
 直接执行 curl 直连复测, 输出 data/tv_result.json
 """
-import os, json, re, subprocess, hashlib, tempfile
+import os, sys, json, re, subprocess, hashlib, tempfile
 from urllib.parse import urlparse, unquote, quote, urlsplit, urlunsplit
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
@@ -21,6 +21,8 @@ from datetime import datetime, timezone, timedelta
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
 CURL = 'curl'
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import deep_validate_config, safety_valve
 
 def now_cn():
     return datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S CST')
@@ -31,12 +33,20 @@ def to_jsdelivr(url):
     if not url:
         return url, ''
     u = url.strip()
-    # 1) 已经带代理前缀: https://gh-proxy.com/https://raw... 或 .../raw.githubusercontent...
-    m = re.search(r'(https?://(?:gh-proxy\.com|github\.moeyy\.xyz|ghproxy\.net)/)?'
-                  r'(https?://)?(raw\.githubusercontent\.com|github\.com)/(.*)', u)
+    # 1) 已经带代理前缀: https://<proxy>/https://raw... 或 .../raw.githubusercontent...
+    #    覆盖 gh-proxy.com / github.moeyy.xyz / ghproxy.net / fastgit.cc / ghfast.top 等
+    m = re.search(r'(https?://(?:gh-proxy\.com|github\.moeyy\.xyz|ghproxy\.net|fastgit\.cc|'
+                  r'ghfast\.top|gh\.fastgit\.cc|github\.bgithub\.xyz|raw\.fastgit\.cc)/)?'
+                  r'(https?://)?(raw\.githubusercontent\.com|github\.com)/(.+)', u)
     if m:
         rest = m.group(4)  # user/repo/...
         return _gh_to_cdn(rest, 'raw.githubusercontent.com'), 'github(代理/raw)→jsdelivr'
+
+    # 1b) 代理前缀 + blob 路径: ...github.com/user/repo/blob/branch/path
+    m = re.search(r'https?://(?:ghproxy\.net|fastgit\.cc|ghfast\.top|gh-proxy\.com)/'
+                  r'(?:https?://)?github\.com/(.+)', u)
+    if m:
+        return _gh_to_cdn(m.group(1), 'github'), 'github(代理/blob)→jsdelivr'
 
     # 2) raw.bgithub.xyz / raw.gitmirror 等镜像
     m = re.match(r'https?://raw\.bgithub\.xyz/(.*)', u)
@@ -129,17 +139,18 @@ def curl_check(url, timeout=12):
             t = float(parts[1]) if parts[1].replace('.','').isdigit() else 99
             size = int(parts[2]) if parts[2].isdigit() else 0
             final = parts[3] if len(parts) > 3 else url
-            # 内容校验: 200 且非空; 若疑似 HTML 落地页(过期域名)再降级
+            # 思路4-深度验活: 200 且非空后, 按内容结构校验(非仅 HTTP 200)
             ok = code == 200 and size > 50
+            detail = ''
             if ok:
                 try:
-                    head = open(tmp.name, 'rb').read(500).decode('utf-8', 'ignore').lower()
-                    if '<html' in head and ('for sale' in head or '待售' in head or 'domain' in head):
-                        ok = False
+                    body = open(tmp.name, 'rb').read(200000).decode('utf-8', 'ignore')
+                    valid, detail = deep_validate_config(body, expect='config')
+                    ok = valid
                 except Exception:
                     pass
             result = {'ok': ok, 'code': code, 'latency': round(t, 2),
-                      'size': size, 'final': final}
+                      'size': size, 'final': final, 'detail': detail}
         return result
     except Exception as e:
         return {'ok': False, 'code': 0, 'latency': 99, 'size': 0, 'err': str(e)[:60]}
@@ -171,13 +182,22 @@ def main():
             if i % 15 == 0:
                 print(f'  进度 {i}/{len(srcs)}')
 
-    ok = [r for r in results if r['tv_ok']]
+    # 思路2-测速安全阀: 可用率过低判为网络/环境误判, 保留全部避免空订阅
+    valve_on, effective_ok = safety_valve(results, ok_key='tv_ok', min_rate=0.10, min_total=5)
+    if valve_on:
+        print(f'  ⚠ 触发安全阀: 可用率过低, 判定为环境误判, 本次保留全部 {len(effective_ok)} 个源')
+        for r in results:
+            r['tv_ok'] = True
+        ok = effective_ok
+    else:
+        ok = effective_ok
     rewritten = [r for r in results if r['rewrite'] and r['tv_ok']]
-    print(f'\n完成: 电视可用 {len(ok)}/{len(results)} | 其中改写后救活 {len(rewritten)} 个')
+    print(f'\n完成: 电视可用 {len(ok)}/{len(results)} | 其中改写后救活 {len(rewritten)} 个 | 安全阀={"开" if valve_on else "关"}')
 
     out = {'tested_at': now_cn(), 'network': '直连(模拟电视,无代理)',
            'total': len(results), 'tv_ok': len(ok),
-           'rewritten_alive': len(rewritten), 'results': results}
+           'rewritten_alive': len(rewritten), 'safety_valve': valve_on,
+           'results': results}
     with open(os.path.join(DATA, 'tv_result.json'), 'w', encoding='utf-8') as fp:
         json.dump(out, fp, ensure_ascii=False, indent=2)
 

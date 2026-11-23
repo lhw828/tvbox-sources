@@ -1,17 +1,21 @@
 #!/usr/bin/env bash
-# 一键更新所有源: 收集 -> TV直连复测 -> 构建最终订阅
+# 一键更新所有点播源: 抓取聚合站 -> 收集 -> TV直连复测 -> 构建最终订阅
 # 用法: bash scripts/update_all.sh
 set -e
 cd "$(dirname "$0")/.."
 
-echo "========== [1/3] 收集上游源 =========="
+echo "========== [0/4] 抓取 juwanhezi 聚合站点播/直播链接 =========="
+# 只抓一次页面, 链接存入 data/juhe_sources.json; 后续步骤只读该文件, 不再访问页面
+python scripts/juhe_scraper.py
+
+echo "========== [1/4] 收集上游源(含聚盒单仓/多仓) =========="
 # 收集阶段需要能访问 jsdelivr 列表; 若本机直连不通, 可设置 TVBOX_PROXY
 python scripts/manager.py collect
 
-echo "========== [2/3] 电视网络直连复测 + jsdelivr 改写 =========="
+echo "========== [2/4] 电视网络直连复测 + jsdelivr 改写 + 深度验活 + 安全阀 =========="
 python scripts/tv_rewriter.py
 
-echo "========== [3/3] 构建最终订阅文件 =========="
+echo "========== [3/4] 构建最终订阅文件(失败自动保留上次成功) =========="
 python scripts/build_final.py
 
 echo "========== 完成 =========="

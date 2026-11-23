@@ -12,8 +12,10 @@ build_final.py —— 基于电视可用性结果生成最终交付文件
   sources/adult.json              成人源隔离
   reports/inventory.md            资产清单
 """
-import os, json
+import os, json, sys
 from datetime import datetime, timezone, timedelta
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import save_last_good, restore_last_good
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
@@ -32,6 +34,27 @@ def main():
     ok = [r for r in results if r['tv_ok']]
     dead = [r for r in results if not r['tv_ok']]
     adult = [r for r in ok if r.get('adult')]
+
+    # 失败回退(需求4): 若可用源为空或较上次骤降>50%, 保留上次成功的点播订阅
+    SUB_OUTPUTS = ['subscriptions/tvbox.json', 'subscriptions/tvbox_fast.json',
+                   'subscriptions/tvbox.txt', 'subscriptions/by_source.json',
+                   'sources/dead.json', 'sources/rewritten.json', 'sources/adult.json',
+                   'data/tv_result.json']
+    prev_ok = os.path.join(DATA, 'last_good', 'data__tv_result.json')
+    if len(ok) == 0:
+        restored = restore_last_good(SUB_OUTPUTS)
+        print(f'  ⚠ 本次无可用源，已保留上次成功的点播订阅 ({len(restored)} 个文件)')
+        return
+    if os.path.exists(prev_ok):
+        try:
+            prev_n = json.load(open(prev_ok, encoding='utf-8')).get('tv_ok', 0)
+        except Exception:
+            prev_n = 0
+        if prev_n >= 10 and len(ok) < prev_n * 0.5:
+            restored = restore_last_good(SUB_OUTPUTS)
+            print(f'  ⚠ 可用源异常骤降({prev_n} → {len(ok)})，已保留上次成功的点播订阅 ({len(restored)} 个文件)')
+            return
+
     # 成人源默认纳入主订阅, 分组名显示为"大象"
     ADULT_GROUP = '大象'
     def group_name(r):
@@ -122,9 +145,12 @@ def main():
         txt = re.sub(r'<!-- STATUS:START -->.*?<!-- STATUS:END -->', block, txt, flags=re.S)
         open(rp, 'w', encoding='utf-8').write(txt)
 
+    # 构建成功，快照到 last_good 供后续失败时回退
+    saved = save_last_good(SUB_OUTPUTS)
     print(f'构建完成 @ {now_cn()}')
     print(f'  主订阅可用: {len(normal)}  快速精选: {len(fast)}')
     print(f'  改写救活: {len(rewritten)}  失效单列: {len(dead)}  成人隔离: {len(adult)}')
+    print(f'  已快照 {len(saved)} 个文件到 data/last_good/')
 
 if __name__ == '__main__':
     main()

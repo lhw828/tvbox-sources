@@ -81,10 +81,8 @@ CCTV3「范明明」,http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinf
 CCTV3「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=5c5d27dfa6b308e64237c7af856d43276f42c5fa0da49c14c8f267c3f853f277_1720507841_604800&fromCDN=ws
 CCTV3 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV4,mitv://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
-CCTV4「老刘备」,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
 CCTV4「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV4
-CCTV4「Kimentanm」,http://101.35.240.114:88/live.php?id=CCTV4K
 CCTV4「范明明」,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8

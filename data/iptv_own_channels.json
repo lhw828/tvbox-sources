@@ -1,6 +1,6 @@
 {
-  "built_at": "2026-11-20 13:41:33 CST",
-  "total_channels": 802,
+  "built_at": "2026-11-23 09:47:13 CST",
+  "total_channels": 794,
   "verified_channels": 39,
   "channels": {
     "浙江卫视": {
@@ -62,6 +62,16 @@
           "src": "Kimentanm",
           "raw_name": "浙江卫视",
           "raw_group": "卫视IPV4",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
+          "url": "http://101.35.240.114:88/live.php?id=浙江卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "浙江卫视4K",
+          "raw_group": "4K8K频道",
           "probed": false,
           "ok": false,
           "latency": 99,
@@ -438,16 +448,6 @@
           "code": 0
         },
         {
-          "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8",
-          "src": "老刘备",
-          "raw_name": "CCTV-4K",
-          "raw_group": "百事通",
-          "probed": true,
-          "ok": false,
-          "latency": 8.01,
-          "code": 0
-        },
-        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8",
           "src": "老刘备",
           "raw_name": "CCTV4",
@@ -461,16 +461,6 @@
           "url": "http://101.35.240.114:88/live.php?id=CCTV4",
           "src": "Kimentanm",
           "raw_name": "CCTV4",
-          "raw_group": "央视IPV4",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        },
-        {
-          "url": "http://101.35.240.114:88/live.php?id=CCTV4K",
-          "src": "Kimentanm",
-          "raw_name": "CCTV4K",
           "raw_group": "央视IPV4",
           "probed": false,
           "ok": false,
@@ -1414,6 +1404,16 @@
           "code": 0
         },
         {
+          "url": "http://101.35.240.114:88/live.php?id=北京卫视",
+          "src": "Kimentanm",
+          "raw_name": "北京卫视4K",
+          "raw_group": "4K8K频道",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
           "src": "老刘备",
           "raw_name": "北京卫视",
@@ -1764,6 +1764,16 @@
           "code": 0
         },
         {
+          "url": "http://101.35.240.114:88/live.php?id=东方卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "东方卫视4K",
+          "raw_group": "4K8K频道",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
           "src": "老刘备",
           "raw_name": "东方卫视",
@@ -1834,6 +1844,16 @@
           "src": "Kimentanm",
           "raw_name": "江苏卫视",
           "raw_group": "卫视IPV4",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
+          "url": "http://101.35.240.114:88/live.php?id=江苏卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "江苏卫视4K",
+          "raw_group": "4K8K频道",
           "probed": false,
           "ok": false,
           "latency": 99,
@@ -1966,6 +1986,16 @@
           "src": "Kimentanm",
           "raw_name": "山东卫视",
           "raw_group": "卫视IPV4",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
+          "url": "http://101.35.240.114:88/live.php?id=山东卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "山东卫视4K",
+          "raw_group": "4K8K频道",
           "probed": false,
           "ok": false,
           "latency": 99,
@@ -2200,6 +2230,16 @@
           "code": 0
         },
         {
+          "url": "http://101.35.240.114:88/live.php?id=湖南卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "湖南卫视4K",
+          "raw_group": "4K8K频道",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
           "src": "老刘备",
           "raw_name": "湖南卫视",
@@ -2276,6 +2316,16 @@
           "code": 0
         },
         {
+          "url": "http://101.35.240.114:88/live.php?id=深圳卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "深圳卫视4K",
+          "raw_group": "4K8K频道",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
           "src": "老刘备",
           "raw_name": "深圳卫视",
@@ -2336,6 +2386,16 @@
           "src": "Kimentanm",
           "raw_name": "广东卫视",
           "raw_group": "卫视IPV4",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
+          "url": "http://101.35.240.114:88/live.php?id=广东卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "广东卫视4K",
+          "raw_group": "4K8K频道",
           "probed": false,
           "ok": false,
           "latency": 99,
@@ -3001,7 +3061,7 @@
         }
       ]
     },
-    "ViuTVsix": {
+    "VIUTVSIX": {
       "name": "ViuTVsix",
       "group": "其他",
       "lines": [
@@ -3017,7 +3077,7 @@
         }
       ]
     },
-    "ViuTV": {
+    "VIUTV": {
       "name": "ViuTV",
       "group": "其他",
       "lines": [
@@ -3129,7 +3189,7 @@
         }
       ]
     },
-    "now新闻台": {
+    "NOW新闻台": {
       "name": "now新闻台",
       "group": "其他",
       "lines": [
@@ -3235,7 +3295,7 @@
         }
       ]
     },
-    "Thrill": {
+    "THRILL": {
       "name": "Thrill",
       "group": "其他",
       "lines": [
@@ -3299,7 +3359,7 @@
         }
       ]
     },
-    "now财经台": {
+    "NOW财经台": {
       "name": "now财经台",
       "group": "其他",
       "lines": [
@@ -3331,7 +3391,7 @@
         }
       ]
     },
-    "HandsUp": {
+    "HANDSUP": {
       "name": "Hands Up",
       "group": "其他",
       "lines": [
@@ -3923,7 +3983,7 @@
         }
       ]
     },
-    "BBCWorldNews": {
+    "BBCWORLDNEWS": {
       "name": "BBC World News",
       "group": "国际频道",
       "lines": [
@@ -3955,7 +4015,7 @@
         }
       ]
     },
-    "BloombergTV": {
+    "BLOOMBERGTV": {
       "name": "Bloomberg TV",
       "group": "其他",
       "lines": [
@@ -4147,7 +4207,7 @@
         }
       ]
     },
-    "卫视电影台": {
+    "电影台": {
       "name": "卫视电影台",
       "group": "卫视",
       "lines": [
@@ -4371,7 +4431,7 @@
         }
       ]
     },
-    "STARWorld": {
+    "STARWORLD": {
       "name": "STAR World",
       "group": "其他",
       "lines": [
@@ -4403,7 +4463,7 @@
         }
       ]
     },
-    "Animax": {
+    "ANIMAX": {
       "name": "Animax",
       "group": "其他",
       "lines": [
@@ -4451,7 +4511,7 @@
         }
       ]
     },
-    "三立iNEWS": {
+    "三立INEWS": {
       "name": "三立iNEWS",
       "group": "其他",
       "lines": [
@@ -4483,7 +4543,7 @@
         }
       ]
     },
-    "tvN": {
+    "TVN": {
       "name": "tvN",
       "group": "其他",
       "lines": [
@@ -4499,7 +4559,7 @@
         }
       ]
     },
-    "France24": {
+    "FRANCE24": {
       "name": "France24",
       "group": "国际频道",
       "lines": [
@@ -4579,7 +4639,7 @@
         }
       ]
     },
-    "靖洋卡通NiceBingo": {
+    "靖洋卡通NICEBINGO": {
       "name": "靖洋卡通Nice Bingo",
       "group": "其他",
       "lines": [
@@ -4611,7 +4671,7 @@
         }
       ]
     },
-    "NickJr.": {
+    "NICKJR.": {
       "name": "Nick Jr.",
       "group": "其他",
       "lines": [
@@ -4627,7 +4687,7 @@
         }
       ]
     },
-    "MezzoLive": {
+    "MEZZOLIVE": {
       "name": "Mezzo Live",
       "group": "其他",
       "lines": [
@@ -4691,7 +4751,7 @@
         }
       ]
     },
-    "TRACESportStars": {
+    "TRACESPORTSTARS": {
       "name": "TRACE Sport Stars",
       "group": "国际频道",
       "lines": [
@@ -4899,7 +4959,7 @@
         }
       ]
     },
-    "BBCEarth": {
+    "BBCEARTH": {
       "name": "BBC Earth",
       "group": "国际频道",
       "lines": [
@@ -4915,7 +4975,7 @@
         }
       ]
     },
-    "DiscoveryAsia": {
+    "DISCOVERYASIA": {
       "name": "Discovery Asia",
       "group": "其他",
       "lines": [
@@ -4931,7 +4991,7 @@
         }
       ]
     },
-    "Discovery科学频道": {
+    "DISCOVERY科学频道": {
       "name": "Discovery科学频道",
       "group": "其他",
       "lines": [
@@ -5011,7 +5071,7 @@
         }
       ]
     },
-    "BBCLifestyle": {
+    "BBCLIFESTYLE": {
       "name": "BBC Lifestyle",
       "group": "国际频道",
       "lines": [
@@ -5027,7 +5087,7 @@
         }
       ]
     },
-    "Lifetime": {
+    "LIFETIME": {
       "name": "Lifetime",
       "group": "其他",
       "lines": [
@@ -5075,7 +5135,7 @@
         }
       ]
     },
-    "LoveNature": {
+    "LOVENATURE": {
       "name": "Love Nature",
       "group": "其他",
       "lines": [
@@ -5315,7 +5375,7 @@
         }
       ]
     },
-    "ETtoday综合台": {
+    "ETTODAY综合台": {
       "name": "ETtoday综合台",
       "group": "其他",
       "lines": [
@@ -5363,7 +5423,7 @@
         }
       ]
     },
-    "NiceTV靖天欢乐台": {
+    "NICETV靖天欢乐台": {
       "name": "Nice TV靖天欢乐台",
       "group": "其他",
       "lines": [
@@ -5475,7 +5535,7 @@
         }
       ]
     },
-    "i-Fun动漫台": {
+    "I-FUN动漫台": {
       "name": "i-Fun动漫台",
       "group": "其他",
       "lines": [
@@ -5523,7 +5583,7 @@
         }
       ]
     },
-    "ROCKExtreme": {
+    "ROCKEXTREME": {
       "name": "ROCK Extreme",
       "group": "其他",
       "lines": [
@@ -5603,7 +5663,7 @@
         }
       ]
     },
-    "美亚电影台HD": {
+    "美亚电影台": {
       "name": "美亚电影台HD",
       "group": "其他",
       "lines": [
@@ -5699,7 +5759,7 @@
         }
       ]
     },
-    "StarMoviesHD": {
+    "STARMOVIES": {
       "name": "Star Movies HD",
       "group": "其他",
       "lines": [
@@ -5731,7 +5791,7 @@
         }
       ]
     },
-    "HBOFamily": {
+    "HBOFAMILY": {
       "name": "HBO Family",
       "group": "其他",
       "lines": [
@@ -5747,7 +5807,7 @@
         }
       ]
     },
-    "CatchPlay电影台": {
+    "CATCHPLAY电影台": {
       "name": "CatchPlay电影台",
       "group": "其他",
       "lines": [
@@ -5763,7 +5823,7 @@
         }
       ]
     },
-    "CinemaWorld": {
+    "CINEMAWORLD": {
       "name": "CinemaWorld",
       "group": "其他",
       "lines": [
@@ -5827,7 +5887,7 @@
         }
       ]
     },
-    "TechStorm": {
+    "TECHSTORM": {
       "name": "TechStorm",
       "group": "其他",
       "lines": [
@@ -5987,7 +6047,7 @@
         }
       ]
     },
-    "卫视中文台": {
+    "中文台": {
       "name": "卫视中文台",
       "group": "卫视",
       "lines": [
@@ -6245,7 +6305,23 @@
         }
       ]
     },
-    "欢笑剧场4k": {
+    "CCTV-": {
+      "name": "CCTV-4K",
+      "group": "4K8K",
+      "lines": [
+        {
+          "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8",
+          "src": "老刘备",
+          "raw_name": "CCTV-4K",
+          "raw_group": "百事通",
+          "probed": true,
+          "ok": false,
+          "latency": 8.01,
+          "code": 0
+        }
+      ]
+    },
+    "欢笑剧场": {
       "name": "欢笑剧场4k",
       "group": "4K8K",
       "lines": [
@@ -6257,6 +6333,16 @@
           "probed": true,
           "ok": false,
           "latency": 8.01,
+          "code": 0
+        },
+        {
+          "url": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8",
+          "src": "老刘备",
+          "raw_name": "欢笑剧场",
+          "raw_group": "IPV6-1",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
           "code": 0
         }
       ]
@@ -9783,7 +9869,7 @@
         }
       ]
     },
-    "NewTV爱情喜剧": {
+    "NEWTV爱情喜剧": {
       "name": "NewTV爱情喜剧",
       "group": "咪咕",
       "lines": [
@@ -9799,7 +9885,7 @@
         }
       ]
     },
-    "NewTV超级电视剧": {
+    "NEWTV超级电视剧": {
       "name": "NewTV超级电视剧",
       "group": "咪咕",
       "lines": [
@@ -9815,7 +9901,7 @@
         }
       ]
     },
-    "NewTV超级电影": {
+    "NEWTV超级电影": {
       "name": "NewTV超级电影",
       "group": "咪咕",
       "lines": [
@@ -9831,7 +9917,7 @@
         }
       ]
     },
-    "NewTV超级体育": {
+    "NEWTV超级体育": {
       "name": "NewTV超级体育",
       "group": "咪咕",
       "lines": [
@@ -9847,7 +9933,7 @@
         }
       ]
     },
-    "NewTV超级综艺": {
+    "NEWTV超级综艺": {
       "name": "NewTV超级综艺",
       "group": "咪咕",
       "lines": [
@@ -9863,7 +9949,7 @@
         }
       ]
     },
-    "NewTV潮妈辣婆": {
+    "NEWTV潮妈辣婆": {
       "name": "NewTV潮妈辣婆",
       "group": "咪咕",
       "lines": [
@@ -9879,7 +9965,7 @@
         }
       ]
     },
-    "NewTV东北热剧": {
+    "NEWTV东北热剧": {
       "name": "NewTV东北热剧",
       "group": "咪咕",
       "lines": [
@@ -9895,7 +9981,7 @@
         }
       ]
     },
-    "NewTV动作电影": {
+    "NEWTV动作电影": {
       "name": "NewTV动作电影",
       "group": "咪咕",
       "lines": [
@@ -9911,7 +9997,7 @@
         }
       ]
     },
-    "NewTV古装剧场": {
+    "NEWTV古装剧场": {
       "name": "NewTV古装剧场",
       "group": "咪咕",
       "lines": [
@@ -9927,7 +10013,7 @@
         }
       ]
     },
-    "NewTV家庭剧场": {
+    "NEWTV家庭剧场": {
       "name": "NewTV家庭剧场",
       "group": "咪咕",
       "lines": [
@@ -9953,7 +10039,7 @@
         }
       ]
     },
-    "NewTV金牌综艺": {
+    "NEWTV金牌综艺": {
       "name": "NewTV金牌综艺",
       "group": "咪咕",
       "lines": [
@@ -9969,7 +10055,7 @@
         }
       ]
     },
-    "NewTV惊悚悬疑": {
+    "NEWTV惊悚悬疑": {
       "name": "NewTV惊悚悬疑",
       "group": "咪咕",
       "lines": [
@@ -9985,7 +10071,7 @@
         }
       ]
     },
-    "NewTV精品大剧": {
+    "NEWTV精品大剧": {
       "name": "NewTV精品大剧",
       "group": "咪咕",
       "lines": [
@@ -10001,7 +10087,7 @@
         }
       ]
     },
-    "NewTV精品纪录": {
+    "NEWTV精品纪录": {
       "name": "NewTV精品纪录",
       "group": "咪咕",
       "lines": [
@@ -10017,7 +10103,7 @@
         }
       ]
     },
-    "NewTV精品体育": {
+    "NEWTV精品体育": {
       "name": "NewTV精品体育",
       "group": "咪咕",
       "lines": [
@@ -10033,7 +10119,7 @@
         }
       ]
     },
-    "NewTV军旅剧场": {
+    "NEWTV军旅剧场": {
       "name": "NewTV军旅剧场",
       "group": "咪咕",
       "lines": [
@@ -10049,7 +10135,7 @@
         }
       ]
     },
-    "NewTV军事评论": {
+    "NEWTV军事评论": {
       "name": "NewTV军事评论",
       "group": "咪咕",
       "lines": [
@@ -10065,7 +10151,7 @@
         }
       ]
     },
-    "NewTV明星大片": {
+    "NEWTV明星大片": {
       "name": "NewTV明星大片",
       "group": "咪咕",
       "lines": [
@@ -10081,7 +10167,7 @@
         }
       ]
     },
-    "NewTV农业致富": {
+    "NEWTV农业致富": {
       "name": "NewTV农业致富",
       "group": "咪咕",
       "lines": [
@@ -10097,7 +10183,7 @@
         }
       ]
     },
-    "NewTV武搏世界": {
+    "NEWTV武搏世界": {
       "name": "NewTV武搏世界",
       "group": "咪咕",
       "lines": [
@@ -10113,7 +10199,7 @@
         }
       ]
     },
-    "NewTV炫舞未来": {
+    "NEWTV炫舞未来": {
       "name": "NewTV炫舞未来",
       "group": "咪咕",
       "lines": [
@@ -10129,7 +10215,7 @@
         }
       ]
     },
-    "NewTV怡伴健康": {
+    "NEWTV怡伴健康": {
       "name": "NewTV怡伴健康",
       "group": "咪咕",
       "lines": [
@@ -10145,7 +10231,7 @@
         }
       ]
     },
-    "NewTV中国功夫": {
+    "NEWTV中国功夫": {
       "name": "NewTV中国功夫",
       "group": "咪咕",
       "lines": [
@@ -10448,6 +10534,16 @@
           "src": "Kimentanm",
           "raw_name": "四川卫视",
           "raw_group": "卫视IPV4",
+          "probed": false,
+          "ok": false,
+          "latency": 99,
+          "code": 0
+        },
+        {
+          "url": "http://101.35.240.114:88/live.php?id=四川卫视4K",
+          "src": "Kimentanm",
+          "raw_name": "四川卫视4K",
+          "raw_group": "4K8K频道",
           "probed": false,
           "ok": false,
           "latency": 99,
@@ -10765,7 +10861,7 @@
         }
       ]
     },
-    "纯享4K": {
+    "纯享": {
       "name": "纯享4K",
       "group": "4K8K",
       "lines": [
@@ -11135,22 +11231,6 @@
         }
       ]
     },
-    "欢笑剧场": {
-      "name": "欢笑剧场",
-      "group": "影视轮播",
-      "lines": [
-        {
-          "url": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8",
-          "src": "老刘备",
-          "raw_name": "欢笑剧场",
-          "raw_group": "IPV6-1",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
     "第一财经": {
       "name": "第一财经",
       "group": "地方",
@@ -11199,7 +11279,7 @@
         }
       ]
     },
-    "NHKWorld": {
+    "NHKWORLD": {
       "name": "NHK World",
       "group": "国际频道",
       "lines": [
@@ -11231,7 +11311,7 @@
         }
       ]
     },
-    "AlJazeera": {
+    "ALJAZEERA": {
       "name": "AlJazeera",
       "group": "地方",
       "lines": [
@@ -11247,7 +11327,7 @@
         }
       ]
     },
-    "ArirangTV": {
+    "ARIRANGTV": {
       "name": "Arirang TV",
       "group": "地方",
       "lines": [
@@ -11263,7 +11343,7 @@
         }
       ]
     },
-    "RTNews": {
+    "RTNEWS": {
       "name": "RT News",
       "group": "国际频道",
       "lines": [
@@ -11279,7 +11359,7 @@
         }
       ]
     },
-    "RTDocumentary": {
+    "RTDOCUMENTARY": {
       "name": "RT Documentary",
       "group": "国际频道",
       "lines": [
@@ -11295,7 +11375,7 @@
         }
       ]
     },
-    "CGTNDocumentary": {
+    "CGTNDOCUMENTARY": {
       "name": "CGTN Documentary",
       "group": "国际频道",
       "lines": [
@@ -11311,7 +11391,7 @@
         }
       ]
     },
-    "CGTNFrançais": {
+    "CGTNFRANÇAIS": {
       "name": "CGTN Français",
       "group": "国际频道",
       "lines": [
@@ -11327,7 +11407,7 @@
         }
       ]
     },
-    "CGTNРусский": {
+    "CGTNРУССКИЙ": {
       "name": "CGTN Русский",
       "group": "国际频道",
       "lines": [
@@ -11343,7 +11423,7 @@
         }
       ]
     },
-    "CGTNEspañol": {
+    "CGTNESPAÑOL": {
       "name": "CGTN Español",
       "group": "国际频道",
       "lines": [
@@ -12831,7 +12911,7 @@
         }
       ]
     },
-    "百视通4K": {
+    "百视通": {
       "name": "百视通4K",
       "group": "4K8K",
       "lines": [
@@ -13007,15 +13087,15 @@
         }
       ]
     },
-    "北京卫视4K": {
-      "name": "北京卫视4K",
+    "CCTV": {
+      "name": "CCTV4K",
       "group": "4K8K",
       "lines": [
         {
-          "url": "http://101.35.240.114:88/live.php?id=北京卫视",
+          "url": "http://101.35.240.114:88/live.php?id=CCTV4K",
           "src": "Kimentanm",
-          "raw_name": "北京卫视4K",
-          "raw_group": "4K8K频道",
+          "raw_name": "CCTV4K",
+          "raw_group": "央视IPV4",
           "probed": false,
           "ok": false,
           "latency": 99,
@@ -13023,135 +13103,7 @@
         }
       ]
     },
-    "深圳卫视4K": {
-      "name": "深圳卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=深圳卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "深圳卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "江苏卫视4K": {
-      "name": "江苏卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=江苏卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "江苏卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "浙江卫视4K": {
-      "name": "浙江卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=浙江卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "浙江卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "湖南卫视4K": {
-      "name": "湖南卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=湖南卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "湖南卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "山东卫视4K": {
-      "name": "山东卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=山东卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "山东卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "东方卫视4K": {
-      "name": "东方卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=东方卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "东方卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "广东卫视4K": {
-      "name": "广东卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=广东卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "广东卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "四川卫视4K": {
-      "name": "四川卫视4K",
-      "group": "4K8K",
-      "lines": [
-        {
-          "url": "http://101.35.240.114:88/live.php?id=四川卫视4K",
-          "src": "Kimentanm",
-          "raw_name": "四川卫视4K",
-          "raw_group": "4K8K频道",
-          "probed": false,
-          "ok": false,
-          "latency": 99,
-          "code": 0
-        }
-      ]
-    },
-    "苏州4K": {
+    "苏州": {
       "name": "苏州4K",
       "group": "4K8K",
       "lines": [
@@ -13167,7 +13119,7 @@
         }
       ]
     },
-    "河北4K": {
+    "河北": {
       "name": "河北4K",
       "group": "4K8K",
       "lines": [

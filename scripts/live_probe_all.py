@@ -9,7 +9,7 @@
 注意：curl 无法探测 mitv://(小米电视专用)、rtmp:// 及部分防盗链 m3u8，
 这些会被标记为 ok=False，但构建时仍会保留（按协议类型给可信度权重）。
 """
-import os, re, json, tempfile, subprocess
+import os, sys, re, json, tempfile, subprocess
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -17,6 +17,8 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_LIVE = os.path.join(BASE, 'raw', 'live')
 DATA = os.path.join(BASE, 'data')
 UA = 'Mozilla/5.0 (Linux; Android 10)'
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import normalize_channel_name, safety_valve
 
 SOURCE_FILES = [
     ('老刘备', 'liucn_tvlive.txt'),
@@ -24,6 +26,22 @@ SOURCE_FILES = [
     ('范明明', 'fanmingming_index.m3u'),
     ('YanG', 'yang_gather.m3u'),
 ]
+
+
+def load_source_files():
+    """基础源 + juwanhezi 抓取的直播源（由 juhe_live_fetch.py 生成的清单）"""
+    files = list(SOURCE_FILES)
+    mf = os.path.join(DATA, 'juhe_live_files.json')
+    if os.path.exists(mf):
+        try:
+            for name, fn in json.load(open(mf, encoding='utf-8')).get('files', []):
+                if os.path.exists(os.path.join(RAW_LIVE, fn)):
+                    files.append((name, fn))
+            if len(files) > len(SOURCE_FILES):
+                print(f'  + 并入 juwanhezi 直播源 {len(files)-len(SOURCE_FILES)} 个')
+        except Exception:
+            pass
+    return files
 
 def parse(text):
     ch = []; pending = None
@@ -42,9 +60,8 @@ def parse(text):
     return ch
 
 def norm(name):
-    n = re.sub(r'\s+', '', name.strip().upper()).replace('中央', 'CCTV')
-    m = re.match(r'CCTV-?(\d+)', n)
-    return 'CCTV' + m.group(1) if m else n
+    # 思路1: 用共享的频道名规范化（繁简转换 + 去 HD/4K/1080p 后缀 + 压空白）
+    return normalize_channel_name(name)
 
 def probe(item):
     ch, v = item; u = v['url']
@@ -68,7 +85,7 @@ def probe(item):
 
 def run():
     allch = defaultdict(list)
-    for src, fn in SOURCE_FILES:
+    for src, fn in load_source_files():
         fp = os.path.join(RAW_LIVE, fn)
         if not os.path.exists(fp): continue
         for n, u in parse(open(fp, encoding='utf-8', errors='replace').read()):
@@ -85,12 +102,21 @@ def run():
             if (i + 1) % 100 == 0: print(f'  进度 {i+1}/{len(items)}')
 
     ok_n = sum(1 for r in results if r[2]); ok_ch = set(r[0] for r in results if r[2])
-    print(f'可播线路: {ok_n}/{len(results)} ({ok_n/len(results)*100:.1f}%) | 覆盖频道: {len(ok_ch)}')
+    rate = ok_n / len(results) if results else 0
+    print(f'可播线路: {ok_n}/{len(results)} ({rate*100:.1f}%) | 覆盖频道: {len(ok_ch)}')
+
+    # 思路2-安全阀: 探测结果异常(线路为空或可播率过低)时判为网络故障, 保留上次成功的探测结果
+    probe_path = os.path.join(DATA, 'live_channel_probe.json')
+    if len(results) < 20 or rate < 0.01:
+        if os.path.exists(probe_path) and os.path.getsize(probe_path) > 100:
+            print(f'  ⚠ 探测异常(线路={len(results)} 可播率={rate*100:.1f}%)，保留上次成功的探测结果')
+            return
+        print('  ⚠ 探测异常且无历史结果，本次照常写入')
 
     detail = [{'channel': ch, 'src': v['src'], 'name': v['name'], 'url': v['url'],
                'ok': ok, 'latency': lat, 'code': code} for ch, v, ok, lat, code in results]
     os.makedirs(DATA, exist_ok=True)
-    json.dump(detail, open(os.path.join(DATA, 'live_channel_probe.json'), 'w', encoding='utf-8'),
+    json.dump(detail, open(probe_path, 'w', encoding='utf-8'),
               ensure_ascii=False, indent=2)
     print('已保存 data/live_channel_probe.json')
 

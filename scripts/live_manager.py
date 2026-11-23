@@ -53,6 +53,17 @@ def load_seeds():
         {'name': 'BigBigGrandG', 'url': 'https://cdn.jsdelivr.net/gh/BigBigGrandG/IPTV-URL@release/Gather.m3u', 'from': '补充-BigBigGrandG'},
         {'name': '范明明IPV6镜像', 'url': 'https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u', 'from': '补充-范明明'},
     ]
+    # 并入 juwanhezi.com 聚合站抓取的直播源（由 juhe_scraper.py 生成，只读取链接，不再访问页面）
+    juhe_path = os.path.join(DATA, 'juhe_sources.json')
+    if os.path.exists(juhe_path):
+        try:
+            juhe = json.load(open(juhe_path, encoding='utf-8'))
+            for i, item in enumerate(juhe.get('live', [])):
+                seeds.append({'name': f'[聚盒] {item["name"]}', 'url': item['url'],
+                              'from': '聚盒直播', 'existing': False})
+            print(f'  + 并入 juwanhezi 直播源 {len(juhe.get("live", []))} 条')
+        except Exception as e:
+            print(f'  ! juhe_sources.json 读取失败: {e}')
     return seeds
 
 def curl_fetch(url, timeout, outfile=None):

@@ -73,19 +73,25 @@ tvbox-sources/
 ├── data/
 │   ├── all_sources.json    # 收集去重后的全量源
 │   ├── extra_seeds.json    # 额外种子（网上搜集的公开仓库，可自行增删）
-│   └── tv_result.json      # 每次直连检测的原始结果
+│   ├── juhe_sources.json   # 聚盒站抓取的单仓/多仓/直播链接（只抓一次页面）
+│   ├── juhe_live_files.json# 聚盒直播源下载清单
+│   ├── tv_result.json      # 每次直连检测的原始结果
+│   └── last_good/          # 上次成功的订阅快照（失败时自动回退）
 ├── reports/
 │   ├── tv_report.md        # 电视可用性报告（人读）
 │   ├── inventory.md        # 资产清单 + 改写映射
 │   └── history/            # 历史检测快照
 ├── scripts/
-│   ├── manager.py          # 收集 / 测活 / 构建
-│   ├── tv_rewriter.py      # 电视网络复测 + GitHub→jsdelivr 改写
-│   ├── build_final.py      # 生成最终订阅文件（点播）
+│   ├── common.py           # 共享工具：频道名规范化/安全阀/type防护/深度验活/失败回退
+│   ├── juhe_scraper.py     # 抓取聚盒站单仓(78)/多仓(5)/直播(20)链接（含分页）
+│   ├── juhe_live_fetch.py  # 下载聚盒直播链接到 raw/live/
+│   ├── manager.py          # 收集 / 测活 / 构建（含聚盒单仓/多仓）
+│   ├── tv_rewriter.py      # 电视复测 + jsdelivr 改写 + 深度验活 + 安全阀
+│   ├── build_final.py      # 生成最终订阅文件（点播，失败回退）
 │   ├── update_all.sh       # 一键更新（点播）
-│   ├── live_manager.py     # 直播源聚合测活
-│   ├── live_probe_all.py   # 频道级全量探测
-│   ├── build_own_live.py   # 构建自建直播源
+│   ├── live_manager.py     # 直播源聚合测活（含聚盒直播）
+│   ├── live_probe_all.py   # 频道级全量探测（规范化 + 安全阀）
+│   ├── build_own_live.py   # 构建自建直播源（type防护 + 失败回退）
 │   └── update_live.sh      # 一键更新（直播）
 └── .github/workflows/
     └── daily_test.yml      # 每日自动检测并更新
@@ -98,13 +104,15 @@ pip install requests
 bash scripts/update_all.sh
 ```
 
-三步流程：
+四步流程：
 
-1. `manager.py collect` — 抓取所有上游列表，展开、去重、中文域名转 punycode；
-2. `tv_rewriter.py` — 用**直连**（模拟电视无代理网络）逐个复测，并把 GitHub 源改写成 jsdelivr；
-3. `build_final.py` — 按可用性排序，生成所有交付文件。
+1. `juhe_scraper.py` — **抓取聚玩盒子(juwanhezi.com)聚合站**的单仓(78条)/多仓(5条)/直播(20条)页面，链接存入 `data/juhe_sources.json`（只抓这一次页面，后续步骤只读链接，不再访问该站）；
+2. `manager.py collect` — 合并所有上游列表（含聚盒单仓/多仓），展开、去重、中文域名转 punycode；
+3. `tv_rewriter.py` — 用**直连**（模拟电视无代理网络）逐个复测 + **深度验活**，并把 GitHub 源改写成 jsdelivr；
+4. `build_final.py` — 按可用性排序，生成所有交付文件。
 
-> 如果你的电脑直连外网不通，可在第 1 步设置 `TVBOX_PROXY=http://127.0.0.1:2080`（仅用于抓取上游列表；第 2 步的电视可用性检测始终走直连，以保证结果贴近电视真实环境）。
+> 如果你的电脑直连外网不通，可设置 `TVBOX_PROXY=http://127.0.0.1:2080`（仅用于抓取上游列表；电视可用性检测始终走直连，保证贴近电视真实环境）。
+> 聚盒站可能限流，`juhe_scraper.py` 重试失败时会**沿用上次成功抓取的链接**，不会写出空列表。
 
 更新**直播源**（需在国内网络环境本地运行，因为频道连通探测依赖国内网络）：
 
@@ -112,7 +120,20 @@ bash scripts/update_all.sh
 bash scripts/update_live.sh
 ```
 
-四步：抓取聚合源 → 聚合地址测活 → 频道级全量探测 → 构建自建直播源。直播源不在 GitHub Actions 上运行（海外服务器会把国内可播源误判为失效）。想新增直播来源，编辑 `scripts/live_manager.py` 的 `load_seeds()` 和 `scripts/build_own_live.py` 的 `SOURCE_FILES`。
+五步：抓取聚盒链接（无缓存时）→ 下载直播源 → 聚合地址测活 → 频道级全量探测 → 构建自建直播源。聚盒直播链接会下载到 `raw/live/juhe_*.txt` 并并入自建源。想强制刷新聚盒链接用 `REFRESH_JUHE=1 bash scripts/update_live.sh`。想新增直播来源，编辑 `scripts/live_manager.py` 的 `load_seeds()` 和 `scripts/build_own_live.py` 的 `SOURCE_FILES`。
+
+## 借鉴的 4 个思路（来自 tvbox-source-aggregator）
+
+| 思路 | 实现位置 | 作用 |
+|---|---|---|
+| 频道名规范化 + 跨源合并 | `common.py:normalize_channel_name`，`live_probe_all.py` / `build_own_live.py` | 繁简转换、去 HD/4K/1080p 后缀、CCTV 归一，把同名频道的多条线路聚到一起 |
+| 测速安全阀 | `common.py:safety_valve`，`tv_rewriter.py` / `live_probe_all.py` | 可用率异常过低（<10%）判为网络误判，保留全部；避免环境故障导致空订阅 |
+| type 泄漏防护 | `common.py:scrub_url_type`，`build_own_live.py` | URL 中 `type`→`%74ype`，防 TVBox `lives.contains("type")` 误判为 FongMi 格式（带签名的 URL 自动跳过） |
+| 深度验活 | `common.py:deep_validate_config`，`tv_rewriter.py` | 校验 JSON 含有效 sites/urls、m3u/txt 有频道行，而非仅看 HTTP 200 |
+
+## 失败回退（保证不返回空订阅）
+
+点播与直播的构建脚本在写出交付文件前都会做异常检测：可用源为空、或较上次成功结果骤降超过 50% 时，**自动从 `data/last_good/` 恢复上一次成功的订阅文件**。每次构建成功后会自动快照到该目录。GitHub Actions 里即使某一步失败（`continue-on-error`），也会保留上次成功的订阅内容。
 
 ## 改写规则
 
@@ -120,8 +141,7 @@ bash scripts/update_live.sh
 |---|---|
 | `raw.githubusercontent.com/u/r/branch/path` | `cdn.jsdelivr.net/gh/u/r@branch/path` |
 | `github.com/u/r/blob/branch/path` | `cdn.jsdelivr.net/gh/u/r@branch/path` |
-| `gh-proxy.com/https://raw.githubusercontent.com/...` | `cdn.jsdelivr.net/gh/...` |
-| `github.moeyy.xyz/https://raw.githubusercontent.com/...` | `cdn.jsdelivr.net/gh/...` |
+| `gh-proxy.com` / `github.moeyy.xyz` / `ghproxy.net` / `fastgit.cc` / `ghfast.top` 前缀的 raw/blob 代理 | `cdn.jsdelivr.net/gh/...` |
 | `raw.bgithub.xyz/u/r/branch/path` | `cdn.jsdelivr.net/gh/u/r@branch/path` |
 | 含中文的路径 | 自动做百分号编码 |
 
@@ -129,7 +149,7 @@ bash scripts/update_live.sh
 
 ## 自动更新
 
-GitHub Actions 每天北京时间 08:00 自动跑一遍检测：可用的源会更新订阅文件并自动提交；失效的会被移出主订阅。也可在 Actions 页面手动触发。
+GitHub Actions 每天北京时间 08:00 自动跑一遍**点播 + 直播**两套更新：可用的源会更新订阅文件并自动提交；失效的会被移出主订阅。任一步失败都会保留上次成功的订阅内容（见上节「失败回退」）。也可在 Actions 页面手动触发。
 
 ## 免责声明
 

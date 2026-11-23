@@ -30,6 +30,9 @@ RAW_LIVE = os.path.join(BASE, 'raw', 'live')
 DATA = os.path.join(BASE, 'data')
 SUBS = os.path.join(BASE, 'subscriptions')
 REPORTS = os.path.join(BASE, 'reports')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import (normalize_channel_name, scrub_url_type, scrub_name_type,
+                    save_last_good, restore_last_good, has_content)
 
 SOURCE_FILES = [
     ('老刘备', 'liucn_tvlive.txt'),
@@ -39,6 +42,20 @@ SOURCE_FILES = [
 ]
 # 来源可信度(越小越优先)
 SRC_RANK = {'范明明': 1, 'Kimentanm': 2, '老刘备': 3, 'YanG': 4}
+
+
+def load_source_files():
+    """基础源 + juwanhezi 抓取的直播源（由 juhe_live_fetch.py 生成的清单）"""
+    files = list(SOURCE_FILES)
+    mf = os.path.join(DATA, 'juhe_live_files.json')
+    if os.path.exists(mf):
+        try:
+            for name, fn in json.load(open(mf, encoding='utf-8')).get('files', []):
+                if os.path.exists(os.path.join(RAW_LIVE, fn)):
+                    files.append((name, fn))
+        except Exception:
+            pass
+    return files
 
 def now_cn():
     return datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S CST')
@@ -65,11 +82,8 @@ def parse_with_group(text):
     return ch
 
 def norm_name(name):
-    n = re.sub(r'\s+', '', name.strip())
-    # CCTV-1 / CCTV1 / CCTV1综合 -> CCTV1
-    m = re.match(r'CCTV[-]?(\d+)', n, re.I)
-    if m: return 'CCTV' + m.group(1)
-    return n
+    # 思路1: 共享的频道名规范化（繁简 + 去 HD/4K/1080p 后缀 + 压空白 + CCTV 归一）
+    return normalize_channel_name(name)
 
 def classify(name, raw_group):
     """统一分组映射"""
@@ -106,7 +120,7 @@ def build():
 
     # 汇总所有频道 -> {norm_name: {name, group, lines:[...]}}
     channels = {}
-    for src, fn in SOURCE_FILES:
+    for src, fn in load_source_files():
         fp = os.path.join(RAW_LIVE, fn)
         if not os.path.exists(fp): continue
         for name, url, rawg in parse_with_group(open(fp, encoding='utf-8', errors='replace').read()):
@@ -157,6 +171,21 @@ def build():
     group_count = defaultdict(int)
     for c in channels.values(): group_count[c['group']] += 1
 
+    # 失败回退(需求4): 若本次频道数异常塌陷(空或较上次骤降>50%), 保留上次成功的全部直播产物
+    LIVE_OUTPUTS = ['subscriptions/iptv_own.json', 'subscriptions/iptv_own.m3u',
+                    'data/iptv_own_channels.json', 'reports/live_own_report.md']
+    LIVE_OUTPUTS += [f'subscriptions/live_{v}.txt' for v in GROUP_FILE.values()]
+    prev = os.path.join(DATA, 'last_good', 'data__iptv_own_channels.json')
+    if total_channels < 50 and os.path.exists(prev):
+        try:
+            prev_n = json.load(open(prev, encoding='utf-8')).get('total_channels', 0)
+        except Exception:
+            prev_n = 0
+        if prev_n >= 100 and total_channels < prev_n * 0.5:
+            restored = restore_last_good(LIVE_OUTPUTS)
+            print(f'  ⚠ 频道数异常塌陷({prev_n} → {total_channels})，已保留上次成功的直播订阅 ({len(restored)} 个文件)')
+            return
+
     os.makedirs(SUBS, exist_ok=True); os.makedirs(REPORTS, exist_ok=True)
 
     # 1) 自建频道明细
@@ -191,14 +220,15 @@ def build():
         for key, c in members:
             # 每个频道取全部线路(按可用性排序),第一行是最优线路
             for i, line in enumerate(c['lines']):
-                display = c['name'] if i == 0 else f'{c["name"]}「{line["src"]}」'
-                txt_lines.append(f'{display},{line["url"]}')
+                display = scrub_name_type(c['name']) if i == 0 else f'{scrub_name_type(c["name"])}「{line["src"]}」'
+                # 思路3: URL 中的 type 编码, 防 TVBox lives.contains("type") 误判为 FongMi 格式
+                txt_lines.append(f'{display},{scrub_url_type(line["url"])}')
         open(os.path.join(SUBS, f'live_{GROUP_FILE[g]}.txt'), 'w', encoding='utf-8').write('\n'.join(txt_lines) + '\n')
         # m3u: 每个频道仅取最优线路,避免重复
         for key, c in members:
             best = c['lines'][0]
-            all_m3u.append(f'#EXTINF:-1 group-title="{g}",{c["name"]}')
-            all_m3u.append(best['url'])
+            all_m3u.append(f'#EXTINF:-1 group-title="{g}",{scrub_name_type(c["name"])}')
+            all_m3u.append(scrub_url_type(best['url']))
     open(os.path.join(SUBS, 'iptv_own.m3u'), 'w', encoding='utf-8').write('\n'.join(all_m3u) + '\n')
 
     # 4) 报告
@@ -232,10 +262,13 @@ def build():
               '本源与点播订阅相互独立，互不影响。', '']
     open(os.path.join(REPORTS, 'live_own_report.md'), 'w', encoding='utf-8').write('\n'.join(lines))
 
+    # 构建成功，快照到 last_good 供后续失败时回退
+    saved = save_last_good(LIVE_OUTPUTS)
     print(f'[{now_cn()}] 自建源构建完成')
     print(f'  频道 {total_channels} | 线路 {total_lines} | 实测可播频道 {verified_channels}')
     print(f'  分组: {dict(group_count)}')
     print(f'  输出: subscriptions/iptv_own.json, iptv_own.m3u, live_<分组>.txt')
+    print(f'  已快照 {len(saved)} 个文件到 data/last_good/')
     return channels
 
 if __name__ == '__main__':

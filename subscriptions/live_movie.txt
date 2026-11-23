@@ -17,7 +17,6 @@ CHC家庭影院「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/
 挨饿德•1「其他」,https://cdn.ttvb.eu.org/huya/20985858
 挨饿德•2「其他」,https://cdn.ttvb.eu.org/huya/17693860
 星光影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
-欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 欢笑剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8
 止戈电影「解说」,https://cdn.ttvb.eu.org/huya/19863777
 治愈•放松「音乐」,https://cdn.ttvb.eu.org/huya/21241811

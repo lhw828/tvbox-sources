@@ -145,55 +145,88 @@ def cmd_collect(args):
         except Exception as e:
             print(f'  ! extra_seeds.json 读取失败: {e}')
 
-    for seed in seeds:
-        print(f'  - 抓取种子: {seed["name"]} ({seed["url"][:60]})')
-        ok, text, status, elapsed, final = fetch(seed['url'], use_proxy=True, timeout=20)
-        rec = {"id": seed['id'], "name": seed['name'], "url": seed['url'],
+    # 合并 juwanhezi.com 聚合站抓取的单仓/多仓源（由 juhe_scraper.py 生成）
+    juhe_path = os.path.join(DATA, 'juhe_sources.json')
+    if os.path.exists(juhe_path):
+        try:
+            juhe = json.load(open(juhe_path, encoding='utf-8'))
+            for i, item in enumerate(juhe.get('single', [])):
+                seeds.append({"id": f"juhe_one_{i}", "name": f"[聚盒] {item['name']}",
+                              "url": item['url'], "kind": "single"})
+            for i, item in enumerate(juhe.get('many', [])):
+                seeds.append({"id": f"juhe_many_{i}", "name": f"[聚盒多仓] {item['name']}",
+                              "url": item['url'], "kind": "list"})
+            print(f'  + 载入 juwanhezi 聚合源: 单仓 {len(juhe.get("single",[]))} / 多仓 {len(juhe.get("many",[]))}')
+        except Exception as e:
+            print(f'  ! juhe_sources.json 读取失败: {e}')
+
+    seen_urls = set()  # 防循环 / 去重
+
+    def expand(seed, depth=0):
+        """递归展开种子；多仓(urls/storeHouse)最多展开 3 层。"""
+        url = seed['url']
+        if not url or url in seen_urls:
+            return
+        seen_urls.add(url)
+        print(f'  {"  "*depth}- 抓取种子: {seed["name"]} ({url[:60]})')
+        ok, text, status, elapsed, final = fetch(url, use_proxy=True, timeout=20)
+        rec = {"id": seed['id'], "name": seed['name'], "url": url,
                "kind": seed['kind'], "adult": seed.get('adult', False),
-               "fetch_ok": ok, "fetch_status": str(status)[:40], "fetched_at": now_cn()}
+               "fetch_ok": ok, "fetch_status": str(status)[:40], "fetched_at": now_cn(),
+               "depth": depth}
         seed_status.append(rec)
 
         if not ok:
             # 直连再试一次
-            ok2, text2, st2, _, final2 = fetch(seed['url'], use_proxy=False, timeout=20)
+            ok2, text2, st2, _, final2 = fetch(url, use_proxy=False, timeout=20)
             if ok2:
                 ok, text, status, final = ok2, text2, st2, final2
                 rec.update(fetch_ok=True, fetch_status='直连成功')
             else:
-                print(f'      ✗ 种子不可达: {status} / {st2}')
-                continue
+                print(f'  {"  "*depth}  ✗ 种子不可达: {status} / {st2}')
+                return
 
-        # 保存原文
         safe = re.sub(r'[^\w\u4e00-\u9fa5]', '_', seed['id'])[:40]
         with open(os.path.join(RAW, f'seed_{safe}.txt'), 'w', encoding='utf-8') as f:
             f.write(text[:500000])
 
         data = parse_json_loose(text)
-        if seed['kind'] == 'list' and data and isinstance(data.get('urls'), list):
-            base = seed['url']
+        # 多仓判定: urls 或 storeHouse; 且未到最大深度
+        children = []
+        if data:
+            if isinstance(data.get('urls'), list):
+                children = data['urls']
+            elif isinstance(data.get('storeHouse'), list):
+                children = data['storeHouse']
+        if children and depth < 3:
             n = 0
-            for item in data['urls']:
+            for item in children:
                 if not isinstance(item, dict):
                     continue
-                u = norm_url(item.get('url', ''), base=base)
+                u = norm_url(item.get('url', item.get('sourceUrl', '')), base=url)
                 if not u:
                     continue
-                name = str(item.get('name', '')).strip() or '未命名'
-                all_sources[u] = {
-                    "id": source_id(u), "name": name, "url": u,
-                    "from": seed['name'], "adult": seed.get('adult', False),
-                    "note": str(item.get('detail', item.get('remark', '')))[:120]
-                }
-                n += 1
-            print(f'      ✓ 展开 {n} 个子源')
+                name = str(item.get('name', item.get('sourceName', ''))).strip() or '未命名'
+                # 收录子项为单源（子项多仓会在 test 阶段以 urls 内容识别，不在 collect 递归）
+                if u not in all_sources:
+                    all_sources[u] = {
+                        "id": source_id(u), "name": name, "url": u,
+                        "from": seed['name'], "adult": seed.get('adult', False),
+                        "note": str(item.get('detail', item.get('remark', '')))[:120]
+                    }
+                    n += 1
+            if n:
+                print(f'  {"  "*depth}  ✓ 展开 {n} 个子源')
         else:
-            # 单配置源
-            all_sources[seed['url']] = {
-                "id": source_id(seed['url']), "name": seed['name'], "url": seed['url'],
-                "from": '用户提供', "adult": seed.get('adult', False),
+            all_sources[url] = {
+                "id": source_id(url), "name": seed['name'], "url": url,
+                "from": seed.get('from', '用户提供'), "adult": seed.get('adult', False),
                 "kind": "single", "note": '完整配置(含sites)'
             }
-            print(f'      ✓ 单配置源已收录')
+            print(f'  {"  "*depth}  ✓ 单配置源已收录')
+
+    for seed in seeds:
+        expand(seed)
 
     items = list(all_sources.values())
     out = {"collected_at": now_cn(), "total": len(items),

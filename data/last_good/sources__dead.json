@@ -1,0 +1,212 @@
+[
+  {
+    "name": "玩盒助手",
+    "url": "https://chuanshuo.77blog.cn/tv.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "青龙",
+    "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+    "http": 423,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "TV",
+    "url": "http://tv.nxog.top/m",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "蜂蜜",
+    "url": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/demo.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "嗷呜",
+    "url": "http://itv666.cc/aowu/config.webp",
+    "http": 418,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "驸马",
+    "url": "http://fmys.top/fmys.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "小米",
+    "url": "http://www.mpanso.com/小米/DEMO.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "蓝天",
+    "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
+    "http": 423,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🔮巧记🔮",
+    "url": "http://cdn.qiaoji8.com/tvbox.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "欧歌",
+    "url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "盐枭",
+    "url": "https://9xi4o.tk/tvbox.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "醉卧东风短剧",
+    "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "王二小",
+    "url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
+    "http": 302,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "刺刺音乐",
+    "url": "https://d.kstore.dev/download/4684/hgrc.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "巧技",
+    "url": "http://pandown.pro/tvbox/tvbox.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "小脑斧",
+    "url": "https://6492.kstore.space/xnf/xnf.json",
+    "http": 401,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "恋影",
+    "url": "https://www.lianyingtv.com/fast/fast",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "花生",
+    "url": "https://o.nxog.top/apitv.php?id=9",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "多多",
+    "url": "https://o.nxog.top/apitv.php?id=12",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "无名之辈",
+    "url": "https://4708.kstore.space/svip/svip.json",
+    "http": 401,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "傻逼线路（验证码777）",
+    "url": "https://fmbox.cc",
+    "http": 302,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "光哥",
+    "url": "https://o.nxog.top/apitv.php?id=100&b=o",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "潇洒",
+    "url": "https://9877.kstore.space/AnotherD/api.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🚀One线路",
+    "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🐹欧歌线路",
+    "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🐹青龙线路",
+    "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+    "http": 423,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🚀老虎线路",
+    "url": "http://tv.laohu.cool/tvbox.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🐼肥猫🐼",
+    "url": "http://xn--z7x900a.net/tv",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "💫潇洒💫",
+    "url": "https://9877.kstore.space/one.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🐿️嗷呜🐿️",
+    "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
+    "http": 418,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🌈欧歌🌈",
+    "url": "https://xn--dkw0c.v.nxog.top/m/",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🐟摸鱼🐟",
+    "url": "http://www.xn--ihq545aq7p.com",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "📚道长📚",
+    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "PizazzGY",
+    "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "👿小米👿",
+    "url": "https://www.tangsan.fun/tv",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  }
+]
