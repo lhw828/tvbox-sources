@@ -29,6 +29,8 @@ SOURCE_FILES = [
     ('akira精选', 'akira_iptv.m3u'),
     ('akira海外', 'akira_overseas.m3u'),
     ('akira网络', 'akira_web.m3u'),
+    # 央视频匿名签发的 63 个公开频道(由 ysp_fetch.mjs 每日生成, 短效地址需每日刷新)
+    ('央视频', 'ysp.m3u'),
 ]
 
 

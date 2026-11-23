@@ -1,50 +1,20 @@
 {
-  "built_at": "2026-11-23 17:35:57 CST",
-  "total_channels": 909,
-  "verified_channels": 122,
+  "built_at": "2026-11-23 19:45:01 CST",
+  "total_channels": 916,
+  "verified_channels": 140,
   "channels": {
     "浙江卫视": {
       "name": "浙江卫视",
       "group": "卫视",
       "lines": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-          "src": "老刘备",
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/679B5E98A200F6E137DFDB025FCD58A0F1267E12AFABF147CDCEDC120416F7F3D6E13F50C7E6CEBF1688931CFB5227258F19E749A13BADCF137F245A1B3891BE979EF5CCFEA23E59313A0734B758058206A803F80CF4A825CD8BB74F91B3C60A28101777F505E5CCECB4B12FDA21C02CB3911AA2D77B308877B9AFFAE80A98D9061ECFBE6DB0CA9F1AC696F4B7CE618522E36EB2B8F921B1E4CAC00C9176E6E2/2024054703.m3u8?from=player&svrtime=1795431876&pid=600002520&cdn=5506",
+          "src": "央视频",
           "raw_name": "浙江卫视",
-          "raw_group": "综合",
+          "raw_group": "央视频",
           "probed": true,
           "ok": true,
-          "latency": 0.05,
-          "code": 200
-        },
-        {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-          "src": "范明明",
-          "raw_name": "浙江卫视",
-          "raw_group": "卫视高清",
-          "probed": true,
-          "ok": true,
-          "latency": 0.05,
-          "code": 200
-        },
-        {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-          "src": "范明明",
-          "raw_name": "浙江卫视",
-          "raw_group": "卫视备用",
-          "probed": true,
-          "ok": true,
-          "latency": 0.05,
-          "code": 200
-        },
-        {
-          "url": "http://ali-xwl.cztv.com/live/channel4k2160p.m3u8",
-          "src": "akira精选",
-          "raw_name": "浙江卫视4K",
-          "raw_group": "卫视",
-          "probed": true,
-          "ok": true,
-          "latency": 0.13,
+          "latency": 0.09,
           "code": 200
         },
         {
@@ -64,8 +34,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=浙江卫视",
@@ -86,6 +56,46 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+          "src": "范明明",
+          "raw_name": "浙江卫视",
+          "raw_group": "卫视高清",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+          "src": "范明明",
+          "raw_name": "浙江卫视",
+          "raw_group": "卫视备用",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+          "src": "老刘备",
+          "raw_name": "浙江卫视",
+          "raw_group": "综合",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
+        },
+        {
+          "url": "http://ali-xwl.cztv.com/live/channel4k2160p.m3u8",
+          "src": "akira精选",
+          "raw_name": "浙江卫视4K",
+          "raw_group": "卫视",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -114,8 +124,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -123,6 +133,16 @@
       "name": "CCTV13新闻频道",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/AE3C13A09AA1E4B1D01AAAF8D05E7F5B1430C0740C9F990D86DD9DC0AAD62B6E7CE4323531DF0CA8A156A88AB7D37798AA40518E9F9A79021C43497474D8A56573EE4D0100CF47368EF865CADCB6697CB99B20F65236C6D57BD36776410FF93E4C3AB67E88940986FDE08029656F5EC112E0B523A7BFD058CA153FD343B628B2D18806CA9B4B0089B5B16CACA589ECBD827E0CD7FEB2DE472B770A2AD117F576/2029797203.m3u8?from=player&svrtime=1795431874&pid=600001811&cdn=5506",
+          "src": "央视频",
+          "raw_name": "CCTV13新闻",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.05,
+          "code": 200
+        },
         {
           "url": "rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13",
           "src": "老刘备",
@@ -150,8 +170,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV13",
@@ -190,8 +210,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=f4be577234c226bfecf00f96b626bcca106a9d4eaeeaae331b860678bd3f60e7_1720508191_604800&fromCDN=ws",
@@ -200,7 +220,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -209,6 +229,16 @@
       "name": "CCTV1",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/32C3E09110E7AA539DEE85A8B8B048420C4AF4012D08554D0B5336716D8CE5434085027585BBD32E0F1902C0986694A8AB5743E99E186C2BAFD6EC375CE3839665A071117C14F2EDC21DE01D63703BD0F58ADD15D37A7B7AEE7F96D10CE49144D324F8F8D715240D2B3A8B301192BB7D4434DCBEA3FC88C457DCC63C39B73B689D6F1ADFE78C6B01569CDFC2F8BB3D5649131767106159715AB3350A53760742/2024078203.m3u8?from=player&svrtime=1795431873&pid=600001859&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV1综合",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.06,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e",
           "src": "老刘备",
@@ -226,8 +256,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8",
@@ -236,8 +266,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV1",
@@ -276,8 +306,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws",
@@ -286,7 +316,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -295,6 +325,16 @@
       "name": "CCTV2",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/3CEB0F57D0AC2F72A872B0BD66BCFA7947937C2D55183960A01818CAF121CE2149F2248922B06033A247D0EFE9F81A49DCE15022061FAA0869C850BD6024506E055070AF8DFAFEBB4FFF72ADE59A91C1833962432CAF2069D08C3AE7637C47ECFDCDF8F79A1D7877E3818F225B12E96A54E244B8E2C5214C08DB8ADBDB9158F87544E3F195A9ED870222673E496ABB63CA28F7DC0ECBA6996FB5CD7BD9711EDA/2024075403.m3u8?from=player&svrtime=1795431873&pid=600001800&cdn=5506",
+          "src": "央视频",
+          "raw_name": "CCTV2财经",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.06,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5",
           "src": "老刘备",
@@ -312,8 +352,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV2",
@@ -332,8 +372,8 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -362,8 +402,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -371,6 +411,16 @@
       "name": "CCTV3",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/179E1A7446D4E24C1D094BF192DDA65B8632D6641498EEE618F498ECE2253285436C38DD50142E87F9A583DD60EB422F1BA17898C2FC4F34152C74B588DB0F8BFE60A10AB731ADD0B979F37E63581CE6F9D2A48C7DF024BC17814A131B3C5DDF2AE617418314D3E4CE7747CCC8D9CBF321140D350268C2F05981F205DBCDD4AFA3D7AB9AF9393410A8A715F7FAA407B14829BB18AC8345D63EDDB556A2FE31E0/2024068503.m3u8?from=player&svrtime=1795431873&pid=600001801&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV3综艺",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.06,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30",
           "src": "老刘备",
@@ -388,8 +438,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV3",
@@ -428,8 +478,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=5c5d27dfa6b308e64237c7af856d43276f42c5fa0da49c14c8f267c3f853f277_1720507841_604800&fromCDN=ws",
@@ -438,7 +488,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -447,6 +497,26 @@
       "name": "CCTV4",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/2CCCC1E677DE43DC97ED8D8B717817704BC110D8A4E3673586B91F16F421B3A6953833E3BEB3064F076BD747A4100AED660B116119079844B826F29AF643C693B7DC9CF3EC56F46947455F5BD7B8078DDB3D13EC9FB9E4A95782A089BBD969241BD90F9B6FDCA205B9A2DC2C02CC65D1F5A95D1741FDBC8F6191438F376D6B311D0B840A5E573FA69E8EA87BB43BF66F85BA37843B3E5C711CAC59496EE95761/2029797103.m3u8?from=player&svrtime=1795431873&pid=600001814&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV4中文国际",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.07,
+          "code": 200
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/1F18AC0F144E8E77CB67614F7AB2E8586E68FFD0638DED433E230B23F67B6645038B79AC48D5773D2768832407E06B3B8D0EDB71A5C489024C40E8EDDBBA9F8A66423F3DBF99CA1D9820C9D93273D6BB688EA99DD65E7E42C00C40CEB20F72BA83248D86D1150A93BCC5F1683A4C38BDC7469354ED1E9987E8F35C08D089F7F73A60863D8B3F3B14C91AF77788F3D06D997B5B2A3CD5CF66CCF330CDC37D747D/2029810303_dlna.m3u8?from=player&svrtime=1795431875&pid=600002264&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV4K超高清",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.12,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309",
           "src": "老刘备",
@@ -464,8 +534,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV4",
@@ -484,8 +554,8 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -524,8 +594,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=a2076a91d4ab3e3a8d96df561854b17563ddc027aec6e893eac3be4e11830fb7_1720507863_604800&fromCDN=ws",
@@ -534,7 +604,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -543,6 +613,26 @@
       "name": "CCTV5",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/4FC8474690344AD05112A095A871835AE792A57AACD02258E56763704762CAE9543F645EF95C6014FFFB17490CEF6C819CCB79360175273520A5C3A2461FA056A03FA5EE5F3C319E668EE3EA545D0266FD52C52CA378D99E06ED16C0F804D426C84D75C1D4C7B84772E1893E4B7FECFE601AAC630958D35B86986D73B3E72316AD535B34564012DEC002F1F3793EDEB02774B5C47985A964F4705FE0F99455F5/2024078403.m3u8?from=player&svrtime=1795431874&pid=600001818&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV5体育",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.06,
+          "code": 200
+        },
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/4035B033B1F150F23793A1C2E7A1EF27F3DE7F45968FE72903B5AEB5469A977CF8E625AA7111CB0A4D28F785E5305B7AF0046897D8C5033E4FCAFA27B93C94D239B6AC4A04DA547747816488084C14B6FECD7D4A074C2F63E95DF9DEA57EDEBB6E4B35FA61BB4BBAC5E33F8F01759AFD672659C49D86087AACC38E049293AFAA09F75E069FC597825C37CE8E02FBF186D5302F861236D41B06087F6B0CC5DBD6/2024078003.m3u8?from=player&svrtime=1795431874&pid=600001817&cdn=5506",
+          "src": "央视频",
+          "raw_name": "CCTV5+体育赛事",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.06,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d",
           "src": "老刘备",
@@ -570,8 +660,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8",
@@ -580,8 +670,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8",
@@ -590,8 +680,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV5",
@@ -660,8 +750,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYdR%2FXUke9cnQAha7YFSVSdY6KJ0YlTSaKwh%2FkUorJB0&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b",
@@ -670,8 +760,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws",
@@ -680,7 +770,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -689,6 +779,16 @@
       "name": "CCTV6",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://mobileliveali-cdn.ysp.cctv.cn/ysp/D3E85441636A6E129CEA164A23D9CFB759C4B2D353D1414D723AA01BC3FF69CF6BA8608096E83036307F383B60E7517DA1CB4DFA6C26D819A94F11092C6BF5D048D8B3DAF4CA229F690C882FCE30356F98028BEE38F54245164C8E767CD1A24F11010BE9C810F96E93E0D94C27415CF1401DBB60C52A26E4753C7D1F844F6CDB4E04770DD32FDE12049A76D2F5A6D434712D73B92704322C418B8C4BAA3D6547/2013693901_fhd.m3u8?svrtime=1795431874&pid=600108442&m3u8_with_time_tag=2&cdn=5205",
+          "src": "央视频",
+          "raw_name": "CCTV6电影",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.11,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7",
           "src": "老刘备",
@@ -706,8 +806,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV6",
@@ -726,7 +826,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         },
         {
@@ -756,8 +856,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -765,6 +865,16 @@
       "name": "CCTV7",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/CB5AA64649134DE35F808CDCA3125E66C57075A16810B567324FFD4A72765FD10E7BC2A1567974B644D6DA59F4AD46540159AE31A3D1034DC4A497FC0290EE384DDD342D3E89BC55E394B54235D5E534AD2513E1709980DAA176EF9B10D6C7F67D1CF9F065B2FF4754B097B66BB1EBB860482FE80B64BD0A915E50F7F494CEF12CA20B7A3C055E930BD77A79DBEC607FB088F4B5496FD5ABD685A60C50B4968C/2024072003.m3u8?from=player&svrtime=1795431874&pid=600004092&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV7国防军事",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167",
           "src": "老刘备",
@@ -782,8 +892,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV7",
@@ -822,8 +932,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -831,6 +941,26 @@
       "name": "CCTV8",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/1D30F2B7CE6BAC2C47C31EB10F5E87E4CC42199EC863D703901401BFA7ADD3AA1C317F4EE1FE89DECCA5D4A2ABB45E8CFA070CD3ADF21875B9F97BB3172C9BB644D422C482E372ADD5DDC2DE2AE48082324D04050F2BB021F001E086F98101EF53547B2CA8D09624B042EA55DA1BE5614A40FEB94E7C98B027D1983DA26750B6964E05F80F713306B608AC5FA93112778545EB824A0BD13D5AE89BA08072D730/2029793003.m3u8?from=player&svrtime=1795431874&pid=600001803&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV8电视剧",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.07,
+          "code": 200
+        },
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/4296F1E17BAC2A7459CFEA5AC1B4F9DEE52796E92916BDB22FAF406B52275806468455B242C7DC7E2FD81D00F7CC52F20E988917EFAE0BD00FC3BB7D212933914ADBFEEBDF039A550E6B133FF26D2DAE93CEBBBDCECEF4985ABEAF8A17DBB2BF8649E37BD7FDDA18417A321668344301DC49FA2EDB24756595A8FC0AABC87F830A57434CCA50DD9D0E7F57CDB8B74FECDCB4D95C68992C7CFC61211CEE22A80A/2026774121.m3u8?from=player&svrtime=1795431875&pid=600156816&cdn=5506",
+          "src": "央视频",
+          "raw_name": "CCTV8K超高清",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.12,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/7c422f17b94c47928316bba288c64a25",
           "src": "老刘备",
@@ -848,8 +978,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV8",
@@ -908,8 +1038,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=a262d6f91c91f1b3b9970ca0005377026a37645dbb4150a3131badc4e3a5ad2f_1720508010_604800&fromCDN=ws",
@@ -918,7 +1048,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -927,6 +1057,16 @@
       "name": "CCTV9",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/6E0C3063A6E47C9F71E6DBAF8C84E4A02FFC2BE1CD8133164CDAFC7AA5B7167EA3C07D46689ACF6FC5325825CAC02CE6BAB0BB4316C5C8A40BA567911A9A17DEEAA3E67EC699D274C33900DEE0AE72607FB5E1B21251374C438FE4B8F3F5BC83BB5362668D443AA284910F2582CA05540875D67BE1E0062BE290CCE9453405E318CEC64F2DCADF0DE777E54B6DADAF005893F5E5B8C74F9FC8B2117992C6A66F/2024078603.m3u8?from=player&svrtime=1795431874&pid=600004078&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV9纪录",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.1,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/1d25488429514e78ab4d100819bece3e",
           "src": "老刘备",
@@ -944,8 +1084,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV9",
@@ -984,8 +1124,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=827790a3c97b2ec4d8db29f865f4a76f6ee666e7dd6f7d8d79c95ff19569c406_1720508034_604800&fromCDN=ws",
@@ -994,7 +1134,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1003,6 +1143,16 @@
       "name": "CCTV10",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/460F78EC20E4EFCB0ACD86E8CE42AC7EE683197C4655FBFDA9AD5595B3161631D553103B7E35EF1A51FFF6F52636B612A173304DE38E3CEFFFCFBA7B5930EBBE1285ED9A1A7412D60D613F325232DD617609C6D4EB0E6FCB6F34195D697C85CB4050ECC0FA6D2B446E9AD7EE0B7418AA3C98DC6FEA671AD9BE14A874F794ADD5A83FEC9E3E76454A1FFB79D7AFB6D7DE24E154BE3DAE0D914BF0CFC48D00B9CF/2024078703.m3u8?from=player&svrtime=1795431874&pid=600001805&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV10科教",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.07,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/db6e0eae415d4d3c80389e51f8aac382",
           "src": "老刘备",
@@ -1020,8 +1170,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV10",
@@ -1060,8 +1210,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=3372eeac7f52075d36d0edd66eab703b95c8eb3ddf8502186f235a1d890717d9_1720508080_604800&fromCDN=ws",
@@ -1070,7 +1220,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1096,8 +1246,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV11",
@@ -1108,6 +1258,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/2AAA02F0ED9EBAF8C74C0D3D78ECB6FF71F112A5329580BF6CD079A1ACE3A080D8E1067E33A0EE9B8BB1F1E4C40B5483CF76CC35993643611A079AF0599F39931351B860E7B4DAE18E207CFB679AD27B3B43D89FBE35F416AFC317D0981FD6AC572698EABF9734E981D9D5FBAB8BCD5578C06D15B326D9C257397F31A798A53034951BF00EDF652BC26DED33CE4611E4A2C927F01B54156A5206756FA12ADB99/2027248703_dlna.m3u8?from=player&svrtime=1795431874&pid=600001806&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV11戏曲",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.17,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8",
@@ -1136,8 +1296,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=b7b4308467a66538e5a370fdfe90b3be8c54fa72c5cb958e5f43f4f56e036d2e_1720508128_604800&fromCDN=ws",
@@ -1146,7 +1306,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.05,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1155,6 +1315,16 @@
       "name": "CCTV12",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/F41006A3BB768CD3315D968692FE60DA9C224A9543538164F0C869F5D4F3B92590223DE62977EEA85767CD072538A00B2B703246ED7E554C43A92BEAB999F142358E64B046C01F379443CF1F2F92DC0FD4F0161949B6FF01013097C01FDD77A6122F81653B5E867C5752B5B6329AC1BF682AC381AF7F6F37D13B244E127E7270C8FA346590063C2F0AD704099990833EEC459D40C46D43EF9EC734CA04FDAC11/2027248803_dlna.m3u8?from=player&svrtime=1795431874&pid=600001807&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV12社会与法",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/70a7e5f93ab14d978706c237fe142277",
           "src": "老刘备",
@@ -1172,8 +1342,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV12",
@@ -1212,8 +1382,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=580c20b986086596a03afb85524d28a7b1255fd045cc29e549830abd92eab828_1720508158_604800&fromCDN=ws",
@@ -1222,7 +1392,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1231,6 +1401,16 @@
       "name": "CCTV14",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/780DE4F3DF918E655771365330906065CA6576E99C01D4E7538C98711B22DC28FF6844D5983E82E125D00FC29323847C4A4584AE0C43634D9363ECD8FFBA17766F6C8BB1832824580E5DA0089B4B7278EAE2F6AD484654E72C073989C0EC2B7ADFA398EDBD86646D477C6ACA4B9D5021007BBD3155D39FA7236C2168236E593586FC3C9A34CEB8130A30BFE9DC6A688020BD1A7A16AA14B0A8221D410DECBAB5/2027248903_dlna.m3u8?from=player&svrtime=1795431874&pid=600001809&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV14少儿",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.13,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/5ce5a7ff03b541cc8ef405312b4fec09",
           "src": "老刘备",
@@ -1248,8 +1428,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV14",
@@ -1288,8 +1468,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=c1f72c79ee7857898e80e822b3768418b14d710294fb16dc503997f9bce0adda_1720508238_604800&fromCDN=ws",
@@ -1298,7 +1478,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1307,6 +1487,16 @@
       "name": "CCTV15",
       "group": "央视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/9755910EDD3D49EB160E9B25EA6B8E2EACD23B6903652BB25240A96E589EF345DE2775DF61B02F7C4497A4CA75AE9BBBDE04B0923AFBC49BF67ADEB426DDB158DC48C1DD0493063230E84FA315B613CAB0489EC0758FDD5A4F9017F83DC8AD9C489BC8752395E7BB9CF8C428D626D6FA1D332F8297FAB35B9F52C27E9055242889A198326AED23D11CCD64CB5D90AED965819B216FFA47205FA640DD1CE58399/2027249003_dlna.m3u8?from=player&svrtime=1795431874&pid=600001815&cdn=5506",
+          "src": "央视频",
+          "raw_name": "CCTV15音乐",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d",
           "src": "老刘备",
@@ -1324,8 +1514,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV15",
@@ -1364,8 +1554,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws",
@@ -1374,7 +1564,7 @@
           "raw_group": "央视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1383,6 +1573,16 @@
       "name": "北京卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/41E683B10C531CAD18A86004DCACE22875A49DACAE7AA48B5CFDD7BCC2D0883571AF5BC2E63F58E61352607BAC4A184C5133CAC7DC8F5A923625D348565F9F4909367ADD6BA52FB23ED39C23A59C442A222358A33D4A4C48A6612E075CC8BA757E3260E67D092F9D7F43D3630B763EB7E473A783B096E550C1ED9F187B85F1B33B6B5FBA86E13B30B0CB7C7A21904ADC234FF46A70A358BD41529F3307C4B5F3/2024052703.m3u8?from=player&svrtime=1795431876&pid=600002309&cdn=5506",
+          "src": "央视频",
+          "raw_name": "北京卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.07,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40",
           "src": "老刘备",
@@ -1400,8 +1600,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=北京卫视",
@@ -1450,8 +1650,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=43dbb4a601652fcaea2ddbd73cd2f2f488aff86faee350276951eadd10dfb441_1720508364_604800&fromCDN=ws",
@@ -1460,7 +1660,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1469,6 +1669,16 @@
       "name": "天津卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/7A5CD236F7FB0B91397EDCD7AE4BB06946C87F2D3BBF8E9FA5C5CBAED836EC6F3D560A90C30005B84221ACC4CA45007A0355B303A334E3172627AE8792EC7EBCA7F9D4DFE5A03FD28AB3A0A9DFC4A0DA849575B02AEFDC8D575541C7597DCC88FC10E7142AB0FAE59EA1DD24B0287AC97BE160F3CB87522A67D48771867E665B05520DBF80F8295D8E4967418FDBA2A27254F6D7781FC37E3A86EFD2E8A22C2B/2019927003.m3u8?from=player&svrtime=1795431878&pid=600152137&cdn=5505",
+          "src": "央视频",
+          "raw_name": "天津卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691",
           "src": "老刘备",
@@ -1486,8 +1696,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=天津卫视",
@@ -1526,8 +1736,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=4d4c86675dc5e31f25de3766d077588bdbab6a5c7b52057ab88712a1cac4df7b_1720508477_604800&fromCDN=ws",
@@ -1536,7 +1746,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1545,6 +1755,16 @@
       "name": "河北卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/3816EB1E87B36B5EC53329BBA5D125C74087C62F45F4D54D34F20F2B65C087A2F11FBFAF4DE3178933EEB65742F5D4A75AA72B9D102B18293472B842DD68E6C5AA3D8BAF72A2215E1D2997FAE5A085A8AF4CE5171DCA06A70A1377E5668D59AFA933892340BC0B7F120F3AABEC18E39D4E55939459C576DDF8F7ACC38861F534388C10DC6982F21E01C75DFA2609F9E14E8FD6C3139F14EC6E2BF0FB63B365BF/2024171503.m3u8?from=player&svrtime=1795431878&pid=600002493&cdn=5505",
+          "src": "央视频",
+          "raw_name": "河北卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17",
           "src": "老刘备",
@@ -1562,8 +1782,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=河北卫视",
@@ -1592,8 +1812,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=e80bcd155eabf8e0dbe4c1fa52d05d048c86c1398334b5085f6c985eb88548ca_1720508762_604800&fromCDN=ws",
@@ -1602,7 +1822,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1611,6 +1831,16 @@
       "name": "黑龙江卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/B0C0F6EAA6E0D0CE0920611887E566B4FDE4FF68C79AC65EF62DACB439499DE83AA55387FA0857BF61C398ABF9A824E05DD84B7832969B0B33E92271A226B098747C4514707A83B807F092C6D2193CF2F837F8D931C9F72B23E8F59DFA86750E17CCB175DF11396E3BFE337EBCE039036A05497E667411106D06E53260B2E69177E10549AD1D005057AF6D929EE18874B1B4979FB6724AF6FB5B0E74FD0E6E6E/2029797003.m3u8?from=player&svrtime=1795431877&pid=600002498&cdn=5506",
+          "src": "央视频",
+          "raw_name": "黑龙江卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3",
           "src": "老刘备",
@@ -1658,8 +1888,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=64cde00fa51eb520daec6aa6c1e3e90225906560d67b2607381a34d4431ebcc6_1720508553_604800&fromCDN=ws",
@@ -1668,7 +1898,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1677,6 +1907,16 @@
       "name": "辽宁卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/C5AA95185CE61DB800E6586F42993B0E030D082773A008D404228B50B7B28582920D45797954C6797A4AE02655E434FB1586CCDDC4858531921184C536D60291E9BE0A42F4937B5AAF69DC059B658965F6EE6993CA35A50BF6C1DC89E765FDC3B9B6F08A9541CB64084CDF2E4D6CB93F025C25D9D6487C9E777FC1D5D0B7EA13E34F719C0FAC1E52E64780812662C51465C5B297313FAD472BCAF9209E9D491F/2024171303.m3u8?from=player&svrtime=1795431878&pid=600002505&cdn=5506",
+          "src": "央视频",
+          "raw_name": "辽宁卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/4b1903b35f804f1180a4b346efbabfc9",
           "src": "老刘备",
@@ -1694,8 +1934,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=辽宁卫视",
@@ -1724,8 +1964,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&livodToken=33bd64ae442debde91e9f2e25fd1087a9924ad3708258c548faf04b8a757b0d4_1720508620_604800&fromCDN=ws",
@@ -1734,7 +1974,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1743,6 +1983,16 @@
       "name": "东方卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/442E4E45ACC46630A582BAF051FD119C3DAF53325C45A716B51CF750F4C84EDEA861ACD96E41DFF26509A382C0E018D15DAC1AA35086483825155D9F30F7164396E7533CC1B2074605025AE327FA6FA25797172C36F64070336141428A9472CDC841D744A9E2033F22EBBBA79A210B5FDDB95DBE45C9FFD8582F3D7AE017B4946CFA4085068042541AACD50384212E23BC24733D8BD31B0286F6705FF7B821E7/2024054503.m3u8?from=player&svrtime=1795431876&pid=600002483&cdn=5505",
+          "src": "央视频",
+          "raw_name": "东方卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64",
           "src": "老刘备",
@@ -1760,8 +2010,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=东方卫视",
@@ -1810,8 +2060,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=4cb7770cf7195c2891acab71a8b5139c0f4abf80546956b07e6b8dd94b49e4e8_1720508420_604800&fromCDN=ws",
@@ -1820,7 +2070,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1829,6 +2079,16 @@
       "name": "江苏卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/3245F099289A0F575B37C4009142A4D04561D86964D07229DF12EF6AC84AD13F5306E1385540CD06A0A9AF63B7D36CB14F226A993DAC76D111A9034D6CC06E1D0B0E06991A2CC7717B37E706BC90C5FE84C15395873CFC62BABB3C116219155B2C1EE15B00897BF007FBFD3EAA0187368FD83F4379F6AF0A6B87D33E5B081B9EB1B3596CC9709860B8D3725026908E7DF9D786A77441B409B92C0CB164093634/2024171103.m3u8?from=player&svrtime=1795431876&pid=600002521&cdn=5505",
+          "src": "央视频",
+          "raw_name": "江苏卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.1,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e",
           "src": "老刘备",
@@ -1846,8 +2106,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=江苏卫视",
@@ -1896,8 +2156,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=aca1430fdaf3c8056ece793a65c2fefdc1f59e648c06bf6e63572e4994caa97c_1720509054_604800&fromCDN=ws",
@@ -1906,7 +2166,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1915,6 +2175,16 @@
       "name": "江西卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/AE227EE19D0CBEAA93F7B3CBE26F1FE895FE5759346036D57DB7B5CDFA5B3BA1E41138929AC2BA4A27F3AF0CF6D43F52B6DFF555E467D2ED4430D4A457B319BF706BF1869CD6C4799A577DC1478006B5CFBB2CD40C1114DD823FC7D92722B051218F2C799CD382BB2BDB267BB43C4D8349D3CBFB627A49F27202E6C3F22CDE47D05C338F8FA6C80BA46DEB4BF3AEAF0215F65955EDA28B0B23C92ED5D82F907A/2024061703.m3u8?from=player&svrtime=1795431878&pid=600002503&cdn=5505",
+          "src": "央视频",
+          "raw_name": "江西卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/d3548b106a7d45b4972427c3a75135ab",
           "src": "老刘备",
@@ -1962,8 +2232,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=84e38030fc4f1248603777a24ade5ab82ef30103522330bb3444634a1b66307f_1720509019_604800&fromCDN=ws",
@@ -1972,7 +2242,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -1981,6 +2251,16 @@
       "name": "山东卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/724BC6247F8D9F6F9BF69CD36FDBE2B379F2063A42D67A73FB362AC639CA0F501AE7051518F9BF72CF0E1FEE4260E5467186226EFA03BA9ADEE459B52BC721D7F4C0F28BA82D727E20AE90E629873237DB5D1D17289C88F10BCCB6A47890116493F04CF5112F51C74701B7E7FD60AE94404989C2074716B455B680BF26D1E2ADB85868DABDB9436E4C4C924084BCAE6BA6D011D750C541F7D231C5FEE8B48D8B/2029787903.m3u8?from=player&svrtime=1795431878&pid=600002513&cdn=5506",
+          "src": "央视频",
+          "raw_name": "山东卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.19,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/be77ccef4df042ab909e0a2586844431",
           "src": "老刘备",
@@ -2018,8 +2298,8 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 2.09,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227517/index.m3u8",
@@ -2048,8 +2328,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -2074,8 +2354,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=东南卫视",
@@ -2086,6 +2366,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/215600E471F9E1C94FE915544416D0222785017273C64AFFFCCF68F1D114223D7C2EDED5C2C47A200C90EF7DF2822DDBA61ECDEBAA824EFAF21C9FDE1D8136A0FA7B233581B29ED2119569FDDCC520FA4B5D027BDA994D3D7E6799CD54DBC1420D49B710855B12C8B0E8BAFED5DC779F45746D16BC0C581CBE90C143AC1A1784439D30DD2BA1A69E434C2EA5EDBDBAD07C2CC0E76B529123BD6AB8FC32EC66D8/2024061503.m3u8?from=player&svrtime=1795431878&pid=600002484&cdn=5505",
+          "src": "央视频",
+          "raw_name": "东南卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.12,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228428/index.m3u8",
@@ -2114,8 +2404,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=5fc20660dbcb940d20412d743ece597d91c8b06af193d6a9b81ad2781b1b8a54_1720509176_604800&fromCDN=ws",
@@ -2124,7 +2414,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -2133,6 +2423,16 @@
       "name": "湖北卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/F582AE53CA5CCF0963FA6C7D7D9D84613018306ABA53178812ED1D7A8FD64DC25083E16B184655934CBB2A0B7D4F1C2B8296B2DFA6EF90DEB915DCEF6F3F4DA6011B0C7CA0271B4F74238E5424745C601CE3640BB99D84C64D784546827DF1C3D714303BA0A3993D078A4711599C44E5C7A97BB951DD7B0173F864E7E52D415C3A98FF6B8994EDD2996929B4FE05E0A7AB792FF375546F7F11959F6B426DED99/2024171203.m3u8?from=player&svrtime=1795431876&pid=600002508&cdn=5505",
+          "src": "央视频",
+          "raw_name": "湖北卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.11,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/7553b94400ac4d85b752579acb37c0ce",
           "src": "老刘备",
@@ -2150,8 +2450,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=湖北卫视",
@@ -2190,8 +2490,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=b8f876f4b394029039b5d1733070c8731bc880530b0fb975397a5eeb37ca0cec_1720508906_604800&fromCDN=ws",
@@ -2200,7 +2500,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -2210,13 +2510,13 @@
       "group": "卫视",
       "lines": [
         {
-          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-          "src": "akira精选",
-          "raw_name": "湖南卫视4K",
-          "raw_group": "卫视",
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/96FCD56AA4E24B63793EA8520FDCAC4D92D482F7878FB6B7D696DB0077994CDC14AEB038F4774FA49CE43B2A528E6A29A4273466E6EB948955DEC6E69014FF4CE7A093B681BAC7320BEEA5D4F87D12CBA1CD2B7608E9D65FFFC8C372BA1522DFFC02E9683984C0A431D3739E4F901B4F21611366414BC3BC58C8C2CA100A573AF6F5E3B1FB5A89B0CB810D458B50C52206A4FD0A6B7163DD7997DAE29241F755/2024054803.m3u8?from=player&svrtime=1795431876&pid=600002475&cdn=5505",
+          "src": "央视频",
+          "raw_name": "湖南卫视",
+          "raw_group": "央视频",
           "probed": true,
           "ok": true,
-          "latency": 0.07,
+          "latency": 0.09,
           "code": 200
         },
         {
@@ -2236,8 +2536,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=湖南卫视",
@@ -2258,6 +2558,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+          "src": "akira精选",
+          "raw_name": "湖南卫视4K",
+          "raw_group": "卫视",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -2286,8 +2596,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=d70b57aaeb691e28be8f737e9f9efa413979b27dfc97da8bc6b321c828e47010_1720508965_604800&fromCDN=ws",
@@ -2296,7 +2606,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -2305,6 +2615,16 @@
       "name": "深圳卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/CCB453881FD8FA6899CF79D42926D6AE73B94DD9F600632CDAFAF36D64FF03A27E011A5ED4E329956AE8FA504D84EC66F13984C274D6E418293152B0F3EC9149DCA2E2BB53D5B10E53EAE2DF72C725BDB1F2B03154CE627D0043B2FED1EEDB8CC48D4A8ABA599059FEB9C0EA755B044677ADDECCA02DE34622CCF6E6EAC11C38A9614B801CB9D50FE8B1994D0DF8C139A633283CDE54ABBB2831C4B23DF54045/2024061303.m3u8?from=player&svrtime=1795431877&pid=600002481&cdn=5506",
+          "src": "央视频",
+          "raw_name": "深圳卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/b8c8ef10f65649c9a43388d771203f61",
           "src": "老刘备",
@@ -2322,8 +2642,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=深圳卫视",
@@ -2372,8 +2692,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=6b52c18155b74d913b2a3060db6d74f2a29dd8a824d70f648a9882dca63fd962_1720509238_604800&fromCDN=ws",
@@ -2382,7 +2702,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -2422,6 +2742,16 @@
           "code": 0
         },
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/55422CE6D513C3D777D807887E2D7686F8FF3D68109AF19E1DB208406C8013CDB773D85451A028121635D934222A6F2FFEB16CC187295A23B5511CE5D231A34EC45D2D8EF6A5F756BA8DD7FD97354CF7BA37646AB245C0BE3200E74AB3CA14B2CF472A385A7EAC9673ED61216839EAAE4AC0C40E2C1A8AFD5153CF6F37BDC8A004710139033D4A2D06947B58C6B0778E5F9D4A75ECF0628815D6E7B413500381/2024060903.m3u8?from=player&svrtime=1795431877&pid=600002485&cdn=5505",
+          "src": "央视频",
+          "raw_name": "广东卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.11,
+          "code": 200
+        },
+        {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
           "src": "老刘备",
           "raw_name": "广东卫视",
@@ -2448,8 +2778,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=59fd71bc9ab8ccb098e20dba7502351a73b4a120648316b836686754ebd7dbd2_1720509211_604800&fromCDN=ws",
@@ -2458,7 +2788,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -2467,6 +2797,16 @@
       "name": "广西卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/064625B3F24E907523AD71A42D22EA3C1513B76DCF6CCAF2F334C8BFD68C9744CF5DF1118A2352F960A67E72EE90E2679C279C76FA7CD86CB159FB1B6674F1317B19FDB4402793EE488C19BEE9BFEBF0D93F8B3172E332192F55D4709982BEC6D113E6F7D48A76CBA9601901393376BC00DCAD609F57D786D0D9C266D3F39C97A904885E4E2E03BCEE5A88C01C7BD4A7586F64FE58CB0126C3AEBF0C477CE55A/2024060703.m3u8?from=player&svrtime=1795431877&pid=600002509&cdn=5506",
+          "src": "央视频",
+          "raw_name": "广西卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "rtmp://live.gxrb.com.cn/hls/a23",
           "src": "Kimentanm",
@@ -2504,8 +2844,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws",
@@ -2514,7 +2854,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.1,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -2540,8 +2880,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=重庆卫视",
@@ -2552,6 +2892,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/83A2677ED1853879E0CA179D5A69CFF6AF6A625FC67C36966534DB1D8953198BEF6F66F53D344D1FA3488E91527A3437A7CE0F814BF25C9A8AA1D8EFBF7C1824955F391A0C6480368C10BC35E3F38ABF129BCBA045FF57DDF707CE997A5E4D5966E98FA517F92D87DB32E8CA8CB6AAD8FDCD079C59CC6A323BB92ED9C6F157993297C3F99DDB4432171D68F6085A65915E4E2B169ADDEF8BCD51E6DC870BE472/2024061103.m3u8?from=player&svrtime=1795431877&pid=600002531&cdn=5505",
+          "src": "央视频",
+          "raw_name": "重庆卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.16,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8",
@@ -2580,8 +2930,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -2589,6 +2939,16 @@
       "name": "云南卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/91324B8546EBA372A83E4A153B6EC7A00734CDBBE1C31353923E06F92C410D5B937807D37FCEEE6D51B6D6506E3AC5B2F8DBFBC2B04BF9039CBF0B7AA68EB8BE3058F9DEA5DFD09D7FC81B26D46A135D3DF6277D0648C6E7135A7C44EA84C325CEA5F399F50F52A046FC8396CDDD933467E0A9932E82866A9DD5BED342AA89FEE72386155C4864523A4A23A251D3FF9A13CF04B4A53E88F97B48465D2E965A60/2025561303.m3u8?from=player&svrtime=1795431879&pid=600190402&cdn=5506",
+          "src": "央视频",
+          "raw_name": "云南卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.15,
+          "code": 200
+        },
         {
           "url": "mitv://generationnexxxt.com:19806/9203ba029385410793e3f2b7bffb3335",
           "src": "老刘备",
@@ -2616,8 +2976,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=bd74183e409c86a54debf6f2452fcadd940a4b90a2e1f981832970d2f916a945_1720509300_604800&fromCDN=ws",
@@ -2626,7 +2986,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.1,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -4882,7 +5242,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.22,
+          "latency": 1.47,
           "code": 200
         },
         {
@@ -5276,7 +5636,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 2.23,
+          "latency": 1.45,
           "code": 200
         },
         {
@@ -6414,14 +6774,34 @@
       "group": "4K8K",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/4DF85D73674284AE75EDC2578E6F39596157FE72972251B899ADEF5917605D9710BE60F67E430D8906D97BE3A25B071281FE2808B00C5D3F6E7FDA4621494E3D382981375B1B6B3E7C063C333659C2EC9558B624D911BF838B9DF7D87FB3AD082AE216429806CAB368957D09F9D772C33627919BC88848692C7E75048A93134DE23E97A2DC203C636A4454AB48B090F36B6DA3AF76F4856B1E83020479F922B8/2027249103_dlna.m3u8?from=player&svrtime=1795431875&pid=600098637&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV16奥林匹克",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/4CEE379E7D839DF69F592D38FEE14F047BD9FF559026405CED6C47B8086452EC1B94F94EAD92FD8D6D3CDF960BD0F265AE93F1E7572E22D227F708E9FD8CB4F06DC05E9931F044380173F4E5989C873353C8E79CEC311F2C2FF10659B1A627FC1EFC26387874E6E12450CECDF3E8E769D0AE156868B345DA7A1E589D2BC033063F00DB3DF7E0AA1E5BCD6DC9B3A58F9B0191833E5C04ACF9BA7FED28AD67D5F7/2027249303_dlna.m3u8?from=player&svrtime=1795431875&pid=600099502&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV16 4K",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
+        {
           "url": "http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8",
           "src": "老刘备",
           "raw_name": "CCTV16-4K",
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV16",
@@ -6470,8 +6850,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6486,8 +6866,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6502,8 +6882,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8",
@@ -6528,8 +6908,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6544,8 +6924,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6560,8 +6940,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6576,8 +6956,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6592,8 +6972,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6608,8 +6988,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6624,8 +7004,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6640,8 +7020,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6656,8 +7036,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6672,8 +7052,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6688,8 +7068,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6704,8 +7084,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6720,8 +7100,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6736,8 +7116,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6752,8 +7132,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6768,8 +7148,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6784,8 +7164,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6800,8 +7180,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6816,8 +7196,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6832,8 +7212,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6848,8 +7228,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6864,8 +7244,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6880,8 +7260,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6896,8 +7276,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6912,8 +7292,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6928,8 +7308,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6944,8 +7324,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6960,8 +7340,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6976,8 +7356,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -6992,8 +7372,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7008,8 +7388,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7024,8 +7404,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7040,8 +7420,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7056,8 +7436,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7072,8 +7452,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7088,8 +7468,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7104,8 +7484,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7120,8 +7500,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7136,8 +7516,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7152,8 +7532,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7168,8 +7548,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7184,8 +7564,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7200,8 +7580,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7216,8 +7596,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7232,8 +7612,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7248,8 +7628,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7264,8 +7644,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7280,8 +7660,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7296,8 +7676,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7312,8 +7692,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7344,8 +7724,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7360,8 +7740,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7376,8 +7756,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7392,8 +7772,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7408,8 +7788,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7424,8 +7804,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7440,8 +7820,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7456,8 +7836,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7472,8 +7852,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7488,8 +7868,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7504,8 +7884,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7520,8 +7900,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7536,8 +7916,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7552,8 +7932,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7568,8 +7948,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7584,8 +7964,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7600,8 +7980,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7616,8 +7996,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7632,8 +8012,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7648,8 +8028,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7664,8 +8044,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7680,8 +8060,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7696,8 +8076,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7712,8 +8092,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7728,8 +8108,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7744,8 +8124,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7760,8 +8140,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7776,8 +8156,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7792,8 +8172,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7808,8 +8188,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7824,8 +8204,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7840,8 +8220,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7856,8 +8236,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7872,8 +8252,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7888,8 +8268,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7904,8 +8284,8 @@
           "raw_group": "百事通",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7920,7 +8300,7 @@
           "raw_group": "小地方",
           "probed": true,
           "ok": false,
-          "latency": 0.27,
+          "latency": 0.22,
           "code": 403
         }
       ]
@@ -7930,24 +8310,24 @@
       "group": "地方",
       "lines": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
-          "src": "老刘备",
-          "raw_name": "浙江钱江都市",
-          "raw_group": "小地方",
-          "probed": true,
-          "ok": true,
-          "latency": 0.13,
-          "code": 200
-        },
-        {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
           "src": "老刘备",
           "raw_name": "浙江钱江都市",
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.14,
+          "latency": 0.2,
           "code": 200
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+          "src": "老刘备",
+          "raw_name": "浙江钱江都市",
+          "raw_group": "小地方",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7956,24 +8336,24 @@
       "group": "地方",
       "lines": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
-          "src": "老刘备",
-          "raw_name": "浙江经济生活",
-          "raw_group": "小地方",
-          "probed": true,
-          "ok": true,
-          "latency": 0.09,
-          "code": 200
-        },
-        {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
           "src": "老刘备",
           "raw_name": "浙江经济生活",
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.1,
+          "latency": 0.12,
           "code": 200
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+          "src": "老刘备",
+          "raw_name": "浙江经济生活",
+          "raw_group": "小地方",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -7987,9 +8367,9 @@
           "raw_name": "浙江教科影院",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.13,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8004,7 +8384,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.09,
+          "latency": 0.12,
           "code": 200
         },
         {
@@ -8013,9 +8393,9 @@
           "raw_name": "浙江民生休闲",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.1,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8029,9 +8409,9 @@
           "raw_name": "浙江新闻",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.07,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8039,16 +8419,6 @@
       "name": "浙江少儿",
       "group": "地方",
       "lines": [
-        {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
-          "src": "老刘备",
-          "raw_name": "浙江少儿",
-          "raw_group": "小地方",
-          "probed": true,
-          "ok": true,
-          "latency": 0.08,
-          "code": 200
-        },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
           "src": "老刘备",
@@ -8058,6 +8428,16 @@
           "ok": true,
           "latency": 0.1,
           "code": 200
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+          "src": "老刘备",
+          "raw_name": "浙江少儿",
+          "raw_group": "小地方",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8071,9 +8451,9 @@
           "raw_name": "中国蓝新闻",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.11,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8082,24 +8462,24 @@
       "group": "国际频道",
       "lines": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-          "src": "老刘备",
-          "raw_name": "浙江国际",
-          "raw_group": "小地方",
-          "probed": true,
-          "ok": true,
-          "latency": 0.08,
-          "code": 200
-        },
-        {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
           "src": "老刘备",
           "raw_name": "浙江国际",
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.11,
+          "latency": 0.1,
           "code": 200
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+          "src": "老刘备",
+          "raw_name": "浙江国际",
+          "raw_group": "小地方",
+          "probed": true,
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8113,9 +8493,9 @@
           "raw_name": "数码时代",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.08,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8129,9 +8509,9 @@
           "raw_name": "武义新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.11,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8145,9 +8525,9 @@
           "raw_name": "平湖新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.15,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8161,9 +8541,9 @@
           "raw_name": "平湖民生休闲",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.1,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8177,9 +8557,9 @@
           "raw_name": "萧山新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.16,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8193,9 +8573,9 @@
           "raw_name": "萧山生活频道",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.12,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8210,7 +8590,7 @@
           "raw_group": "小地方",
           "probed": true,
           "ok": false,
-          "latency": 0.37,
+          "latency": 0.31,
           "code": 0
         },
         {
@@ -8220,7 +8600,7 @@
           "raw_group": "小地方",
           "probed": true,
           "ok": false,
-          "latency": 2.15,
+          "latency": 2.05,
           "code": 0
         }
       ]
@@ -8235,9 +8615,9 @@
           "raw_name": "余杭综合频道",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.1,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8251,9 +8631,9 @@
           "raw_name": "余杭未来E频道",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.15,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8267,9 +8647,9 @@
           "raw_name": "余姚新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.12,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8283,9 +8663,9 @@
           "raw_name": "余姚姚江文化",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.12,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8299,9 +8679,9 @@
           "raw_name": "嵊州新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.1,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed",
@@ -8310,7 +8690,7 @@
           "raw_group": "小地方",
           "probed": true,
           "ok": false,
-          "latency": 2.1,
+          "latency": 0.35,
           "code": 0
         }
       ]
@@ -8325,9 +8705,9 @@
           "raw_name": "诸暨新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.1,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8341,9 +8721,9 @@
           "raw_name": "上虞新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.06,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8357,9 +8737,9 @@
           "raw_name": "上虞文化影院",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.13,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8373,9 +8753,9 @@
           "raw_name": "上虞新商都",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.16,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8390,8 +8770,8 @@
           "raw_group": "小地方",
           "probed": true,
           "ok": false,
-          "latency": 0.12,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8406,8 +8786,8 @@
           "raw_group": "小地方",
           "probed": true,
           "ok": false,
-          "latency": 0.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8421,9 +8801,9 @@
           "raw_name": "兰溪新闻综合",
           "raw_group": "小地方",
           "probed": true,
-          "ok": true,
-          "latency": 0.11,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8438,8 +8818,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8454,8 +8834,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8470,8 +8850,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8486,8 +8866,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8502,8 +8882,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=甘肃卫视",
@@ -8532,8 +8912,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=171a8342304b3c81ad3c96545782987d838c6b9fb512cc6905270159a52113c2_1720508692_604800&fromCDN=ws",
@@ -8542,7 +8922,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.05,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -8552,14 +8932,24 @@
       "group": "卫视",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/DAC7EB8EB015EAB9CE1825E0E67EB0DB273DC2A51C19F67CEA41330C4D6B328403210007FAFD653544EF2F1D81DC4DEC862D7DCD25803CFB69A1FA955CA9365C69BFA8ECCD7FE7D3E211A8F0033477ED9D867CC7D08BE44A0421FED09F062B0F740A24AC8F0517F174A1C53E45A9A50F740B9FF80C41DD5DE796D4058901D2584A6554AB08CB41149C41AB1189BCD1B3497B48E65E9D752EBF8EC4454E92D822/2024061603.m3u8?from=player&svrtime=1795431878&pid=600002490&cdn=5505",
+          "src": "央视频",
+          "raw_name": "贵州卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8",
           "src": "老刘备",
           "raw_name": "贵州卫视",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=贵州卫视",
@@ -8598,8 +8988,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=c2389ebe3248f5e8bb2be6ba564202250815c1ffce8bf911a01e5e09705f6576_1720509315_604800&fromCDN=ws",
@@ -8608,7 +8998,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -8624,8 +9014,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8640,8 +9030,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8656,8 +9046,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8672,8 +9062,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8688,8 +9078,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8698,14 +9088,24 @@
       "group": "卫视",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/562E86A7888D6259D2EF1CD1A261B3C6D00F5B368BD3EB70C8F049CEF0B2F2C25BF24F8974FE17D91ACAF6E62FC1C72F8C16D296CAFC50908C17D44262255788A255FBCC41280A87FF73EFA3FEDA4F0C3D4FDDAF16B052D391A9DA34D9DA9C925950385D57737F6B29740985362802B8A454502CFCF96D8F691D6B1E424708A8FF84CF652ADD03C2D24C0650275D3C07F216011DCE15B92C7AE03790A857C01E/2024055603.m3u8?from=player&svrtime=1795431877&pid=600002506&cdn=5505",
+          "src": "央视频",
+          "raw_name": "海南卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8",
           "src": "老刘备",
           "raw_name": "海南卫视",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=海南卫视",
@@ -8744,8 +9144,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws",
@@ -8754,7 +9154,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.06,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -8770,8 +9170,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8786,8 +9186,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8802,8 +9202,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8818,8 +9218,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8",
@@ -8854,8 +9254,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8",
@@ -8880,8 +9280,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8896,8 +9296,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8912,8 +9312,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8928,8 +9328,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8944,8 +9344,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8960,8 +9360,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8976,8 +9376,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -8992,8 +9392,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9008,8 +9408,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9024,8 +9424,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9040,8 +9440,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9056,8 +9456,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9072,8 +9472,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9088,8 +9488,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9104,8 +9504,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9120,8 +9520,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9136,8 +9536,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9152,8 +9552,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9168,8 +9568,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9184,8 +9584,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9200,8 +9600,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9216,8 +9616,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9232,8 +9632,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9248,8 +9648,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9264,8 +9664,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9280,8 +9680,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9296,8 +9696,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9312,8 +9712,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9328,8 +9728,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9344,8 +9744,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9360,8 +9760,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9376,8 +9776,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9392,8 +9792,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9408,8 +9808,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9418,14 +9818,24 @@
       "group": "卫视",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/A7453F14D2BF0B9BE93E50A43E75EEB23DE307B55B8BBF3B43F0FC2F8122362398FC421CEA5EFD8C939620C5F20B7093ED672D810079AEF2C5D4BE6FD28CB7D26D9106CAA181D997DE388B32C7E1FA3A447299A594B9B89CF14B38C6FB95C5EC86692C50DC10511B3863BE157A2EEE02FDB5BAAC767CF05E04A371F9706D1226C33A4B9E67707C4C89BEA646CFB240937906BB508FE8480D8E44833FE97D1C06/2025561203.m3u8?from=player&svrtime=1795431879&pid=600190401&cdn=5505",
+          "src": "央视频",
+          "raw_name": "内蒙古卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.07,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8",
           "src": "老刘备",
           "raw_name": "内蒙古卫视",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=内蒙古卫视",
@@ -9444,7 +9854,7 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
+          "latency": 0.06,
           "code": 403
         },
         {
@@ -9464,7 +9874,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.05,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -9474,14 +9884,24 @@
       "group": "卫视",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/E0EBACE3957F67B2E2A1C105E44EFB1861A065815C63BE58797D27DA64586F3F9B6B698BC76B7FDCD1B6673B9929A6B479A7B2709E527E7CAC6BA28473AE43ABB0A5FD97BE7FE928815D530E35B149831EBD5E805FDBB8A6614F862E9300524188558F4FFC5EAD31C56BA628D331DD04A657F29E41A0DE7BA7133CC7AEB221219CA9EAF07EA0AA0112423A521CCCE8D38C53CA940C2F5ED0E2DCA4A74C6CB5B7/2025608503.m3u8?from=player&svrtime=1795431879&pid=600190737&cdn=5505",
+          "src": "央视频",
+          "raw_name": "宁夏卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.1,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225579/index.m3u8",
           "src": "老刘备",
           "raw_name": "宁夏卫视",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8",
@@ -9516,8 +9936,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9532,8 +9952,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9548,8 +9968,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=青海卫视",
@@ -9568,8 +9988,18 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 2.09,
-          "code": 0
+          "latency": 0.01,
+          "code": 403
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/B483F0FBFBA3C18F3BF45F98AF9ED6FC5CA4C78C1FB5C0D5DA43B44A8033A715FD940BB96A6FD1DEF3DBEE6DCDA70A2B9B12726961CCD29F35E08F969DE2767047752E42BE2A43FC7C8601AF0EE73583795BFE8FB9A7840A4FAB3A908740A5A971A986C00D459CEAF0A9879D01DAC3D23FBCEF349C6B0366BEA08B34891BCE5DC8D9C34F8B8B2A1909412C6CBE989177CDFF8491C29CB5A64BBAE345964A7D71/2025559103.m3u8?from=player&svrtime=1795431879&pid=600190406&cdn=5505",
+          "src": "央视频",
+          "raw_name": "青海卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.18,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8",
@@ -9588,7 +10018,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -9604,8 +10034,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9620,8 +10050,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9636,8 +10066,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9652,8 +10082,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9668,8 +10098,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9684,8 +10114,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=山西卫视",
@@ -9696,6 +10126,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/D15D8FD11F7E5263A57B38354CD141E2CF20BF7385AEA8C50363DC59C536A3EF5EC48C69BD0D51C5FE3CFDAC52A5BC8AC0D509040772E8279EB0227BF9940EA63FAA3E204A5902927A5AFFBAC1620388016045C751F92F5ADB2A52352806E205597F21E8B105783B836BA4D4555FF94B211F8767212F758DF09E35CAC9E6110C22C2E0EFE7ECCBC908C6C4020C334E2818B94C9851DA27FCA9DD4FB73E6DB3E3/2025560803.m3u8?from=player&svrtime=1795431879&pid=600190407&cdn=5505",
+          "src": "央视频",
+          "raw_name": "山西卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.13,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -9724,14 +10164,24 @@
       "group": "卫视",
       "lines": [
         {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/24BCC7C8DD0A40E2C750B65F7485247C641041EC619F2D8077246EE0526BD54924A98D0A15CC1DA660DCBE35393FDDE43C363BE619CBD28058E8326F9B2A70A3FB7291FA5233A702F96F7078C8223A91CAC4EBF34928CFCCB233B2DEC5485D12F83CB9E655443D146F3E5B88BBA4624EA84532431F9AF72567BB8CBC3363BD8F17702ED753FDCFB06CA7B301B55812C224540683887537A197B7DED8BAB371B4/2029795103.m3u8?from=player&svrtime=1795431879&pid=600190400&cdn=5506",
+          "src": "央视频",
+          "raw_name": "陕西卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8",
           "src": "老刘备",
           "raw_name": "陕西卫视",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=陕西卫视",
@@ -9770,8 +10220,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws",
@@ -9780,7 +10230,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.1,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -9796,8 +10246,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9812,8 +10262,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9828,8 +10278,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9844,8 +10294,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=西藏卫视",
@@ -9856,6 +10306,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/C699D11BDC96FD3129750C8302BEE4DBE068A07393A44296BD01772F7E2B6A314BCB26EA678251D5AF4AD2321198D078516096B912D4BD640975A17BDF2B69C67FE322D4478B6B8B1942F8F7521308E3B910AFBAA8425051E94E5815A8FA113BC2885E9F6EAFCABDB8B385D97B1DF6C0C2198DCE5A4EF432EDB7914D8F4E467FC9848244C7B261F0B8E7B7D04701E0AE5E931C42F3A8154FA94DE7E0DB422AE1/2025558003.m3u8?from=player&svrtime=1795431879&pid=600190403&cdn=5505",
+          "src": "央视频",
+          "raw_name": "西藏卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.2,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8",
@@ -9880,8 +10340,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=新疆卫视",
@@ -9910,7 +10370,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -9926,8 +10386,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9936,14 +10396,24 @@
       "group": "央视",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/8B6F3C736D2BBC7E5FC7A0BBADEE58D2E84CA2DCC0420AD30B90637D4A848F64133F80A346671627414AB727379D4A581967D8EF6A05A54D6CBB44697895E4700961BD45C172E393E0F93A740CD22A6765E503E905CBC40AB7125C1BCBDDACBFECFECC11D54362734290DF5F12DA7B78144A570651376B97F60F15300260F396C34A4B9872D4A2310317DD5314AAD103D79BD55ECE74E5B295C578078B70A460/2027249403_dlna.m3u8?from=player&svrtime=1795431875&pid=600001810&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV17农业农村",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8",
           "src": "老刘备",
           "raw_name": "CCTV17",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://101.35.240.114:88/live.php?id=CCTV17",
@@ -9982,8 +10452,8 @@
           "raw_group": "央视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.07,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -9992,14 +10462,24 @@
       "group": "国际频道",
       "lines": [
         {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/4EEA2977D19C05DED539EB2597A0FAD20274C82DF2951D3EEEA4241D9CB57E5960B77D3B7F807A12C401AA282D68A944AD9D6F16C02817954EF8990597048C970E63A5CC13F6BF447EBB5A15E2625951B91AB7DA4D42D11BD9E0732671C11574C882F399A3D04C8716F950115C320244851F1ED9E0A1943264217E083D00B9DE8283FF939495153B1558B58EB12372FD47FEEB06429E8A64A03E07494011549B/2024181703.m3u8?from=player&svrtime=1795431875&pid=600014550&cdn=5506",
+          "src": "央视频",
+          "raw_name": "CGTN",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
+        {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8",
           "src": "老刘备",
           "raw_name": "CGTN",
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -10018,13 +10498,23 @@
       "group": "国际频道",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/5B4C50448E6DF7E517820284E91B1936D59A50DE78E6F550A7D93576D4FB4F09D4F4345B91CA021F28E78BC16881FA4CB79821C3C4843FAF9D1749155F4D4885C0A3CEB87777106028CF73A61B91A450CC0775671FE3231E04D86F643034B4127520F0AA0898098435250532E93E6EA8016CAFB480AAF4ADE22D17A58094CA45FB04148FA0C2E90D9D1ECDB4529DE7881408CAC7B1BEBE20755259A1034747D7/2024182303.m3u8?from=player&svrtime=1795431876&pid=600084781&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CGTN纪录",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
+        {
           "url": "https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8",
           "src": "Kimentanm",
           "raw_name": "CGTN纪录",
           "raw_group": "央视IPV4",
           "probed": true,
           "ok": true,
-          "latency": 0.14,
+          "latency": 0.16,
           "code": 200
         },
         {
@@ -10034,8 +10524,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10050,8 +10540,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10066,8 +10556,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10082,8 +10572,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10098,8 +10588,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10114,8 +10604,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10130,8 +10620,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10146,8 +10636,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10162,8 +10652,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10178,8 +10668,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10194,8 +10684,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8",
@@ -10204,8 +10694,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10220,8 +10710,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10236,8 +10726,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10252,8 +10742,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10268,8 +10758,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10284,8 +10774,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10300,8 +10790,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10316,8 +10806,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10332,8 +10822,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10348,8 +10838,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10364,8 +10854,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10380,8 +10870,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10396,8 +10886,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10412,8 +10902,8 @@
           "raw_group": "咪咕移动",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10532,6 +11022,16 @@
       "group": "卫视",
       "lines": [
         {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/EA9FD01D393F42B6619FE74B3DD9BD5A06E09B57E67D741E4C09A47A3666EC5FCC3A2655AEA75E59047C324721F5948A68A305060D1CA959D5A92AA03CAA4A0E0086CC86E9961547CD9C3C59297199870FDFBE77709B03D36759E230E603E3F70906F7E613306DBF7A6C1283D2EEB3A4B1C345380CD2CB91AD5FB23E8E9320EFFBAE1CBA5D5A30897ACE2F073E4180D5FBC7E4B7F9198198701489DC0F9CEA4C/2024171403.m3u8?from=player&svrtime=1795431878&pid=600002532&cdn=5506",
+          "src": "央视频",
+          "raw_name": "安徽卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.23,
+          "code": 200
+        },
+        {
           "url": "http://101.35.240.114:88/live.php?id=安徽卫视",
           "src": "Kimentanm",
           "raw_name": "安徽卫视",
@@ -10568,8 +11068,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=02a806c27a6d5b383b7e327402a6c5d9be864ee6bda1277c84b8bc14c914a579_1720508862_604800&fromCDN=ws",
@@ -10578,7 +11078,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.1,
+          "latency": 0.01,
           "code": 403
         }
       ]
@@ -10587,6 +11087,16 @@
       "name": "河南卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/8074E5491371F69C55CED1289C7BDB234526A30610D70534CD25C333BAED7E424C0DB82ED945069FCC78BB72BC9EB68CEB5CCA17AE692D29C070D577D1F18199914548901C8306FAB04B2DD43C407DAFCA08FD1C3B3898DB95D4A665977D94467D23499FC02DCB944651F23B1D810EE1EACE046B898B889B42E6B6ADD3130BAD614C7AA6C6B7E2A94F6F16659115CDECA3FB5D191A69D77658ADA8E83CA39CF6/2029797303.m3u8?from=player&svrtime=1795431877&pid=600002525&cdn=5505",
+          "src": "央视频",
+          "raw_name": "河南卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.1,
+          "code": 200
+        },
         {
           "url": "http://101.35.240.114:88/live.php?id=河南卫视",
           "src": "Kimentanm",
@@ -10624,8 +11134,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=c7713f989c35d7b798afec34071e72743fa784617458f4679369d1842cd422ac_1720508889_604800&fromCDN=ws",
@@ -10634,7 +11144,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -10652,6 +11162,16 @@
           "ok": false,
           "latency": 99,
           "code": 0
+        },
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/ED1859A3724537499C0F78BAD8504C8D1AD6733D1662937785C865CA1ED2B4C98FC8C398EB690797107C07106DE8B17721B8E1253691AEC027ABE44810836A663DEFA8F7AB0B5FBF55E151076BF3F5A36C3CAE5A831888AAD83191EEF9045E032228AE3B012200C279C180C8FB12EA25E14CD5750A5B6A0CA3D4810D138D1850A3CC08939F4341522F5662F62F428FA4019E21E6F18056BFB8751926B0BBC53C/2025561503.m3u8?from=player&svrtime=1795431879&pid=600190405&cdn=5505",
+          "src": "央视频",
+          "raw_name": "吉林卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.13,
+          "code": 200
         },
         {
           "url": "http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8",
@@ -10680,8 +11200,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=aef69bf8c1b273132c0131c77a30e70de412ec16260723968deb9a2b8a769e5a_1720508592_604800&fromCDN=ws",
@@ -10690,7 +11210,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.09,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -10699,6 +11219,16 @@
       "name": "四川卫视",
       "group": "卫视",
       "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/43073269B3770F1CB9B7665A9C91BC618E04DDF9251AF396CAF89F4A2385F089FA6D5E352E517B1D7A45D08E5EE4DF558907A40C0FDB808613D4A4EF0B3181D3223B45E87E2ADB56FB70FC36DC36F9528B2B4458F9CA9B03465803E83FF68ED8A24313ABA1ED463E2D16739E7230AEEA1DAC6AC43D6711366627530902FA6AA99EC39A2BE2CC1F2874A4B28DE5A90716F91CAE9BAC7CB49DE3897A9795427091/2024061403.m3u8?from=player&svrtime=1795431877&pid=600002516&cdn=5505",
+          "src": "央视频",
+          "raw_name": "四川卫视",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        },
         {
           "url": "http://101.35.240.114:88/live.php?id=四川卫视",
           "src": "Kimentanm",
@@ -10746,8 +11276,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         },
         {
           "url": "http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=539d7323a2cbb4240388051e285321f2684e79db2a7c484168b386d99dc393b3_1720509350_604800&fromCDN=ws",
@@ -10756,7 +11286,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.1,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -10782,8 +11312,8 @@
           "raw_group": "卫视高清",
           "probed": true,
           "ok": false,
-          "latency": 0.08,
-          "code": 404
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -10798,7 +11328,7 @@
           "raw_group": "卫视备用",
           "probed": true,
           "ok": false,
-          "latency": 0.17,
+          "latency": 0.14,
           "code": 403
         },
         {
@@ -10871,9 +11401,9 @@
           "raw_name": "延边卫视",
           "raw_group": "卫视高清",
           "probed": true,
-          "ok": true,
-          "latency": 0.3,
-          "code": 200
+          "ok": false,
+          "latency": 0.01,
+          "code": 403
         },
         {
           "url": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
@@ -11460,7 +11990,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 0.71,
+          "latency": 1.5,
           "code": 0
         }
       ]
@@ -11476,7 +12006,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.64,
+          "latency": 0.84,
           "code": 200
         },
         {
@@ -11486,7 +12016,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.64,
+          "latency": 0.84,
           "code": 200
         }
       ]
@@ -11502,8 +12032,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 1.33,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11518,7 +12048,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 1.56,
+          "latency": 1.51,
           "code": 200
         }
       ]
@@ -11534,7 +12064,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 1.61,
+          "latency": 3.47,
           "code": 200
         },
         {
@@ -11544,7 +12074,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 1.61,
+          "latency": 3.47,
           "code": 200
         }
       ]
@@ -11560,7 +12090,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 1.42,
+          "latency": 1.67,
           "code": 200
         },
         {
@@ -11570,7 +12100,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 1.42,
+          "latency": 1.67,
           "code": 200
         }
       ]
@@ -11586,7 +12116,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.18,
+          "latency": 0.13,
           "code": 200
         },
         {
@@ -11740,8 +12270,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11756,8 +12286,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11772,8 +12302,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11788,8 +12318,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.02,
-          "code": 0
+          "latency": 0.01,
+          "code": 403
         }
       ]
     },
@@ -11804,8 +12334,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11820,8 +12350,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11836,8 +12366,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -11932,7 +12462,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.15,
+          "latency": 0.11,
           "code": 200
         }
       ]
@@ -11948,7 +12478,7 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": true,
-          "latency": 0.18,
+          "latency": 0.07,
           "code": 200
         }
       ]
@@ -12108,8 +12638,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 2.13,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -12124,8 +12654,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 2.13,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -12140,8 +12670,8 @@
           "raw_group": "IPV6-1",
           "probed": true,
           "ok": false,
-          "latency": 2.14,
-          "code": 0
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -13196,7 +13726,7 @@
           "raw_group": "央视IPV4",
           "probed": true,
           "ok": true,
-          "latency": 0.14,
+          "latency": 0.11,
           "code": 200
         }
       ]
@@ -13212,7 +13742,7 @@
           "raw_group": "央视IPV4",
           "probed": true,
           "ok": true,
-          "latency": 1.77,
+          "latency": 2.99,
           "code": 200
         }
       ]
@@ -13222,14 +13752,24 @@
       "group": "国际频道",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/4FE521AA63176E221FC78C9884EB4FDA15EADC9EC9BC269D66C449211DFE2867EE35535752487E8D4447138C4C0F116AB966C331D50B8D8D91BC3BF4A2418ED2D044386ABEFF41FA278EE20B5FB563D5D4FA774C7183B8B820CAB0AAB955F7044F3E52655147B6CB518079A66E1B58887A99AA2F8C22854AAB52377AD83DDD6613D0125AECD99831EE4E2020CF44CCD7726246FC26BB238FFB6008259A2D4D05/2024181803.m3u8?from=player&svrtime=1795431875&pid=600084704&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CGTN法语",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.17,
+          "code": 200
+        },
+        {
           "url": "https://0472.org/hls/cgtnf.m3u8",
           "src": "Kimentanm",
           "raw_name": "CGTN法语",
           "raw_group": "央视IPV4",
           "probed": true,
-          "ok": true,
-          "latency": 1.68,
-          "code": 200
+          "ok": false,
+          "latency": 8.0,
+          "code": 0
         }
       ]
     },
@@ -13244,7 +13784,7 @@
           "raw_group": "央视IPV4",
           "probed": true,
           "ok": true,
-          "latency": 0.87,
+          "latency": 7.94,
           "code": 200
         }
       ]
@@ -13254,13 +13794,23 @@
       "group": "国际频道",
       "lines": [
         {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/86ADAD7B0FE4863E3C63E35D02183FE1FD2829001AA5F23F0B5065070C329CFE0A63792B5CEDDEB6CBDBF5CD3A44DC8249F8ACD3B59AB8A8BD32AAECF94218BA8B54F48493DBBA53D24FDB0559F07E7A0C4B14AEAABEAD1A9FAB30000610346C62242FFD7D0916DE6646C377DB50C78CE02FDB5A5CAFCE6E76A29CC1F271EB7D27DD968B16527BD3E6B975944069F643ACDE3186519DA0EA3D8953DF2BD42D5B/2024181903.m3u8?from=player&svrtime=1795431875&pid=600084758&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CGTN俄语",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.09,
+          "code": 200
+        },
+        {
           "url": "https://0472.org/hls/cgtne.m3u8",
           "src": "Kimentanm",
           "raw_name": "CGTN俄语",
           "raw_group": "央视IPV4",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
+          "latency": 8.01,
           "code": 0
         }
       ]
@@ -13334,7 +13884,7 @@
           "raw_group": "4K8K频道",
           "probed": true,
           "ok": true,
-          "latency": 0.22,
+          "latency": 0.13,
           "code": 200
         },
         {
@@ -13344,7 +13894,7 @@
           "raw_group": "江苏",
           "probed": true,
           "ok": true,
-          "latency": 0.49,
+          "latency": 0.46,
           "code": 200
         }
       ]
@@ -13360,7 +13910,7 @@
           "raw_group": "4K8K频道",
           "probed": true,
           "ok": true,
-          "latency": 0.2,
+          "latency": 0.21,
           "code": 200
         }
       ]
@@ -13488,7 +14038,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.69,
+          "latency": 1.46,
           "code": 404
         }
       ]
@@ -13520,7 +14070,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.13,
+          "latency": 0.32,
           "code": 404
         }
       ]
@@ -13600,7 +14150,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.14,
+          "latency": 0.28,
           "code": 404
         }
       ]
@@ -13616,7 +14166,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.15,
+          "latency": 0.28,
           "code": 404
         }
       ]
@@ -13840,7 +14390,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.71,
+          "latency": 0.85,
           "code": 404
         }
       ]
@@ -13904,7 +14454,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.73,
+          "latency": 0.8,
           "code": 404
         }
       ]
@@ -14016,7 +14566,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": false,
-          "latency": 0.13,
+          "latency": 0.26,
           "code": 404
         }
       ]
@@ -14032,7 +14582,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": true,
-          "latency": 0.24,
+          "latency": 0.13,
           "code": 200
         }
       ]
@@ -14048,7 +14598,7 @@
           "raw_group": "历年春晚",
           "probed": true,
           "ok": true,
-          "latency": 0.12,
+          "latency": 0.11,
           "code": 200
         }
       ]
@@ -14080,7 +14630,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.7,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14096,7 +14646,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.63,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14112,7 +14662,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.59,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14128,7 +14678,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.61,
+          "latency": 0.03,
           "code": 403
         }
       ]
@@ -14144,7 +14694,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.47,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14160,7 +14710,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.63,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14176,7 +14726,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.46,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14192,7 +14742,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.49,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14208,7 +14758,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.48,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14224,7 +14774,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.51,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14240,7 +14790,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.48,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14256,7 +14806,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.61,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14272,7 +14822,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.45,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14288,7 +14838,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.55,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14304,7 +14854,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.6,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14320,7 +14870,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.48,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14336,7 +14886,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.52,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14352,7 +14902,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.59,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14368,7 +14918,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.61,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14384,7 +14934,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.66,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14400,7 +14950,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.59,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14416,7 +14966,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.66,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14432,7 +14982,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.49,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14448,7 +14998,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.61,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14464,7 +15014,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.52,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14480,7 +15030,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.61,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14496,7 +15046,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.54,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14512,7 +15062,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.57,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14528,7 +15078,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.64,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14544,7 +15094,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.63,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14560,7 +15110,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.49,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14576,7 +15126,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.64,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14592,7 +15142,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.57,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14608,7 +15158,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.64,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14624,7 +15174,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.49,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14640,7 +15190,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.54,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14656,7 +15206,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 1.63,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14672,7 +15222,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.49,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14688,7 +15238,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.55,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14704,7 +15254,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.49,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14720,7 +15270,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.63,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -14736,7 +15286,7 @@
           "raw_group": "•咪咕「移动」",
           "probed": true,
           "ok": false,
-          "latency": 0.59,
+          "latency": 0.0,
           "code": 403
         }
       ]
@@ -16048,7 +16598,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 0.16,
+          "latency": 0.18,
           "code": 200
         }
       ]
@@ -16064,7 +16614,7 @@
           "raw_group": "香港",
           "probed": true,
           "ok": true,
-          "latency": 0.61,
+          "latency": 1.0,
           "code": 200
         }
       ]
@@ -16080,7 +16630,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 3.94,
+          "latency": 3.24,
           "code": 200
         }
       ]
@@ -16096,7 +16646,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 2.77,
+          "latency": 5.13,
           "code": 200
         }
       ]
@@ -16112,7 +16662,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.71,
+          "latency": 1.12,
           "code": 200
         }
       ]
@@ -16127,9 +16677,9 @@
           "raw_name": "大立电视台",
           "raw_group": "台湾",
           "probed": true,
-          "ok": true,
-          "latency": 2.34,
-          "code": 200
+          "ok": false,
+          "latency": 0.0,
+          "code": 403
         }
       ]
     },
@@ -16144,7 +16694,7 @@
           "raw_group": "江苏",
           "probed": true,
           "ok": true,
-          "latency": 0.19,
+          "latency": 0.09,
           "code": 200
         }
       ]
@@ -16160,7 +16710,7 @@
           "raw_group": "江苏",
           "probed": true,
           "ok": true,
-          "latency": 0.11,
+          "latency": 0.09,
           "code": 200
         }
       ]
@@ -16176,7 +16726,7 @@
           "raw_group": "江苏",
           "probed": true,
           "ok": true,
-          "latency": 0.19,
+          "latency": 0.1,
           "code": 200
         }
       ]
@@ -16192,7 +16742,7 @@
           "raw_group": "江苏",
           "probed": true,
           "ok": true,
-          "latency": 0.14,
+          "latency": 0.13,
           "code": 200
         }
       ]
@@ -16208,7 +16758,7 @@
           "raw_group": "江苏",
           "probed": true,
           "ok": true,
-          "latency": 0.12,
+          "latency": 0.14,
           "code": 200
         }
       ]
@@ -16224,7 +16774,7 @@
           "raw_group": "福建",
           "probed": true,
           "ok": true,
-          "latency": 0.21,
+          "latency": 0.61,
           "code": 200
         }
       ]
@@ -16240,7 +16790,7 @@
           "raw_group": "青海",
           "probed": true,
           "ok": true,
-          "latency": 0.25,
+          "latency": 0.19,
           "code": 200
         }
       ]
@@ -16256,7 +16806,7 @@
           "raw_group": "青海",
           "probed": true,
           "ok": true,
-          "latency": 0.2,
+          "latency": 0.22,
           "code": 200
         }
       ]
@@ -16272,7 +16822,7 @@
           "raw_group": "青海",
           "probed": true,
           "ok": true,
-          "latency": 0.63,
+          "latency": 0.2,
           "code": 200
         }
       ]
@@ -16288,7 +16838,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 0.49,
+          "latency": 0.71,
           "code": 200
         }
       ]
@@ -16304,7 +16854,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 0.42,
+          "latency": 0.68,
           "code": 200
         }
       ]
@@ -16320,7 +16870,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 0.98,
+          "latency": 1.07,
           "code": 200
         }
       ]
@@ -16336,7 +16886,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.23,
+          "latency": 1.95,
           "code": 200
         }
       ]
@@ -16352,7 +16902,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.12,
+          "latency": 2.47,
           "code": 200
         }
       ]
@@ -16368,7 +16918,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 0.86,
+          "latency": 0.87,
           "code": 200
         }
       ]
@@ -16384,7 +16934,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.06,
+          "latency": 0.91,
           "code": 200
         }
       ]
@@ -16400,7 +16950,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.45,
+          "latency": 1.12,
           "code": 200
         }
       ]
@@ -16416,7 +16966,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.07,
+          "latency": 1.08,
           "code": 200
         }
       ]
@@ -16432,7 +16982,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.01,
+          "latency": 1.33,
           "code": 200
         }
       ]
@@ -16448,7 +16998,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.73,
+          "latency": 2.3,
           "code": 200
         }
       ]
@@ -16464,7 +17014,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.34,
+          "latency": 1.72,
           "code": 200
         }
       ]
@@ -16480,7 +17030,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 1.01,
+          "latency": 1.5,
           "code": 200
         }
       ]
@@ -16496,7 +17046,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.79,
+          "latency": 1.59,
           "code": 200
         }
       ]
@@ -16512,7 +17062,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.74,
+          "latency": 1.56,
           "code": 200
         }
       ]
@@ -16527,9 +17077,9 @@
           "raw_name": "Totalmusic Concerts",
           "raw_group": "娱乐时尚",
           "probed": true,
-          "ok": false,
-          "latency": 8.01,
-          "code": 0
+          "ok": true,
+          "latency": 7.72,
+          "code": 200
         }
       ]
     },
@@ -16544,7 +17094,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 1.25,
+          "latency": 0.86,
           "code": 200
         }
       ]
@@ -16560,7 +17110,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.61,
+          "latency": 1.56,
           "code": 200
         }
       ]
@@ -16576,7 +17126,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 1.5,
+          "latency": 1.4,
           "code": 200
         }
       ]
@@ -16592,7 +17142,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.94,
+          "latency": 1.4,
           "code": 200
         }
       ]
@@ -16608,7 +17158,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.68,
+          "latency": 1.42,
           "code": 200
         }
       ]
@@ -16624,7 +17174,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.61,
+          "latency": 0.97,
           "code": 200
         }
       ]
@@ -16640,7 +17190,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.56,
+          "latency": 0.93,
           "code": 200
         }
       ]
@@ -16656,7 +17206,7 @@
           "raw_group": "娱乐时尚",
           "probed": true,
           "ok": true,
-          "latency": 0.59,
+          "latency": 0.84,
           "code": 200
         }
       ]
@@ -16672,7 +17222,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.54,
+          "latency": 1.53,
           "code": 200
         }
       ]
@@ -16688,7 +17238,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": false,
-          "latency": 2.14,
+          "latency": 0.57,
           "code": 0
         }
       ]
@@ -16704,7 +17254,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 1.49,
+          "latency": 2.26,
           "code": 200
         }
       ]
@@ -16720,7 +17270,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.95,
+          "latency": 1.25,
           "code": 200
         }
       ]
@@ -16736,7 +17286,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 1.42,
+          "latency": 1.13,
           "code": 200
         }
       ]
@@ -16752,7 +17302,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 1.15,
+          "latency": 2.0,
           "code": 200
         }
       ]
@@ -16768,7 +17318,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.74,
+          "latency": 1.15,
           "code": 200
         }
       ]
@@ -16784,7 +17334,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.55,
+          "latency": 1.22,
           "code": 200
         }
       ]
@@ -16816,7 +17366,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 1.23,
+          "latency": 2.69,
           "code": 200
         }
       ]
@@ -16832,7 +17382,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": false,
-          "latency": 8.0,
+          "latency": 8.01,
           "code": 0
         }
       ]
@@ -16896,7 +17446,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 1.25,
+          "latency": 1.55,
           "code": 200
         }
       ]
@@ -16912,7 +17462,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 1.03,
+          "latency": 2.85,
           "code": 200
         }
       ]
@@ -16928,7 +17478,7 @@
           "raw_group": "韩国",
           "probed": true,
           "ok": true,
-          "latency": 2.19,
+          "latency": 2.24,
           "code": 200
         }
       ]
@@ -17296,7 +17846,7 @@
           "raw_group": "宠物",
           "probed": true,
           "ok": true,
-          "latency": 1.92,
+          "latency": 2.07,
           "code": 200
         }
       ]
@@ -17312,7 +17862,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.76,
+          "latency": 1.13,
           "code": 200
         }
       ]
@@ -17344,7 +17894,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 0.76,
+          "latency": 1.06,
           "code": 200
         }
       ]
@@ -17360,7 +17910,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 1.5,
+          "latency": 2.87,
           "code": 200
         }
       ]
@@ -17376,7 +17926,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.74,
+          "latency": 1.45,
           "code": 200
         }
       ]
@@ -17392,7 +17942,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.51,
+          "latency": 0.65,
           "code": 200
         }
       ]
@@ -17408,7 +17958,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.79,
+          "latency": 1.32,
           "code": 200
         }
       ]
@@ -17424,7 +17974,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.7,
+          "latency": 0.99,
           "code": 200
         }
       ]
@@ -17440,7 +17990,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 2.25,
+          "latency": 3.07,
           "code": 200
         }
       ]
@@ -17456,7 +18006,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.67,
+          "latency": 1.14,
           "code": 200
         }
       ]
@@ -17472,7 +18022,7 @@
           "raw_group": "国际",
           "probed": true,
           "ok": true,
-          "latency": 0.63,
+          "latency": 0.7,
           "code": 200
         }
       ]
@@ -17488,7 +18038,7 @@
           "raw_group": "少儿",
           "probed": true,
           "ok": true,
-          "latency": 0.9,
+          "latency": 1.74,
           "code": 200
         }
       ]
@@ -17504,7 +18054,7 @@
           "raw_group": "体育",
           "probed": true,
           "ok": true,
-          "latency": 1.65,
+          "latency": 3.07,
           "code": 200
         }
       ]
@@ -17520,7 +18070,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 1.02,
+          "latency": 1.48,
           "code": 200
         }
       ]
@@ -17536,7 +18086,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 1.02,
+          "latency": 1.48,
           "code": 200
         }
       ]
@@ -17552,7 +18102,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.93,
+          "latency": 1.43,
           "code": 200
         }
       ]
@@ -17568,7 +18118,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.86,
+          "latency": 1.35,
           "code": 200
         }
       ]
@@ -17584,7 +18134,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": false,
-          "latency": 0.64,
+          "latency": 1.04,
           "code": 404
         }
       ]
@@ -17600,7 +18150,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": false,
-          "latency": 0.63,
+          "latency": 1.15,
           "code": 404
         }
       ]
@@ -17616,7 +18166,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": false,
-          "latency": 0.74,
+          "latency": 1.05,
           "code": 404
         }
       ]
@@ -17632,7 +18182,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": false,
-          "latency": 0.66,
+          "latency": 1.14,
           "code": 404
         }
       ]
@@ -17648,7 +18198,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.85,
+          "latency": 1.49,
           "code": 200
         }
       ]
@@ -17664,7 +18214,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.82,
+          "latency": 1.34,
           "code": 200
         }
       ]
@@ -17680,7 +18230,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.93,
+          "latency": 1.56,
           "code": 200
         }
       ]
@@ -17696,7 +18246,7 @@
           "raw_group": "影视",
           "probed": true,
           "ok": true,
-          "latency": 0.83,
+          "latency": 1.37,
           "code": 200
         }
       ]
@@ -17760,7 +18310,7 @@
           "raw_group": "文旅",
           "probed": true,
           "ok": true,
-          "latency": 0.93,
+          "latency": 1.57,
           "code": 200
         }
       ]
@@ -17807,9 +18357,9 @@
           "raw_name": "Romance Movies",
           "raw_group": "影视",
           "probed": true,
-          "ok": true,
-          "latency": 1.28,
-          "code": 200
+          "ok": false,
+          "latency": 1.87,
+          "code": 404
         }
       ]
     },
@@ -17823,9 +18373,9 @@
           "raw_name": "Sci-Fi",
           "raw_group": "影视",
           "probed": true,
-          "ok": true,
-          "latency": 0.76,
-          "code": 200
+          "ok": false,
+          "latency": 2.25,
+          "code": 404
         }
       ]
     },
@@ -17839,9 +18389,9 @@
           "raw_name": "Thrillers",
           "raw_group": "影视",
           "probed": true,
-          "ok": true,
-          "latency": 1.06,
-          "code": 200
+          "ok": false,
+          "latency": 1.77,
+          "code": 404
         }
       ]
     },
@@ -17855,9 +18405,9 @@
           "raw_name": "Reality",
           "raw_group": "娱乐综艺",
           "probed": true,
-          "ok": true,
-          "latency": 0.85,
-          "code": 200
+          "ok": false,
+          "latency": 1.91,
+          "code": 404
         }
       ]
     },
@@ -17871,8 +18421,120 @@
           "raw_name": "Family",
           "raw_group": "影视",
           "probed": true,
+          "ok": false,
+          "latency": 1.81,
+          "code": 404
+        }
+      ]
+    },
+    "CGTN阿拉伯语": {
+      "name": "CGTN阿拉伯语",
+      "group": "国际频道",
+      "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/184ACA22F5ADBAE59C4A15E71E74FDC84C9B6AA1A86D0231889E56CB555CFB830AC69764350B93AA41E84C70FE9A437C40E6ADC2268AC50CA9498C4EA79472EFE85515E7786C4A17BB2BD4B29958E2A5549CF7AC159923845D07F93DA705C1ABACC0756644F5EA49BAE5E221A2CD311250C93ED5E96EEF5FE97CC0967BE0208D02E1394B600EC792C00429D73D52506C7AFD1591AEC0A78775F021257A8389E4/2024182003.m3u8?from=player&svrtime=1795431876&pid=600084782&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CGTN阿拉伯语",
+          "raw_group": "央视频",
+          "probed": true,
           "ok": true,
-          "latency": 1.18,
+          "latency": 0.1,
+          "code": 200
+        }
+      ]
+    },
+    "CGTN西班牙语": {
+      "name": "CGTN西班牙语",
+      "group": "国际频道",
+      "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/837BAD4E3CC37F290131D9546FFF8F34AF98ED71E09BCC27BD5DCF02E1DEE74FD94305C242B21BA18ED3D140EBDE5EBBA33584BF1502E9CABB9F5BBFCF7EBD8F39AA1DDA79326E608D6D7797F57AFA3E3A836CC3CE55FE1247E3C8D08CF46EE6ECCB187230C3535B3613EE4E14B42B8166AE13D7129E96446DCA568009A39FCA6D78ED33E498DFA3CE68E95096521B70D45700A33000818DA9EA3ECB9DB8B378/2024182103.m3u8?from=player&svrtime=1795431876&pid=600084744&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CGTN西班牙语",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.17,
+          "code": 200
+        }
+      ]
+    },
+    "CCTV风云剧场": {
+      "name": "CCTV风云剧场",
+      "group": "央视",
+      "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/B8C015BDF1850147321BD46C64558962D5ECE9D64D13002169960F396754D0E6A58B90C84E5487424542B56B36DE8D3EEB7EDB0BBBB1D9A9B19492B91B3769F76A1A1AD373DD8ED04B8713ED87683AA414CA9F1840F170CFE131AEA0F7DC0136FC08277BF18A5CBF47D67A702DC0BCB7EED57DAE87781F040DCD821F6275F567E62C54B87E7C38BAEA2138EE159CCE6D076AD42601F742AEF25664EA727F56BF/2025637102_dlna.m3u8?from=player&svrtime=1795431876&pid=600099658&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV风云剧场",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": false,
+          "latency": 0.11,
+          "code": 200
+        }
+      ]
+    },
+    "CCTV第一剧场": {
+      "name": "CCTV第一剧场",
+      "group": "央视",
+      "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/BBF901A8FD2AB41B664DE3C4BD5F20AFACF75863E60F8C5BB30073C334F38EBFABE196150146A1D3B024225B827D71753CDC66F8B02D7FEC2686C9B5C6FDA5C989F865A8C7CC380AC63E9AC9FABD8328A1077CD96A09D4F9B8D92A3EC95B4705D881D2C1BD3B03D69F96F7FE71566DC31302EF3AC2CFFEDE0145B736173E09D4EFC89E1D2C85B36F25E9C0D2B6419BBE86F49D02FC32305C1E508AFEA6F0E16D/2026874202_dlna.m3u8?from=player&svrtime=1795431876&pid=600099655&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV第一剧场",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.08,
+          "code": 200
+        }
+      ]
+    },
+    "CCTV怀旧剧场": {
+      "name": "CCTV怀旧剧场",
+      "group": "央视",
+      "lines": [
+        {
+          "url": "https://live-dtocnc-cdn.ysp.cctv.cn/EBFD35EE5BCDF646DB3A3D66CB6CDC168C5685330DA277E5C040C35604654C77AEC3D373A929F7C7E938E616D3F1CDB9801730870CA7A326A717362A28A39FF12CC233A6C8B52048307CE008A4DEE04DEDC5E2BA6FDE86CE7F322CFFD314387A82F41696456F390BF1F64F32C9A87E8C60F3780CF00DEB36776F78B60948779175E030DD6F6C4C48205D6456FE0F78969C75F0B6023BEEA4A5AC1D95E92408F2/2026874302_dlna.m3u8?from=player&svrtime=1795431876&pid=600099620&cdn=5505",
+          "src": "央视频",
+          "raw_name": "CCTV怀旧剧场",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.11,
+          "code": 200
+        }
+      ]
+    },
+    "CETV1": {
+      "name": "CETV1",
+      "group": "央视",
+      "lines": [
+        {
+          "url": "https://mobileliveali-cdn.ysp.cctv.cn/ysp/04DB1BB43E0601BD77A3D82E110E86B968330AA44F2AB3AD4D11AD0633E5DA5DAC895E3A9AB8F0701BF2C7A4C12C1AAA85A7107E020A34505135357CF7B2F0755E539751FB22FFF97B3B8FC25C34F0F024ED61A7150D3191F215DE36D83C541AC5A670A2ECA7158711EC480BF62FEBB28478C1D873FE44D0B38FD1C2E67B00F66A17CAFADC28DBE7386768ABAC33CAB5FD93EB4039617516891CDB8AF97B25D7/2022823801_fhd.m3u8?svrtime=1795431879&pid=600171827&m3u8_with_time_tag=2&cdn=5205",
+          "src": "央视频",
+          "raw_name": "CETV1",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.11,
+          "code": 200
+        }
+      ]
+    },
+    "国学频道": {
+      "name": "国学频道",
+      "group": "央视",
+      "lines": [
+        {
+          "url": "https://hlsliveali-cdn.ysp.cctv.cn/8AAC1433B0466215DFF67AB622B1ADECEFFEE86A0FA3FA1AAF84F57AB3D572C18B541C11101860FD16C8431248135F0B9BA332FC6CE08C7646576AADBEC0114144CA387915DF8F7E9E491EC13C8C4C42440B18C0A9EE20242EABCDF0CE9A2CF8A89454A229F04F564209F57F953E47EEB2AE862F9BDC696D664F104A0FABDA6234D985E40C058C968C56D4B5D58A083C0C414DF51DF1AEEA0F853F9DB291307B/2029360403.m3u8?from=player&svrtime=1795431879&pid=600213139&cdn=5506",
+          "src": "央视频",
+          "raw_name": "国学频道",
+          "raw_group": "央视频",
+          "probed": true,
+          "ok": true,
+          "latency": 0.14,
           "code": 200
         }
       ]

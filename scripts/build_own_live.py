@@ -43,10 +43,12 @@ SOURCE_FILES = [
     ('akira精选', 'akira_iptv.m3u'),
     ('akira海外', 'akira_overseas.m3u'),
     ('akira网络', 'akira_web.m3u'),
+    # 央视频匿名签发的 63 个公开频道(由 ysp_fetch.mjs 每日生成, 短效地址需每日刷新)
+    ('央视频', 'ysp.m3u'),
 ]
-# 来源可信度(越小越优先)
+# 来源可信度(越小越优先); 央视频是官方源, 可播时优先靠前
 SRC_RANK = {'范明明': 1, 'Kimentanm': 2, '老刘备': 3, 'YanG': 4,
-            'akira精选': 5, 'akira海外': 6, 'akira网络': 7}
+            'akira精选': 5, 'akira海外': 6, 'akira网络': 7, '央视频': 2}
 
 
 def load_source_files():
