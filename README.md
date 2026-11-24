@@ -2,7 +2,7 @@
 
 > 一个自动维护的电视播放源（订阅）整合仓库。把零散、失效、需要代理的源，整理成**电视能直接打开**的订阅文件。
 
-![订阅数](https://img.shields.io/badge/主订阅-63源-brightgreen) ![直播](https://img.shields.io/badge/自建直播-802频道-blue) ![更新](https://img.shields.io/badge/每日自动更新-orange) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![订阅数](https://img.shields.io/badge/主订阅-63源-brightgreen) ![直播](https://img.shields.io/badge/自建直播-802频道-blue) ![更新](https://img.shields.io/badge/每日自动更新-orange) ![License](https://img.shields.io/badge/license-MIT-lightgrey) [![每日源可用性检测与自动更新（点播 + 直播）](https://github.com/lhw828/tvbox-sources/actions/workflows/daily_test.yml/badge.svg)](https://github.com/lhw828/tvbox-sources/actions/workflows/daily_test.yml)
 
 ---
 
