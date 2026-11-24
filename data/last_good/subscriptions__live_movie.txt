@@ -7,9 +7,9 @@ CHC-家庭影院,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院「[聚盒] 天微M3U」,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院「[聚盒] 天微M3U」,http://198.204.228.26/live/chcjt.m3u8
-CHC家庭影院「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 CHC家庭影院「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC家庭影院「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 CHC家庭影院「老刘备」,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 CHC家庭影院「Kimentanm」,http://101.35.240.114:88/live.php?id=CHC家庭影院
 CHC家庭影院「[聚盒] 小马影视」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -58,13 +58,13 @@ TVB星河「[聚盒] 小马影视」,http://r.jdshipin.com/sXuuD
 TVB星河「[聚盒] 小马影视」,http://r.jdshipin.com/Voac4
 七龙珠「动漫」,https://cdn.ttvb.eu.org/huya/11601966
 七龙珠「解说」,https://cdn.ttvb.eu.org/huya/25650806
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞文化影院「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞文化影院「老刘备」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院「[聚盒] 小马影视」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-上虞文化影院「[聚盒] 小盒子在线源」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上虞文化影院「[聚盒] ZBDSIPV4」,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院「[聚盒] 天微M3U」,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 上虞文化影院「[聚盒] 天微M3U」,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
 上虞文化影院「[聚盒] 天微M3U」,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
@@ -182,9 +182,9 @@ TVB星河「[聚盒] 小马影视」,http://r.jdshipin.com/Voac4
 跳舞「其他」,https://cdn.ttvb.eu.org/huya/24634408
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 邵氏影院「[聚盒] 小盒子在线源」,http://www.douzhicloud.site:35455/douyu/4246519
-都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-都市剧场「[聚盒] 小盒子在线源」,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场「[聚盒] 天微M3U」,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+都市剧场「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
 都市剧场「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708845.m3u8
 都市剧场「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 都市剧场「[聚盒] 天微M3U」,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
@@ -203,9 +203,9 @@ TVB星河「[聚盒] 小马影视」,http://r.jdshipin.com/Voac4
 风云.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云.剧场「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
+风云剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场「[聚盒] 小盒子在线源」,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 风云剧场「[聚盒] 天微M3U」,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-风云剧场「[聚盒] 天微M3U」,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场「[聚盒] 天微M3U」,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场「[聚盒] 小盒子在线源」,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
 风云剧场「[聚盒] 小马影视」,http://111.225.95.13:8800/hls/65/index.m3u8
@@ -216,7 +216,6 @@ TVB星河「[聚盒] 小马影视」,http://r.jdshipin.com/Voac4
 风云剧场「[聚盒] 小马影视」,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云剧场「[聚盒] 小马影视」,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云剧场「[聚盒] 天微M3U」,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-风云剧场「[聚盒] ZBDSIPV4」,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 龙华卡通,https://cdn.qd.je/163189/lhkt
 龙华日韩,https://cdn.qd.je/163189/lhrh
 龙华洋片,https://cdn.qd.je/163189/lhyp
