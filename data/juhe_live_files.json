@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23 13:42:34 CST",
+  "fetched_at": "2026-11-24 14:22:54 CST",
   "files": [
     [
       "[聚盒] 熊猫直播源",
@@ -22,24 +22,20 @@
       "juhe_04_8ed941.txt"
     ],
     [
-      "[聚盒] ZBDSIPV4",
-      "juhe_05_b42a6e.txt"
-    ],
-    [
       "[聚盒] 天微M3U",
-      "juhe_06_c6be38.txt"
+      "juhe_05_c6be38.txt"
     ],
     [
-      "[聚盒] 稳定github直播",
-      "juhe_07_3f6c9a.txt"
+      "[聚盒] ZBDSIPV4",
+      "juhe_06_b42a6e.txt"
     ],
     [
       "[聚盒] iptv365",
-      "juhe_08_562ff1.txt"
+      "juhe_07_562ff1.txt"
     ],
     [
-      "[聚盒] IPv4酒店电视直播源",
-      "juhe_09_2f014f.txt"
+      "[聚盒] 稳定github直播",
+      "juhe_12_3f6c9a.txt"
     ]
   ]
 }

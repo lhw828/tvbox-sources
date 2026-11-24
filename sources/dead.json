@@ -24,12 +24,6 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "TV",
-    "url": "http://tv.nxog.top/m",
-    "http": 403,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "小米",
     "url": "http://www.mpanso.com/小米/DEMO.json",
     "http": 404,
@@ -54,12 +48,6 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "盐枭",
-    "url": "https://9xi4o.tk/tvbox.json",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "橘子柚影视",
     "url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
     "http": 200,
@@ -72,15 +60,21 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "饭太硬",
-    "url": "http://www.xn--sss604efuw.net/tv",
-    "http": 200,
+    "name": "盐枭",
+    "url": "https://9xi4o.tk/tvbox.json",
+    "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "欧歌",
-    "url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
-    "http": 0,
+    "name": "TV",
+    "url": "http://tv.nxog.top/m",
+    "http": 403,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "饭太硬",
+    "url": "http://www.xn--sss604efuw.net/tv",
+    "http": 200,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -90,8 +84,8 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "环宇轩",
-    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
+    "name": "东曦视界",
+    "url": "https://box.iqinu.com/",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -102,8 +96,20 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "东曦视界",
-    "url": "https://box.iqinu.com/",
+    "name": "欧歌",
+    "url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 少儿频道",
+    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+    "http": 429,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "环宇轩",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -114,27 +120,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "恋影",
-    "url": "https://www.lianyingtv.com/fast/fast",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "南风",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "花生",
-    "url": "https://o.nxog.top/apitv.php?id=9",
-    "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -150,15 +138,21 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "多多",
-    "url": "https://o.nxog.top/apitv.php?id=12",
-    "http": 404,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "残月",
     "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
     "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "潇洒",
+    "url": "https://9877.kstore.space/AnotherD/api.json",
+    "http": 502,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "恋影",
+    "url": "https://www.lianyingtv.com/fast/fast",
+    "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -168,26 +162,14 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "多多",
+    "url": "https://o.nxog.top/apitv.php?id=12",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "🚀老虎线路",
     "url": "http://tv.laohu.cool/tvbox.json",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "嗷呜",
-    "url": "http://itv666.cc/aowu/config.webp",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "蓝天",
-    "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
-    "http": 423,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🐹欧歌线路",
-    "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
     "http": 0,
     "reason": "直连不可达/上游失效"
   },
@@ -204,6 +186,12 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "🐹欧歌线路",
+    "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "🌷双龙2仓",
     "url": "https://by2.nxog.fun/?b=ao双龙oa",
     "http": 0,
@@ -216,9 +204,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🐹青龙线路",
-    "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-    "http": 423,
+    "name": "🚀One线路",
+    "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+    "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -228,9 +216,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "☘️雷电/tvbox/dc.txt",
-    "url": "clan://localhost/Pictures/tvbox/dc.txt",
-    "http": 0,
+    "name": "花生",
+    "url": "https://o.nxog.top/apitv.php?id=9",
+    "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -240,9 +228,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🚀One线路",
-    "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-    "http": 404,
+    "name": "☘️雷电/tvbox/dc.txt",
+    "url": "clan://localhost/Pictures/tvbox/dc.txt",
+    "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -252,9 +240,27 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "嗷呜",
+    "url": "http://itv666.cc/aowu/config.webp",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "🤓网络🤓",
     "url": "https://8815.kstore.vip/tvbox/wmz",
     "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "蓝天",
+    "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
+    "http": 423,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🐹青龙线路",
+    "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+    "http": 423,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -282,27 +288,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🌈欧歌🌈",
-    "url": "https://xn--dkw0c.v.nxog.top/m/",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "🍎双龙主仓",
     "url": "https://xn--aooa-mb1gy821b.v.nxog.top/nxog/oua.php?b=ao双龙oa",
     "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🥝多多仓库",
-    "url": "http://liucn.cc/bs/d4.txt",
-    "http": 404,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🍐吾爱仓库",
-    "url": "http://liucn.cc/box/d2.txt",
-    "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -318,6 +306,24 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "🍐吾爱仓库",
+    "url": "http://liucn.cc/box/d2.txt",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🌈欧歌🌈",
+    "url": "https://xn--dkw0c.v.nxog.top/m/",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🥝多多仓库",
+    "url": "http://liucn.cc/bs/d4.txt",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "🐿️嗷呜🐿️",
     "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
     "http": 200,
@@ -330,21 +336,15 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🚀游魂┃南风",
-    "url": "https://www.iyouhun.com/tv/nf",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "巧技",
     "url": "http://pandown.pro/tvbox/tvbox.json",
     "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "潇洒",
-    "url": "https://9877.kstore.space/AnotherD/api.json",
-    "http": 0,
+    "name": "🚀游魂┃南风",
+    "url": "https://www.iyouhun.com/tv/nf",
+    "http": 200,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -360,9 +360,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🚀游魂┃D佬",
-    "url": "https://www.iyouhun.com/tv/dl",
-    "http": 200,
+    "name": "🐼肥猫🐼",
+    "url": "http://xn--z7x900a.net/tv",
+    "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -378,8 +378,8 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 月光宝盒源",
-    "url": "https://3043.kstore.space/bhvip/bh/box.json",
+    "name": "🚀游魂┃D佬",
+    "url": "https://www.iyouhun.com/tv/dl",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -390,20 +390,8 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] X4菠菜园全量",
-    "url": "https://0.wudaozhe.net/5/x4all.json",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 黄金在线",
-    "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "👼游魂┃少儿频道",
-    "url": "https://www.iyouhun.com/tv/sepd",
+    "name": "[聚盒] 拾光趣乐屋",
+    "url": "https://jiekou.netlify.app/svip.json",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -414,8 +402,8 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 拾光趣乐屋",
-    "url": "https://jiekou.netlify.app/svip.json",
+    "name": "[聚盒] 月光宝盒源",
+    "url": "https://3043.kstore.space/bhvip/bh/box.json",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -426,14 +414,8 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 东篱在线",
-    "url": "https://chigua.eu.org",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 南风线路",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+    "name": "[聚盒] 黄金在线",
+    "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -444,15 +426,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 周J线路",
-    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
-    "http": 403,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 分享在线",
-    "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
-    "http": 404,
+    "name": "👼游魂┃少儿频道",
+    "url": "https://www.iyouhun.com/tv/sepd",
+    "http": 200,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -462,14 +438,44 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 雷蒙影视",
-    "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
-    "http": 403,
+    "name": "[聚盒] X4菠菜园全量",
+    "url": "https://0.wudaozhe.net/5/x4all.json",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 东篱在线",
+    "url": "https://chigua.eu.org",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 分享在线",
+    "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 南风线路",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+    "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
     "name": "[聚盒] 分享者",
     "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 雷蒙影视",
+    "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 饭太硬3",
+    "url": "http://www.饭太硬.art/tv",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -480,9 +486,33 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "[聚盒] 影视仓单线",
+    "url": "http://影视仓.com/",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "饭太硬4",
+    "url": "http://fty.xxooo.cf/tv",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "饭太硬3",
+    "url": "http://www.xn--sss604efuw.art/tv",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "🚀南风线路",
     "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🚀刘伟线路",
+    "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+    "http": 403,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -498,12 +528,6 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 影视仓单线",
-    "url": "http://影视仓.com/",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "🚀宝盒线路",
     "url": "http://mzjk.top/禁止贩卖",
     "http": 0,
@@ -516,14 +540,8 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🚀刘伟线路",
-    "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
-    "http": 403,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 饭太硬3",
-    "url": "http://www.饭太硬.art/tv",
+    "name": "饭太硬",
+    "url": "http://www.xn--sss604efuw.com/tv",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -534,15 +552,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "📛公众号丨挺好分享",
-    "url": "https://zthaa.top/th/api.json",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🌠公众号丨挺好专享",
-    "url": "https://zthaa.top/thzx/th.json",
-    "http": 0,
+    "name": "[聚盒] 传说线路",
+    "url": "http://tjf1100.serv00.net",
+    "http": 200,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -552,8 +564,14 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🚀讴歌线路",
-    "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+    "name": "🍍云星仓库",
+    "url": "http://itvbox.cc/可视TV/云星日记/仓库/api.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 英格里希嗷呜",
+    "url": "http://www.英格里希嗷呜.top/tv",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -564,15 +582,33 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "🌠公众号丨挺好专享",
+    "url": "https://zthaa.top/thzx/th.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "📛公众号丨挺好分享",
+    "url": "https://zthaa.top/th/api.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "🐔肥猫",
     "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/接口禁止贩卖",
     "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🍯影视仓",
-    "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-    "http": 401,
+    "name": "🦆神仙线路",
+    "url": "http://dp.sxtv.top:88/img",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "😹影视资源",
+    "url": "http://bp.tvbox.cam",
+    "http": 200,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -588,9 +624,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "😹影视资源",
-    "url": "http://bp.tvbox.cam",
-    "http": 200,
+    "name": "🍯影视仓",
+    "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+    "http": 401,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -600,69 +636,9 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "[聚盒] 传说线路",
-    "url": "http://tjf1100.serv00.net",
+    "name": "🚀讴歌线路",
+    "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
     "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 小虎斑",
-    "url": "http://hb.小虎斑.site:25252/仅供测试",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "[聚盒] 英格里希嗷呜",
-    "url": "http://www.英格里希嗷呜.top/tv",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "饭太硬3",
-    "url": "http://www.xn--sss604efuw.art/tv",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🍍云星仓库",
-    "url": "http://itvbox.cc/可视TV/云星日记/仓库/api.json",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "饭太硬4",
-    "url": "http://fty.xxooo.cf/tv",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🚀蓝天线路",
-    "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
-    "http": 423,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🚀青龙影线",
-    "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-    "http": 423,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "乐哥📚在线",
-    "url": "https://xn--fjq53n.xyz/TV/Zy.json",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "O  K📚在线",
-    "url": "http://ok321.top/ok",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "🦆神仙线路",
-    "url": "http://dp.sxtv.top:88/img",
-    "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -678,6 +654,18 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "乐哥📚在线",
+    "url": "https://xn--fjq53n.xyz/TV/Zy.json",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "O  K📚在线",
+    "url": "http://ok321.top/ok",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "D佬📚在线",
     "url": "http://2883.kstore.space/nzk/nzk0722.json",
     "http": 401,
@@ -690,21 +678,15 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "饭太硬",
-    "url": "http://www.xn--sss604efuw.com/tv",
-    "http": 200,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "雷霆📚在线",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
-    "http": 403,
-    "reason": "直连不可达/上游失效"
-  },
-  {
     "name": "PG📚在线",
     "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
     "http": 403,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🚀蓝天线路",
+    "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+    "http": 423,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -714,9 +696,27 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "短剧📚在线",
-    "url": "http://jiduo.3116598.xyz",
+    "name": "龙伊📚在线",
+    "url": "https://xn--qoqw77q.top",
     "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "雷霆📚在线",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 小虎斑",
+    "url": "http://hb.小虎斑.site:25252/仅供测试",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🚀青龙影线",
+    "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+    "http": 423,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -726,14 +726,20 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "特别📚在线",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/drpys/jsm.json",
+    "http": 404,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "蜂蜜📚在线",
     "url": "https://qu.ax/uanw.json",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "龙伊📚在线",
-    "url": "https://xn--qoqw77q.top",
+    "name": "短剧📚在线",
+    "url": "http://jiduo.3116598.xyz",
     "http": 200,
     "reason": "直连不可达/上游失效"
   },
@@ -744,26 +750,14 @@
     "reason": "直连不可达/上游失效"
   },
   {
+    "name": "刺刺📚在线",
+    "url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json",
+    "http": 502,
+    "reason": "直连不可达/上游失效"
+  },
+  {
     "name": "听书📚在线",
     "url": "https://xn--fjq53n.xyz/Ting/Tshu.json",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "各种网盘📚在线",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-    "http": 404,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "特别📚在线",
-    "url": "https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/drpys/jsm.json",
-    "http": 404,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "欧歌备用📚在线",
-    "url": "https://xn--biib-rp5imh.v.nxog.top/apitv.php",
     "http": 0,
     "reason": "直连不可达/上游失效"
   },
@@ -774,15 +768,27 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "🚀喵影视",
-    "url": "http://meowtv.cn/tv",
+    "name": "传说📚在线",
+    "url": "http://tjf1100.serv00.net/",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "[聚盒] 菜妮丝",
+    "url": "https://tv.菜妮丝.top",
     "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "传说📚在线",
-    "url": "http://tjf1100.serv00.net/",
-    "http": 200,
+    "name": "欧歌备用📚在线",
+    "url": "https://xn--biib-rp5imh.v.nxog.top/apitv.php",
+    "http": 0,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "各种网盘📚在线",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+    "http": 404,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -792,15 +798,21 @@
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "公子📚在线",
-    "url": "http://xn--b9w.l5.ca/",
+    "name": "[聚盒] 肥猫.net",
+    "url": "http://肥猫.net/",
+    "http": 200,
+    "reason": "直连不可达/上游失效"
+  },
+  {
+    "name": "🚀喵影视",
+    "url": "http://meowtv.cn/tv",
     "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
-    "name": "刺刺📚在线",
-    "url": "https://d.kstore.dev/download/8975/刺刺专用音乐接口.json",
-    "http": 502,
+    "name": "公子📚在线",
+    "url": "http://xn--b9w.l5.ca/",
+    "http": 0,
     "reason": "直连不可达/上游失效"
   },
   {
@@ -812,12 +824,6 @@
   {
     "name": "😹吾爱",
     "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
-    "http": 0,
-    "reason": "直连不可达/上游失效"
-  },
-  {
-    "name": "盒子迷",
-    "url": "https://xn--i8sz35d1yr.top/禁止贩卖",
     "http": 0,
     "reason": "直连不可达/上游失效"
   }

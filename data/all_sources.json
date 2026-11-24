@@ -1,6 +1,6 @@
 {
-  "collected_at": "2026-11-23 13:41:16 CST",
-  "total": 239,
+  "collected_at": "2026-11-24 14:21:32 CST",
+  "total": 240,
   "seeds": [
     {
       "id": "duocang",
@@ -9,8 +9,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:38:43 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:18:21 CST",
       "depth": 0
     },
     {
@@ -20,8 +20,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:38:43 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:18:22 CST",
       "depth": 0
     },
     {
@@ -31,8 +31,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 13:38:45 CST",
+      "fetch_status": "ConnectTimeout: HTTPSConnectionPool(host",
+      "fetched_at": "2026-11-24 14:18:42 CST",
       "depth": 0
     },
     {
@@ -42,8 +42,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:39:05 CST",
+      "fetch_status": "ConnectionError: HTTPConnectionPool(host",
+      "fetched_at": "2026-11-24 14:19:03 CST",
       "depth": 0
     },
     {
@@ -53,8 +53,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:05 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:05 CST",
       "depth": 0
     },
     {
@@ -64,8 +64,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:07 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:05 CST",
       "depth": 0
     },
     {
@@ -75,8 +75,8 @@
       "kind": "list",
       "adult": true,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:07 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:05 CST",
       "depth": 0
     },
     {
@@ -86,8 +86,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:06 CST",
       "depth": 0
     },
     {
@@ -97,8 +97,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:06 CST",
       "depth": 0
     },
     {
@@ -108,8 +108,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:06 CST",
       "depth": 0
     },
     {
@@ -119,8 +119,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:07 CST",
       "depth": 0
     },
     {
@@ -130,8 +130,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:09 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:09 CST",
       "depth": 0
     },
     {
@@ -141,8 +141,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:11 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:10 CST",
       "depth": 0
     },
     {
@@ -152,8 +152,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:12 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:10 CST",
       "depth": 0
     },
     {
@@ -163,8 +163,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:12 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:12 CST",
       "depth": 0
     },
     {
@@ -174,8 +174,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:16 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:13 CST",
       "depth": 0
     },
     {
@@ -185,8 +185,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:17 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:14 CST",
       "depth": 0
     },
     {
@@ -196,8 +196,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:18 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:15 CST",
       "depth": 0
     },
     {
@@ -207,8 +207,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:20 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:16 CST",
       "depth": 0
     },
     {
@@ -218,8 +218,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:20 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:17 CST",
       "depth": 0
     },
     {
@@ -229,8 +229,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:21 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:18 CST",
       "depth": 0
     },
     {
@@ -240,8 +240,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:22 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:19 CST",
       "depth": 0
     },
     {
@@ -251,8 +251,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:23 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:20 CST",
       "depth": 0
     },
     {
@@ -262,8 +262,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:24 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:21 CST",
       "depth": 0
     },
     {
@@ -273,8 +273,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:25 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:21 CST",
       "depth": 0
     },
     {
@@ -284,140 +284,129 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:26 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:22 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_0",
-      "name": "[聚盒] 软件小哥",
-      "url": "http://47.96.82.41:5188/svip/svip.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:27 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_1",
-      "name": "[聚盒] 机缘巧盒凯弟1",
-      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:28 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_2",
       "name": "[聚盒] 幸福年年",
       "url": "http://150.158.52.248/tgyg/bbm.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:29 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:23 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_4",
-      "name": "[聚盒] 动漫专属",
-      "url": "https://www.yingm.cc/dm/dm.json",
+      "id": "juhe_one_1",
+      "name": "[聚盒] 刺桐娱乐",
+      "url": "https://www.cttv.vip/ys/json/ctys.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:29 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:26 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_5",
-      "name": "[聚盒] 牛二线路",
-      "url": "https://9280.kstore.space/wex.json",
+      "id": "juhe_one_2",
+      "name": "[聚盒] 软件小哥",
+      "url": "http://47.96.82.41:5188/svip/svip.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:30 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:27 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_6",
-      "name": "[聚盒] 月光宝盒源",
-      "url": "https://3043.kstore.space/bhvip/bh/box.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:30 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_7",
+      "id": "juhe_one_3",
       "name": "[聚盒] 宝盒线路2026",
       "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:31 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:28 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_4",
+      "name": "[聚盒] 机缘巧盒凯弟1",
+      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:28 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_5",
+      "name": "[聚盒] 动漫专属",
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:19:29 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_7",
+      "name": "[聚盒] 短剧频道",
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": false,
+      "fetch_status": "ConnectTimeout: HTTPConnectionPool(host=",
+      "fetched_at": "2026-11-24 14:19:50 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_8",
+      "name": "[聚盒] 牛二线路",
+      "url": "https://9280.kstore.space/wex.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:11 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_11",
+      "name": "[聚盒] 嗷呜2线",
+      "url": "https://9763.kstore.vip/aowu.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:12 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_12",
       "name": "[聚盒] 小马线路",
       "url": "https://szyyds.cn/tv/x.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:31 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_9",
-      "name": "[聚盒] 挺好分享",
-      "url": "https://ztha.top/TVBox/thdjk.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:33 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_10",
-      "name": "[聚盒] 嗷呜备用",
-      "url": "https://9763.kstore.vip/aowu.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:34 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_12",
-      "name": "[聚盒] 小盒子4K",
-      "url": "http://xhztv.top/4k.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:35 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:16 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_13",
-      "name": "[聚盒] 夏夏影视",
-      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "[聚盒] 分享在线",
+      "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:35 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:18 CST",
       "depth": 0
     },
     {
@@ -427,118 +416,118 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:35 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:18 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_15",
+      "name": "[聚盒] 挺好分享",
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:20 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_16",
+      "name": "[聚盒] 月光宝盒源",
+      "url": "https://3043.kstore.space/bhvip/bh/box.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:20 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_17",
+      "name": "[聚盒] 小盒子4K",
+      "url": "http://xhztv.top/4k.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:21 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_18",
+      "name": "[聚盒] 拾光趣乐屋",
+      "url": "https://jiekou.netlify.app/svip.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:21 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_19",
+      "name": "[聚盒] 夏夏影视",
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:21 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_20",
       "name": "[聚盒] zhangqun1818",
       "url": "http://zhangqun1818.serv00.net/zq/api.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:36 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:22 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_16",
-      "name": "[聚盒] 小盒子单仓",
-      "url": "http://xhztv.top/xhz",
+      "id": "juhe_one_21",
+      "name": "[聚盒] 健康家用",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:36 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:22 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_17",
-      "name": "[聚盒] X4菠菜园全量",
-      "url": "https://0.wudaozhe.net/5/x4all.json",
+      "id": "juhe_one_22",
+      "name": "[聚盒] 嗨哥魔改",
+      "url": "https://api.hgyx.vip/hgyx.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:37 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:22 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_18",
+      "id": "juhe_one_23",
+      "name": "[聚盒] X4菠菜园增强",
+      "url": "https://0.wudaozhe.net/5/x4pro.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:22 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_24",
       "name": "[聚盒] 金鱼box接口",
       "url": "http://mzrjk.top/VIP",
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:39:37 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_19",
-      "name": "[聚盒] CandyMu",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:45 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_20",
-      "name": "[聚盒] 心魔在线",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:45 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_21",
-      "name": "[聚盒] 黄金在线",
-      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:45 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_22",
-      "name": "[聚盒] FongMI线路",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:39:45 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_23",
-      "name": "[聚盒] 短剧频道",
-      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:39:46 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_24",
-      "name": "[聚盒] 高天流云",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:07 CST",
+      "fetch_status": "TooManyRedirects: Exceeded 30 redirects.",
+      "fetched_at": "2026-11-24 14:20:30 CST",
       "depth": 0
     },
     {
@@ -548,162 +537,173 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:07 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:38 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_26",
+      "name": "[聚盒] 小盒子单仓",
+      "url": "http://xhztv.top/xhz",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:38 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_27",
-      "name": "[聚盒] 宝盒备用",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:07 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_28",
-      "name": "[聚盒] 周J线路",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:07 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_29",
-      "name": "[聚盒] ray",
-      "url": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:07 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_30",
       "name": "[聚盒] 香雅晴线",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:38 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_28",
+      "name": "[聚盒] FongMI线路",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:39 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_29",
+      "name": "[聚盒] 心魔在线",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:39 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_30",
+      "name": "[聚盒] 高天流云",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:39 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_31",
-      "name": "[聚盒] X4菠菜园增强",
-      "url": "https://0.wudaozhe.net/5/x4pro.json",
+      "name": "[聚盒] 宝盒备用",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:39 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_32",
-      "name": "[聚盒] 拾光趣乐屋",
-      "url": "https://jiekou.netlify.app/svip.json",
+      "name": "[聚盒] ray",
+      "url": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:39 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_33",
-      "name": "[聚盒] X4菠菜园",
-      "url": "https://0.wudaozhe.net/5/x4.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:08 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_34",
       "name": "[聚盒] 饭太硬4",
       "url": "http://fty.888484.xyz/tv",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:08 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:40 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_34",
+      "name": "[聚盒] 月光宝盒1",
+      "url": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:40 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_35",
-      "name": "[聚盒] Clun在线",
-      "url": "https://clun.top/box.json",
+      "name": "[聚盒] 分享者",
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:09 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:41 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_36",
-      "name": "[聚盒] 刺桐娱乐",
-      "url": "https://www.cttv.vip/ys/json/ctys.json",
+      "name": "[聚盒] 黄金在线",
+      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:09 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:41 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_37",
-      "name": "[聚盒] 东篱在线",
-      "url": "https://chigua.eu.org",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:11 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_38",
-      "name": "[聚盒] 嗨哥魔改",
-      "url": "https://api.hgyx.vip/hgyx.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:11 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_39",
       "name": "[聚盒] 老张线路",
       "url": "https://zhangqun1818.serv00.net/zq/api.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:12 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:42 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_38",
+      "name": "[聚盒] X4菠菜园",
+      "url": "https://0.wudaozhe.net/5/x4.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:42 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_39",
+      "name": "[聚盒] Clun在线",
+      "url": "https://clun.top/box.json",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:42 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_40",
-      "name": "[聚盒] 分享在线",
-      "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
+      "name": "[聚盒] X4菠菜园全量",
+      "url": "https://0.wudaozhe.net/5/x4all.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:12 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:43 CST",
       "depth": 0
     },
     {
@@ -713,63 +713,63 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:14 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:45 CST",
       "depth": 0
     },
     {
       "id": "juhe_one_42",
+      "name": "[聚盒] 东篱在线",
+      "url": "https://chigua.eu.org",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:45 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_43",
+      "name": "[聚盒] 周J线路",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
+      "kind": "single",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:45 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_one_44",
       "name": "[聚盒] 雷蒙影视",
       "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:16 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:46 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_43",
-      "name": "[聚盒] 月光宝盒1",
-      "url": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/ygbox.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:17 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_44",
+      "id": "juhe_one_45",
       "name": "[聚盒] 玄珠4K",
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='ji",
-      "fetched_at": "2026-11-23 13:40:17 CST",
+      "fetch_status": "403",
+      "fetched_at": "2026-11-24 14:20:46 CST",
       "depth": 0
     },
     {
-      "id": "juhe_one_45",
+      "id": "juhe_one_46",
       "name": "[聚盒] 小虎斑",
       "url": "http://hb.小虎斑.site:25252/仅供测试",
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:17 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_one_46",
-      "name": "[聚盒] 分享者",
-      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
-      "kind": "single",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:22 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:51 CST",
       "depth": 0
     },
     {
@@ -779,8 +779,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:23 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:51 CST",
       "depth": 0
     },
     {
@@ -790,8 +790,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:23 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:52 CST",
       "depth": 0
     },
     {
@@ -801,8 +801,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:24 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:56 CST",
       "depth": 0
     },
     {
@@ -812,8 +812,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:27 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:56 CST",
       "depth": 0
     },
     {
@@ -823,8 +823,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:27 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:20:59 CST",
       "depth": 0
     },
     {
@@ -834,8 +834,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:38 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:01 CST",
       "depth": 0
     },
     {
@@ -845,8 +845,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='id",
-      "fetched_at": "2026-11-23 13:40:41 CST",
+      "fetch_status": "ConnectionError: HTTPSConnectionPool(hos",
+      "fetched_at": "2026-11-24 14:21:01 CST",
       "depth": 0
     },
     {
@@ -856,8 +856,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='gh",
-      "fetched_at": "2026-11-23 13:40:41 CST",
+      "fetch_status": "404",
+      "fetched_at": "2026-11-24 14:21:02 CST",
       "depth": 0
     },
     {
@@ -867,8 +867,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='gi",
-      "fetched_at": "2026-11-23 13:40:41 CST",
+      "fetch_status": "404",
+      "fetched_at": "2026-11-24 14:21:02 CST",
       "depth": 0
     },
     {
@@ -878,8 +878,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='cn",
-      "fetched_at": "2026-11-23 13:40:41 CST",
+      "fetch_status": "403",
+      "fetched_at": "2026-11-24 14:21:03 CST",
       "depth": 0
     },
     {
@@ -889,8 +889,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 13:40:42 CST",
+      "fetch_status": "ConnectionError: HTTPSConnectionPool(hos",
+      "fetched_at": "2026-11-24 14:21:03 CST",
       "depth": 0
     },
     {
@@ -900,8 +900,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:42 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:08 CST",
       "depth": 0
     },
     {
@@ -911,8 +911,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:45 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:09 CST",
       "depth": 0
     },
     {
@@ -922,8 +922,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:46 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:11 CST",
       "depth": 0
     },
     {
@@ -933,8 +933,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 13:40:48 CST",
+      "fetch_status": "403",
+      "fetched_at": "2026-11-24 14:21:15 CST",
       "depth": 0
     },
     {
@@ -944,8 +944,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='64",
-      "fetched_at": "2026-11-23 13:40:49 CST",
+      "fetch_status": "401",
+      "fetched_at": "2026-11-24 14:21:19 CST",
       "depth": 0
     },
     {
@@ -955,8 +955,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:40:49 CST",
+      "fetch_status": "ConnectionError: HTTPConnectionPool(host",
+      "fetched_at": "2026-11-24 14:21:19 CST",
       "depth": 0
     },
     {
@@ -966,8 +966,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='73",
-      "fetched_at": "2026-11-23 13:40:49 CST",
+      "fetch_status": "401",
+      "fetched_at": "2026-11-24 14:21:20 CST",
       "depth": 0
     },
     {
@@ -977,8 +977,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:40:50 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:21 CST",
       "depth": 0
     },
     {
@@ -988,8 +988,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='ym",
-      "fetched_at": "2026-11-23 13:40:50 CST",
+      "fetch_status": "ConnectionError: HTTPSConnectionPool(hos",
+      "fetched_at": "2026-11-24 14:21:21 CST",
       "depth": 0
     },
     {
@@ -998,9 +998,9 @@
       "url": "https://盒子迷.top/禁止贩卖",
       "kind": "single",
       "adult": false,
-      "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='xn",
-      "fetched_at": "2026-11-23 13:40:51 CST",
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:23 CST",
       "depth": 0
     },
     {
@@ -1010,8 +1010,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:41:11 CST",
+      "fetch_status": "ConnectionError: HTTPConnectionPool(host",
+      "fetched_at": "2026-11-24 14:21:23 CST",
       "depth": 0
     },
     {
@@ -1021,8 +1021,8 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPSConnectionPool(host='tv",
-      "fetched_at": "2026-11-23 13:41:11 CST",
+      "fetch_status": "403",
+      "fetched_at": "2026-11-24 14:21:26 CST",
       "depth": 0
     },
     {
@@ -1032,41 +1032,41 @@
       "kind": "single",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:41:12 CST",
+      "fetch_status": "ConnectionError: HTTPConnectionPool(host",
+      "fetched_at": "2026-11-24 14:21:28 CST",
       "depth": 0
     },
     {
       "id": "juhe_many_0",
-      "name": "[聚盒多仓] 挺好分享多仓",
-      "url": "http://ztha.top/TVBox/GYCK.json",
-      "kind": "list",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:41:12 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_many_1",
-      "name": "[聚盒多仓] 小盒子多仓",
-      "url": "http://xhztv.top/dc",
-      "kind": "list",
-      "adult": false,
-      "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:41:14 CST",
-      "depth": 0
-    },
-    {
-      "id": "juhe_many_2",
       "name": "[聚盒多仓] 小盒子多仓（备）",
       "url": "http://xhztv.top/DC.txt",
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:41:14 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:28 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_many_1",
+      "name": "[聚盒多仓] 挺好分享多仓",
+      "url": "http://ztha.top/TVBox/GYCK.json",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:30 CST",
+      "depth": 0
+    },
+    {
+      "id": "juhe_many_2",
+      "name": "[聚盒多仓] 小盒子多仓",
+      "url": "http://xhztv.top/dc",
+      "kind": "list",
+      "adult": false,
+      "fetch_ok": true,
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:30 CST",
       "depth": 0
     },
     {
@@ -1076,8 +1076,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": true,
-      "fetch_status": "直连成功",
-      "fetched_at": "2026-11-23 13:41:15 CST",
+      "fetch_status": "200",
+      "fetched_at": "2026-11-24 14:21:30 CST",
       "depth": 0
     },
     {
@@ -1087,8 +1087,8 @@
       "kind": "list",
       "adult": false,
       "fetch_ok": false,
-      "fetch_status": "ProxyError: HTTPConnectionPool(host='127",
-      "fetched_at": "2026-11-23 13:41:15 CST",
+      "fetch_status": "404",
+      "fetched_at": "2026-11-24 14:21:31 CST",
       "depth": 0
     }
   ],
@@ -2238,216 +2238,9 @@
       "note": "完整配置(含sites)"
     },
     {
-      "id": "602c8b1902",
-      "name": "[聚盒] 软件小哥",
-      "url": "http://47.96.82.41:5188/svip/svip.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "82ff6df0a2",
-      "name": "[聚盒] 机缘巧盒凯弟1",
-      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
       "id": "b4fab83b70",
       "name": "[聚盒] 幸福年年",
       "url": "http://150.158.52.248/tgyg/bbm.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "cde5f9547d",
-      "name": "[聚盒] 牛二线路",
-      "url": "https://9280.kstore.space/wex.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "fef0646a1e",
-      "name": "[聚盒] 月光宝盒源",
-      "url": "https://3043.kstore.space/bhvip/bh/box.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "4579135165",
-      "name": "[聚盒] 宝盒线路2026",
-      "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "7fb66d001b",
-      "name": "[聚盒] 小马线路",
-      "url": "https://szyyds.cn/tv/x.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "2e273f12b1",
-      "name": "[聚盒] 嗷呜备用",
-      "url": "https://9763.kstore.vip/aowu.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "2dac32b850",
-      "name": "[聚盒] 夏夏影视",
-      "url": "https://11405.kstore.space/xiaye/qk4k.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "17448ed016",
-      "name": "[聚盒] X4菠菜园全量",
-      "url": "https://0.wudaozhe.net/5/x4all.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "aeaac2d46e",
-      "name": "[聚盒] CandyMu",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "fb1dc6aca1",
-      "name": "[聚盒] 心魔在线",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "9b7714a682",
-      "name": "[聚盒] 黄金在线",
-      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "ec75a8ce40",
-      "name": "[聚盒] FongMI线路",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "81a7add5be",
-      "name": "[聚盒] 高天流云",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "5601835663",
-      "name": "[聚盒] 南风线路",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "9f87cc35da",
-      "name": "[聚盒] 宝盒备用",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "7b8852d9ed",
-      "name": "[聚盒] 周J线路",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "522e16e2e3",
-      "name": "[聚盒] ray",
-      "url": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "e2bf28d20f",
-      "name": "[聚盒] X4菠菜园增强",
-      "url": "https://0.wudaozhe.net/5/x4pro.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "c3b96f90c9",
-      "name": "[聚盒] 拾光趣乐屋",
-      "url": "https://jiekou.netlify.app/svip.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "e21b997a84",
-      "name": "[聚盒] X4菠菜园",
-      "url": "https://0.wudaozhe.net/5/x4.json",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "11d0b546ee",
-      "name": "[聚盒] 饭太硬4",
-      "url": "http://fty.888484.xyz/tv",
-      "from": "用户提供",
-      "adult": false,
-      "kind": "single",
-      "note": "完整配置(含sites)"
-    },
-    {
-      "id": "9a03a6f714",
-      "name": "[聚盒] Clun在线",
-      "url": "https://clun.top/box.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
@@ -2463,27 +2256,54 @@
       "note": "完整配置(含sites)"
     },
     {
-      "id": "7e0ec1a3bf",
-      "name": "[聚盒] 东篱在线",
-      "url": "https://chigua.eu.org",
+      "id": "602c8b1902",
+      "name": "[聚盒] 软件小哥",
+      "url": "http://47.96.82.41:5188/svip/svip.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
       "note": "完整配置(含sites)"
     },
     {
-      "id": "c47bf7e69f",
-      "name": "[聚盒] 嗨哥魔改",
-      "url": "https://api.hgyx.vip/hgyx.json",
+      "id": "4579135165",
+      "name": "[聚盒] 宝盒线路2026",
+      "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
       "note": "完整配置(含sites)"
     },
     {
-      "id": "46ae613fbb",
-      "name": "[聚盒] 老张线路",
-      "url": "https://zhangqun1818.serv00.net/zq/api.json",
+      "id": "82ff6df0a2",
+      "name": "[聚盒] 机缘巧盒凯弟1",
+      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "cde5f9547d",
+      "name": "[聚盒] 牛二线路",
+      "url": "https://9280.kstore.space/wex.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "2e273f12b1",
+      "name": "[聚盒] 嗷呜2线",
+      "url": "https://9763.kstore.vip/aowu.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "7fb66d001b",
+      "name": "[聚盒] 小马线路",
+      "url": "https://szyyds.cn/tv/x.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
@@ -2499,18 +2319,117 @@
       "note": "完整配置(含sites)"
     },
     {
-      "id": "fa20cb63a3",
-      "name": "[聚盒] 传说线路",
-      "url": "http://tjf1100.serv00.net",
+      "id": "fef0646a1e",
+      "name": "[聚盒] 月光宝盒源",
+      "url": "https://3043.kstore.space/bhvip/bh/box.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
       "note": "完整配置(含sites)"
     },
     {
-      "id": "b141bada29",
-      "name": "[聚盒] 雷蒙影视",
-      "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+      "id": "c3b96f90c9",
+      "name": "[聚盒] 拾光趣乐屋",
+      "url": "https://jiekou.netlify.app/svip.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "2dac32b850",
+      "name": "[聚盒] 夏夏影视",
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "aeaac2d46e",
+      "name": "[聚盒] 健康家用",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "c47bf7e69f",
+      "name": "[聚盒] 嗨哥魔改",
+      "url": "https://api.hgyx.vip/hgyx.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "e2bf28d20f",
+      "name": "[聚盒] X4菠菜园增强",
+      "url": "https://0.wudaozhe.net/5/x4pro.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "5601835663",
+      "name": "[聚盒] 南风线路",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "ec75a8ce40",
+      "name": "[聚盒] FongMI线路",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "fb1dc6aca1",
+      "name": "[聚盒] 心魔在线",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "81a7add5be",
+      "name": "[聚盒] 高天流云",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "9f87cc35da",
+      "name": "[聚盒] 宝盒备用",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "522e16e2e3",
+      "name": "[聚盒] ray",
+      "url": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "11d0b546ee",
+      "name": "[聚盒] 饭太硬4",
+      "url": "http://fty.888484.xyz/tv",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
@@ -2526,18 +2445,99 @@
       "note": "完整配置(含sites)"
     },
     {
-      "id": "ca8b141848",
-      "name": "[聚盒] 小虎斑",
-      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "id": "5fcbd85eb3",
+      "name": "[聚盒] 分享者",
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
       "note": "完整配置(含sites)"
     },
     {
-      "id": "5fcbd85eb3",
-      "name": "[聚盒] 分享者",
-      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+      "id": "9b7714a682",
+      "name": "[聚盒] 黄金在线",
+      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "46ae613fbb",
+      "name": "[聚盒] 老张线路",
+      "url": "https://zhangqun1818.serv00.net/zq/api.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "e21b997a84",
+      "name": "[聚盒] X4菠菜园",
+      "url": "https://0.wudaozhe.net/5/x4.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "9a03a6f714",
+      "name": "[聚盒] Clun在线",
+      "url": "https://clun.top/box.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "17448ed016",
+      "name": "[聚盒] X4菠菜园全量",
+      "url": "https://0.wudaozhe.net/5/x4all.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "fa20cb63a3",
+      "name": "[聚盒] 传说线路",
+      "url": "http://tjf1100.serv00.net",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "7e0ec1a3bf",
+      "name": "[聚盒] 东篱在线",
+      "url": "https://chigua.eu.org",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "7b8852d9ed",
+      "name": "[聚盒] 周J线路",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "b141bada29",
+      "name": "[聚盒] 雷蒙影视",
+      "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "ca8b141848",
+      "name": "[聚盒] 小虎斑",
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
       "from": "用户提供",
       "adult": false,
       "kind": "single",
@@ -2632,6 +2632,55 @@
       "adult": false,
       "kind": "single",
       "note": "完整配置(含sites)"
+    },
+    {
+      "id": "be4e41e883",
+      "name": "[聚盒] 盒子迷2026",
+      "url": "https://盒子迷.top/禁止贩卖",
+      "from": "用户提供",
+      "adult": false,
+      "kind": "single",
+      "note": "完整配置(含sites)"
+    },
+    {
+      "id": "55aa114c28",
+      "name": "饭太硬",
+      "url": "http://www.xn--sss604efuw.com/tv",
+      "from": "[聚盒多仓] 小盒子多仓（备）",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "6e4029a49b",
+      "name": "肥猫",
+      "url": "http://xn--z7x900a.com",
+      "from": "[聚盒多仓] 小盒子多仓（备）",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "ae76ad98c2",
+      "name": "盒子迷",
+      "url": "https://xn--i8sz35d1yr.top/禁止贩卖",
+      "from": "[聚盒多仓] 小盒子多仓（备）",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "4d2df76122",
+      "name": "饭太硬3",
+      "url": "http://www.xn--sss604efuw.art/tv",
+      "from": "[聚盒多仓] 小盒子多仓（备）",
+      "adult": false,
+      "note": ""
+    },
+    {
+      "id": "955eb11ea7",
+      "name": "饭太硬4",
+      "url": "http://fty.xxooo.cf/tv",
+      "from": "[聚盒多仓] 小盒子多仓（备）",
+      "adult": false,
+      "note": ""
     },
     {
       "id": "6063684819",
@@ -2838,46 +2887,6 @@
       "name": "🐹dxawi",
       "url": "https://dxawi.github.io/0/0.json",
       "from": "[聚盒多仓] 小盒子多仓",
-      "adult": false,
-      "note": ""
-    },
-    {
-      "id": "55aa114c28",
-      "name": "饭太硬",
-      "url": "http://www.xn--sss604efuw.com/tv",
-      "from": "[聚盒多仓] 小盒子多仓（备）",
-      "adult": false,
-      "note": ""
-    },
-    {
-      "id": "6e4029a49b",
-      "name": "肥猫",
-      "url": "http://xn--z7x900a.com",
-      "from": "[聚盒多仓] 小盒子多仓（备）",
-      "adult": false,
-      "note": ""
-    },
-    {
-      "id": "ae76ad98c2",
-      "name": "盒子迷",
-      "url": "https://xn--i8sz35d1yr.top/禁止贩卖",
-      "from": "[聚盒多仓] 小盒子多仓（备）",
-      "adult": false,
-      "note": ""
-    },
-    {
-      "id": "4d2df76122",
-      "name": "饭太硬3",
-      "url": "http://www.xn--sss604efuw.art/tv",
-      "from": "[聚盒多仓] 小盒子多仓（备）",
-      "adult": false,
-      "note": ""
-    },
-    {
-      "id": "955eb11ea7",
-      "name": "饭太硬4",
-      "url": "http://fty.xxooo.cf/tv",
-      "from": "[聚盒多仓] 小盒子多仓（备）",
       "adult": false,
       "note": ""
     },
