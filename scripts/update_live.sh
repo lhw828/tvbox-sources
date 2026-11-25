@@ -1,27 +1,20 @@
 #!/usr/bin/env bash
-# 直播源一键更新流水线
+# 直播源每日流水线（只处理"稳定、长期可用"来源）
 # 用法: bash scripts/update_live.sh
-#   0) 若无 juhe_sources.json 则抓取一次聚合站页面(只抓这一处)
-#   1) 下载 juwanhezi 直播链接 + 各来源聚合文件到 raw/live/
-#   2) 央视频匿名签发 63 个公开频道 (ysp_fetch.mjs)
-#   3) NativeWasmTv 内置频道表提取央视固定 CDN 地址 (ntv_fetch.py)
-#   4) 聚合地址测活 (live_manager.py test)
-#   5) 频道级全量探测 (live_probe_all.py，频道名规范化 + 安全阀)
-#   6) 构建自建源 (build_own_live.py，type防护 + 失败回退)
+#   1) 下载稳定来源聚合文件到 raw/live/（老刘备/Kimentanm/范明明/YanG/akira）
+#   2) NativeWasmTv 内置频道表提取央视固定 CDN 地址 (ntv_fetch.py)
+#   3) 聚合地址测活 (live_manager.py test)
+#   4) 频道级全量探测 (live_probe_all.py，频道名规范化 + 安全阀)
+#   5) 构建稳定源自建订阅 (build_own_live.py，type防护 + 失败回退)
+#   6) 生成 nTv 插件加载清单 (ntv_plugin_fetch.py，仅指向本仓库配置)
+#
+# 短效/易过期源（央视频每日签发、聚盒聚合、webview://）不在此流水线，
+# 请按需运行 scripts/update_unstable_live.sh，避免每日扫描浪费时间、误选失效线路。
 set -e
 cd "$(dirname "$0")/.."
 
-# 若还没有聚盒链接缓存(或明确要求刷新)，抓一次页面；后续只读缓存不再访问页面
-if [ "${REFRESH_JUHE:-0}" = "1" ] || [ ! -f data/juhe_sources.json ]; then
-  echo "=== [0/7] 抓取 juwanhezi 聚合站链接 ==="
-  python scripts/juhe_scraper.py
-else
-  echo "=== [0/7] 使用已有 juhe_sources.json (需刷新设 REFRESH_JUHE=1) ==="
-fi
-
-echo "=== [1/7] 下载聚盒直播源 + 各来源聚合文件 ==="
+echo "=== [1/6] 下载稳定聚合源 + 各来源聚合文件 ==="
 mkdir -p raw/live
-python scripts/juhe_live_fetch.py
 declare -A LIVE_URLS=(
   [liucn_tvlive.txt]="https://raw.liucn.cc/box/libs/tv/tvlive.txt"
   [kimentanm.m3u]="https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u"
@@ -43,28 +36,26 @@ for f in "${!LIVE_URLS[@]}"; do
   fi
 done
 
-echo "=== [2/7] 央视频匿名签发 63 个公开频道(短效地址, 每次重签) ==="
-if node scripts/ysp_fetch.mjs; then
-  echo "  ✓ 央视频签发完成 ($(grep -c '#EXTINF' raw/live/ysp.m3u 2>/dev/null || echo 0) 频道)"
-else
-  echo "  ✗ 央视频签发失败, 保留原 ysp.m3u(若有)"
-fi
-
-echo "=== [3/7] NativeWasmTv 内置频道表提取央视固定 CDN 地址(长期稳定) ==="
+echo "=== [2/6] NativeWasmTv 内置频道表提取央视固定 CDN 地址(长期稳定) ==="
 python scripts/ntv_fetch.py
 
-echo "=== [4/7] 聚合地址测活 ==="
+echo "=== [3/6] 聚合地址测活 ==="
 python scripts/live_manager.py test
 
-echo "=== [5/7] 频道级全量探测 ==="
+echo "=== [4/6] 频道级全量探测(仅稳定源) ==="
 python scripts/live_probe_all.py
 
-echo "=== [6/7] 构建自建源 ==="
+echo "=== [5/6] 构建稳定源自建订阅 ==="
 python scripts/build_own_live.py
+
+echo "=== [6/6] 生成 nTv 插件加载清单 ==="
+python scripts/ntv_plugin_fetch.py
 
 echo ""
 echo "全部完成。产物："
-echo "  subscriptions/iptv_own.json      影视仓直播订阅(自建,分10组)"
-echo "  subscriptions/iptv_own.m3u       自建 m3u"
-echo "  subscriptions/iptv_verified.m3u  实测可播精选"
+echo "  subscriptions/iptv_own.json      影视仓直播订阅(稳定源,分10组)"
+echo "  subscriptions/iptv_own.m3u       稳定源 m3u"
+echo "  subscriptions/ntv_all.m3u        nTv 插件清单(仅 nTv 应用可用)"
 echo "  reports/live_own_report.md       报告"
+echo ""
+echo "短效源(央视频/聚盒/webview)请按需运行: bash scripts/update_unstable_live.sh"

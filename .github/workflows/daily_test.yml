@@ -21,9 +21,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      # 短效源（央视频签发 / 聚盒聚合 / webview）不在每日流水线中刷新，
+      # 避免扫描浪费时间与误选短效线路；仅稳定源每日更新。
 
       - name: 安装依赖
         run: pip install requests
@@ -46,8 +45,10 @@ jobs:
             'subscriptions/tvbox.json',        # 点播主订阅
             'subscriptions/tvbox_fast.json',
             'subscriptions/by_source.json',
-            'subscriptions/iptv_own.json',     # 直播自建订阅
+            'subscriptions/iptv_own.json',     # 直播稳定源订阅
             'subscriptions/iptv_own.m3u',
+            'subscriptions/live_unstable.json', # 短效源备用订阅(按需刷新)
+            'subscriptions/ntv_all.m3u',       # nTv 插件清单(仅 nTv 用)
           ]
           bad = []
           for f in required:

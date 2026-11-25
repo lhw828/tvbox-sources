@@ -6,7 +6,7 @@
 把多个来源的频道整合、重新分组、按可用性证据排序，生成"自己的"直播源。
 
 输入：
-  raw/live/*.m3u|txt          各来源聚合文件
+  raw/live/*.m3u|txt          各稳定来源聚合文件(短效源已移至 raw/live_unstable/)
   data/live_channel_probe.json  频道级实测连通结果(由 live_manager.py test 生成)
 
 输出：
@@ -43,28 +43,19 @@ SOURCE_FILES = [
     ('akira精选', 'akira_iptv.m3u'),
     ('akira海外', 'akira_overseas.m3u'),
     ('akira网络', 'akira_web.m3u'),
-    # 央视频匿名签发的 63 个公开频道(由 ysp_fetch.mjs 每日生成, 短效地址需每日刷新)
-    ('央视频', 'ysp.m3u'),
     # NativeWasmTv 内置频道表提取的央视固定 CDN 地址(无签名/无过期, 长期稳定)
     ('ntv央视', 'ntv.m3u'),
 ]
-# 来源可信度(越小越优先); 央视频/ntv央视是官方源, 可播时优先靠前
+# 注意：短效/每日变动源（央视频 ysp、聚盒聚合、webview 插件）已移到 raw/live_unstable/，
+# 由 build_unstable_live.py 单独生成订阅，不进入本稳定源主列表。
+# 来源可信度(越小越优先); ntv央视是官方固定 CDN 源, 可播时优先靠前
 SRC_RANK = {'范明明': 1, 'Kimentanm': 2, '老刘备': 3, 'YanG': 4,
-            'akira精选': 5, 'akira海外': 6, 'akira网络': 7, '央视频': 2, 'ntv央视': 2}
+            'akira精选': 5, 'akira海外': 6, 'akira网络': 7, 'ntv央视': 2}
 
 
 def load_source_files():
-    """基础源 + juwanhezi 抓取的直播源（由 juhe_live_fetch.py 生成的清单）"""
-    files = list(SOURCE_FILES)
-    mf = os.path.join(DATA, 'juhe_live_files.json')
-    if os.path.exists(mf):
-        try:
-            for name, fn in json.load(open(mf, encoding='utf-8')).get('files', []):
-                if os.path.exists(os.path.join(RAW_LIVE, fn)):
-                    files.append((name, fn))
-        except Exception:
-            pass
-    return files
+    """只返回稳定源。短效/每日变动源不进入稳定源主订阅。"""
+    return list(SOURCE_FILES)
 
 def now_cn():
     return datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S CST')
@@ -250,6 +241,7 @@ def build():
         '# 自建直播源', '',
         f'> 构建时间：{now_cn()}',
         '> 说明：整合多个公开来源的频道，统一分组、按实测可用性排序，形成独立可用的自建源。',
+        '> 仅收录长期稳定源；每日签发/易过期的短效源已单独存放，见「短效直播源」说明。',
         '> 电视无代理，GitHub 类地址已统一用 cdn.jsdelivr.net 改写。', '',
         '## 数据概况', '',
         '| 项目 | 数量 |', '|---|---|',

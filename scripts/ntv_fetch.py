@@ -8,16 +8,17 @@ ntv_fetch.py —— 从 buhanzhe/NativeWasmTv 内置频道表提取稳定的直�
 m3u 到 raw/live/ntv.m3u，供 live_probe_all.py / build_own_live.py 融入。
 
 下载失败或提取到的直连地址过少时保留上次缓存，不写空。
+使用 GitHub API 取文件内容（raw.githubusercontent 在部分网络不稳定）。
 """
-import os, sys, re, subprocess, tempfile
+import os, sys, re, json, base64, subprocess, tempfile
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import now_cn, UA_BROWSER
 
 RAW_LIVE = os.path.join(BASE, 'raw', 'live')
-SRC_URL = ('https://raw.githubusercontent.com/buhanzhe/NativeWasmTv/master/'
-           'app/src/main/assets/builtin_channels.txt')
+SRC_URL = ('https://api.github.com/repos/buhanzhe/NativeWasmTv/contents/'
+           'app/src/main/assets/builtin_channels.txt?ref=master')
 OUT = os.path.join(RAW_LIVE, 'ntv.m3u')
 UA = UA_BROWSER
 
@@ -62,7 +63,12 @@ def main():
              '-w', '%{http_code}', '-A', UA, SRC_URL],
             capture_output=True, text=True, timeout=35)
         code = p.stdout.strip()
-        text = open(tmp.name, encoding='utf-8', errors='replace').read() if os.path.exists(tmp.name) else ''
+        raw = open(tmp.name, encoding='utf-8', errors='replace').read() if os.path.exists(tmp.name) else ''
+        try:
+            data = json.loads(raw)
+            text = base64.b64decode(data.get('content', '')).decode('utf-8', errors='replace') if 'content' in data else raw
+        except Exception:
+            text = raw
     finally:
         try:
             os.unlink(tmp.name)

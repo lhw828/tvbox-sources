@@ -29,27 +29,16 @@ SOURCE_FILES = [
     ('akira精选', 'akira_iptv.m3u'),
     ('akira海外', 'akira_overseas.m3u'),
     ('akira网络', 'akira_web.m3u'),
-    # 央视频匿名签发的 63 个公开频道(由 ysp_fetch.mjs 每日生成, 短效地址需每日刷新)
-    ('央视频', 'ysp.m3u'),
     # NativeWasmTv 内置频道表提取的央视固定 CDN 地址(无签名/无过期, 长期稳定)
     ('ntv央视', 'ntv.m3u'),
 ]
+# 注意：短效/每日变动源（央视频 ysp、聚盒聚合、webview 插件）已移到 raw/live_unstable/，
+# 由 update_unstable_live.sh 按需刷新，不参与每日稳定源探测。
 
 
 def load_source_files():
-    """基础源 + juwanhezi 抓取的直播源（由 juhe_live_fetch.py 生成的清单）"""
-    files = list(SOURCE_FILES)
-    mf = os.path.join(DATA, 'juhe_live_files.json')
-    if os.path.exists(mf):
-        try:
-            for name, fn in json.load(open(mf, encoding='utf-8')).get('files', []):
-                if os.path.exists(os.path.join(RAW_LIVE, fn)):
-                    files.append((name, fn))
-            if len(files) > len(SOURCE_FILES):
-                print(f'  + 并入 juwanhezi 直播源 {len(files)-len(SOURCE_FILES)} 个')
-        except Exception:
-            pass
-    return files
+    """只返回稳定源。短效/每日变动源不参与每日探测，减少扫描时间。"""
+    return list(SOURCE_FILES)
 
 def parse(text):
     ch = []; pending = None

@@ -1,0 +1,13 @@
+{
+  "lives": [
+    {
+      "name": "短效备用源",
+      "type": 0,
+      "group": "短效备用",
+      "url": "https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_unstable.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    }
+  ]
+}

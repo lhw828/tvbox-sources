@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-juhe_live_fetch.py —— 把 juwanhezi 聚合站抓取到的直播链接下载到 raw/live/
+juhe_live_fetch.py —— 把 juwanhezi 聚合站抓取到的直播链接下载到 raw/live_unstable/
 
 输入：data/juhe_sources.json 的 live 列表（由 juhe_scraper.py 生成，不再访问页面）
 输出：
-  raw/live/juhe_XX.txt   每个直播源内容
-  data/juhe_live_files.json  清单 [[显示名, 文件名], ...] 供 live_probe_all.py / build_own_live.py 读取
+  raw/live_unstable/juhe_XX.txt   每个直播源内容
+  data/juhe_live_files.json  清单 [[显示名, 文件名], ...] 供 build_unstable_live.py 读取
+
+注意：聚盒链接每日可能变动，属于"不稳定源"，不进入每日稳定源扫描。
+仅手动运行 scripts/update_unstable_live.sh 时抓取。
 
 单点失败不影响其它源；下载内容过短(疑似失效)则跳过。
 """
@@ -18,12 +21,12 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import now_cn, atomic_write_json, UA_BROWSER
 
 DATA = os.path.join(BASE, 'data')
-RAW_LIVE = os.path.join(BASE, 'raw', 'live')
+RAW_LIVE = os.path.join(BASE, 'raw', 'live_unstable')
 UA = UA_BROWSER
 
 
 def fetch_one(item, idx):
-    """下载单个直播源到 raw/live，返回 (显示名, 文件名) 或 None。"""
+    """下载单个直播源到 raw/live_unstable，返回 (显示名, 文件名) 或 None。"""
     url = item['url']
     name = f"[聚盒] {item['name']}"
     fn = f"juhe_{idx:02d}_{hashlib.md5(url.encode()).hexdigest()[:6]}.txt"
@@ -60,7 +63,7 @@ def main():
         print('缺少 data/juhe_sources.json，请先运行 juhe_scraper.py'); return
     juhe = json.load(open(juhe_path, encoding='utf-8'))
     lives = juhe.get('live', [])
-    print(f'[{now_cn()}] 下载 juwanhezi 直播源 {len(lives)} 条 -> raw/live/ ...')
+    print(f'[{now_cn()}] 下载 juwanhezi 直播源 {len(lives)} 条 -> raw/live_unstable/ ...')
     os.makedirs(RAW_LIVE, exist_ok=True)
 
     manifest = []

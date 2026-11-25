@@ -6,8 +6,11 @@
  * 仅依赖 Node 内置模块）。接口返回的 m3u8 带短效签名，实测十余分钟内可用，
  * 因此每日抓取一次并配合 CDN purge 即可供电视端使用。
  *
- * 输出: raw/live/ysp.m3u  (标准 m3u, group-title="央视频")
- * 频道名规范化 + 同频道多线路合并由后续 live_probe_all.py / build_own_live.py 负责。
+ * 输出: raw/live_unstable/ysp.m3u  (标准 m3u, group-title="央视频")
+ *
+ * 重要：这是短效签名地址，属于"不稳定源"，不再进入每日稳定源扫描列表。
+ * 仅在手动运行 scripts/update_unstable_live.sh 时重新签发，
+ * 产物由 build_unstable_live.py 单独生成订阅，避免电视端误选短效线路。
  *
  * 用法: node scripts/ysp_fetch.mjs
  */
@@ -19,7 +22,7 @@ import { requestPlayUrls } from './ysp_lib/api.js'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
 const CHANNELS = JSON.parse(fs.readFileSync(path.join(__dirname, 'ysp_lib', 'channels.json'), 'utf8'))
-const OUT = path.join(ROOT, 'raw', 'live', 'ysp.m3u')
+const OUT = path.join(ROOT, 'raw', 'live_unstable', 'ysp.m3u')
 const CONCURRENCY = 4       // 并发签发数, 保守以免触发官方按 IP 限频
 const INTERVAL_MS = 300     // 每批间隔
 

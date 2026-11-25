@@ -71,8 +71,8 @@ J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 JET综合台,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 Lifetime,mitv://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
-Love Nature,mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
-Love Nature「akira网络」,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+Love Nature「老刘备」,mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
 Mediaset Italia,https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 Mezzo Live,mitv://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
 MOMO亲子台,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
@@ -259,8 +259,8 @@ Z频道,mitv://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 民视第一台,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
 法治天地 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/fztd8m/8000000/mnf.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
-淳安电视台「老刘备」,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+淳安电视台「老刘备」,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 游戏风云 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yxfy8m/8000000/mnf.m3u8

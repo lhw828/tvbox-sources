@@ -2,7 +2,7 @@
 
 > 一个自动维护的电视播放源（订阅）整合仓库。把零散、失效、需要代理的源，整理成**电视能直接打开**的订阅文件。
 
-![订阅数](https://img.shields.io/badge/主订阅-63源-brightgreen) ![直播](https://img.shields.io/badge/自建直播-802频道-blue) ![更新](https://img.shields.io/badge/每日自动更新-orange) ![License](https://img.shields.io/badge/license-MIT-lightgrey) [![每日源自动更新](https://github.com/lhw828/tvbox-sources/actions/workflows/daily_test.yml/badge.svg?branch=main)](https://github.com/lhw828/tvbox-sources/actions/workflows/daily_test.yml)
+![订阅数](https://img.shields.io/badge/主订阅-102源-brightgreen) ![直播](https://img.shields.io/badge/稳定直播-909频道-blue) ![更新](https://img.shields.io/badge/每日自动更新-orange) ![License](https://img.shields.io/badge/license-MIT-lightgrey) [![每日源自动更新](https://github.com/lhw828/tvbox-sources/actions/workflows/daily_test.yml/badge.svg?branch=main)](https://github.com/lhw828/tvbox-sources/actions/workflows/daily_test.yml)
 ---
 
 ## 🎯 为什么有这个项目
@@ -48,15 +48,37 @@
 
 ### 📺 直播源（独立，与点播互不影响）
 
-把多个公开来源的直播频道整合、重新分组、按实测可用性排序，形成**自建直播源**。在电视端「直播 / 列表订阅」中填入：
+直播源已按**稳定性**拆成两套，互不干扰：
+
+| 类别 | 来源 | 更新方式 | 订阅地址 |
+|---|---|---|---|
+| **✅ 稳定源（推荐）** | 老刘备 / Kimentanm / 范明明 / YanG / akira 三源 / NativeWasmTv 央视固定 CDN | 每日自动刷新、每日探测 | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_own.json` |
+| **⚠️ 短效备用源** | 央视频匿名签发（短效签名）/ 聚盒聚合站 | **不进每日流水线**，按需手动刷新 | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_unstable.json` |
+
+其他格式：
 
 | 用途 | 订阅地址（CDN 直链） |
 |---|---|
-| **自建直播（推荐）** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_own.json` |
-| **实测可播精选** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_verified.m3u` |
-| **自建 m3u** | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_own.m3u` |
+| 稳定源 m3u | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_own.m3u` |
+| 实测可播精选 | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/iptv_verified.m3u` |
+| 短效源 m3u | `https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/live_unstable.m3u` |
 
-> 每条频道保留多条线路并按可用性排序：实测可播优先 → 电视专用协议(mitv/rtmp) → 运营商直连 → 普通 m3u8 → 带鉴权参数的排最后。`mitv://` 为小米电视专用协议，自动探测工具测不出但在电视上可播，已保留。详细分组与统计见 [`reports/live_own_report.md`](reports/live_own_report.md)。
+> 稳定源每条频道保留多条线路并按可用性排序：实测可播优先 → 电视专用协议(mitv/rtmp) → 运营商直连 → 普通 m3u8 → 带鉴权参数的排最后。`mitv://` 为小米电视专用协议，自动探测工具测不出但在电视上可播，已保留。
+> 短效源**已去重**且完全独立存放，不参与每日扫描（探测线路从 634 降至 540），避免电视端误选几小时就过期的线路。央视频频道需要重新签发时才更新，刷新后记得清 CDN 缓存。详细统计见 [`reports/live_own_report.md`](reports/live_own_report.md)。
+
+### 🧩 nTv 插件清单与 webview:// 频道（非影视仓）
+
+调研 `buhanzhe/ntv-plugin` 与 `buhanzhe/NativeWasmTv` 后确认：
+
+- `all.m3u` 里的 `.jar?sha256=...` 是 **nTv 应用的插件安装协议**；影视仓/FongMi 的 `lives[].jar` 需要 CatVod Spider，与 nTv 的 `ChannelPlugin` 不兼容，**不能直接当直播源用**。
+- `webview://https://...` 是网页地址，需要 WebView 嗅探；影视仓无法直接播放。央视频那批 webview 频道已通过匿名签发转成可播 m3u8，放在上面的「短效备用源」里。
+
+可行部分已落地：
+
+| 文件 | 说明 |
+|---|---|
+| `subscriptions/ntv_all.m3u` | 由上游 all.m3u 改造：jar 地址改为 jsDelivr 并锁定 commit/ sha256；其中 TVBox 插件的 `url` 指向本项目 `tvbox.json`，在 nTv 应用里可直接加载本项目订阅。**仅供 nTv 应用**。 |
+| `subscriptions/ntv_webview.txt` | 上游 webview:// 频道镜像（734 条），单独存放，**不要混入影视仓订阅**。 |
 
 ---
 
@@ -72,7 +94,10 @@ tvbox-sources/
 │   ├── iptv_own.json       # 自建直播源（独立于点播）
 │   ├── iptv_own.m3u        # 自建直播 m3u（全量）
 │   ├── iptv_verified.m3u   # 实测可播精选 m3u
-│   └── live_*.txt          # 直播分组明细
+│   ├── live_*.txt          # 稳定源分组明细
+│   ├── live_unstable.*     # 短效备用源(m3u/txt/json)
+│   ├── ntv_all.m3u         # nTv 插件清单(非影视仓)
+│   └── ntv_webview.txt     # nTv webview 频道(非影视仓)
 ├── sources/                # 分类隔离
 │   ├── dead.json           # 失效源（含失败原因）
 │   ├── rewritten.json      # 改写记录（原始 → 电视友好地址）
@@ -95,12 +120,14 @@ tvbox-sources/
 
 ```bash
 pip install requests
-bash scripts/update_all.sh   # 更新点播源
-bash scripts/update_live.sh  # 更新直播源（建议在国内网络运行，频道探测依赖国内网络）
+bash scripts/update_all.sh          # 更新点播源
+bash scripts/update_live.sh         # 更新直播稳定源（每日流水线）
+bash scripts/update_unstable_live.sh # 按需刷新短效源（央视频签发/聚盒/webview）
 ```
 
+> 短效源**不要**每日跑：它不进入每日扫描，需要时手动执行，刷新后建议运行 `python scripts/purge_jsdelivr.py` 清 CDN 缓存。
 > 如果电脑直连外网不通，可设置 `TVBOX_PROXY=http://127.0.0.1:2080`（仅用于抓取上游列表；电视可用性检测始终走直连，保证贴近电视真实环境）。
-> 想新增上游来源，编辑 `data/extra_seeds.json`（点播）或 `scripts/live_manager.py` 的 `load_seeds()`（直播）。
+> 想新增稳定直播来源，编辑 `scripts/live_probe_all.py` 与 `scripts/build_own_live.py` 的 `SOURCE_FILES`。
 
 ---
 
@@ -126,7 +153,7 @@ bash scripts/update_live.sh  # 更新直播源（建议在国内网络运行，�
 
 ## ⏰ 自动更新
 
-GitHub Actions 每天北京时间 08:00 自动跑一遍**点播 + 直播**两套更新：可用的源会更新订阅文件并自动提交，失效的会被移出主订阅；任一步失败都会保留上次成功的订阅内容。也可在 Actions 页面手动触发。
+GitHub Actions 每天 **北京时间 15:37**（UTC 07:37，低负载时段）自动跑一遍**点播 + 直播稳定源**两套更新：可用的源会更新订阅文件并自动提交，失效的会被移出主订阅；任一步失败都会保留上次成功的订阅内容。短效源不在此列，需手动刷新。也可在 Actions 页面手动触发。
 
 ---
 
