@@ -31,6 +31,8 @@ SOURCE_FILES = [
     ('akira网络', 'akira_web.m3u'),
     # 央视频匿名签发的 63 个公开频道(由 ysp_fetch.mjs 每日生成, 短效地址需每日刷新)
     ('央视频', 'ysp.m3u'),
+    # NativeWasmTv 内置频道表提取的央视固定 CDN 地址(无签名/无过期, 长期稳定)
+    ('ntv央视', 'ntv.m3u'),
 ]
 
 
