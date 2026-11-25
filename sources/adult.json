@@ -1,15 +1,20 @@
 {
   "note": "大象分组: 已纳入主订阅 tvbox.json, 此处单独列出便于查看",
-  "count": 2,
+  "count": 3,
   "urls": [
     {
-      "name": "065. bizhangjieðŸˆ²1",
-      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+      "name": "058. supermeguo18ðŸˆ²",
+      "url": "https://cdn.jsdelivr.net/gh/supermeguo/BoxRes@main/Myuse/catcr.json",
       "group": "大象"
     },
     {
-      "name": "087. bizhangjieðŸˆ²2",
+      "name": "057. bizhangjieðŸˆ²2",
       "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+      "group": "大象"
+    },
+    {
+      "name": "072. bizhangjieðŸˆ²1",
+      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
       "group": "大象"
     }
   ]

@@ -24,8 +24,8 @@ CCTV3「老刘备」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.co
 CCTV3「老刘备」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3「范明明」,http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTZfkz7RIpdfIwJsxT6gQaB4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV3「范明明」,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=5c5d27dfa6b308e64237c7af856d43276f42c5fa0da49c14c8f267c3f853f277_1720507841_604800&fromCDN=ws
-CCTV4,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-4000
-CCTV4「ntv央视」,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctveurope_1/index.m3u8?b=200-4000
+CCTV4,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctveurope_1/index.m3u8?b=200-4000
+CCTV4「ntv央视」,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-4000
 CCTV4「ntv央视」,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-4000
 CCTV4「老刘备」,mitv://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
 CCTV4「老刘备」,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
