@@ -66,20 +66,6 @@
 > 稳定源每条频道保留多条线路并按可用性排序：实测可播优先 → 电视专用协议(mitv/rtmp) → 运营商直连 → 普通 m3u8 → 带鉴权参数的排最后。`mitv://` 为小米电视专用协议，自动探测工具测不出但在电视上可播，已保留。
 > 短效源**已去重**且完全独立存放，不参与每日扫描（探测线路从 634 降至 540），避免电视端误选几小时就过期的线路。央视频频道需要重新签发时才更新，刷新后记得清 CDN 缓存。详细统计见 [`reports/live_own_report.md`](reports/live_own_report.md)。
 
-### 🧩 nTv 插件清单与 webview:// 频道（非影视仓）
-
-调研 `buhanzhe/ntv-plugin` 与 `buhanzhe/NativeWasmTv` 后确认：
-
-- `all.m3u` 里的 `.jar?sha256=...` 是 **nTv 应用的插件安装协议**；影视仓/FongMi 的 `lives[].jar` 需要 CatVod Spider，与 nTv 的 `ChannelPlugin` 不兼容，**不能直接当直播源用**。
-- `webview://https://...` 是网页地址，需要 WebView 嗅探；影视仓无法直接播放。央视频那批 webview 频道已通过匿名签发转成可播 m3u8，放在上面的「短效备用源」里。
-
-可行部分已落地：
-
-| 文件 | 说明 |
-|---|---|
-| `subscriptions/ntv_all.m3u` | 由上游 all.m3u 改造：jar 地址改为 jsDelivr 并锁定 commit/ sha256；其中 TVBox 插件的 `url` 指向本项目 `tvbox.json`，在 nTv 应用里可直接加载本项目订阅。**仅供 nTv 应用**。 |
-| `subscriptions/ntv_webview.txt` | 上游 webview:// 频道镜像（734 条），单独存放，**不要混入影视仓订阅**。 |
-
 ---
 
 ## 📁 目录结构
