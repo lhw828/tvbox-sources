@@ -1,6 +1,6 @@
 #EXTM3U
 # ⚠ 本清单是 nTv 应用的插件安装源，影视仓/FongMi 不能直接播放，请勿混入直播订阅
-# 生成时间: 2026-11-25 09:10:55 CST
+# 生成时间: 2026-11-25 09:32:39 CST
 # 来源: https://github.com/buhanzhe/ntv-plugin (插件版本与 sha256 以上游为准)
 # jar 地址已改写为 jsDelivr 并锁定上游 commit，电视端无需代理
 # TVBox 插件已指向本项目配置: https://cdn.jsdelivr.net/gh/lhw828/tvbox-sources@main/subscriptions/tvbox.json
@@ -8,6 +8,6 @@
 #EXTINF:-1 group-title="插件",文件浏览
 https://cdn.jsdelivr.net/gh/buhanzhe/ntv-plugin@ec226a046583aca8fc956f7786b5f633d58d9a15/plugins/file-browser/dist/file-browser.jar?sha256=16e18fcc002eef536dfe597ff9c7cf4b4ac1f70e85c19f81f3fc257faa8fbb19
 #EXTINF:-1 group-title="插件",TVBox
-https://cdn.jsdelivr.net/gh/buhanzhe/ntv-plugin@12f0a46f3cb8c70fd38a0281884831b3df2443b8/plugins/tvbox/dist/tvbox.jar?sha256=b0fa4729e701d10210504e4355ba2707a2e4e567b61b4c33866f42dead978ec3&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flhw828%2Ftvbox-sources%40main%2Fsubscriptions%2Ftvbox.json
+https://cdn.jsdelivr.net/gh/buhanzhe/ntv-plugin@f5a19d97de2644b91128481ab149a58fc8f258cf/plugins/tvbox/dist/tvbox.jar?sha256=de7184acac23330aff608795152afb893cd68fa6e14e27458ff8f0bfde65db8f&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flhw828%2Ftvbox-sources%40main%2Fsubscriptions%2Ftvbox.json
 #EXTINF:-1 group-title="插件",BL 哔哩哔哩
 https://cdn.jsdelivr.net/gh/buhanzhe/ntv-plugin@a0238342f1d9cbb45a45dd5dc1b1a69b6a763a36/plugins/bl/dist/bl.jar?sha256=f8b4005fe683fddaf739bfb5625fdb3be724f8afc1012017d7a2f4c7784a1604
