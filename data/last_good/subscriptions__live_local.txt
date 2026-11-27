@@ -61,8 +61,8 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec036798
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生休闲「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8

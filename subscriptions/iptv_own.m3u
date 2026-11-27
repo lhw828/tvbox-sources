@@ -6,7 +6,7 @@ https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-
 #EXTINF:-1 group-title="央视",CCTV3
 https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-4000
 #EXTINF:-1 group-title="央视",CCTV4
-https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-4000
+https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-4000
 #EXTINF:-1 group-title="央视",CCTV5
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8?b=200-4000
 #EXTINF:-1 group-title="央视",CCTV6
@@ -22,7 +22,7 @@ https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8?b=200
 #EXTINF:-1 group-title="央视",CCTV11
 https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8?b=200-4000
 #EXTINF:-1 group-title="央视",CCTV12
-mitv://generationnexxxt.com:19806/70a7e5f93ab14d978706c237fe142277
+https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8?b=200-4000
 #EXTINF:-1 group-title="央视",CCTV13新闻频道
 https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-4000
 #EXTINF:-1 group-title="央视",CCTV14
@@ -306,7 +306,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际频道",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="国际频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="国际频道",湖南国际
 http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="国际频道",香港国际财经台
@@ -418,7 +418,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江科教影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江经济生活

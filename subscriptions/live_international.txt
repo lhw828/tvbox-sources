@@ -38,7 +38,7 @@ Tennis Channel International,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-
 TRACE Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 TRACE Sport Stars「老刘备」,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际「老刘备」,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际「老刘备」,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 湖南国际,http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 香港国际财经台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
